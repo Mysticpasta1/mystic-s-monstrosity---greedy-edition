@@ -1,0 +1,1967 @@
+### Mods
+
+**Added**
+- 'Dustrial Decor
+- 1000x Botania
+- 2D Projectiles
+- 3D Area Effect Clouds
+- 3d-Skin-Layers
+- A Good Place
+- Abnormals Construct
+- Abnormals Delight
+- Absent By Design Mod
+- AchievementOptimizer
+- Ad Astra
+- Ad Astra AutoLanding
+- Ad Astra: Giselle Addon
+- Ad Astra: More Structures
+- Ad Astra: Per Spatium Et Tempus
+- Ad Extendra
+- Ad Tetra!
+- Additional Additions
+- Additional Blocks: Stone Edition
+- Additional Lanterns
+- Additional Lights
+- Additional Redstone
+- Additional Structures
+- AdditionalBanners
+- AddonAPI
+- Addons Lib
+- AdoraBuild: Structures
+- Advanced AE
+- Advanced Book
+- Advanced Mobs
+- Advanced Netherite
+- AdvancedLootInfo
+- AE Additions
+- AE Omni Cells
+- AE Tetra
+- AE2 Alchemistry Addon
+- AE2 Better Villagers
+- AE2 Insert Export Card
+- AE2 QoL Recipes
+- AE2 Things
+- AE2 Toggleable View Cell
+- AE2AllInOne
+- AE2AO
+- ae2CraftingTree
+- AE2NetworkAnalyzer
+- AE2WTLib
+- AECapFix
+- AEHelpers More
+- AEInfinityBooster
+- AeroBlender
+- Aesthetic Frames
+- Aesthetic Ladders
+- Aesthetic Seating
+- Aesthetic Shelving
+- Aesthetic Stairs
+- Aesthetic Storage
+- Aesthetic Surfaces
+- Aesthetic Tables
+- Aesthetic Windows
+- Aether Gravitation
+- Aether Villages
+- Aether: Lost Content
+- Aetherian Skies Tweaks
+- Aetheric Tetranomicon
+- Aetherworks Refracted
+- AI-Improvements
+- Aileron
+- Akashic Tome
+- Alchemical Reaction Chamber Fix
+- Alchemistry
+- AlchemyLib
+- All Bookshelves in Lecterns
+- All The Arcanist Gear
+- All the Compatibility
+- All The Leaks
+- All The Wizard Gear
+- All the Wood We've Got
+- AllTheCompressed
+- Allthemodium
+- Allthemodium: Shears
+- AllTheOres
+- Allurement
+- Almanac
+- Alternate Current
+- AlwaysEat
+- Ambient Additions
+- Amendments
+- Analog Redstone Suite
+- Ancient Enchantment Temple
+- Ancient Library
+- Ancient Reforging
+- Ancient Structures
+- Ancient Villages
+- AncientDebriNugget
+- animal barn
+- AntiqueTradingShip
+- Apotheosis
+- Apothic Amendments - Enchanting
+- Apothic Attributes
+- Apothic Cataclysm
+- Apothic Combat
+- Apothic Curios
+- Apothic Equipment
+- Apothic Materials
+- Apothic Supplementaries - Enchanting
+- ApothLuckAffix
+- AppleSkin
+- Applied Botanics
+- Applied Cooking
+- Applied Energistics 2
+- Applied Infinity Pattern
+- Applied Mekanistics
+- Applied Pneumatics
+- Applied Sorting
+- AppliedFlux
+- AppliedSchematicannon
+- Aqua Delight
+- Aquatic Additions
+- Aquatic Frontiers
+- Aquatic Torches
+- Arch Bows
+- Architect's Palette
+- Architectury
+- Arda's Uncrafting Table
+- Ares-HUD
+- Armor of the Ages
+- Armor Statues
+- Armor Trim Item Fix
+- Ars Additions
+- Ars Armiger
+- Ars Botania
+- Ars Caelum
+- Ars Controle
+- Ars Creo
+- Ars Elemental
+- Ars Énergistique
+- Ars Expanded Combat
+- Ars Instrumentum
+- Ars Nouveau
+- Ars Nouveau - Extended Glyphs
+- Ars Nouveau Trinkets
+- Ars Nouveau's Flavors & Delight
+- Ars Ocultas
+- Art Of Forging
+- Artifacts
+- Arts & Crafts
+- Arts And Crafts Compatibility
+- AS Edo Japan
+- Ash API
+- asian food cart
+- asian-fountain
+- Atlantis
+- Atlas Core
+- Atmospheric
+- AttributeFix
+- Attributizer
+- Auto Drink Mod
+- Autochef's Delight
+- Autumnity
+- Auudio
+- Avaritia Progression Expansion
+- Avaritia:Expand
+- AvaritiaIntegration
+- Awesome dungeon
+- Awesome dungeon edition ocean
+- Awesome dungeon nether
+- Awesome dungeon the end
+- Azukaar's Fair Difficulty Overhaul
+- Azure Paxels
+- AzureLib
+- Backported Wolves
+- Backported wolves BOP Compat
+- Bad Horse Fix
+- Bad Meteoroid
+- Bad Packets
+- Bad Wither No Cookie Reloaded
+- BadOptimizations
+- BaguetteLib
+- Bagus Lib
+- Baked Delight
+- Bale of Sugar Cane
+- Balm
+- Bamboo Everything
+- Bamboo Jungle Survival House
+- Bartering Station
+- Basalt Watchtower
+- Basic Nether Ores
+- bblocks
+- BCLib
+- BdLib
+- Beautify
+- Bedrock Crafter
+- Bedrock Ores
+- Bee Fix
+- Bee Mastery
+- beer
+- Berry Good
+- berryfix-1.1.1-transformProductionForge
+- Better Advancements
+- Better Animations Collection
+- Better Archeology
+- Better Block Sounds
+- Better Bundles
+- Better Creative Tabs
+- Better Dogs For DTN
+- Better End
+- Better End Cities Vanilla
+- Better End Fix
+- Better Farmer's Combat
+- Better Fishtanks
+- Better Fluid Pipes
+- Better Golem
+- Better Nether
+- Better Note Blocks
+- Better Tab
+- Better Third Person
+- Better Tridents
+- Better Water Breathing
+- BetterBlockZ
+- BetterBurning
+- BetterConcrete
+- BetterDays
+- betterfpsdist mod
+- BetterSmithingTable
+- BetterVannilaFishes
+- Bibliomaina
+- Big Brain
+- Big Gift Snowglobe
+- Bigger AE2
+- bigger_vanilla_trees-forge
+- bighorsestable
+- Bindable Mana Pool
+- Biome Backlog
+- Biome size mod
+- biomemusic mod
+- Biomes O' Plenty
+- BjornLib
+- Blastcraft
+- Blasting/Smelting Metal Blocks with Mod Integrations
+- Blazing Bamboo
+- Bleak & Barren
+- Block Layering
+- Block Runner
+- Blood Magic
+- BloodyHell!
+- Blooming Biosphere
+- Blueprint
+- Boat Break Fix
+- Boat Item View
+- Boatload
+- BoatOverhaul
+- Bobsbakery
+- Bocchium
+- Bone Meal Revival
+- Bonsai Trees 3
+- Bookling Gear
+- Bookshelf
+- Bosses of Mass Destruction
+- Botania
+- Botania Mana Fluid
+- BotaniaTubes
+- Botanic Additions
+- Botanical Machinery
+- Botany Pots: Cultivating Dreams
+- BotanyPots
+- BotanyPotsTiers
+- BotanyTrees
+- Botarium
+- Bottled Air
+- Bountiful
+- Bountiful Blocks
+- BOZOID
+- Brazilian Delight
+- Breaking Bedrock
+- Breedable Killer Rabbit
+- Breezy
+- Brew'n Chew
+- Brewin' And Chewin'
+- brutalbosses mod
+- Builder's Delight
+- Builder's Palette
+- Builders Companion Additions
+- Builders Companion Biome Waters
+- Builders Companion Core
+- Builders Companion Dyed Waters
+- Builders Crafts & Additions
+- Building But Better
+- Building Gadgets
+- Buildstone Toolkit
+- Built
+- Buried Wrecks
+- Buzzier Bees
+- Bygone Nether
+- Cable Tiers
+- Caelus API
+- Calm The Leaks
+- Camps. Castles. Carriages.
+- Carbon Config Library
+- Carpet Diem
+- Carry On
+- CarryOnExtend
+- Castle in the Sky
+- Casualness Delight
+- cataclysm
+- cataclysm_compat_1.20.1-1.0.2.jar
+- Cataclysm: Spellbooks
+- cataclysmspells_compat
+- Catwalks n Dogwalks
+- Caverns & Chasms
+- CBMultipart
+- Celestial Artifacts
+- Celestial Core
+- Celestial Enchantments
+- Celestial Forge
+- CERBON's Better Beacons
+- CerbonsApi
+- Charging Gadgets
+- Charm of Undying
+- Chat Impressive Animation
+- Chefs Delight
+- ChemLib
+- Cherished Worlds
+- Cherry Grove Starter House
+- Chest Search Bar
+- Chest Tracker
+- ChickenChunks
+- Chimes
+- ChineseFlyingIslandTower
+- Chipped
+- Chipped-Express
+- Chips' World Types
+- Chisel Reborn
+- chisels-and-bits
+- Chloride
+- ChoiceTheorem's Overhauled Village
+- Chromatic Construct
+- Chromatic Enchantments
+- Chunk Loaders
+- Chunky
+- Cinch's Better Deepslate
+- Citadel
+- Civillis
+- Clayworks
+- Clean Swing Through Grass
+- CleanView
+- Clear Fluid Glass
+- Clear Water
+- ClearLagPlus
+- Click Machine
+- clickadv mod
+- ClickThrough Plus
+- Client Tweaks
+- clientcrafting mod
+- clifftree-1.7.2.jar
+- Climate Rivers
+- Climb Ladders Fast
+- Cloth Config v10 API
+- Clumps
+- cobblestoney
+- Cobweb
+- Cocktails Delight
+- CodeChicken Lib
+- Coffee Delight
+- CoFH Core
+- Cognition
+- Collectable Cards Mod
+- Collective
+- Collector's Reap
+- Color Blindness
+- Colored Water
+- ColoredEndCrystals
+- ColorfuAnvils Reforged
+- Colorful Campfires
+- ColossalChests
+- Combat Nouveau
+- Combat Roll
+- Comforts
+- Common Networking
+- CommonCapabilities
+- Compact Help Command
+- Compact Machines
+- Companion
+- Compat Delight
+- Compat O' Plenty
+- Compat Structures
+- Completionist's Index
+- Composite Material
+- Compost
+- Compressed Blocks
+- Condiments
+- Config API
+- Configuration
+- Connected Signs
+- Connector-1.0.0-beta.48+1.20.1
+- Construction Wand
+- Controlling
+- Convenient Curios Container
+- Cookielicious
+- CookingForBlockheads
+- Cool Rain
+- CopperNugget
+- Copperworks
+- Corail Pillar
+- Corail Recycler
+- Corail Tombstone
+- Corail Woodcutter
+- Coral Mod
+- Coral Up
+- CoralMore
+- CorgiLib
+- CoroUtil
+- CosmeticArmorReworked
+- Cosmopolitan
+- Crafter Port
+- Crafting On A Stick
+- crafting-qol-forge-2.2.0.jar
+- CraftingTweaks
+- Crash Assistant
+- Crash Utilities
+- CrashExploitFixer
+- Crate Delight
+- Crate Delight: Croptopia
+- Create
+- Create Ad Atra Compat
+- Create Applied Kinetics
+- Create Big Cannons
+- Create Bits 'n' Bobs
+- Create Cafe
+- Create Chocolate Fountain
+- Create Contraption Terminals
+- Create Crafts & Additions
+- Create Encased
+- Create Enchantment Industry
+- Create Enchantment Industry Plus
+- Create fixed :3
+- Create Hypertube
+- Create Jetpack
+- Create Liquid Fuel
+- Create Low-Heated
+- Create Mechanical Extruder
+- Create Oh The Biomes We ve Gone Compat
+- Create Photomovement
+- Create Resource Geodes
+- Create Sifter
+- Create Slice & Dice
+- Create Spring Loaded
+- Create Utilities
+- create_snt
+- Create: Additional Logistics
+- Create: Advanced Logistics
+- Create: Aquatic Ambitions
+- Create: Bells & Whistles
+- Create: Better Motors
+- Create: Blaze Burner Fuels
+- Create: Blocks & Bogies
+- Create: Buildstone Toolkit
+- Create: Central Kitchen
+- Create: Compatible Storage
+- Create: Compounds
+- Create: Confectioneering
+- Create: Copper and Zinc
+- Create: Copycats+
+- Create: Draconic Evolution
+- Create: Drill Drain
+- Create: Enchantable Machinery
+- Create: Ender Link
+- Create: Escalated
+- Create: Extra Casing
+- Create: Extra Gauges
+- Create: Fuel & Water Information
+- Create: Garnished
+- Create: Interiors
+- Create: Mechanical Botany
+- Create: Metalwork
+- Create: New Age
+- Create: Occult Engineering
+- Create: Oxidized
+- Create: Ranged
+- Create: Reactive Stress
+- Create: Sound of Steam
+- Create: Sound of Steam: Tuning Wrench
+- Create: Steam 'n' Rails
+- Create: TacZ Automation
+- Create: Threaded Trains
+- Create: Totem Factory
+- Create: Train Lights
+- Create: Tweaked Controllers
+- Create: Ultimate Factory
+- Create: Vibrant Vaults
+- Create: Vintage
+- CreateBetterFps
+- Creative Crafter
+- Creative Wireless Transmitter
+- CreativeCore
+- CreativeTabPlus
+- Creeper Overhaul
+- Critters and Companions
+- Croptopia
+- Croptopia Delight
+- Crying Ghasts
+- Crying Portals
+- Crying Wither Skeleton
+- Cryonic Config
+- Crystalcraft Unlimited Java Edition
+- CTD Core
+- Ctrl Q
+- Cucumber Library
+- Cuisine Delight
+- Cultural Delights
+- Cupboard utilities
+- Curios API
+- Curios Fix
+- Curios for Ammo Box
+- Curios Quark Oddities Backpack
+- Curious Lanterns
+- Curvy Pipes
+- Custom Nether Portals
+- Customizable Player Models
+- Cut Through
+- CutTallGrass
+- CYAE
+- Cyclops Core
+- Dagger of Bloodletting
+- Dangerous Stone Cutter
+- Darker Depths
+- DarkGlint
+- DarkModeEverywhere
+- DarkUtilities
+- Dary's Mosaic Glass
+- Dave's Potioneering
+- Dawn Of Time
+- Dazzle 2
+- Decorative Blocks
+- Decorative Bottles
+- Decorative Concrete Lattices
+- Decorative Core
+- Decorative covers
+- Decorative Fences
+- Decorative Lattices
+- Decorative Paths
+- Decorative Pavers
+- Decorative Railings
+- Decorative Storage
+- Decorative wooden lattices
+- Deep Aether
+- Deeper and Darker
+- Deeper Oceans
+- Deimos
+- Delightful
+- Delightful Burgers
+- Delightful Sandwiches
+- Delightful Slaughter
+- Deltabox Lib
+- Dense Ores
+- Desert Horse Statue
+- Desert Pillager Wall
+- Desert Ruins
+- desert survival house
+- Desert Village Temple
+- Desert Watchtower
+- Despawning Eggs Hatch
+- Detected setBlock Be Gone
+- DEUF - Duplicate Entity UUID Fix
+- Diamethyst Arrows
+- Diamethyst Golem
+- Diamethyst Medieval Weapons
+- Diamethysts
+- Diamond In The Rough
+- Diamond Nuggets
+- Diamond Vein
+- Difficult Raids
+- Dimensional Dungeons
+- Dimensional Item Cannons
+- Ding
+- Dis-Enchanting Table
+- Dismount Entity
+- Dispenser Delight
+- Display Case Mod
+- Display Delight
+- Distinguished Potions
+- DistractingTrims
+- Distraction Free Recipes (EMI)
+- Do a Barrel Roll
+- Doggy Talents Next
+- Domum Ornamentum
+- Don't Make Me Turn This Boat Around
+- Doom & Gloom
+- Double Doors
+- DoubleConnectedGlass
+- DoubleSlabs
+- Draconic Codex
+- DragN's Aquatics: Deep Blue Addon
+- DragN's Bettas
+- Dragon Drops Elytra
+- Dragon Mounts Patches
+- Dragon Mounts: Even More Dragons
+- Dragon Mounts: Legacy
+- dragonfight mod
+- Drawers Tooltip
+- Dreamwoods
+- Drink Beer Refill
+- Drums
+- DTN's Palette Of Paws
+- DumplingsDelight
+- Dungeons Enchantments
+- Dura: ReDisplayed
+- Durability Tooltip
+- Dyeable Redstone Signal
+- Dynamic Progression and Difficulty
+- ease-out-night-vision
+- Easel Does It
+- Easier Shulkers
+- EC Compat for Advanced Netherite
+- EC Compat for Apotheosis
+- EC Compat for CJ's Enderite
+- EC Compat for The Aether
+- EC Create Plugin
+- EC Iron's Spells and Spellbooks Plugin
+- EC L_Ender's Cataclysm Plugin
+- EC Twilight Forest Plugin
+- Ecologics
+- EdivadLib
+- Effortless Building
+- Electroblob's Wizardry Redux
+- Electrodynamics
+- Eleven Music Disc
+- Elytra Slot
+- Embeddium
+- Embeddium Extra
+- Embers Rekindled
+- Emissivity
+- Enchantable Blocks
+- Enchanted Crystal Arrow
+- Enchanter Fix
+- Enchanting Infuser
+- EnchantLib
+- Enchantment Reveal
+- EnchantmentDescriptions
+- EnchantmentLevelBreak
+- EnchantWithMob
+- end portal parallax
+- End Villager Outpost
+- End's Delight
+- Ender Crop
+- Ender IO
+- Ender Relay
+- Ender Trigon
+- Ender Zoology
+- Ender's Delight
+- Enderite CJ Edition
+- Enderman Overhaul
+- EnderStorage
+- Enemy Expansion
+- Energy Meter
+- Enhanced Block Entities
+- Enhanced Extinguishing
+- Enhanced Mushrooms
+- Enhanced Snowman
+- Enigmatic Legacy
+- Entangled
+- Environmental
+- Epic Fight
+- epicwitchhuts
+- Epileson
+- Equipment Compare
+- Erroring Entity Remover Reforged
+- Essentials
+- Etched
+- EtSTLib
+- Euphoria Patcher
+- Even Better Amethyst
+- Event Wrapper
+- Evil Eye – EvilCraft Addon
+- EvilCraft
+- Exline's Fishing Mod
+- Expanded Combat
+- Expanding Technologies
+- Experience Bug Fix
+- Experimentalist
+- Explorations+
+- Explorer's Compass
+- Explorify
+- Exposer
+- Exquisito
+- Extended Crafting
+- ExtendedAE
+- Extra Carpets
+- Extra Color Codes
+- Extra Compat
+- Extra Disks
+- Extra Hostile Neural Networks
+- Extract Poison
+- Extreme Reactors
+- Extreme Sound Muffler
+- fallen lib
+- Fallen Log Hideout
+- Fallingleaves
+- FancyMenu
+- FancySporeBlossom
+- FancyToasts
+- Fantasy's Furniture
+- fapdos' Aquatic Additions
+- Farmer's Cutting: Biomes O' Plenty
+- Farmer's Cutting: Quark
+- Farmer's Delight
+- Farmer's Delight CookBook Reforge
+- Farmer's Plus
+- Farmer's Respite
+- farmers-cutting-betterend-1.20.1-1.0-forge.jar
+- farmers-cutting-betternether-1.20.1-1.0-forge.jar
+- farmers-cutting-natures-spirit-1.20.1-1.0-forge.jar
+- farmers-cutting-oh-the-biomes-weve-gone-1.20.1-1.1-forge.jar
+- farmers-cutting-regions-unexplored-1.20.1-1.1b-forge.jar
+- farmers-cutting-the-aether-1.20.1-1.0.jar
+- farmers-cutting-twilight-forest-1.20.1-1.0.jar
+- Fast Item Frames
+- Fast Item Frames Botania Fix
+- Fast Paintings
+- Fast Primitive Age
+- Fast Recipe Search
+- Fast Steam Age
+- Fast Suite
+- FastFood Delight Unofficial
+- Faunify
+- FC's Stone Fences
+- FDLib
+- Feature Recycler
+- Fence On Slab!
+- Ferrite Core
+- FindMe
+- Fintastic
+- Fireproof Boats
+- Firework Dynamic Light
+- Fish No Stuck
+- Fish On The Line
+- Flat Bedrock
+- flib
+- Flinted
+- Floating Islands
+- Floor Mats
+- Flopper
+- Floral Enchantment
+- Floral Flair
+- Floralis
+- Flourish
+- Flower Tweaks
+- Flowerful
+- Fluid Drawers Legacy
+- Fluid Void Fading
+- Fluidlogged
+- Flux Networks
+- Flying fireflies 1.20.X
+- forest ruins
+- Forest Survival Treehouse
+- Forest Watchtower
+- Forestry
+- Forestry: Worktable Display
+- Forge Config Screens
+- Forgified Fabric API
+- Forgotten Church
+- Forgotten Ruins
+- Formations
+- Formations Nether
+- Formations Overworld
+- Fragmentum
+- FramedBlocks
+- Framework
+- FriendlyFire
+- Fruits Delight
+- Frycook's Delight
+- FTB Chunks
+- FTB Chunks - Modded Support
+- FTB Essentials
+- FTB Filter System
+- FTB Library
+- FTB Teams
+- FTB Ultimine
+- Fullblock Energistics
+- FullStack Watchdog
+- Functional Aether
+- Functional Storage
+- Funtional Armor Trim
+- Furnish
+- Furnitury
+- Fusion
+- Fzzy Config
+- Gadgets Against Grind
+- Gallery
+- Galosphere
+- Galosphere Trimming
+- Galospheric Delight
+- Game Menu Mod Option
+- Game Menu Remove GFARB
+- Garden of Glass
+- Garden Trails
+- Gardens of the Dead
+- Garnished Stone Automation
+- Gateways to Eternity
+- Gateways to Eternity - Even More Gateways
+- Gateways to Eternity - More Gateways
+- GeckoLib 4
+- Gems & Jewels
+- Gems & Jewels - Armor & Tools
+- Gendustry
+- Geologic Expansion
+- Geophilic
+- GeophilicReforged-v1.2.0.jar
+- George's flying island
+- GeoSmelt
+- Get It Together, Drops!
+- Ghosts
+- Giacomo's Experience Bottler Mod
+- Giacomo's Lava Bottle Mod
+- Giant Christmas Tree
+- Giant Lily Pads
+- Giant Natural Additions
+- Giant Plane Wreck
+- Giant Ruined Portals
+- GiantsOverhaul
+- GiantTorii
+- Gilded Ingot
+- Gilded Netherite CJ Edition
+- GildedSherds
+- Gingerbread_House
+- Glassential Renewed
+- Glazed ReSymmetry
+- GlitchCore
+- Glodium
+- Glow
+- Glow Ores Universal
+- GlowingRaidIllagers
+- Gobber 2
+- Goblin Traders
+- Gold Nugget Recycling
+- Golden Foods
+- Golems Are Friends Not Fodder
+- GoodEnding
+- gothic church
+- Grabby Mobs
+- Gravel Tweaks
+- Gravitational Modulating Additional Unit
+- Greek Villager House
+- Green Delights
+- Growth Accelerator
+- GTBC's Geomancy Plus
+- GTBC's SpellLib
+- Guard Ribbits
+- Guard Villagers
+- Guardian Beam Defense
+- GuideME
+- Guilded Arrows
+- GunpowderLib
+- Habitat
+- HammerLib
+- Handcrafted
+- Hang Glider
+- Harvest with ease
+- Haunted Harvest
+- Headshot Bonus
+- Healing Campfire
+- Healthy Water
+- HeartCanisters
+- Hearths
+- Held Item Tooltips
+- Hellion's Sniffer+
+- Hex
+- Hex Casting
+- Hexalia
+- Hexxyplanes
+- Hey Berry! SHUT UP
+- Hierophantics
+- Highlighter
+- hobbit house 
+- Holographic Renders
+- Homing Ender Eye
+- Hopo Better Ruined Portal
+- Hopo Better Underwater Ruins
+- Hopper Gadgetry
+- Horizontal Glass Panes
+- Horizontal Reinforced Deepslate
+- Horse Expert
+- Horse Stable
+- Hostile Neural Networks
+- Hot Kettles
+- Hourglass
+- Huge Structure Blocks
+- Hutoslib
+- Hybrid Aquatic
+- Hybrid Blocks
+- Hyle
+- I See Lava
+- Ice And Fire Community Edition
+- Ice Prevents Crop Growth
+- Iceberg
+- iChunUtil
+- Icterine
+- iFly
+- Iglee's Library
+- Illage and Spillage: Respillaged
+- Illager Arena
+- Illager Invasion
+- Illager Keep
+- Illager Siege Weapons
+- illager viking longship
+- Illager War Trireme
+- Illusioner Towers
+- ImmediatelyFast
+- Immersive Aircraft
+- Immersive Armors
+- Immersive Convergence
+- Immersive Cooking
+- Immersive Engineering
+- Immersive Furniture
+- Immersive Geology
+- Immersive Optimization
+- Immersive Petroleum
+- Immersive Posts
+- Immersive Snow
+- Immersive structures
+- Immersive Structures:Nether edition
+- Immersive Technology
+- ImmersiveFixes
+- Improved Sign Editing
+- Incendium
+- Increase Audio Streams
+- Incubation
+- Indexer
+- Industrial Foregoing
+- Industrial Foregoing Souls
+- Industrial Forestry
+- Industrial Upgrade
+- Infinite Trading
+- InfiniteStorageCell
+- Infinity with Mending
+- InfusedFoods
+- Infuser Apotheosis Compat
+- Inline
+- InsaneLib
+- Integrated API
+- Integrated Cataclysm
+- Integrated Dungeons and Structures
+- Integrated Stronghold
+- Integrated Villages
+- IntegratedCrafting
+- IntegratedDynamics
+- IntegratedScripting
+- IntegratedTerminals
+- IntegratedTunnels
+- Inventory Essentials
+- Inventory Mending
+- Inventory Pets
+- Inventory Totem
+- IoticBlocks
+- Iron Bookshelves
+- Iron Chests
+- Iron Fishing Rods
+- Iron Furnaces
+- Iron Jetpacks
+- Iron Nugget Recycling
+- Iron Shulker Boxes
+- Iron's Spells 'n Spellbooks
+- It Takes A Pillage
+- Item Filters
+- Item Production Lib
+- Item Split Bug Fix
+- Item Zoom
+- Jade
+- Jade Addons
+- Jade Modded Entities
+- JamLib
+- japanese residence
+- JEI Integration
+- JEI Ores
+- JEI Tetra
+- JEIModelBridge
+- JeremySeq's Damage Indicator
+- JinxedLib
+- Joy of Painting
+- Jukeboxfix
+- Jumbo Furnace
+- Jump Over Fences
+- Jumpy Boats
+- Jungle Treehouse Village
+- Jupiter
+- Just Enough Beacons
+- Just Enough Botania
+- Just Enough Effect Descriptions (JEED)
+- Just Enough Fuels
+- Just Enough Items (JEI)
+- Just Enough Mekanism Multiblocks
+- Just Enough Painting Previews
+- Just Enough Professions (JEP)
+- Just Enough Sculk Sensor
+- Just Hammers
+- Kaleidoscopic
+- Kambrik
+- Katu's Carpets
+- Keep My Soil Tilled
+- Kelp Fertilizer
+- Kiwi Library
+- KleeSlabs
+- KnightsnMages
+- Kobolds
+- Konkrete
+- kotlinforforge-4.12.0-all
+- KubeJS
+- KubeJS Create
+- L_Ender 's Delight
+- L2 Backpack
+- L2 Library
+- Labels
+- Lampicus
+- Lapidarist
+- Large Meals
+- Laser Bridges & Doors
+- Lava Clear View
+- Lava-Mo-Tron
+- LavaWalker Enchantment
+- lazyyyyy-lexforge-core-0.14.19
+- LDShadowLady's Flower Breeding: Replanted
+- Leathered Boots
+- Leaves Be Gone
+- Legendary Creatures
+- LegendaryMonsters
+- Let Fish Love
+- Let Me Despawn
+- libIPN
+- Libnonymous
+- Library ferret
+- LibX
+- LIMachi's Library
+- Limitless Concert
+- LionfishAPI
+- Liquid Burner
+- LiteCore
+- Lithostitched
+- Llama Stable
+- Load My F***ing Tags
+- Lodestone
+- Logical Dye Mixing
+- LogisticsNetworks
+- Longwings
+- Loot Beams Refork
+- Lootr
+- Lootr Liason
+- Luki's Woodland Mansions
+- Lumberjack's Delight
+- Luminax
+- Luminous Blocks
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Furniture
+- Macaw's Holidays
+- Macaw's Lights and Lamps
+- Macaw's Paintings
+- Macaw's Paths and Pavings
+- Macaw's Roofs
+- Macaw's Stairs and Balconies
+- Macaw's Trapdoors
+- Macaw's Windows
+- Magical Marine
+- MagicalPsiRevival
+- Mahou Tsukai
+- Malum
+- Mana Display
+- Mana Jade
+- Mana Trashcan
+- Mana Unification Mod
+- manavisualizer
+- mangomultiblock
+- Mantle
+- Map Tooltip
+- Marigold Rings
+- Marigolds
+- Marium's Soulslike Weaponry
+- Markdown Manual
+- Masik's Puzzle Dungeon
+- Masonry
+- MaturiDelight
+- MaxHealthFix
+- McJtyLib
+- ME Placement Tool
+- ME Requester
+- ME: Xposed
+- Meat Delight
+- Mechanical Botania
+- Medieval Buildings [The End Edition]
+- Medival Clock House
+- Medival Starter House
+- Medival Starter Hut
+- Medival Tavern
+- MekaJadeUpgrades Unofficial
+- Mekanism
+- Mekanism Cardboard Tooltip
+- Mekanism Covers
+- Mekanism Curios
+- Mekanism Enchantable Machines
+- Mekanism Extras
+- Mekanism Lasers
+- Mekanism Overflow Energy
+- Mekanism Pipez Fix
+- Mekanism Turrets
+- Mekanism Weaponry
+- Mekanism: Ad Astra Ores
+- Mekanism: Additions
+- Mekanism: Generators
+- Mekanism: Tools
+- MekanismBorderless
+- mekanismbridge
+- Melody
+- Melter Block
+- Memory Usage Title
+- mendinglevels
+- Mermod
+- Metal Bundles
+- Metal Works
+- MetalBarrels
+- MidnightLib
+- Mineable/Minable AllTheModium Ores
+- Mineblock's Repeated Utilities
+- Minecart Spawner Revived
+- Minecontrollers
+- Miner's Delight
+- Miner's Glasses
+- Mineral Chance
+- mini clock tower
+- Mining World Upgrade++
+- miningworld
+- MINT Lib
+- Missing Trees
+- Missing Wilds
+- Mixin Extras NeoForge on Forge Fix
+- MixinInHeaven
+- MmmMmmMmmmmm
+- Mo Concretes
+- Mo Glass
+- Mo' Bees
+- Mo' Glowstone
+- Mo' Glowstone Lamps
+- Mo' Glowstone Plus
+- Mob AI Tweaks
+- Mob Crossing
+- Mob Grinding Utils
+- Mob Pacifier
+- MobCivics
+- Mobtimizations
+- Mod List Scroll Fix
+- Moderately Enough Effect Descriptions (MEED)
+- Modern Flat Colored Blocks
+- Modern Minecarts
+- Modern Startup QOL
+- Modern Villager House
+- ModernFix
+- Modification Of Critical Hit
+- Modifier Key Fix
+- Modonomicon
+- Modular Forcefields
+- Modular Routers
+- Molten Vents
+- MonoLib
+- Monster Expansion
+- Moog's End Structures
+- Moog's Glow Up
+- Moog's Soaring Structures
+- Moog's Structure Lib
+- Moog's Voyager Structures
+- MoogsNetherStructures
+- Moonlight Library
+- Moonlit Monoliths
+- Mooshroom Tweaks
+- More Axolotl Variants API
+- More Axolotl Variants Mod
+- More Bows and Arrows
+- More Bows Restrung
+- More Candles
+- More Delight
+- More Dragons
+- More Immersive Wires
+- More Industrial Foregoing Addons
+- More Mekanism Processing
+- More Minecarts and Rails
+- More Red
+- More Tetra Materials
+- More Tiny Gates
+- More Vanilla Shields
+- More Villagers
+- More Zombie Villagers
+- MoreJeiInfo
+- Mosaics
+- Mounted Pearl
+- Mouse Tweaks
+- Moving Elevators
+- MowLib
+- Mowzie's Cataclysm
+- Mowzie's Mobs
+- Moyai
+- Moyai structure
+- MrCrayfish's Furniture Mod: Refurbished
+- MUID
+- Multi-Piston
+- Mushroom Survival House
+- Music Box
+- musings
+- mutil
+- My Nether's Delight
+- MyServerIsCompatible
+- Mysterious Mountain Lib
+- Mystic's Biomes
+- Mystical Adaptations
+- Mystical Agradditions
+- Mystical Agriculture
+- Mystical Agriculture Tiered Crystals
+- Mystical Customization
+- Mystical Expansion
+- Mystical Extended Tier
+- Mystics Monstrosity Fixes
+- MythicBotany
+- Myths & Legends
+- Name Pain
+- NaNny
+- Naturalist
+- Naturalist_Delight
+- Naturally Charged Creepers
+- Nature's Compass
+- Nature's Spirit
+- NaturesAura
+- Neapolitan
+- Nebulus better nether overworld portals
+- Neko's Enchanted Books
+- Neon Lamps
+- Nether Chested
+- Nether Depths Upgrade
+- Nether's Delight
+- NetherPortalFix
+- NetherrackBlasting
+- Night Lights
+- Nirvana
+- Nirvana Lib
+- No Auto Jump
+- No Chat Reports
+- No Report Button
+- NoDamageBee
+- Nolijium
+- Non Intrusive Doors Mod
+- Not Enough Glyphs
+- Not interested!
+- NotEnoughAnimations
+- NoWeed
+- Nuclear Science
+- Nuclearcraft Neoteric
+- Nullscape
+- Nutritious Milk
+- OAuth Account Manager
+- Obscure API
+- Obscure Tooltips
+- OC2R: Addon Core
+- OC2R: Components
+- OC2R: Create
+- Occultism
+- Ocean's Delight
+- oceanfloor
+- OctoLib
+- Oculus
+- Oh The Biomes We've Gone
+- Oh The Trees You'll Grow
+- Old Illager Statue
+- old swamp fisherman house
+- OldVillagerStatue
+- Opalescence
+- OpenComputers II: Reimagined
+- Optimized Recipe Book (ORB)
+- Orc_Hut
+- Oreberries Replanted
+- Ostrea
+- OverEnchanted
+- Overflowing Bars
+- Overlapless
+- PackagedAuto
+- PackagedMekemicals
+- PackagersPSIC
+- Packed Up
+- Packet Fixer
+- Pale
+- Pam's HarvestCraft 2 - Crops
+- Pam's HarvestCraft 2 - Food Core
+- Pam's HarvestCraft 2 - Food Extended
+- Pam's HarvestCraft 2 - Trees
+- pamtreewood
+- Panda's Custom Blocks
+- Paper Books
+- Paraglider
+- Paragraphs Reforged
+- Parrot's Cage
+- Particular
+- Passengers Portal Fix
+- PassiveSearchBar
+- Patchouli
+- Patchwork
+- Path To Dirt
+- Path Under Gates
+- Patterned Glass
+- PAUCAL
+- Paxi
+- PBOSB
+- Peaks
+- Perception
+- Persistent Inventory Search
+- Pet Cemetery
+- Phantom Library
+- PhantomTweaks
+- Philip's Biome Features
+- Philips Ruins
+- Pick Up Notifier
+- Piglin Outpost
+- Piglin Quartz Tower
+- PigPen
+- Pigsteel Mod
+- Pineapple Delight
+- Pipe Connector
+- Pipez
+- Placeable Blaze Rods
+- Placebo
+- Plains Villager Tents
+- Planters
+- Plants Mega Pack Reborn
+- PlantTech 2
+- Player Animator
+- Player Tracking Compass
+- Plushie Mod
+- PneumaticCraft: Repressurized
+- Poison Kills
+- Polished Planks
+- PolishedLib
+- PolyLib
+- Polymorph
+- Polymorphic Energistics
+- PonderJS
+- Pop!
+- Pot Leaves
+- Potion Bundles
+- Potion Cauldron
+- Potion Descriptions
+- Potion Rings - REFORGED
+- Potion-Blender
+- PotionsMaster
+- Powah
+- Power Utilites
+- Presence Footsteps (Forge)
+- Prism
+- ProfileCached
+- Progressive Bosses
+- Project: Vibrant Journeys
+- Projectile Damage Attribute [Fabric & Forge]
+- Projectiles (Forge)
+- ProjectileSounds
+- ProjectRed Core
+- ProjectRed Expansion
+- ProjectRed Exploration
+- ProjectRed Fabrication
+- ProjectRed Illumination
+- ProjectRed Integration
+- ProjectRed Transmission
+- Protect Your Moa
+- Psi
+- Psionic Utilities
+- Pufferfish's Attributes
+- Pumpkin Witch House
+- Put Mana In
+- Puzzles Lib
+- Pylons
+- Pyrite
+- Pyrotechnic Elytra
+- Qliphoth Awakening
+- Qliphoth Awakening Dimensions
+- Quantum Generators
+- Quark
+- Quark Engineering
+- Quark Oddities
+- QuarkPonders
+- Queen Bee
+- QuickInvMove
+- QuickQuark
+- Radiant Gear
+- Rainbow Lamp
+- Rainbow Oaks
+- Rainbow Reef
+- Rainbow Webs
+- Random Bone Meal Flowers
+- Random Sheep Colours
+- Random Shulker Colours
+- RAR-Compat
+- Rare Ice
+- Raspberry Core
+- Raw Block Smelting
+- Raw's Visual Keybinder
+- Re-Avaritia
+- Re:Deco
+- Reactor Plus
+- Realms of Redemption
+- Rebind Narrator
+- RebornStorage
+- Recast
+- Rechiseled
+- Rechiseled Fans
+- Rechiseled: AE2
+- Rechiseled: Chipped
+- Rechiseled: Create
+- recipeessentials mod
+- Recipes Library
+- Reconnectible Chains
+- Redden's Stone Lanterns
+- Redstone Clock
+- Redstone improved
+- Redstone Jukeboxes
+- Redstone Pen
+- Redstone Soul Lamp
+- RedstoneAdditions
+- Reef Decor
+- Refined Cooking
+- Refined Crafter Proxy
+- Refined Polymorphism
+- Refined Storage
+- Refined Storage Addons
+- Refined Storage Manual
+- Refined Storage Mixin
+- RefinedBossbars
+- Regions Unexplored
+- Regions Unexplored: Expansion
+- Regrowth
+- Reintegrated Arts and Crafts
+- Reintegrated Chipped
+- Relics
+- Reoreganized
+- Replanting Crops
+- Repurposed Structures
+- Resourceful Lib
+- Resourcefulconfig
+- Respawning Animals
+- Respawning Shulkers
+- Responsive Shields
+- Revamped Shipwrecks
+- Reworked Phantoms
+- RFToolsBase
+- RFToolsBuilder
+- RFToolsControl
+- RFToolsDimensions
+- RFToolsPower
+- RFToolsStorage
+- RFToolsUtility
+- Rhino
+- Ribbits
+- Ring of Ascent
+- Ring of Attraction
+- Ring of Blink
+- Ring of Enderchest
+- Ring of Growth
+- Ring of Miner
+- Ring of Repair
+- Ring of Return
+- Ring of Unseen
+- Ritchie's Projectile Library
+- River Treasures
+- RiverRedux
+- RockyMinerals
+- Rosen
+- Royal Variations
+- RS Insert Export Upgrade
+- RS: CraftingMonitorInGrid
+- RSInfinityBooster
+- RSRequestify
+- Rubinated Nether
+- Ruined Lighthouse
+- Runelic
+- Rustic Delight
+- Saloon
+- Sanctified Legacy
+- Sanguine Neural Networks
+- SatStack
+- Saturation Plus
+- Saturn
+- Savage & Ravage
+- Save My Shit Network
+- SawmillHouse
+- SBM-Charcoal Block
+- ScalableCatsForce-3.3.1-build-0-with-library
+- Scannable
+- Schematic Energistics
+- Scholar
+- Sculk Transporting
+- Sculk Vision
+- Seafoam's Dyeable Blocks
+- Seamless
+- Searchables
+- Seasonals
+- Sebastrn Lib
+- Second Chance Forge
+- Secrets Of Forging Revelations
+- SecurityCraft
+- Seed Delight
+- Selectable Painting
+- serializationisbad-1.5
+- ServerCore
+- Sheep Consistency Forge
+- SherdDuplication
+- Sherds API
+- ShetiPhian-Core
+- Shield Expansion
+- Shielding Health
+- Shields+
+- Short Circuit
+- Shrink
+- Shulker Box Slot
+- Shulker Drops Two
+- ShulkerBoxTooltip
+- ShulkerPlus
+- Shut Up GL Error
+- Shutter
+- ShutterUp
+- signpost
+- SignTastic
+- Silent Compat
+- Silent Gear
+- Silent Lib
+- Silent's Gems: Base
+- Silverwood Trees
+- Simple Inventory Sorter
+- Simple Sponge
+- Simple Voice Chat
+- Simple Wooden Armor
+- Simply Light
+- Simply Quarries
+- Skeleton Ghost Ship
+- Skinned Lanterns
+- Skniro's GrowableOres
+- Skniro's GrowableOres Extension
+- Sky Villages
+- Slavic Delight
+- Sliding Doors
+- Slow Baby Zombie
+- Small Cat Statues
+- Small mob arena
+- Small Viking Villager House
+- Small Villager Greenhouse
+- SmallBiomeTowers
+- Smaller Nether Portals
+- SmallHorseStable
+- SmallWagons
+- Smart Particles
+- SmartBrainLib
+- Smarter Farmers
+- SmartEX: Realistic Explosions
+- Smelt All Stone Blocks in Blast Furnaces
+- Smelting Clay & Terracota in Blast Furnace
+- Smelting Plus
+- Smelting Sand in a Blast Furnace
+- Smooth Boot (Reloaded)
+- Smooth Swapping
+- smoothmovement mod
+- Sneak Through Berries
+- Snowballs Freeze Mobs
+- Snowman House
+- Snowy Biomes: Enhanced
+- Snowy Spirit
+- Snowy Tents
+- Snuffles
+- Sodium Options API
+- Sodium Options Mod Compat
+- Softer Hay Bales
+- Some More Blocks
+- SookisCustomBlocks
+- Sophisticated Backpacks
+- Sophisticated Backpacks Create Integration
+- Sophisticated Core
+- Sophisticated Storage
+- Sophisticated Storage Create Integration
+- Sophisticated Storage In Motion
+- Soul Fire'd
+- Sound Physics Remastered
+- Sounds
+- Soundtrack Block
+- Spanish Delight
+- spark
+- SparseStructures
+- SparseStructuresReforged
+- Speaker Mod Block
+- SpectreLib
+- Spelunkery
+- Spice of Life: Apple Pie Edition
+- Spice of Life: Carrot Edition
+- Spider Caves
+- Spiders Produce Webs
+- Spiritual Alchemy
+- Spit It Out
+- Splash Milk
+- Split Shulker Boxes
+- Spooky Additions
+- Spore Blossoms Pollinate
+- Squid No Glitch
+- Stack Refill
+- Stackable Stew and Soup
+- Stacked Blocks
+- Stacked Blocks: Farmer's Delight
+- Stamina For Tweakers
+- Stamina Storage Fix
+- Starbunclemania
+- Starlight
+- StarlightxAE
+- Start Invulnerability mod
+- Steampunk ClockTower
+- Stone Chest
+- Stoneholm, Underground Village
+- Stoneworks
+- Stonier Stones
+- Stony Cliffs Are Cool
+- Storage Delight
+- Storage Drawers
+- Storage Drawers Extras
+- Storage Racks
+- Straw Statues
+- Stray Spawn
+- Stronger Potions
+- Stronger Structures
+- StrongerSnowballs
+- Structory: Towers
+- Structural Statues
+- Structure Compass Mod
+- Structure Gel API
+- Structure Layout Optimizer
+- Structure Palettes
+- Structurize
+- Stutter Protection
+- Subterrestrial
+- Sugared Concrete
+- Suggestion Provider Fix
+- Sully's Mod
+- Sundries by Donjey
+- Sunken Warrior Statue
+- Super Factory Manager (SFM)
+- SuperMartijn642's Config Library
+- SuperMartijn642's Core Lib
+- Supplementaries
+- Supplementaries Squared
+- Surface Mushrooms
+- survivalhouse
+- Swamp Frog Hideout
+- SwampBoat
+- Swampier Swamps
+- Sweeper Maid
+- Sword Blocking Mechanics
+- Synchronous Switches Mod
+- Table Top Craft
+- Taiga Survival House
+- Tanuki Decor
+- Tarot Board
+- Tax Free Levels
+- Tax' Castle Pillager
+- Tax' Ocean Architect
+- Tax' Ocean Pillager
+- TConJEI
+- Tectonic
+- Tempad
+- Tempad With Shaders
+- templaterecipe
+- Temporal API
+- TenshiLib
+- TerraBlender
+- Terrabnormals
+- Terralith
+- Terralith ReStoned
+- Terraphilic
+- Tesseract
+- tetra
+- Tetra Attribute Rebalancing
+- Tetra Engineer Goggles
+- Tetra Extras
+- Tetra Spell Book
+- Tetra's Delight
+- Tetranomicon
+- Thaumon
+- The Aether
+- The Aether: Redux
+- The Bumblezone
+- The Conjurer
+- The Endergetic Expansion
+- The Graveyard
+- The Lost Castle
+- The Missing Villages
+- The Old Additions
+- The Outer End
+- The Twilight Forest
+- The Undergarden
+- Thermal Cultivation
+- Thermal Dynamics
+- Thermal Endergy
+- Thermal Expansion
+- Thermal Extra
+- Thermal Foundation
+- Thermal Innovation
+- Thermal Integration
+- Thermal Locomotion
+- Thermal Parallel
+- Thermal Phytogenics - Nether Delight Compats
+- Thermal Systeams
+- Theurgy
+- Thicket
+- Thingamajigs
+- Time In A Bottle
+- Timeless & Classics Guns: Zero
+- Timeout Fixes
+- Tinkers Construct: Emergence
+- Tinkers' Advanced
+- Tinkers' Advanced Utilities
+- Tinkers' Advanced-Tools
+- Tinkers' Bounce Pad
+- Tinkers' Construct
+- Tinkers' Delight
+- Tinkers' Jewelry
+- Tinkers' Levelling Addon
+- Tinkers' Ponder
+- Tiny Coal
+- Tiny Gates
+- Tiny Pipes
+- Tiny Redstone
+- TipTheScales
+- TIS Advanced
+- TIS-3D
+- TIS-Create
+- Titanium
+- TLib
+- TNT Breaks Bedrock
+- ToLaserBlade
+- ToLaserBlade-ExtraModels
+- Tom's Simple Storage Mod
+- Tome of Blood: Rebirth
+- Too Fast
+- Too Many Glyphs
+- Tool Belt
+- Tool's Complement
+- Torch hit!
+- Torch Slab Mod
+- TorchBowMod
+- Torchflower Arrows
+- Torchflower: Relit
+- Torchmaster
+- Totemic
+- Towers of the Wild Modded
+- Towers of the Wild Modded - Extra Towers
+- Towers of the Wild: Additions
+- Toybox
+- Trade Compat
+- Traders in Disguise
+- Trading Post
+- Trail&Tales Delight
+- Translocators
+- Transparent
+- Trash Cans
+- Travel Anchors
+- Traveler's Compass
+- Traversable Leaves
+- Trenzalore
+- Tritium
+- Tropicraft
+- Tropicraft Compatibility
+- True Darkness
+- True Darkness Elementriy
+- True Ending: Ender Dragon Overhaul
+- Truly Treasures
+- Tuff Ores Mod
+- Turtle House
+- Turtleboi's Core Library
+- Twigs
+- Twilight Aether
+- Twilight Construct
+- Twilight Forest - Dungeons & Villages
+- Twilight Forest: The Lost Blocks
+- Twilight Treehouses
+- TwilightForest Thread Safety Addon (For 1.20.1)
+- TxniLib
+- U Team Core
+- UgoBlock
+- UI Library Mod
+- Ultimate Car Mod
+- Ultramarine
+- Umbral Skies
+- UnChipped
+- Undergarden Botany Pots Compats
+- Undergarden-Tetra Patch
+- Underground Beacons
+- Underground Bunkers
+- Underground Rooms
+- Underground Villages Mod
+- Underlay
+- Underwater Enchanting
+- underwater_village
+- Unearthed
+- Universal Bone Meal
+- Universal Grid
+- Unwrecked Ships Plus 2.0.5 Forge.jar
+- Updating World Icon
+- Upgrade Aquatic
+- Upgrade_AE2_AAE
+- Upgraded Core
+- Upgraded Ender Chests
+- Upgraded Totems
+- Uranus
+- Useful Luck
+- Useful Spyglass
+- Utilitarian
+- Valhelsia Core
+- Valhelsia Furniture
+- Valhelsia Structures
+- Vanilla Delight
+- Vanillin
+- Variants&Ventures
+- Veggies Delight
+- Vesper's Compatibility Compendium
+- Villager Archer Camp
+- Villager Brewery
+- Villager Butcher House
+- Villager Cartographer House
+- Villager Circus Tent
+- Villager Cleric House
+- Villager Clock Tower
+- Villager Country House
+- Villager Farmer House
+- Villager fish shop
+- Villager Fisherman\u2019s Hut
+- Villager Flower House
+- Villager Forge
+- villager frog house
+- Villager Gold Washing Facility
+- villager library
+- villager mushroom house
+- Villager observatory
+- Villager Pagoda House
+- Villager Pumpkin House
+- Villager Rafts
+- Villager Tannery
+- Villager Train Station
+- Villager Warship
+- Villager Windmill
+- Villagers Drop Emeralds on Death
+- Villagers Follow Emerald Blocks
+- Villagers Respawn  Mod
+- VillagersPlus
+- Villainous Fish AI
+- Vintage Animations
+- Vintage Vibes
+- Vista
+- Visuality: Reforged
+- Voiceless Survival
+- Void Miners
+- Void Totem
+- Volcanic Caverns
+- Voltaic
+- Voxel Core
+- Wabi-Sabi Structures
+- Wallpapercraft
+- Warped Villager Outpost
+- Watercondenser
+- WaterFrames
+- Watering Can
+- Waterlogged Redstone
+- WaterMedia
+- WaterMedia YT Plugin
+- WaterMedia: Binaries
+- WaveyCapes
+- Waystone Crypts
+- Waystones
+- Waystones Teleport Pets
+- WaystoneSpawnpoint_1.20
+- Weaker Spiderwebs
+- Wetland Whimsy
+- What is 'Stone'? (Colorful Caves)
+- WhatDahDogDoinTetraCompat
+- WhatTheBucket
+- When Dungeons Arise
+- Where Mod
+- Whetstones
+- Whisperleaf Trees
+- Wider Ender Chests
+- Wiki Lookup
+- Wilder Flowers
+- Wilderness
+- Wildfields
+- Windmill
+- Windowlogging
+- Windswept
+- Windswept Delights
+- Windswept Integration
+- Winter Overhaul
+- Wireless Chargers
+- Witch Tower
+- Wither Reincarnated
+- Wither Spawn Fix
+- Wither's Wrath
+- Withering Boon
+- WITS
+- wizard_tower
+- Womp's Shellfish Mod
+- Wood Enjoyer
+- Woodworks
+- WoodYouDeco
+- Wooled Boots
+- World Data Loader
+- World Play Time
+- Wormhole (Portals)
+- WunderLib
+- XeKr's Decoration
+- XNet
+- XNet Gases
+- XP Tome
+- XyCraft: Core
+- XyCraft: Machines
+- XyCraft: Override
+- XyCraft: World
+- YetAnotherConfigLib
+- You've Goat to be kidding me
+- YUNG's API
+- YUNG's Better Caves
+- YUNG's Better Dungeons
+- YUNG's Better End Island
+- YUNG's Better Jungle Temples
+- YUNG's Better Mineshafts
+- YUNG's Better Nether Fortresses
+- YUNG's Better Ocean Monuments
+- YUNG's Better Strongholds
+- YUNG's Better Witch Huts
+- YUNG's Bridges
+- YUNG's Cave Biomes
+- YUNG's Extras
+- Zero CORE 2
+- Zeta
+- Zoomers Aether Lootr Compat
+- 有用的岩石
+- 细节盔甲条：重装
+
+### Resource Packs
+
+**Added**
+- A Good Place Sample Pack
+- Basic Nether Ores 32x
+- DWBushyLeaves
+- DWBushyLeaves-DENSE-No-AO
+- Furnish Door Knock Silencer
+- Quark Programmer Art
+- SE Vanilla Consistency 1.20.1
+- tconjeidark
+
+### Shader Packs
+
+**Added**
+- §r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l
+- Bliss_v2.1.2_(Chocapic13_Shaders_edit)
+- ComplementaryReimagined_r5.7.1
+- ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6
+- ComplementaryUnbound_r5.7.1
+- ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6
+- Komorebi Shader
+- MakeUp-UltraFast-9.4c
+- Mellow Shader v3.0.3
+- Solas Shader V3.4
+
