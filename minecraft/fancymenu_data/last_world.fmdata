@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = true
-  world = 104.194.8.242:25783
+  is_server = false
+  world = /home/mystic/.nlauncher/instances/Mystic's Monstrosity - Greedy Edition/minecraft/saves/New World
 }
 
