@@ -1,0 +1,31 @@
+{
+    "special": {},
+    "players": {
+        "Mysticpasta1": [
+            {
+                "radius": 0.1,
+                "cycle": 342,
+                "width": 0.05,
+                "style": {
+                    "type": "radar"
+                },
+                "height": 0.68,
+                "sampler": {
+                    "type": "fixed"
+                }
+            },
+            {
+                "radius": 0.55,
+                "cycle": 301,
+                "width": 0.05,
+                "style": {
+                    "type": "radar"
+                },
+                "height": 0.7000000000000001,
+                "sampler": {
+                    "type": "fixed"
+                }
+            }
+        ]
+    }
+}

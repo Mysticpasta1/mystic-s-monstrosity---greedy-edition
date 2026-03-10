@@ -1,0 +1,7 @@
+
+[Delays]
+	#This determines how quick the nearby glass blocks react and also change their form.
+	"Chain Delay" = 1.0
+	#This determines how long the cooldown is before blocks can change their form again. This should be at least twice as high than the ChainDelay to prevent infinite loops.
+	Cooldown = 3.0
+

@@ -1,0 +1,5 @@
+rotationAmount = 3.0
+absoluteSize = 0.75
+tempItemSize = 0.65
+tempBlockSize = 1.0
+oldRendering = false

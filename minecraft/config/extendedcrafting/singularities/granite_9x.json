@@ -1,0 +1,10 @@
+{
+  "name": "Too Much Granite",
+  "colors": [
+    "caccda",
+    "9a9ca6"
+  ],
+  "ingredient": {
+    "item": "allthecompressed:granite_9x"
+  }
+}

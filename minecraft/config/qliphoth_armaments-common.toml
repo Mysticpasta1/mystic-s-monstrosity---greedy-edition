@@ -1,0 +1,6 @@
+
+["Conductor Requiem Settings"]
+	#If true, minions will only spawn when the item is in the hotbar or offhand.
+	#trueの場合、アイテムがホットバーまたはオフハンドにある時のみミニオンを召喚します。
+	OnlySpawnInHotbar = true
+

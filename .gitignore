@@ -1,0 +1,70 @@
+# Minecraft instance gitignore for NLauncher
+
+# Mod files - tracked via mod_cache.json instead
+mods/
+
+# Logs
+logs/
+*.log
+crash-reports/
+
+# Runtime generated
+.fabric/
+.mixin.out/
+
+# Local player data
+saves/
+
+# Shader cache
+shaderpacks/.cache/
+
+# Resource pack cache  
+resourcepacks/.cache/
+
+# User-specific options
+options.txt
+optionsof.txt
+optionsshaders.txt
+servers.dat
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Backups
+*.backup
+*.bak
+
+# Temp files
+*.tmp
+minecraft/.lazyyyyy/
+minecraft/.oauth-account-manager/accounts.mcoauth
+minecraft/assets/
+minecraft/blueprints/
+minecraft/chesttracker/
+minecraft/data/
+minecraft/ESM/
+minecraft/globalresources/
+minecraft/icon.png
+minecraft/liboc2rnet.so
+minecraft/libraries/
+minecraft/local/
+minecraft/modernfix/
+minecraft/runtime/
+minecraft/tacz/
+minecraft/visual_keybinder/
+minecraft/versions/
+minecraft/tacz_backup/
+minecraft/usercache.json
+minecraft/usernamecache.json
+minecraft/patchouli_data.json
+minecraft/resourcepacks/
+minecraft/rhino.local.properties
+minecraft/screenshots/2026-03-09_19.55.01.png
+minecraft/seamless.txt

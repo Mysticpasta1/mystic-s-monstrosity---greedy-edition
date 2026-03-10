@@ -1,0 +1,22 @@
+
+["LaglessMod Settings - by Ryosukuna"]
+	#Global Performance Profile.
+	#Allowed Values: SUPER_FAST, BALANCED, VANILLA
+	"Performance Mode" = "VANILLA"
+
+	["LaglessMod Settings - by Ryosukuna"."Entity Optimization"]
+		"Smart Entity Culling" = false
+		#Range: 256 ~ 65536
+		"Max Entity Dist Sqr" = 65336
+
+	["LaglessMod Settings - by Ryosukuna"."Particle Optimization"]
+		"Smart Particle Culling" = true
+		#Range: 64 ~ 16384
+		"Max Particle Dist Sqr" = 1024
+
+	["LaglessMod Settings - by Ryosukuna"."Super Fast Settings (Potato PC)"]
+		"Vertical Culling (Void Mode)" = false
+		#Range: 0 ~ 128
+		"Vertical Cutoff Height" = 16
+		"Tactical Fog" = false
+

@@ -1,0 +1,90 @@
+
+[dreamwoods_trees]
+	#Configure which biomes use Dreamwoods custom trees
+	#Enable Dreamwoods custom trees in vanilla biomes
+	enableCustomTrees = true
+
+	[dreamwoods_trees.biomes]
+		#Enable Dreamwoods trees in badlands biome
+		badlands = true
+		#Enable Dreamwoods trees in bamboo_jungle biome
+		bamboo_jungle = true
+		#Enable Dreamwoods trees in beach biome
+		beach = true
+		#Enable Dreamwoods trees in birch_forest biome
+		birch_forest = true
+		#Enable Dreamwoods trees in cherry_grove biome
+		cherry_grove = true
+		#Enable Dreamwoods trees in dark_forest biome
+		dark_forest = true
+		#Enable Dreamwoods trees in desert biome
+		desert = true
+		#Enable Dreamwoods trees in eroded_badlands biome
+		eroded_badlands = true
+		#Enable Dreamwoods trees in flower_forest biome
+		flower_forest = true
+		#Enable Dreamwoods trees in forest biome
+		forest = true
+		#Enable Dreamwoods trees in frozen_peaks biome
+		frozen_peaks = true
+		#Enable Dreamwoods trees in frozen_river biome
+		frozen_river = true
+		#Enable Dreamwoods trees in grove biome
+		grove = true
+		#Enable Dreamwoods trees in ice_spikes biome
+		ice_spikes = true
+		#Enable Dreamwoods trees in jagged_peaks biome
+		jagged_peaks = true
+		#Enable Dreamwoods trees in jungle biome
+		jungle = true
+		#Enable Dreamwoods trees in mangrove_swamp biome
+		mangrove_swamp = true
+		#Enable Dreamwoods trees in meadow biome
+		meadow = true
+		#Enable Dreamwoods trees in mushroom_fields biome
+		mushroom_fields = true
+		#Enable Dreamwoods trees in old_growth_birch_forest biome
+		old_growth_birch_forest = true
+		#Enable Dreamwoods trees in old_growth_pine_taiga biome
+		old_growth_pine_taiga = true
+		#Enable Dreamwoods trees in old_growth_spruce_taiga biome
+		old_growth_spruce_taiga = true
+		#Enable Dreamwoods trees in plains biome
+		plains = true
+		#Enable Dreamwoods trees in river biome
+		river = true
+		#Enable Dreamwoods trees in savanna biome
+		savanna = true
+		#Enable Dreamwoods trees in savanna_plateau biome
+		savanna_plateau = true
+		#Enable Dreamwoods trees in snowy_beach biome
+		snowy_beach = true
+		#Enable Dreamwoods trees in snowy_plains biome
+		snowy_plains = true
+		#Enable Dreamwoods trees in snowy_slopes biome
+		snowy_slopes = true
+		#Enable Dreamwoods trees in snowy_taiga biome
+		snowy_taiga = true
+		#Enable Dreamwoods trees in sparse_jungle biome
+		sparse_jungle = true
+		#Enable Dreamwoods trees in stony_peaks biome
+		stony_peaks = true
+		#Enable Dreamwoods trees in stony_shore biome
+		stony_shore = true
+		#Enable Dreamwoods trees in sunflower_plains biome
+		sunflower_plains = true
+		#Enable Dreamwoods trees in swamp biome
+		swamp = true
+		#Enable Dreamwoods trees in taiga biome
+		taiga = true
+		#Enable Dreamwoods trees in windswept_forest biome
+		windswept_forest = true
+		#Enable Dreamwoods trees in windswept_gravelly_hills biome
+		windswept_gravelly_hills = true
+		#Enable Dreamwoods trees in windswept_hills biome
+		windswept_hills = true
+		#Enable Dreamwoods trees in windswept_savanna biome
+		windswept_savanna = true
+		#Enable Dreamwoods trees in wooded_badlands biome
+		wooded_badlands = true
+

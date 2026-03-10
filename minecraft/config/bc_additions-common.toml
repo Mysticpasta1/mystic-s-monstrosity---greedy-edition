@@ -1,0 +1,80 @@
+
+[features]
+	#Enable Patrol Wards: prevents illager PATROL spawns within radius of ward blocks.
+	patrolWards = true
+	#Enable Glow Crystal projected lighting (places vanilla minecraft:light blocks in nearby air).
+	glowCrystal = true
+	#Enable Token of Sol: prevents zombification of hoglins/piglins in the overworld.
+	tokenOfSol = true
+	#Enable Wild Nether Wart world generation.
+	wildNetherWart = true
+	#Enable Rose Quartz geodes, budding blocks, and crystal growth (requires Biomes O' Plenty).
+	roseQuartzGeodes = true
+	#Enable Budding Touch enchantment: allows harvesting budding blocks with the enchantment.
+	buddingTouch = true
+	#Enable Enderman griefing (Endermen picking up/placing blocks).
+	endermanGriefing = true
+	#Base chance (in %) for Origin Harvest to drop a spawn egg per enchantment level
+	#Level 1 = base%, Level 2 = base%*2, Level 3 = base%*3
+	#Default: 5.0 (so Level 3 = 15% chance)
+	#Range: 0.1 ~ 50.0
+	originHarvestBaseChance = 5.0
+	#Enable Ectoplasm module: Tethered Spirits, ectoplasm drops, and Spectral Sword yield bonuses.
+	ectoplasm = true
+
+[patrol_ward]
+	#Radius (blocks) around warding core/effigy that prevents PATROL spawns.
+	#Range: 8 ~ 256
+	radius = 64
+
+[glow_crystal]
+	#Maximum number of minecraft:light blocks a single Glow Crystal can maintain at once.
+	#Range: 0 ~ 50000
+	maxLights = 350
+	#How many minecraft:light blocks a Glow Crystal can place per server tick cycle.
+	#Range: 0 ~ 2000
+	lightsPerTick = 25
+
+[budding_touch]
+	#Additional block IDs that Budding Touch should work on.
+	#Budding Touch automatically works on blocks with 'budding' in their name.
+	#Add entries here for blocks that don't follow that naming convention.
+	#Format: 'modid:block_name' (e.g., 'somemod:special_crystal_block')
+	additionalBlocks = []
+
+[ectoplasm]
+	#If true, eligible mob deaths can spawn a Tethered Spirit (parity-inspired behavior).
+	tetheredSpiritSpawns = true
+	#If true, mobs with MobType.UNDEAD are eligible sources for Tethered Spirit spawns.
+	allowMobTypeUndead = true
+	#If true, entity types in the bcadditions:tethered_spirit_sources tag are also eligible sources.
+	#Use this to include modded mobs that are undead-ish but not correctly classified as UNDEAD.
+	allowWhitelistTag = true
+	#If true, only player kills can spawn Tethered Spirits (prevents passive/automation farming).
+	requirePlayerKill = true
+	#Parity default from Random Things: 400 ticks (20 seconds).
+	#Range: 20 ~ 12000
+	spiritLifetimeTicks = 400
+	#Base chance for Tethered Spirit spawn per eligible death.
+	#Default: 0.15 (15% ->primary ectoplasm souce.
+	#Range: 0.0 ~ 1.0
+	spiritChanceNormal = 0.15
+	#Full Moon Multiplier for spirit spawn chance.
+	#Range: 0.0 ~ 50.0
+	spiritChanceMoonMult = 2.0
+	#Additive spawn chance increase after defeating Ender Dragon.
+	#Range: 0.0 ~ 1.0
+	spiritChanceEndIncrease = 0.1
+	#Chance to drop 1 ectoplasm when freeing a Tethered Spirit with a non-Spectral weapon.
+	#Your design default: 0.80 (80%).
+	#Range: 0.0 ~ 1.0
+	nonSpectralEctoplasmChance = 0.8
+	#Additional ectoplasm roll chance when using a Spectral Sword.
+	#Your design default: 0.33 (33%).
+	#Range: 0.0 ~ 1.0
+	spectralBonusChance1 = 0.33
+	#Additional ectoplasm roll chance when using a Spectral Sword (second bonus roll).
+	#Your design default: 0.33 (33%).
+	#Range: 0.0 ~ 1.0
+	spectralBonusChance2 = 0.33
+

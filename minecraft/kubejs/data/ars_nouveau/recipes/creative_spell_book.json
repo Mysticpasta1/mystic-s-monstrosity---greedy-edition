@@ -1,0 +1,33 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": true,
+  "output": {
+    "item": "ars_nouveau:creative_spell_book"
+  },
+  "pedestalItems": [
+    {
+      "item": "kubejs:the_greedy_completion"
+    },
+    {
+      "item": "apotheosis:draconic_endshelf"
+    },
+    {
+      "item": "apotheosis:treasure_shelf"
+    },
+    {
+      "item": "apotheosis:filtering_shelf"
+    },
+    {
+      "item": "apotheosis:rectifier_t3"
+    },
+    {
+      "item": "apotheosis:sightshelf_t2"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "ars_nouveau:creative_source_jar"
+    }
+  ],
+  "sourceCost": 1000
+}

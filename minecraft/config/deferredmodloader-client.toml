@@ -1,0 +1,17 @@
+
+#DML Client Configuration
+[client]
+	#Enable DML optimization system. Disable for compatibility mode.
+	enableOptimization = true
+	#Enable parallel mod loading for faster startup (experimental).
+	enableParallelLoading = true
+	#Enable debug logging for DML operations.
+	enableDebugLogging = false
+	#Number of threads to use for parallel loading. 0 = auto-detect.
+	#Range: 0 ~ 16
+	parallelThreadCount = 0
+	#Show detailed loading progress in the loading screen.
+	showLoadingProgress = true
+	#Enable optimizations for faster menu loading.
+	enableMenuOptimization = true
+

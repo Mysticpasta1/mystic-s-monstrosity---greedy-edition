@@ -1,0 +1,10 @@
+{
+  "name": "Copper Ore",
+  "colors": [
+    "caccda",
+    "9a9ca6"
+  ],
+  "ingredient": {
+    "tag": "forge:ores/copper"
+  }
+}

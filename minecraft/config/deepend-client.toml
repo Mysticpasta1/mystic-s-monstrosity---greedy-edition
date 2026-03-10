@@ -1,0 +1,42 @@
+
+#Client-side visual settings
+[client]
+
+	#Abyssal Fog Plane - Visual fog layer at the void boundary
+	[client.abyssalFogPlane]
+		#Enable the visual fog plane at the abyssal boundary.
+		enabled = true
+		#Y level where the fog plane renders. Should match voidAnglerMaxChaseY for consistency.
+		#Range: -64.0 ~ 320.0
+		fogY = 40.0625
+		#How far (in blocks) the fog plane renders around the player. Set to -1 to match the player's render distance.
+		#Range: -1 ~ 512
+		renderDistance = -1
+		#Base opacity of the fog plane (0.0 = invisible, 1.0 = solid). Higher values better obscure distant objects.
+		#Range: 0.0 ~ 1.0
+		opacity = 0.85
+		#Color of the fog plane as RGB hex (e.g. 0x1a0a2e for dark purple).
+		#Range: 0 ~ 16777215
+		color = 855322
+
+	#Void Angler visibility settings
+	[client.voidAngler]
+		#Base opacity of hidden void angler in the End dimension without Void Vision (0.0 = completely invisible, 0.1 = barely visible).
+		#Range: 0.0 ~ 1.0
+		baseGhostOpacity = 0.1
+
+	#Rift proximity detection - particles and sounds that guide you to nearby rifts
+	[client.riftProximity]
+		#Enable rift proximity detection effects (particles and sounds).
+		enabled = true
+		#Intensity multiplier for proximity particles (0.0 = none, 1.0 = normal, 2.0 = double).
+		#Range: 0.0 ~ 3.0
+		particleIntensity = 1.0
+		#Enable ambient sounds when near a rift.
+		soundEnabled = true
+
+	#Ancient Altar GUI settings
+	[client.ancientAltar]
+		#Show the rune modifier info (name and item icon) in the Ancient Altar GUI.
+		showRuneInfo = true
+

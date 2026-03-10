@@ -1,0 +1,33 @@
+
+[General]
+	#Cycle mode: 'loop', 'reverse', or 'random'
+	cycleMode = "loop"
+	#Delay in milliseconds before shader reload
+	#Range: 0 ~ 10000
+	reloadDelay = 0
+	#Enable sound feedback when switching shaders
+	enableSounds = true
+	#Enable chat notifications when shaders are switched
+	enableChatNotifications = true
+
+[Exclusions]
+	#List of shader pack filenames to exclude from cycling (case-sensitive, e.g., 'wavy-shader.zip')
+	excludedShaders = []
+
+[DimensionShaderSwitch]
+	#Enable dimension-specific shader override for Overworld
+	enableOverworldOverride = false
+	#Enable dimension-specific shader override for Nether
+	enableNetherOverride = false
+	#Enable dimension-specific shader override for The End
+	enableEndOverride = false
+	#Shader to apply automatically when entering the Overworld. Use 'None' to disable.
+	overworldShader = "None"
+	#Shader to apply automatically when entering the Nether. Use 'None' to disable.
+	netherShader = "None"
+	#Shader to apply automatically when entering The End. Use 'None' to disable.
+	endShader = "None"
+	#List of dimension=shader mappings. Example: minecraft:overworld=None
+	#Use 'None' to indicate no shader for that dimension.
+	dimensionShaderList = ["minecraft:overworld=None", "short_circuit:circuit_board=None", "minecraft:the_end=None", "ad_extendra:ceres=None", "deeperdarker:otherside=None", "ad_extendra:gonggong=None", "ad_extendra:gonggong_orbit=None", "ror:cyberland=None", "iceandfire:dread_land=None", "ad_extendra:saturn=None", "ad_extendra:haumea_orbit=None", "ad_extendra:quaoar=None", "graveyard:past=None", "qliphoth_awakening_dimensions:geburah_dim=None", "ad_extendra:orcus=None", "compactmachines:compact_world=None", "ad_extendra:sedna_orbit=None", "ad_extendra:eris_orbit=None", "ad_astra:venus_orbit=None", "toybox:toybox=None", "nuclearcraft:wasteland=None", "ad_extendra:quaoar_orbit=None", "ad_extendra:neptune_orbit=None", "ad_extendra:jupiter_orbit=None", "ad_extendra:sedna=None", "allthemodium:mining=None", "ad_extendra:uranus_orbit=None", "ad_extendra:makemake_orbit=None", "ad_astra:glacio_orbit=None", "twilightforest:twilight_forest=None", "ad_extendra:jupiter=None", "ror:prismacon=None", "ad_extendra:eris=None", "ror:neon_city=None", "ad_astra:venus=None", "ad_astra:mars_orbit=None", "the_bumblezone:the_bumblezone=None", "dimdungeons:build_dimension=None", "ad_extendra:pluto=None", "irons_spellbooks:pocket_dimension=None", "ad_astra:glacio=None", "miningworld:digging_dimension=None", "bloodmagic:dungeon=None", "ad_astra:moon_orbit=None", "ror:the_factory=None", "ad_extendra:neptune=None", "sundries:weird_world=None", "ad_astra:moon=None", "ad_extendra:b_orbit=None", "ad_astra:earth_orbit=None", "minecraft:the_nether=None", "qliphoth_awakening_dimensions:chesed_dim=None", "undergarden:undergarden=None", "ad_extendra:makemake=None", "aether:the_aether=None", "ad_extendra:haumea=None", "ad_extendra:ceres_orbit=None", "ad_extendra:b=None", "mahoutsukai:reality_marble=None", "short_circuit:runtime=None", "hexxyplanes:hexplane=None", "tropicraft:tropics=None", "ad_extendra:uranus=None", "ror:flowerbed=None", "ad_extendra:pluto_orbit=None", "mythicbotany:alfheim=None", "ad_extendra:saturn_orbit=None", "dimdungeons:dungeon_dimension=None", "ad_astra:mercury_orbit=None", "allthemodium:the_other=None", "qliphoth_awakening_dimensions:malkuth_dim=None", "ad_astra:mars=None", "ad_astra:mercury=None", "ad_extendra:orcus_orbit=None", "atlantis:atlantis=None", "allthemodium:the_beyond=None", "ae2:spatial_storage=None"]
+

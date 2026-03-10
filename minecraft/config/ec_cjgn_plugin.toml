@@ -1,0 +1,37 @@
+[guilded_netherite]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.4
+fireResistant = true
+quiverSlots = 10
+
+[guilded_netherite.durability]
+toolDurability = 2555
+bowDurability = 768
+addedShieldDurability = 0
+
+[guilded_netherite.enchanting]
+offenseEnchantability = 20
+defenseEnchantability = 20
+
+[guilded_netherite.offense]
+addedAttackDamage = 4.5
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 1
+velocityMultiplier = 4.25
+
+[guilded_netherite.defense]
+gauntletArmorAmount = 3
+armorToughness = 3.5
+knockbackResistance = 0.1
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[guilded_netherite.crafting]
+repairItem = ["minecraft:netherite_ingot"]
+craftingItem = ""
+isSingleAddition = true
+onlyReplaceResource = []
+smithingTemplate = "minecraft:netherite_upgrade_smithing_template"

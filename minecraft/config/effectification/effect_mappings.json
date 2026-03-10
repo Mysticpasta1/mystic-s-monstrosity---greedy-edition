@@ -1,0 +1,220 @@
+{
+  "mappings": [
+    {
+      "sourceEffect": "hexalia:bleeding",
+      "targetEffect": "majruszsdifficulty:bleeding, attributeslib:bleeding, valoria:bleeding",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "turtlecore:bleeding",
+      "targetEffect": "majruszsdifficulty:bleeding, attributeslib:bleeding, valoria:bleeding",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "more_rpg_classes:bleeding",
+      "targetEffect": "majruszsdifficulty:bleeding, attributeslib:bleeding, valoria:bleeding",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "relics:bleeding",
+      "targetEffect": "majruszsdifficulty:bleeding, attributeslib:bleeding, valoria:bleeding",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "attributeslib:bleeding",
+      "targetEffect": "majruszsdifficulty:bleeding, valoria:bleeding",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "valoria:bleeding",
+      "targetEffect": "majruszsdifficulty:bleeding, attributeslib:bleeding",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "runiclib:bleeding",
+      "targetEffect": "majruszsdifficulty:bleeding, attributeslib:bleeding, valoria:bleeding",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "turtlecore:chilled",
+      "targetEffect": "irons_spellbooks:chilled",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "eidolon:chilled",
+      "targetEffect": "irons_spellbooks:chilled, turtlecore:chilled",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "turtlecore:frozen",
+      "targetEffect": "mowziesmobs:frozen, more_rpg_classes:frozen_solid",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "more_rpg_classes:frozen_solid",
+      "targetEffect": "mowziesmobs:frozen",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "more_rpg_classes:frosted",
+      "targetEffect": "mowziesmobs:frozen, more_rpg_classes:frozen_solid",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "simplyswords:freeze",
+      "targetEffect": "mowziesmobs:frozen, more_rpg_classes:frozen_solid",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "advs_spells_arts:freeze",
+      "targetEffect": "mowziesmobs:frozen, more_rpg_classes:frozen_solid",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "goety:stunned",
+      "targetEffect": "relics:stun, cataclysm:stun, more_rpg_classes:stun",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "turtlecore:stunned",
+      "targetEffect": "relics:stun, cataclysm:stun, more_rpg_classes:stun",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "hexalia:stunned",
+      "targetEffect": "relics:stun, cataclysm:stun, more_rpg_classes:stun",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "cataclysm:stun",
+      "targetEffect": "relics:stun, more_rpg_classes:stun",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "more_rpg_classes:stun",
+      "targetEffect": "relics:stun, cataclysm:stun",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "alexscaves:stunned",
+      "targetEffect": "relics:stun, cataclysm:stun, more_rpg_classes:stun",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "valoria:stun",
+      "targetEffect": "relics:stun, cataclysm:stun, more_rpg_classes:stun",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "ars_nouveau:freezing",
+      "targetEffect": "goety:freezing",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "ars_nouveau:immolate",
+      "targetEffect": "irons_spellbooks:immolate, simplyswords:immolation",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "simplyswords:immolation",
+      "targetEffect": "irons_spellbooks:immolate",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "runiclib:confusion",
+      "targetEffect": "relics:confusion",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "obscure_api:knowledge",
+      "targetEffect": "attributeslib:knowledge",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    },
+    {
+      "sourceEffect": "turtlecore:sapped",
+      "targetEffect": "goety:sapped",
+      "amplifierMultiplier": 1.0,
+      "bidirectional": false,
+      "onlyVisualChange": false,
+      "fullReplacement": false
+    }
+  ]
+}

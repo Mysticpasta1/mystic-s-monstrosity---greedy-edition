@@ -1,0 +1,10 @@
+{
+  "name": "Oh, The Irony of this",
+  "colors": [
+    "caccda",
+    "9a9ca6"
+  ],
+  "ingredient": {
+    "tag": "forge:ores/iron"
+  }
+}

@@ -1,0 +1,19 @@
+
+["Visual Settings"]
+	#Enable emissive rendering for glowing mushrooms and plants
+	enableEmissiveRendering = true
+	#Enable falling leaves and petals particles for trees
+	enableLeavesParticles = true
+	#Enable falling petals particles for hanging flowers (e.g. Wisteria)
+	enableHangingFlowersParticles = true
+	#Enable Night Blossom spores particles
+	enableNightBlossomParticles = true
+	#Enable Hybiscus spores particles
+	enableHybiscusParticles = true
+	#Enable Swamp Moonpuff fireflies particles
+	enableSwampMoonpuffParticles = true
+	#Let Swamp Moonpuff fireflies spawn only at night
+	enableSwampMoonpuffNightOnly = true
+	#Enable Emberfall Blossom spores particles
+	enableEmberfallParticles = true
+

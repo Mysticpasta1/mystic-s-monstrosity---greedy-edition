@@ -1,0 +1,23 @@
+
+["Bone Meal Revival"]
+	#Enable bone meal use on Dead Bushes (turns into plants, crops, saplings, etc.)
+	enableDeadBush = true
+	#Enable bone meal use on Dirts (turns into grasses/mycelium/podzol)
+	enableDirt = true
+	#Enable bone meal use on Dead Coral (revives into living corals)
+	enableCoral = true
+	#Enable bone meal use on Netherrack (turns into Nyliums)
+	enableNetherrack = true
+	#Enable bone meal use on Sands (turns into Dirts)
+	enableSand = true
+	#Blocks that will not be selected when bone mealing Dirt
+	dirtBlacklist = []
+	#Blocks that will not be selected when bone mealing Netherrack
+	netherrackBlacklist = []
+	#Blocks that will not be selected when bone mealing a Dead Bush
+	deadBushBlacklist = []
+	#Blocks that will not be selected when bone mealing Sand
+	sandBlacklist = []
+	#Blocks that will not be selected when bone mealing Dead Corals
+	coralBlacklist = []
+

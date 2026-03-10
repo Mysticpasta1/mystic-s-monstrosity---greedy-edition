@@ -1,0 +1,10 @@
+
+["Configs for Buildify Mod"]
+	#Display Sorting Buttons?
+	display_sorting_buttons = true
+	#Display Hot Swap Sliders in Survival Inventory?
+	display_hot_swap_sliders = true
+	#Max range for Reach Distance key
+	#Range: 0 ~ 255
+	max_range = 127
+

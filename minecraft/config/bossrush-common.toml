@@ -1,0 +1,81 @@
+
+[Boss_Rush_Config]
+
+	#难度1配置
+	[Boss_Rush_Config.difficulty_1]
+		#这个定义的是难度1的boss
+		boss_01 = ["minecraft:zombie", "minecraft:skeleton", "minecraft:zombie"]
+		#这个定义的是boss在难度1血量到达50%召唤的固定小怪，注意要与上面的boss一一对应
+		littleboss_01 = ["minecraft:zombie", "minecraft:skeleton", "minecraft:zombie"]
+		#这个定义的是打败难度1boss的奖励，注意！！！要与上面的boss数量对应，三个boss就只能是三个物品
+		bonus_01 = ["minecraft:golden_apple", "minecraft:golden_apple", "minecraft:golden_apple"]
+		#这个定义的是奖励的的数量，要和上面的奖励一一对应
+		bonus_number_01 = [1, 1, 1]
+
+	#难度2配置
+	[Boss_Rush_Config.difficulty_2]
+		#这个定义的是难度2的boss
+		boss_02 = ["minecraft:zombie", "minecraft:skeleton", "minecraft:zombie"]
+		#这个定义的是boss在难度2血量到达50%召唤的固定小怪，注意要与上面的boss一一对应
+		littleboss_02 = ["minecraft:zombie", "minecraft:skeleton", "minecraft:zombie"]
+		#这个定义的是打败难度2boss的奖励，注意！！！要与上面的boss数量对应，三个boss就只能是三个物品
+		bonus_02 = ["minecraft:golden_apple", "minecraft:golden_apple", "minecraft:golden_apple"]
+		#这个定义的是奖励的的数量，要和上面的奖励一一对应
+		bonus_number_02 = [1, 1, 1]
+
+	#难度3配置
+	[Boss_Rush_Config.difficulty_3]
+		#这个定义的是难度3的boss
+		boss_03 = ["minecraft:zombie", "minecraft:skeleton", "minecraft:zombie"]
+		#这个定义的是boss在难度3血量到达50%召唤的固定小怪，注意要与上面的boss一一对应
+		littleboss_03 = ["minecraft:zombie", "minecraft:skeleton", "minecraft:zombie"]
+		#这个定义的是打败难度3boss的奖励，注意！！！要与上面的boss数量对应，三个boss就只能是三个物品
+		bonus_03 = ["minecraft:golden_apple", "minecraft:golden_apple", "minecraft:golden_apple"]
+		#这个定义的是奖励的的数量，要和上面的奖励一一对应
+		bonus_number_03 = [1, 1, 1]
+
+	#难度4配置
+	[Boss_Rush_Config.difficulty_4]
+		#这个定义的是难度4的boss
+		boss_04 = ["minecraft:zombie", "minecraft:skeleton", "minecraft:zombie"]
+		#这个定义的是boss在难度4血量到达50%召唤的固定小怪，注意要与上面的boss一一对应
+		littleboss_04 = ["minecraft:zombie", "minecraft:skeleton", "minecraft:zombie"]
+		#这个定义的是打败难度4boss的奖励，注意！！！要与上面的boss数量对应，三个boss就只能是三个物品
+		bonus_04 = ["minecraft:golden_apple", "minecraft:golden_apple", "minecraft:golden_apple"]
+		#这个定义的是奖励的的数量，要和上面的奖励一一对应
+		bonus_number_04 = [1, 1, 1]
+
+	#难度5配置
+	[Boss_Rush_Config.difficulty_5]
+		#这个定义的是难度5的boss,注意！！！难度五boss极其特殊，七天一轮换，一次只有一只
+		boss_05 = ["minecraft:zombie", "minecraft:skeleton", "minecraft:zombie"]
+		#这个定义的是打败难度5boss的奖励，注意！！！要与上面的boss数量对应，三个boss就只能是三个物品
+		bonus_05 = ["minecraft:golden_apple", "minecraft:golden_apple", "minecraft:golden_apple"]
+		#这个定义的是奖励的的数量，要和上面的奖励一一对应
+		bonus_number_05 = [1, 1, 1]
+
+	#其他配置
+	[Boss_Rush_Config.other]
+		#这个定义的是boss血量到达50%召唤的随机小怪，这个写多少都行
+		random_littleboss = ["minecraft:zombie", "minecraft:skeleton", "minecraft:zombie"]
+		#这个定义的是挑战者传送的位置
+		boss_Coordinates = [0, 0, 0]
+		#这个定义的是观众传送的位置(注意！！！观众的传送位置不要在场地的范围内)
+		audience_Coordinates = [10, 10, 10]
+		#这个定义的是场地的x,y,z的半径
+		bossrush_size = [15, 15, 15]
+		#这个定义的是五个难度的boss血量（在原有血量加算）
+		boss_healthy = [100, 300, 1000, 5000, 10000]
+		#这个定义的是五个难度的boss攻击力（在原有攻击上加算）
+		boss_attack = [0, 10, 20, 50, 100]
+		#这个定义的是前四个难度的小怪血量（在原有血量加算）
+		little_healthy = [20, 50, 100, 200]
+		#这个定义的是五个难度下多人模式boss的血量倍数（人数*该倍率*boss血量+boss基础血量=boss真实血量）
+		#第一个是难度1，第二个是难度2，三个是难度3，第四个是难度4（单人模式也受该倍率影响）
+		#注意！！！这个配置一定一定要用小数写（如1要写成1.0）
+		magnification = [0.8, 0.8, 0.8, 0.8, 0.8]
+		#这个定义的是前四个难度的小怪攻击力（在原有攻击上加算）
+		little_attack = [0, 5, 10, 20]
+		#这个定义的是boss召唤的间隔（以tick计算，20tick=1s）
+		tick = [100]
+

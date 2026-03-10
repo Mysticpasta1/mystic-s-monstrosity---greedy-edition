@@ -1,0 +1,74 @@
+[enderite]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.15
+fireResistant = true
+quiverSlots = 12
+
+[enderite.durability]
+toolDurability = 2777
+bowDurability = 871
+addedShieldDurability = 425
+
+[enderite.enchanting]
+offenseEnchantability = 25
+defenseEnchantability = 25
+
+[enderite.offense]
+addedAttackDamage = 5.0
+arrowDamage = 5.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 1
+velocityMultiplier = 4.5
+
+[enderite.defense]
+gauntletArmorAmount = 4
+armorToughness = 3.5
+knockbackResistance = 0.1
+baseProtectionAmmount = 7.0
+afterBasePercentReduction = 0.95
+
+[enderite.crafting]
+repairItem = ["enderite:enderite_ingot"]
+craftingItem = ""
+isSingleAddition = true
+onlyReplaceResource = ["Netherite"]
+smithingTemplate = "enderite:enderite_upgrade_smithing_template"
+[guilded_enderite]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.4
+fireResistant = true
+quiverSlots = 12
+
+[guilded_enderite.durability]
+toolDurability = 3000
+bowDurability = 900
+addedShieldDurability = 0
+
+[guilded_enderite.enchanting]
+offenseEnchantability = 30
+defenseEnchantability = 30
+
+[guilded_enderite.offense]
+addedAttackDamage = 5.5
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 1
+velocityMultiplier = 4.5
+
+[guilded_enderite.defense]
+gauntletArmorAmount = 4
+armorToughness = 4.0
+knockbackResistance = 0.2
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[guilded_enderite.crafting]
+repairItem = ["enderite:enderite_ingot"]
+craftingItem = ""
+isSingleAddition = true
+onlyReplaceResource = []
+smithingTemplate = "enderite:enderite_upgrade_smithing_template"

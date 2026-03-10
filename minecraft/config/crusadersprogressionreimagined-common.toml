@@ -1,0 +1,5 @@
+
+[General]
+	#Require an axe to get log drops
+	requireAxeForLogs = true
+

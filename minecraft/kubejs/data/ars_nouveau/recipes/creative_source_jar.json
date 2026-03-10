@@ -1,0 +1,36 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": true,
+  "output": {
+    "item": "ars_nouveau:creative_source_jar"
+  },
+  "pedestalItems": [
+    {
+      "item": "ars_nouveau:starby_gift"
+    },
+    {
+      "item": "ars_elemental:water_focus"
+    },
+    {
+      "item": "ars_elemental:air_focus"
+    },
+    {
+      "item": "ars_elemental:earth_focus"
+    },
+    {
+      "item": "ars_elemental:fire_focus"
+    },
+    {
+      "item": "ars_elemental:mark_of_mastery"
+    },
+    {
+      "item": "ars_nouveau:thread_starbuncle"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "kubejs:the_greedy_completion"
+    }
+  ],
+  "sourceCost": 1000
+}

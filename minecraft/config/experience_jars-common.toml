@@ -1,0 +1,5 @@
+#Amount of XP deposited at a time
+#Options: TEN (10 XP), HUNDRED (100 XP), FIVE_HUNDRED (500 XP), MAX (All XP)
+#Allowed Values: TEN, HUNDRED, FIVE_HUNDRED, MAX
+xpDepositAmount = "MAX"
+

@@ -1,0 +1,13 @@
+#Default box-select mode. false=replace, true=add
+defaultBoxSelectAdd = true
+#Extra blocked slot class names (fully qualified)
+extraBlockedSlotClassNames = []
+#Extra blocked slot simple class names
+extraBlockedSlotSimpleNames = []
+#Extra allowed slot class names (fully qualified)
+extraAllowedSlotClassNames = []
+#Extra allowed slot simple class names
+extraAllowedSlotSimpleNames = []
+#Extra blocked slot name keywords
+extraBlockedSlotNameKeywords = []
+

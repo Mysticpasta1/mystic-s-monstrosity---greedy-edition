@@ -1,0 +1,711 @@
+
+[dreamwoods_biome_colors]
+	#Dreamwoods Vanilla Biome Colors
+	#This config controls which Dreamwoods colors are applied to vanilla biomes.
+	#Each biome has individual toggles for each color type.
+	#Set a toggle to false to use vanilla default for that color in that biome.
+	#Master toggle: Set to false to disable ALL Dreamwoods colors
+	enableCustomColors = true
+
+	[dreamwoods_biome_colors.biomes]
+
+		[dreamwoods_biome_colors.biomes.badlands]
+			#Use Dreamwoods foliage color for badlands
+			foliage = true
+			#Use Dreamwoods grass color for badlands
+			grass = true
+			#Use Dreamwoods fog color for badlands
+			fog = true
+			#Use Dreamwoods sky color for badlands
+			sky = true
+			#Use Dreamwoods water color for badlands
+			water = true
+			#Use Dreamwoods water fog color for badlands
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.bamboo_jungle]
+			#Use Dreamwoods foliage color for bamboo_jungle
+			foliage = true
+			#Use Dreamwoods grass color for bamboo_jungle
+			grass = true
+			#Use Dreamwoods fog color for bamboo_jungle
+			fog = true
+			#Use Dreamwoods sky color for bamboo_jungle
+			sky = true
+			#Use Dreamwoods water color for bamboo_jungle
+			water = true
+			#Use Dreamwoods water fog color for bamboo_jungle
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.beach]
+			#Use Dreamwoods foliage color for beach
+			foliage = true
+			#Use Dreamwoods grass color for beach
+			grass = true
+			#Use Dreamwoods fog color for beach
+			fog = true
+			#Use Dreamwoods sky color for beach
+			sky = true
+			#Use Dreamwoods water color for beach
+			water = true
+			#Use Dreamwoods water fog color for beach
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.birch_forest]
+			#Use Dreamwoods foliage color for birch_forest
+			foliage = true
+			#Use Dreamwoods grass color for birch_forest
+			grass = true
+			#Use Dreamwoods fog color for birch_forest
+			fog = true
+			#Use Dreamwoods sky color for birch_forest
+			sky = true
+			#Use Dreamwoods water color for birch_forest
+			water = true
+			#Use Dreamwoods water fog color for birch_forest
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.cherry_grove]
+			#Use Dreamwoods foliage color for cherry_grove
+			foliage = true
+			#Use Dreamwoods grass color for cherry_grove
+			grass = true
+			#Use Dreamwoods fog color for cherry_grove
+			fog = true
+			#Use Dreamwoods sky color for cherry_grove
+			sky = true
+			#Use Dreamwoods water color for cherry_grove
+			water = true
+			#Use Dreamwoods water fog color for cherry_grove
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.cold_ocean]
+			#Use Dreamwoods foliage color for cold_ocean
+			foliage = true
+			#Use Dreamwoods grass color for cold_ocean
+			grass = true
+			#Use Dreamwoods fog color for cold_ocean
+			fog = true
+			#Use Dreamwoods sky color for cold_ocean
+			sky = true
+			#Use Dreamwoods water color for cold_ocean
+			water = true
+			#Use Dreamwoods water fog color for cold_ocean
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.dark_forest]
+			#Use Dreamwoods foliage color for dark_forest
+			foliage = true
+			#Use Dreamwoods grass color for dark_forest
+			grass = true
+			#Use Dreamwoods fog color for dark_forest
+			fog = true
+			#Use Dreamwoods sky color for dark_forest
+			sky = true
+			#Use Dreamwoods water color for dark_forest
+			water = true
+			#Use Dreamwoods water fog color for dark_forest
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.deep_cold_ocean]
+			#Use Dreamwoods foliage color for deep_cold_ocean
+			foliage = true
+			#Use Dreamwoods grass color for deep_cold_ocean
+			grass = true
+			#Use Dreamwoods fog color for deep_cold_ocean
+			fog = true
+			#Use Dreamwoods sky color for deep_cold_ocean
+			sky = true
+			#Use Dreamwoods water color for deep_cold_ocean
+			water = true
+			#Use Dreamwoods water fog color for deep_cold_ocean
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.deep_frozen_ocean]
+			#Use Dreamwoods foliage color for deep_frozen_ocean
+			foliage = true
+			#Use Dreamwoods grass color for deep_frozen_ocean
+			grass = true
+			#Use Dreamwoods fog color for deep_frozen_ocean
+			fog = true
+			#Use Dreamwoods sky color for deep_frozen_ocean
+			sky = true
+			#Use Dreamwoods water color for deep_frozen_ocean
+			water = true
+			#Use Dreamwoods water fog color for deep_frozen_ocean
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.deep_lukewarm_ocean]
+			#Use Dreamwoods foliage color for deep_lukewarm_ocean
+			foliage = true
+			#Use Dreamwoods grass color for deep_lukewarm_ocean
+			grass = true
+			#Use Dreamwoods fog color for deep_lukewarm_ocean
+			fog = true
+			#Use Dreamwoods sky color for deep_lukewarm_ocean
+			sky = true
+			#Use Dreamwoods water color for deep_lukewarm_ocean
+			water = true
+			#Use Dreamwoods water fog color for deep_lukewarm_ocean
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.deep_ocean]
+			#Use Dreamwoods foliage color for deep_ocean
+			foliage = true
+			#Use Dreamwoods grass color for deep_ocean
+			grass = true
+			#Use Dreamwoods fog color for deep_ocean
+			fog = true
+			#Use Dreamwoods sky color for deep_ocean
+			sky = true
+			#Use Dreamwoods water color for deep_ocean
+			water = true
+			#Use Dreamwoods water fog color for deep_ocean
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.desert]
+			#Use Dreamwoods foliage color for desert
+			foliage = true
+			#Use Dreamwoods grass color for desert
+			grass = true
+			#Use Dreamwoods fog color for desert
+			fog = true
+			#Use Dreamwoods sky color for desert
+			sky = true
+			#Use Dreamwoods water color for desert
+			water = true
+			#Use Dreamwoods water fog color for desert
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.eroded_badlands]
+			#Use Dreamwoods foliage color for eroded_badlands
+			foliage = true
+			#Use Dreamwoods grass color for eroded_badlands
+			grass = true
+			#Use Dreamwoods fog color for eroded_badlands
+			fog = true
+			#Use Dreamwoods sky color for eroded_badlands
+			sky = true
+			#Use Dreamwoods water color for eroded_badlands
+			water = true
+			#Use Dreamwoods water fog color for eroded_badlands
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.flower_forest]
+			#Use Dreamwoods foliage color for flower_forest
+			foliage = true
+			#Use Dreamwoods grass color for flower_forest
+			grass = true
+			#Use Dreamwoods fog color for flower_forest
+			fog = true
+			#Use Dreamwoods sky color for flower_forest
+			sky = true
+			#Use Dreamwoods water color for flower_forest
+			water = true
+			#Use Dreamwoods water fog color for flower_forest
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.forest]
+			#Use Dreamwoods foliage color for forest
+			foliage = true
+			#Use Dreamwoods grass color for forest
+			grass = true
+			#Use Dreamwoods fog color for forest
+			fog = true
+			#Use Dreamwoods sky color for forest
+			sky = true
+			#Use Dreamwoods water color for forest
+			water = true
+			#Use Dreamwoods water fog color for forest
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.frozen_ocean]
+			#Use Dreamwoods foliage color for frozen_ocean
+			foliage = true
+			#Use Dreamwoods grass color for frozen_ocean
+			grass = true
+			#Use Dreamwoods fog color for frozen_ocean
+			fog = true
+			#Use Dreamwoods sky color for frozen_ocean
+			sky = true
+			#Use Dreamwoods water color for frozen_ocean
+			water = true
+			#Use Dreamwoods water fog color for frozen_ocean
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.frozen_peaks]
+			#Use Dreamwoods foliage color for frozen_peaks
+			foliage = true
+			#Use Dreamwoods grass color for frozen_peaks
+			grass = true
+			#Use Dreamwoods fog color for frozen_peaks
+			fog = true
+			#Use Dreamwoods sky color for frozen_peaks
+			sky = true
+			#Use Dreamwoods water color for frozen_peaks
+			water = true
+			#Use Dreamwoods water fog color for frozen_peaks
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.frozen_river]
+			#Use Dreamwoods foliage color for frozen_river
+			foliage = true
+			#Use Dreamwoods grass color for frozen_river
+			grass = true
+			#Use Dreamwoods fog color for frozen_river
+			fog = true
+			#Use Dreamwoods sky color for frozen_river
+			sky = true
+			#Use Dreamwoods water color for frozen_river
+			water = true
+			#Use Dreamwoods water fog color for frozen_river
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.grove]
+			#Use Dreamwoods foliage color for grove
+			foliage = true
+			#Use Dreamwoods grass color for grove
+			grass = true
+			#Use Dreamwoods fog color for grove
+			fog = true
+			#Use Dreamwoods sky color for grove
+			sky = true
+			#Use Dreamwoods water color for grove
+			water = true
+			#Use Dreamwoods water fog color for grove
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.ice_spikes]
+			#Use Dreamwoods foliage color for ice_spikes
+			foliage = true
+			#Use Dreamwoods grass color for ice_spikes
+			grass = true
+			#Use Dreamwoods fog color for ice_spikes
+			fog = true
+			#Use Dreamwoods sky color for ice_spikes
+			sky = true
+			#Use Dreamwoods water color for ice_spikes
+			water = true
+			#Use Dreamwoods water fog color for ice_spikes
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.jagged_peaks]
+			#Use Dreamwoods foliage color for jagged_peaks
+			foliage = true
+			#Use Dreamwoods grass color for jagged_peaks
+			grass = true
+			#Use Dreamwoods fog color for jagged_peaks
+			fog = true
+			#Use Dreamwoods sky color for jagged_peaks
+			sky = true
+			#Use Dreamwoods water color for jagged_peaks
+			water = true
+			#Use Dreamwoods water fog color for jagged_peaks
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.jungle]
+			#Use Dreamwoods foliage color for jungle
+			foliage = true
+			#Use Dreamwoods grass color for jungle
+			grass = true
+			#Use Dreamwoods fog color for jungle
+			fog = true
+			#Use Dreamwoods sky color for jungle
+			sky = true
+			#Use Dreamwoods water color for jungle
+			water = true
+			#Use Dreamwoods water fog color for jungle
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.lukewarm_ocean]
+			#Use Dreamwoods foliage color for lukewarm_ocean
+			foliage = true
+			#Use Dreamwoods grass color for lukewarm_ocean
+			grass = true
+			#Use Dreamwoods fog color for lukewarm_ocean
+			fog = true
+			#Use Dreamwoods sky color for lukewarm_ocean
+			sky = true
+			#Use Dreamwoods water color for lukewarm_ocean
+			water = true
+			#Use Dreamwoods water fog color for lukewarm_ocean
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.mangrove_swamp]
+			#Use Dreamwoods foliage color for mangrove_swamp
+			foliage = true
+			#Use Dreamwoods grass color for mangrove_swamp
+			grass = true
+			#Use Dreamwoods fog color for mangrove_swamp
+			fog = true
+			#Use Dreamwoods sky color for mangrove_swamp
+			sky = true
+			#Use Dreamwoods water color for mangrove_swamp
+			water = true
+			#Use Dreamwoods water fog color for mangrove_swamp
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.meadow]
+			#Use Dreamwoods foliage color for meadow
+			foliage = true
+			#Use Dreamwoods grass color for meadow
+			grass = true
+			#Use Dreamwoods fog color for meadow
+			fog = true
+			#Use Dreamwoods sky color for meadow
+			sky = true
+			#Use Dreamwoods water color for meadow
+			water = true
+			#Use Dreamwoods water fog color for meadow
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.mushroom_fields]
+			#Use Dreamwoods foliage color for mushroom_fields
+			foliage = true
+			#Use Dreamwoods grass color for mushroom_fields
+			grass = true
+			#Use Dreamwoods fog color for mushroom_fields
+			fog = true
+			#Use Dreamwoods sky color for mushroom_fields
+			sky = true
+			#Use Dreamwoods water color for mushroom_fields
+			water = true
+			#Use Dreamwoods water fog color for mushroom_fields
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.ocean]
+			#Use Dreamwoods foliage color for ocean
+			foliage = true
+			#Use Dreamwoods grass color for ocean
+			grass = true
+			#Use Dreamwoods fog color for ocean
+			fog = true
+			#Use Dreamwoods sky color for ocean
+			sky = true
+			#Use Dreamwoods water color for ocean
+			water = true
+			#Use Dreamwoods water fog color for ocean
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.old_growth_birch_forest]
+			#Use Dreamwoods foliage color for old_growth_birch_forest
+			foliage = true
+			#Use Dreamwoods grass color for old_growth_birch_forest
+			grass = true
+			#Use Dreamwoods fog color for old_growth_birch_forest
+			fog = true
+			#Use Dreamwoods sky color for old_growth_birch_forest
+			sky = true
+			#Use Dreamwoods water color for old_growth_birch_forest
+			water = true
+			#Use Dreamwoods water fog color for old_growth_birch_forest
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.old_growth_pine_taiga]
+			#Use Dreamwoods foliage color for old_growth_pine_taiga
+			foliage = true
+			#Use Dreamwoods grass color for old_growth_pine_taiga
+			grass = true
+			#Use Dreamwoods fog color for old_growth_pine_taiga
+			fog = true
+			#Use Dreamwoods sky color for old_growth_pine_taiga
+			sky = true
+			#Use Dreamwoods water color for old_growth_pine_taiga
+			water = true
+			#Use Dreamwoods water fog color for old_growth_pine_taiga
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.old_growth_spruce_taiga]
+			#Use Dreamwoods foliage color for old_growth_spruce_taiga
+			foliage = true
+			#Use Dreamwoods grass color for old_growth_spruce_taiga
+			grass = true
+			#Use Dreamwoods fog color for old_growth_spruce_taiga
+			fog = true
+			#Use Dreamwoods sky color for old_growth_spruce_taiga
+			sky = true
+			#Use Dreamwoods water color for old_growth_spruce_taiga
+			water = true
+			#Use Dreamwoods water fog color for old_growth_spruce_taiga
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.plains]
+			#Use Dreamwoods foliage color for plains
+			foliage = true
+			#Use Dreamwoods grass color for plains
+			grass = true
+			#Use Dreamwoods fog color for plains
+			fog = true
+			#Use Dreamwoods sky color for plains
+			sky = true
+			#Use Dreamwoods water color for plains
+			water = true
+			#Use Dreamwoods water fog color for plains
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.river]
+			#Use Dreamwoods foliage color for river
+			foliage = true
+			#Use Dreamwoods grass color for river
+			grass = true
+			#Use Dreamwoods fog color for river
+			fog = true
+			#Use Dreamwoods sky color for river
+			sky = true
+			#Use Dreamwoods water color for river
+			water = true
+			#Use Dreamwoods water fog color for river
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.savanna]
+			#Use Dreamwoods foliage color for savanna
+			foliage = true
+			#Use Dreamwoods grass color for savanna
+			grass = true
+			#Use Dreamwoods fog color for savanna
+			fog = true
+			#Use Dreamwoods sky color for savanna
+			sky = true
+			#Use Dreamwoods water color for savanna
+			water = true
+			#Use Dreamwoods water fog color for savanna
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.savanna_plateau]
+			#Use Dreamwoods foliage color for savanna_plateau
+			foliage = true
+			#Use Dreamwoods grass color for savanna_plateau
+			grass = true
+			#Use Dreamwoods fog color for savanna_plateau
+			fog = true
+			#Use Dreamwoods sky color for savanna_plateau
+			sky = true
+			#Use Dreamwoods water color for savanna_plateau
+			water = true
+			#Use Dreamwoods water fog color for savanna_plateau
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.snowy_beach]
+			#Use Dreamwoods foliage color for snowy_beach
+			foliage = true
+			#Use Dreamwoods grass color for snowy_beach
+			grass = true
+			#Use Dreamwoods fog color for snowy_beach
+			fog = true
+			#Use Dreamwoods sky color for snowy_beach
+			sky = true
+			#Use Dreamwoods water color for snowy_beach
+			water = true
+			#Use Dreamwoods water fog color for snowy_beach
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.snowy_plains]
+			#Use Dreamwoods foliage color for snowy_plains
+			foliage = true
+			#Use Dreamwoods grass color for snowy_plains
+			grass = true
+			#Use Dreamwoods fog color for snowy_plains
+			fog = true
+			#Use Dreamwoods sky color for snowy_plains
+			sky = true
+			#Use Dreamwoods water color for snowy_plains
+			water = true
+			#Use Dreamwoods water fog color for snowy_plains
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.snowy_slopes]
+			#Use Dreamwoods foliage color for snowy_slopes
+			foliage = true
+			#Use Dreamwoods grass color for snowy_slopes
+			grass = true
+			#Use Dreamwoods fog color for snowy_slopes
+			fog = true
+			#Use Dreamwoods sky color for snowy_slopes
+			sky = true
+			#Use Dreamwoods water color for snowy_slopes
+			water = true
+			#Use Dreamwoods water fog color for snowy_slopes
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.snowy_taiga]
+			#Use Dreamwoods foliage color for snowy_taiga
+			foliage = true
+			#Use Dreamwoods grass color for snowy_taiga
+			grass = true
+			#Use Dreamwoods fog color for snowy_taiga
+			fog = true
+			#Use Dreamwoods sky color for snowy_taiga
+			sky = true
+			#Use Dreamwoods water color for snowy_taiga
+			water = true
+			#Use Dreamwoods water fog color for snowy_taiga
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.sparse_jungle]
+			#Use Dreamwoods foliage color for sparse_jungle
+			foliage = true
+			#Use Dreamwoods grass color for sparse_jungle
+			grass = true
+			#Use Dreamwoods fog color for sparse_jungle
+			fog = true
+			#Use Dreamwoods sky color for sparse_jungle
+			sky = true
+			#Use Dreamwoods water color for sparse_jungle
+			water = true
+			#Use Dreamwoods water fog color for sparse_jungle
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.stony_peaks]
+			#Use Dreamwoods foliage color for stony_peaks
+			foliage = true
+			#Use Dreamwoods grass color for stony_peaks
+			grass = true
+			#Use Dreamwoods fog color for stony_peaks
+			fog = true
+			#Use Dreamwoods sky color for stony_peaks
+			sky = true
+			#Use Dreamwoods water color for stony_peaks
+			water = true
+			#Use Dreamwoods water fog color for stony_peaks
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.stony_shore]
+			#Use Dreamwoods foliage color for stony_shore
+			foliage = true
+			#Use Dreamwoods grass color for stony_shore
+			grass = true
+			#Use Dreamwoods fog color for stony_shore
+			fog = true
+			#Use Dreamwoods sky color for stony_shore
+			sky = true
+			#Use Dreamwoods water color for stony_shore
+			water = true
+			#Use Dreamwoods water fog color for stony_shore
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.sunflower_plains]
+			#Use Dreamwoods foliage color for sunflower_plains
+			foliage = true
+			#Use Dreamwoods grass color for sunflower_plains
+			grass = true
+			#Use Dreamwoods fog color for sunflower_plains
+			fog = true
+			#Use Dreamwoods sky color for sunflower_plains
+			sky = true
+			#Use Dreamwoods water color for sunflower_plains
+			water = true
+			#Use Dreamwoods water fog color for sunflower_plains
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.swamp]
+			#Use Dreamwoods foliage color for swamp
+			foliage = true
+			#Use Dreamwoods grass color for swamp
+			grass = true
+			#Use Dreamwoods fog color for swamp
+			fog = true
+			#Use Dreamwoods sky color for swamp
+			sky = true
+			#Use Dreamwoods water color for swamp
+			water = true
+			#Use Dreamwoods water fog color for swamp
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.taiga]
+			#Use Dreamwoods foliage color for taiga
+			foliage = true
+			#Use Dreamwoods grass color for taiga
+			grass = true
+			#Use Dreamwoods fog color for taiga
+			fog = true
+			#Use Dreamwoods sky color for taiga
+			sky = true
+			#Use Dreamwoods water color for taiga
+			water = true
+			#Use Dreamwoods water fog color for taiga
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.warm_ocean]
+			#Use Dreamwoods foliage color for warm_ocean
+			foliage = true
+			#Use Dreamwoods grass color for warm_ocean
+			grass = true
+			#Use Dreamwoods fog color for warm_ocean
+			fog = true
+			#Use Dreamwoods sky color for warm_ocean
+			sky = true
+			#Use Dreamwoods water color for warm_ocean
+			water = true
+			#Use Dreamwoods water fog color for warm_ocean
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.windswept_forest]
+			#Use Dreamwoods foliage color for windswept_forest
+			foliage = true
+			#Use Dreamwoods grass color for windswept_forest
+			grass = true
+			#Use Dreamwoods fog color for windswept_forest
+			fog = true
+			#Use Dreamwoods sky color for windswept_forest
+			sky = true
+			#Use Dreamwoods water color for windswept_forest
+			water = true
+			#Use Dreamwoods water fog color for windswept_forest
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.windswept_gravelly_hills]
+			#Use Dreamwoods foliage color for windswept_gravelly_hills
+			foliage = true
+			#Use Dreamwoods grass color for windswept_gravelly_hills
+			grass = true
+			#Use Dreamwoods fog color for windswept_gravelly_hills
+			fog = true
+			#Use Dreamwoods sky color for windswept_gravelly_hills
+			sky = true
+			#Use Dreamwoods water color for windswept_gravelly_hills
+			water = true
+			#Use Dreamwoods water fog color for windswept_gravelly_hills
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.windswept_hills]
+			#Use Dreamwoods foliage color for windswept_hills
+			foliage = true
+			#Use Dreamwoods grass color for windswept_hills
+			grass = true
+			#Use Dreamwoods fog color for windswept_hills
+			fog = true
+			#Use Dreamwoods sky color for windswept_hills
+			sky = true
+			#Use Dreamwoods water color for windswept_hills
+			water = true
+			#Use Dreamwoods water fog color for windswept_hills
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.windswept_savanna]
+			#Use Dreamwoods foliage color for windswept_savanna
+			foliage = true
+			#Use Dreamwoods grass color for windswept_savanna
+			grass = true
+			#Use Dreamwoods fog color for windswept_savanna
+			fog = true
+			#Use Dreamwoods sky color for windswept_savanna
+			sky = true
+			#Use Dreamwoods water color for windswept_savanna
+			water = true
+			#Use Dreamwoods water fog color for windswept_savanna
+			water_fog = true
+
+		[dreamwoods_biome_colors.biomes.wooded_badlands]
+			#Use Dreamwoods foliage color for wooded_badlands
+			foliage = true
+			#Use Dreamwoods grass color for wooded_badlands
+			grass = true
+			#Use Dreamwoods fog color for wooded_badlands
+			fog = true
+			#Use Dreamwoods sky color for wooded_badlands
+			sky = true
+			#Use Dreamwoods water color for wooded_badlands
+			water = true
+			#Use Dreamwoods water fog color for wooded_badlands
+			water_fog = true
+

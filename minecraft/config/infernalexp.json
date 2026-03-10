@@ -1,0 +1,20 @@
+{
+  "client": {},
+  "common": {
+    "geyser": {
+      "geyserSteamHeight": 8
+    },
+    "voline": {
+      "volineTurnIntoGeyser": true,
+      "volineSleepWhenFed": true,
+      "volineGetBig": true,
+      "volineMagmaCreamAmount": 3
+    },
+    "miscellaneous": {
+      "luminousFungusActivateDistance": 4.0
+    },
+    "mobInteractions": {
+      "glowsilkBowSpeed": 1.0
+    }
+  }
+}

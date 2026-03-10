@@ -1,0 +1,10 @@
+{
+  "name": "This is a Enchanted",
+  "colors": [
+    "caccda",
+    "9a9ca6"
+  ],
+  "ingredient": {
+    "tag": "forge:ores/lapis"
+  }
+}

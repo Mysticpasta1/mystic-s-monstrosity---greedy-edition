@@ -1,0 +1,12 @@
+
+["Item Recharge General Settings"]
+	#Time in seconds to wait before recharging starts after the item hits 0 durability.
+	#Range: 1 ~ 3600
+	WaitTimeSeconds = 30
+	#Time in seconds to fully recharge the item from 0% to 100%.
+	#Range: 10 ~ 86400
+	FullRechargeSeconds = 450
+	#Time in seconds to pause recharging if the item is used during the recharge cycle.
+	#Range: 1 ~ 3600
+	PauseTimeSeconds = 30
+

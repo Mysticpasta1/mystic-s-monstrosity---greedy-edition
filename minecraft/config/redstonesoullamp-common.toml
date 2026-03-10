@@ -1,0 +1,5 @@
+
+[soul_speed]
+	#If true, a lit Soul Redstone Lamp is treated as a valid block for Soul Speed.
+	litSoulRedstoneLampAsSoulSpeedBlock = true
+

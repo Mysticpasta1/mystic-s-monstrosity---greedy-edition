@@ -1,0 +1,9 @@
+#Enable Firework Dynamic Light
+enableMod = true
+#Light level for fireworks (0-15)
+#Range: 0 ~ 15
+lightLevel = 9
+#Light update interval in ticks (lower = more responsive, higher = better performance)
+#Range: 1 ~ 10
+updateInterval = 2
+
