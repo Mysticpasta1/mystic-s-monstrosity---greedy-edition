@@ -23,4 +23,6 @@
 	showFoodValuesHudOverlayWhenOffhand = true
 	#The colors to use for the saturation HUD overlay. The colors are in ARGB hex format.
 	saturationHudOverlayColors = ["#FFD500", "#FF0000", "#0000FF", "#E600FF", "#FF8B3D", "#00FFFF", "#45018F", "#00FF00"]
+	#If true, shows the numerical value of your current saturation level
+	showSaturationTextHudOverlay = true
 

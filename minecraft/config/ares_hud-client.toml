@@ -31,21 +31,21 @@
 		flaskEnabledDefault = true
 
 	[properties.Layout_HOTBAR_1X9]
-		hotbar1x9Properties = "0.3548009396,0.9342105389,0.7815815210"
-		offhand1x9Properties = "0.3056206107,0.9320175648,0.7824444175"
+		hotbar1x9Properties = "0.3911007047,0.9429824352,0.5591058731"
+		offhand1x9Properties = "0.3571428657,0.9407894611,0.5599687696"
 		centerHud1x9Properties = "0.3524590135,0.8223684430,0.6702424288"
-		xpBar1x9Properties = "0.4742388725,0.8223684430,0.7109642625"
-		statusValueBar1x9Properties = "0.3688524663,0.8969298005,0.7747759223"
+		xpBar1x9Properties = "0.6873536110,0.8179824352,1.3227721453"
+		statusValueBar1x9Properties = "0.3770491779,0.7807017565,0.7747759223"
 		1x9MainHandOffsets = "1,1,0,0"
-		hotbarEnabled = true
-		centerHudEnabled = true
-		xpBarEnabled = true
-		statusValueBarEnabled = true
-		offhandEnabled = true
-		healthBarEnabled = true
-		foodBarEnabled = true
-		staminaBarEnabled = true
-		armorBarEnabled = true
+		hotbarEnabled = false
+		centerHudEnabled = false
+		xpBarEnabled = false
+		statusValueBarEnabled = false
+		offhandEnabled = false
+		healthBarEnabled = false
+		foodBarEnabled = false
+		staminaBarEnabled = false
+		armorBarEnabled = false
 		#Range: 0 ~ 50
 		statusHorizontalPadding = 17
 		#Range: 0 ~ 50

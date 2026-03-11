@@ -140,10 +140,10 @@ tickRaidersInRaid = true
 ite = false
 
 ## Horizontal Range
-horizontalRange = 256
+horizontalRange = 80
 
 ## Vertical Range
-verticalRange = 256
+verticalRange = 114
 
 ## Entity Whitelist
 entityWhitelist = ["minecraft:ender_dragon"]

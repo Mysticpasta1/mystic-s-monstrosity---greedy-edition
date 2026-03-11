@@ -726,17 +726,6 @@
         "value": 2048
       }
     },
-    "epicfight:weight": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "attributeslib:overheal": {
       "enabled": false,
       "min": {
@@ -746,6 +735,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "epicfight:weight": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "attributeslib:healing_received": {
@@ -1826,17 +1826,6 @@
         "value": 2048
       }
     },
-    "epicfight:offhand_impact": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "caverns_and_chasms:magic_damage": {
       "enabled": false,
       "min": {
@@ -1846,6 +1835,17 @@
       "max": {
         "default": 30,
         "value": 30
+      }
+    },
+    "epicfight:offhand_impact": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "minecraft:zombie.spawn_reinforcements": {
@@ -2035,17 +2035,6 @@
         "value": 1024
       }
     },
-    "epicfight:staminar": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "tconstruct:generic.safe_fall_distance": {
       "enabled": false,
       "min": {
@@ -2055,6 +2044,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "epicfight:staminar": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "simple_absorption:absorption_efficiency": {

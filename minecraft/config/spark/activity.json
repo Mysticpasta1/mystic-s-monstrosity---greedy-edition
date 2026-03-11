@@ -5,6 +5,19 @@
       "name": "Mysticpasta1",
       "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
     },
+    "time": 1773215611009,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/xyiR4BM4YH"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
     "time": 1772636224446,
     "type": "Profiler",
     "data": {
