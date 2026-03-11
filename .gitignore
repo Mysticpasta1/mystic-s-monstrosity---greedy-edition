@@ -42,6 +42,7 @@ desktop.ini
 *.bak
 
 # Temp files
+
 *.tmp
 minecraft/.lazyyyyy/
 minecraft/.oauth-account-manager/accounts.mcoauth
@@ -68,3 +69,4 @@ minecraft/resourcepacks/
 minecraft/rhino.local.properties
 minecraft/screenshots/2026-03-09_19.55.01.png
 minecraft/seamless.txt
+minecraft/fancymenu_data/
