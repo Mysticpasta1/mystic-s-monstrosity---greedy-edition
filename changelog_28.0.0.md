@@ -1122,6 +1122,7 @@
 - Metal Bundles
 - Metal Works
 - MetalBarrels
+- Microsoft SQL JDBC (Fabric/Forge)
 - MidnightLib
 - Mineable/Minable AllTheModium Ores
 - Mineblock's Repeated Utilities
@@ -1202,7 +1203,6 @@
 - Moyai
 - Moyai structure
 - MrCrayfish's Furniture Mod: Refurbished
-- mssql-jdbc-10.2.0.jre8+20220312-all
 - Multi-Piston
 - Mushroom Survival House
 - Music Box
