@@ -1,5 +1,0 @@
-
-[Common]
-	#Determines whether wart blocks will drop loot when they decay
-	doWartDrops = false
-

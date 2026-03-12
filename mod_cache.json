@@ -8182,11 +8182,11 @@
     "PreferredReleaseChannel": 1,
     "SideType": 0,
     "DateAdded": "2026-03-07T19:17:45.497466Z",
-    "HasUpdate": false,
-    "LatestVersion": null,
-    "LatestFileName": null,
-    "LatestDownloadUrl": null,
-    "LastUpdateCheck": null,
+    "HasUpdate": true,
+    "LatestVersion": "1.20.1",
+    "LatestFileName": "ancientstructures-forge-1.20.1-0.0.14.jar",
+    "LatestDownloadUrl": "https://edge.forgecdn.net/files/7747/114/ancientstructures-forge-1.20.1-0.0.14.jar",
+    "LastUpdateCheck": "2026-03-12T22:01:31.7257764Z",
     "DownloadSource": null
   },
   {

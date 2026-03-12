@@ -1,6 +1,0 @@
-
-#Client
-[client]
-	#Use fancy render type for hollers
-	glowy_render_type = false
-

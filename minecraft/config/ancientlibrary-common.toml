@@ -1,6 +1,0 @@
-#The amount of enchanting power this bookshelf should give.
-#In vanilla, you only need a power of 15 for Level 30 enchantments.
-#(Default: 15)
-#Range: > 0
-bookshelfPower = 15
-

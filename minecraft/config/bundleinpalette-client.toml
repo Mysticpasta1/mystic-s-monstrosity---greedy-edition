@@ -1,5 +1,0 @@
-
-[client]
-	#If true, dyed bundles tint their tooltip background to match their color.
-	dyedBundleTooltipColors = false
-

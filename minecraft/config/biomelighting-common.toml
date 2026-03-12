@@ -1,3 +1,0 @@
-#Should biome sky lighting be enabled for biomes with the minecraft namespace? This will not effect modded biomes.
-enableVanillaBiomeSkyLighting = true
-

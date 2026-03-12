@@ -1,2 +1,0 @@
-examplemod:example_effect#15182205
-examplemod:another_effect#12207722

@@ -1,4 +1,0 @@
-#How far from a vengeance spirit spawn point we search for players wearing the Evil Eye Curio.
-#Range: 0.0 ~ 256.0
-vengeanceCheckRadius = 48.0
-

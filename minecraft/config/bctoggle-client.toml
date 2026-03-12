@@ -1,3 +1,0 @@
-#If true, Better Combat is enabled on the client. If false, we force vanilla combat by disabling Better Combat.
-betterCombatEnabled = true
-

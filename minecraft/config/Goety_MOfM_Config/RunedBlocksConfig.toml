@@ -1,8 +1,0 @@
-
-[runed_lazethyst]
-	#Blacklist dei focus NON inseribili nel Runed Lazethyst Block.
-	#Formato: <modid>:<item_name>
-	#Esempio: goety:corruption_focus
-	#La lista è estendibile da modpack o altre mod.
-	focus_blacklist = ["goety:corruption_focus", "goety:sword_focus", "goety:thunderstorm_focus", "goety:rupture_focus", "goety:skull_focus", "goety:stellar_focus", "goety:feast_focus", "goety:quaking_focus", "goety:trident_storm_focus"]
-

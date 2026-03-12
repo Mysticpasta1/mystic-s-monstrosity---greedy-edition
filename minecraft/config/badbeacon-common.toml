@@ -1,3 +1,0 @@
-#Determines whether Bad Beacons can affect all living entities. If Enabled, anything that is a 'living entity' can be targeted.
-affectAllEntities = false
-
