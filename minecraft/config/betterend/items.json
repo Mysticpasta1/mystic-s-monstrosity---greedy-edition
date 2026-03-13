@@ -46,6 +46,12 @@
     "shadow_berry_cooked [default: true]": true,
     "end_fish_raw [default: true]": true,
     "end_fish_cooked [default: true]": true,
+    "spawn_egg_dragonfly [default: true]": true,
+    "spawn_egg_end_slime [default: true]": true,
+    "spawn_egg_end_fish [default: true]": true,
+    "spawn_egg_shadow_walker [default: true]": true,
+    "spawn_egg_cubozoa [default: true]": true,
+    "spawn_egg_silk_moth [default: true]": true,
     "bucket_end_fish [default: true]": true,
     "bucket_cubozoa [default: true]": true,
     "sweet_berry_jelly [default: true]": true,
@@ -85,13 +91,7 @@
     "terminite_sword_blade [default: true]": true,
     "terminite_sword_handle [default: true]": true,
     "terminite_forged_plate [default: true]": true,
-    "guidebook [default: true]": true,
-    "spawn_egg_dragonfly [default: true]": true,
-    "spawn_egg_end_slime [default: true]": true,
-    "spawn_egg_end_fish [default: true]": true,
-    "spawn_egg_shadow_walker [default: true]": true,
-    "spawn_egg_cubozoa [default: true]": true,
-    "spawn_egg_silk_moth [default: true]": true
+    "guidebook [default: true]": true
   },
   "musicDiscs": {
     "music_disc_strange_and_alien [default: true]": true,
@@ -123,6 +123,14 @@
     "terminite_hoe [default: true]": true,
     "terminite_hammer [default: true]": true
   },
+  "spawnEggs": {
+    "spawn_egg_dragonfly [default: true]": true,
+    "spawn_egg_end_slime [default: true]": true,
+    "spawn_egg_end_fish [default: true]": true,
+    "spawn_egg_shadow_walker [default: true]": true,
+    "spawn_egg_cubozoa [default: true]": true,
+    "spawn_egg_silk_moth [default: true]": true
+  },
   "armour": {
     "thallasium_helmet [default: true]": true,
     "thallasium_chestplate [default: true]": true,
@@ -132,13 +140,5 @@
     "terminite_chestplate [default: true]": true,
     "terminite_leggings [default: true]": true,
     "terminite_boots [default: true]": true
-  },
-  "spawnEggs": {
-    "spawn_egg_dragonfly [default: true]": true,
-    "spawn_egg_end_slime [default: true]": true,
-    "spawn_egg_end_fish [default: true]": true,
-    "spawn_egg_shadow_walker [default: true]": true,
-    "spawn_egg_cubozoa [default: true]": true,
-    "spawn_egg_silk_moth [default: true]": true
   }
 }

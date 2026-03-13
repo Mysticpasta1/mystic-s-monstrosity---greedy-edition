@@ -1,10 +1,6 @@
 {
   "generator": {
     "world": {
-      "cities": {
-        "distance [default: 64]": 64,
-        "overworld [default: false]": false
-      },
       "ores": {
         "cincinnasite": {
           "vein_count [default: 10]": 10,
@@ -41,6 +37,10 @@
           "vein_size [default: 16]": 16,
           "air_discard_chance [default: 0.3]": 0.3
         }
+      },
+      "cities": {
+        "distance [default: 64]": 64,
+        "overworld [default: false]": false
       }
     }
   }
