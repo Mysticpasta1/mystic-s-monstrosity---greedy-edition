@@ -1,0 +1,7 @@
+
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "snowyspirit:item/sleds/wildfields/sled_trembling_aspen"
+  }
+}

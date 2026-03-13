@@ -1,0 +1,7 @@
+
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "snowyspirit:item/sleds/aether_redux/sled_glacia"
+  }
+}
