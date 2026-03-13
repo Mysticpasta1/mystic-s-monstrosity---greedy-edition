@@ -1,0 +1,27 @@
+
+[general]
+	#Number of fireflies
+	#Range: 0 ~ 8000
+	fireflyCount = 30
+	#Movement speed
+	#Range: 0.1 ~ 20.0
+	speed = 3.5
+	#Firefly color in HEX
+	color = "#CCFF00"
+	#Enable Rainbow (RGB) mode
+	rainbowMode = false
+	#Background opacity %
+	#Range: 0 ~ 100
+	backgroundOpacity = 0
+	#Shape
+	#Allowed Values: SQUARE, ROUND
+	glowShape = "ROUND"
+	#Min size
+	#Range: 0.1 ~ 5.0
+	scaleMin = 0.75
+	#Max size
+	#Range: 0.1 ~ 5.0
+	scaleMax = 1.4
+	#Render in inventory
+	renderInInventory = false
+

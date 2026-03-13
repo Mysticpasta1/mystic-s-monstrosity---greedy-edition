@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/outer_end/polished_azure_stem",
+    "side": "condiments:block/outer_end/polished_azure_stem"
+  }
+}

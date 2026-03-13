@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "silentgear:block/stripped_netherwood_log",
+    "post": "silentgear:block/netherwood_log"
+  }
+}

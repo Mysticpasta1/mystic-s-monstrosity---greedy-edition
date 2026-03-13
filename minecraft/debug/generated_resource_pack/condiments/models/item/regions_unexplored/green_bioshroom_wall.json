@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "regions_unexplored:block/stripped_green_bioshroom_stem",
+    "post": "regions_unexplored:block/green_bioshroom_stem"
+  }
+}

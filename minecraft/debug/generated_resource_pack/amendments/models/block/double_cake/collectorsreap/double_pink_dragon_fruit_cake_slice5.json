@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice5_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "collectorsreap:block/pink_dragon_fruit_cake_side",
+		"top_up": "collectorsreap:block/pink_dragon_fruit_cake_top",
+		"inner": "collectorsreap:block/pink_dragon_fruit_cake_inner",
+		"bottom": "collectorsreap:block/pink_dragon_fruit_cake_bottom",
+		"top": "collectorsreap:block/pink_dragon_fruit_cake_top",
+		"particle": "collectorsreap:block/pink_dragon_fruit_cake_side",
+		"side": "collectorsreap:block/pink_dragon_fruit_cake_side"
+	}
+
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_z",
+  "textures": {
+    "end": "condiments:block/betterend/polished_lacugrove_log_top",
+    "side": "condiments:block/betterend/polished_lacugrove_log"
+  }
+}

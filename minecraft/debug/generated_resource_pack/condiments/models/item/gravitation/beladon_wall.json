@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "gravitation:block/natural/stripped_beladon_log",
+    "post": "gravitation:block/natural/beladon_log"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/accent",
+  "textures": {
+    "texture": "condiments:block/enhanced_mushrooms/mushroom_accent"
+  }
+}

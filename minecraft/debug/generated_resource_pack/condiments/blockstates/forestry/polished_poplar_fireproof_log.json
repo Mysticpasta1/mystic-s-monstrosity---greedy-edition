@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/forestry/polished_poplar_fireproof_log_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/forestry/polished_poplar_fireproof_log_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/forestry/polished_poplar_fireproof_log_z"
+    }
+  }
+}

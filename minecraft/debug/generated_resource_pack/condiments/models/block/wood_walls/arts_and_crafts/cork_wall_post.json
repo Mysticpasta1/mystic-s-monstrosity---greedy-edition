@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_post_inflate",
+  "textures": {
+    "wall": "arts_and_crafts:block/cork_log"
+  }
+}

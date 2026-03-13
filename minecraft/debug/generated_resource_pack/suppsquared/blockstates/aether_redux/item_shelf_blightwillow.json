@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/aether_redux/blightwillow"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/aether_redux/blightwillow",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/aether_redux/blightwillow",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/aether_redux/blightwillow",
+      "y": 270
+    }
+  }
+}

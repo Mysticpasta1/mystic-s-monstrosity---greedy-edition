@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "natures_spirit:block/stripped_ghaf_log",
+    "post": "natures_spirit:block/ghaf_log"
+  }
+}

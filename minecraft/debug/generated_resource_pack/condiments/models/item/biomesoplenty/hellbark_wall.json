@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "biomesoplenty:block/stripped_hellbark_log",
+    "post": "biomesoplenty:block/hellbark_log"
+  }
+}

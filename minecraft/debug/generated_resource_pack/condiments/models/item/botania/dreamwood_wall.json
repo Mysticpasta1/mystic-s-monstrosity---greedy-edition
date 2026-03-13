@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "botania:block/stripped_dreamwood_log",
+    "post": "botania:block/dreamwood_log_2"
+  }
+}

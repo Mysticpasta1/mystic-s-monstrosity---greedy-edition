@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/betterend/polished_dragon_tree_bark_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/betterend/polished_dragon_tree_bark_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/betterend/polished_dragon_tree_bark_z"
+    }
+  }
+}

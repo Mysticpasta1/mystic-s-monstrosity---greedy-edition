@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "regions_unexplored:block/stripped_redwood_log",
+    "post": "regions_unexplored:block/redwood_log_2"
+  }
+}

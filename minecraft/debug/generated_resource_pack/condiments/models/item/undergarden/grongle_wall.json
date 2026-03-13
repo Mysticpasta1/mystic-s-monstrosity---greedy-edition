@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "undergarden:block/stripped_grongle_log_end",
+    "post": "undergarden:block/grongle_log_end"
+  }
+}

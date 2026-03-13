@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/deep_aether/polished_roseroot_log",
+    "side": "condiments:block/deep_aether/polished_roseroot_log"
+  }
+}

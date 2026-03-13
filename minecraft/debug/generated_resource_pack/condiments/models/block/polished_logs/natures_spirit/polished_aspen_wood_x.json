@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_x",
+  "textures": {
+    "end": "condiments:block/natures_spirit/polished_aspen_log",
+    "side": "condiments:block/natures_spirit/polished_aspen_log"
+  }
+}

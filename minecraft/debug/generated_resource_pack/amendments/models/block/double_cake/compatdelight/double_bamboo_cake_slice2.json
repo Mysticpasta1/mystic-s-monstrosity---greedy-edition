@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice2_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "compatdelight:block/bamboodelight/bamboo_cake_side",
+		"top_up": "compatdelight:block/bamboodelight/bamboo_cake_top",
+		"inner": "compatdelight:block/bamboodelight/bamboo_cake_inner",
+		"bottom": "minecraft:block/cake_bottom",
+		"top": "compatdelight:block/bamboodelight/bamboo_cake_top",
+		"particle": "compatdelight:block/bamboodelight/bamboo_cake_side",
+		"side": "compatdelight:block/bamboodelight/bamboo_cake_side"
+	}
+
+}

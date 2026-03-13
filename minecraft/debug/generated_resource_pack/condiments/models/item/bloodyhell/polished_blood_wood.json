@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/bloodyhell/polished_blood_log",
+    "side": "condiments:block/bloodyhell/polished_blood_log"
+  }
+}

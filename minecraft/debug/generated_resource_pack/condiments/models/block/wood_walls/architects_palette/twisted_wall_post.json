@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_post_inflate",
+  "textures": {
+    "wall": "architects_palette:block/twisted_log"
+  }
+}

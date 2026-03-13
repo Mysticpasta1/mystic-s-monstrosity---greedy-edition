@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "tconstruct:block/wood/bloodshroom/stripped_log",
+    "post": "tconstruct:block/wood/bloodshroom/log"
+  }
+}

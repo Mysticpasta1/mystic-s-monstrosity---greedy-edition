@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/forestry/mahogany"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/forestry/mahogany",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/forestry/mahogany",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/forestry/mahogany",
+      "y": 270
+    }
+  }
+}

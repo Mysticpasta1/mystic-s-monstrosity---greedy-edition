@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "collectorsreap:block/stripped_lucuma_log",
+    "post": "collectorsreap:block/lucuma_log"
+  }
+}

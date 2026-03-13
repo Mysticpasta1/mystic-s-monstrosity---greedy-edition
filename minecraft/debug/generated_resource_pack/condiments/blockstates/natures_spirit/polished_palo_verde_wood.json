@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/natures_spirit/polished_palo_verde_wood_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/natures_spirit/polished_palo_verde_wood_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/natures_spirit/polished_palo_verde_wood_z"
+    }
+  }
+}

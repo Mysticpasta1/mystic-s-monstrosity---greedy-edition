@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice6_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "exquisito:block/jelly_ring_cake_side",
+		"top_up": "exquisito:block/jelly_ring_cake_top",
+		"inner": "exquisito:block/jelly_ring_cake_inner",
+		"bottom": "exquisito:block/jelly_ring_cake_bottom",
+		"top": "exquisito:block/jelly_ring_cake_top",
+		"particle": "exquisito:block/jelly_ring_cake_side",
+		"side": "exquisito:block/jelly_ring_cake_side"
+	}
+
+}

@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice3_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "exquisito:block/nightshade_berry_cake_side3",
+		"top_up": "exquisito:block/nightshade_berry_cake_top",
+		"inner": "exquisito:block/nightshade_berry_cake_inner3",
+		"bottom": "exquisito:block/nightshade_berry_cake_bottom",
+		"top": "exquisito:block/nightshade_berry_cake_top",
+		"particle": "exquisito:block/nightshade_berry_cake_side3",
+		"side": "exquisito:block/nightshade_berry_cake_side3"
+	}
+
+}

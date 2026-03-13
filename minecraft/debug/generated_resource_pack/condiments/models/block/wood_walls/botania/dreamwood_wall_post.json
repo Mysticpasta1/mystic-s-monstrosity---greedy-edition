@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_post_inflate",
+  "textures": {
+    "wall": "botania:block/dreamwood_log_2"
+  }
+}

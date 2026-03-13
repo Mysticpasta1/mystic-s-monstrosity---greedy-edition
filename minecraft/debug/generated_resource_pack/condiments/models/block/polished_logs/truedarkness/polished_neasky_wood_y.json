@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_y",
+  "textures": {
+    "end": "condiments:block/truedarkness/polished_neasky_log",
+    "side": "condiments:block/truedarkness/polished_neasky_log"
+  }
+}

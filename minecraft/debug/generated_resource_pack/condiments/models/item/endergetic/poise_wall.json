@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "endergetic:block/stripped_poise_stem",
+    "post": "endergetic:block/poise_stem"
+  }
+}

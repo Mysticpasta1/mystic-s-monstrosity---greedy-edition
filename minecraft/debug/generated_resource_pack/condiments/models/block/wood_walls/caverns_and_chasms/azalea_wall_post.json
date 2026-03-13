@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_post_inflate",
+  "textures": {
+    "wall": "caverns_and_chasms:block/azalea_log"
+  }
+}

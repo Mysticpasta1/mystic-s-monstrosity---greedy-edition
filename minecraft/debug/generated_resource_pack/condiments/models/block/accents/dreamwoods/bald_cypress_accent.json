@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/accent",
+  "textures": {
+    "texture": "condiments:block/dreamwoods/bald_cypress_accent"
+  }
+}

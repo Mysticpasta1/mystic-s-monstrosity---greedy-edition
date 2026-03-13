@@ -1,0 +1,13 @@
+{
+	"parent": "amendments:block/double_cake/full_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "braziliandelight:block/carrot_cake_with_chocolate_inside",
+		"top_up": "braziliandelight:block/carrot_cake_with_chocolate_top",
+		"bottom": "braziliandelight:block/carrot_cake_with_chocolate_bottom",
+		"top": "braziliandelight:block/carrot_cake_with_chocolate_top",
+		"particle": "braziliandelight:block/carrot_cake_with_chocolate_inside",
+		"side": "braziliandelight:block/carrot_cake_with_chocolate_inside"
+	}
+
+}

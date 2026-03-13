@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/environmental/polished_wisteria_log",
+    "side": "condiments:block/environmental/polished_wisteria_log"
+  }
+}

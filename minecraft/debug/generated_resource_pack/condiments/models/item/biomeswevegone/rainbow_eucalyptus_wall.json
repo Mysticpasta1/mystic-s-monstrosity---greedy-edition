@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "biomeswevegone:block/rainbow_eucalyptus/stripped_log",
+    "post": "biomeswevegone:block/rainbow_eucalyptus/log"
+  }
+}

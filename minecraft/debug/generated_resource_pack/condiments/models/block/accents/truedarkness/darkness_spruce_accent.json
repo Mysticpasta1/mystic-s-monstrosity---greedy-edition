@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/accent",
+  "textures": {
+    "texture": "condiments:block/truedarkness/darkness_spruce_accent"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_rotated_side_tall_z",
+  "textures": {
+    "wall": "biomeswevegone:block/willow/stripped_log"
+  }
+}

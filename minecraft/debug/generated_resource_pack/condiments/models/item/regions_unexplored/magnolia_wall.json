@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "regions_unexplored:block/stripped_magnolia_log",
+    "post": "regions_unexplored:block/magnolia_log"
+  }
+}

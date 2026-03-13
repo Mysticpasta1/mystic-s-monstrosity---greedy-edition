@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/twilightforest/polished_canopy_log_top",
+    "side": "condiments:block/twilightforest/polished_canopy_log"
+  }
+}

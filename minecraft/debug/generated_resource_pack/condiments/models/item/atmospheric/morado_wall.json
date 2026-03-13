@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "atmospheric:block/stripped_morado_log",
+    "post": "atmospheric:block/morado_log"
+  }
+}

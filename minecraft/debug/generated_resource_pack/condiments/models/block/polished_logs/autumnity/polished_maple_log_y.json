@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_y",
+  "textures": {
+    "end": "condiments:block/autumnity/polished_maple_log_top",
+    "side": "condiments:block/autumnity/polished_maple_log"
+  }
+}

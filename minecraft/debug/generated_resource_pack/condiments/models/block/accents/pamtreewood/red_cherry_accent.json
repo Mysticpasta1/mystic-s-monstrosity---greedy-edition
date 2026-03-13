@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/accent",
+  "textures": {
+    "texture": "condiments:block/pamtreewood/red_cherry_accent"
+  }
+}

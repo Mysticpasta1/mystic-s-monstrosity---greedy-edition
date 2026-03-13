@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_z",
+  "textures": {
+    "end": "condiments:block/darkerdepths/polished_petrified_log",
+    "side": "condiments:block/darkerdepths/polished_petrified_log"
+  }
+}

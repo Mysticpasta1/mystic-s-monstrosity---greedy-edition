@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/forestry/polished_cherry_fireproof_wood_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/forestry/polished_cherry_fireproof_wood_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/forestry/polished_cherry_fireproof_wood_z"
+    }
+  }
+}

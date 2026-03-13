@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/snifferplus/stone_pine"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/snifferplus/stone_pine",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/snifferplus/stone_pine",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/snifferplus/stone_pine",
+      "y": 270
+    }
+  }
+}

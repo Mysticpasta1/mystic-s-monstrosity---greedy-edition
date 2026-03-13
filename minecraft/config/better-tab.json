@@ -1,0 +1,10 @@
+{
+  "enableNumericalPing": true,
+  "numericalFormat": "\u0026a{ping}",
+  "scale": 0.7,
+  "offset": 2,
+  "enableInfo": true,
+  "footerInfoFormat": "\u00267TPS: {tps} \u00267PING: {ping}ms",
+  "tpsColor": {},
+  "pingColor": {}
+}

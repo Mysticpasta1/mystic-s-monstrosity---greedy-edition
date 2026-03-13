@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "deeperdarker:block/stripped_echo_log",
+    "post": "deeperdarker:block/echo_log"
+  }
+}

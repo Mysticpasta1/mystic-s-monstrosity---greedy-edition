@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/ecologics/polished_coconut_log_top",
+    "side": "condiments:block/ecologics/polished_coconut_log"
+  }
+}

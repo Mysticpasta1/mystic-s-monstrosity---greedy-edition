@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "mysticsbiomes:block/stripped_tropical_log",
+    "post": "mysticsbiomes:block/tropical_log"
+  }
+}

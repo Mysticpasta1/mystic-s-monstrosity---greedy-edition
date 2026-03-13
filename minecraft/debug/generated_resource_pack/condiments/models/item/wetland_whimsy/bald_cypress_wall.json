@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "wetland_whimsy:block/stripped_bald_cypress_log",
+    "post": "wetland_whimsy:block/bald_cypress_log"
+  }
+}

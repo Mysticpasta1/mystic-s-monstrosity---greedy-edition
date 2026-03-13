@@ -1,0 +1,13 @@
+{
+	"parent": "amendments:block/double_cake/full_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "compatdelight:block/ironsspellsdelight/blood_vial_cake_side",
+		"top_up": "compatdelight:block/ironsspellsdelight/blood_vial_cake_top",
+		"bottom": "minecraft:block/cake_bottom",
+		"top": "compatdelight:block/ironsspellsdelight/blood_vial_cake_top",
+		"particle": "compatdelight:block/ironsspellsdelight/blood_vial_cake_side",
+		"side": "compatdelight:block/ironsspellsdelight/blood_vial_cake_side"
+	}
+
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "biome_backlog:block/stripped_palm_log",
+    "post": "biome_backlog:block/palm_log"
+  }
+}

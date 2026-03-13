@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "whisperleaftrees:block/stripped_alder_log",
+    "post": "whisperleaftrees:block/alder_log"
+  }
+}

@@ -1,0 +1,17 @@
+
+#Torch Lighting Settings
+[torch_lighting]
+	#The radius of the dynamic light effect (4-16 blocks)
+	#Range: 4 ~ 16
+	lightRadius = 10
+	#The intensity of the dynamic light (0.1 - 2.0)
+	#Range: 0.1 ~ 2.0
+	lightIntensity = 0.8
+	#Enable particle effects around light sources
+	enableParticles = true
+	#Enable dynamic lighting (may impact performance)
+	dynamicLighting = true
+	#Smoothness of light movement (0.0 = no smoothing, 1.0 = maximum smoothing)
+	#Range: 0.0 ~ 1.0
+	lightSmoothness = 0.7
+

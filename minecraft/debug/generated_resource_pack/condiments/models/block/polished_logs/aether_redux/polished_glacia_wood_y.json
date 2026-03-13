@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_y",
+  "textures": {
+    "end": "condiments:block/aether_redux/polished_glacia_log",
+    "side": "condiments:block/aether_redux/polished_glacia_log"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_z",
+  "textures": {
+    "end": "condiments:block/biome_backlog/polished_palm_log_top",
+    "side": "condiments:block/biome_backlog/polished_palm_log"
+  }
+}

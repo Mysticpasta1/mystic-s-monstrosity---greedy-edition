@@ -1,0 +1,5 @@
+{
+  "worldSettings": {
+    "desc:": "Biome size settings per noise setting, set by default to no changes. Gets automatically filled on world creation. Restart after changing values.Note that the biome size changes work indirectly by modifying temperature and vegetation zone sizes and you cannot change the size of a specific biome"
+  }
+}

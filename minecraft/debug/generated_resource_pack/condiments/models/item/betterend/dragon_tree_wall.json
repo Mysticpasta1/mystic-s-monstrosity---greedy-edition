@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "betterend:block/dragon_tree_stripped_log_side",
+    "post": "betterend:block/dragon_tree_log_side_2"
+  }
+}

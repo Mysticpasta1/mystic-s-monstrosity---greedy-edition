@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_rotated_side_x",
+  "textures": {
+    "wall": "twilightforest:block/stripped_twilight_oak_log"
+  }
+}

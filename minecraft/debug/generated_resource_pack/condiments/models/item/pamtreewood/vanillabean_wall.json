@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "pamtreewood:block/stripped_vanillabean_log",
+    "post": "pamtreewood:block/vanillabean_log"
+  }
+}

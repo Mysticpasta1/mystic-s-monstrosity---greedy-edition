@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "dreamwoods:block/stripped_bayou_log",
+    "post": "dreamwoods:block/bayou_log"
+  }
+}

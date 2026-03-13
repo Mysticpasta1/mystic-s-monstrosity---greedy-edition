@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "deep_aether:block/stripped_cruderoot_log",
+    "post": "deep_aether:block/cruderoot_log"
+  }
+}

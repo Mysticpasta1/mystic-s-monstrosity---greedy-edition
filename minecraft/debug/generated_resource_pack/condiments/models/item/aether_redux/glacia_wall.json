@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "aether_redux:block/natural/stripped_glacia_log",
+    "post": "aether_redux:block/natural/glacia_log"
+  }
+}

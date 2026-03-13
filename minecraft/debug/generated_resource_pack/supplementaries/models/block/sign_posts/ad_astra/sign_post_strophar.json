@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "supplementaries:block/sign_posts/template",
+	"textures": {
+		"particle": "supplementaries:block/sign_posts/ad_astra/sign_post_strophar",
+		"sign": "supplementaries:block/sign_posts/ad_astra/sign_post_strophar"
+	}
+}

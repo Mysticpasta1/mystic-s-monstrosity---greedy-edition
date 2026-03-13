@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "garnished:block/stripped_sepia_stem",
+    "post": "garnished:block/sepia_stem"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/sundries/polished_jade_hyphae_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/sundries/polished_jade_hyphae_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/sundries/polished_jade_hyphae_z"
+    }
+  }
+}

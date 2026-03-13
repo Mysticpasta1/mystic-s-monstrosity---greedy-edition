@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_x",
+  "textures": {
+    "end": "condiments:block/biomesoplenty/polished_magic_log_top",
+    "side": "condiments:block/biomesoplenty/polished_magic_log"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "hexalia:block/stripped_cottonwood_log",
+    "post": "hexalia:block/cottonwood_log"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_post_inflate",
+  "textures": {
+    "wall": "betterend:block/jellyshroom_log_side"
+  }
+}

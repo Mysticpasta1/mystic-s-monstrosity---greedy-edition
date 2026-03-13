@@ -1,0 +1,7 @@
+{
+	"parent": "supplementaries:block/item_shelf",
+	"textures": {
+		"0": "suppsquared:block/item_shelves/thaumon/silverwood",
+		"particle": "suppsquared:block/item_shelves/thaumon/silverwood"
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/ars_nouveau/polished_blue_archwood_log_top",
+    "side": "condiments:block/ars_nouveau/polished_blue_archwood_log"
+  }
+}

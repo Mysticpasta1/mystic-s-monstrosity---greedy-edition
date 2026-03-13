@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_post_inflate",
+  "textures": {
+    "wall": "ars_nouveau:block/blue_archwood_log"
+  }
+}

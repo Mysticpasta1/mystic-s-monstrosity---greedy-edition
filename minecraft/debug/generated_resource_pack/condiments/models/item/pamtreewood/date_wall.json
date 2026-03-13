@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "pamtreewood:block/stripped_date_log",
+    "post": "pamtreewood:block/date_log"
+  }
+}

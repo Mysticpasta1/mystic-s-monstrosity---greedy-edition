@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "sundries:block/stripped_jade_stem",
+    "post": "sundries:block/jade_stem"
+  }
+}

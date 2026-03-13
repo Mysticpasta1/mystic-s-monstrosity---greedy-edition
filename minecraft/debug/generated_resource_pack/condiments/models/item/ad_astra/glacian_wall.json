@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "ad_astra:block/stripped_glacian_log",
+    "post": "ad_astra:block/glacian_log"
+  }
+}

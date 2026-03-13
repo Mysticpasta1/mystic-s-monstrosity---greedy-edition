@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "aether_redux:block/natural/stripped_cloudcap_stem",
+    "post": "aether_redux:block/natural/cloudcap_stem"
+  }
+}

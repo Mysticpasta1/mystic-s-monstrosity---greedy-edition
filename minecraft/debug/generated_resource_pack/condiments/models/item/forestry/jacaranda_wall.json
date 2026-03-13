@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "forestry:block/stripped_jacaranda_log",
+    "post": "forestry:block/jacaranda_log"
+  }
+}

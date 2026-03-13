@@ -1,0 +1,13 @@
+{
+	"parent": "amendments:block/double_cake/full_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "exquisito:block/chorus_cake_side",
+		"top_up": "exquisito:block/chorus_cake_top",
+		"bottom": "exquisito:block/chorus_cake_bottom",
+		"top": "exquisito:block/chorus_cake_top",
+		"particle": "exquisito:block/chorus_cake_side",
+		"side": "exquisito:block/chorus_cake_side"
+	}
+
+}

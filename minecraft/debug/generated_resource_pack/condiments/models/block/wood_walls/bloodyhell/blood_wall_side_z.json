@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_rotated_side_z",
+  "textures": {
+    "wall": "bloodyhell:block/stripped_blood_log"
+  }
+}

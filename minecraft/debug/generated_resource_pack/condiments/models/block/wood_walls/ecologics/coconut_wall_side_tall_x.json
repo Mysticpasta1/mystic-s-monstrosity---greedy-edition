@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_rotated_side_tall_x",
+  "textures": {
+    "wall": "ecologics:block/stripped_coconut_log"
+  }
+}

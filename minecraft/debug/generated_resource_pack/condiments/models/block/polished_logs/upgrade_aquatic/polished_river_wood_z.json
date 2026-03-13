@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_z",
+  "textures": {
+    "end": "condiments:block/upgrade_aquatic/polished_river_log",
+    "side": "condiments:block/upgrade_aquatic/polished_river_log"
+  }
+}

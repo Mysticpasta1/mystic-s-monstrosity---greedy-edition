@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/betternether/polished_rubeus_log_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/betternether/polished_rubeus_log_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/betternether/polished_rubeus_log_z"
+    }
+  }
+}

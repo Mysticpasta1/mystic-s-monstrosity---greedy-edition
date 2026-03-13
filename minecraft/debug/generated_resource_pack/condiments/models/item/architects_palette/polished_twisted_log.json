@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/architects_palette/polished_twisted_log_top",
+    "side": "condiments:block/architects_palette/polished_twisted_log"
+  }
+}

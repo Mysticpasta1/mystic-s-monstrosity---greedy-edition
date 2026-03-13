@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "biomesoplenty:block/stripped_pine_log",
+    "post": "biomesoplenty:block/pine_log_knot"
+  }
+}

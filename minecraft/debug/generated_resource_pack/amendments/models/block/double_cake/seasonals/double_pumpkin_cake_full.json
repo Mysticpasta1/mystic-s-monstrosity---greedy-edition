@@ -1,0 +1,13 @@
+{
+	"parent": "amendments:block/double_cake/full_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "seasonals:block/pumpkin_cake_side",
+		"top_up": "seasonals:block/pumpkin_cake_top",
+		"bottom": "seasonals:block/pumpkin_cake_bottom",
+		"top": "seasonals:block/pumpkin_cake_top",
+		"particle": "seasonals:block/pumpkin_cake_side",
+		"side": "seasonals:block/pumpkin_cake_side"
+	}
+
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "forestry:block/stripped_papaya_log",
+    "post": "forestry:block/papaya_log"
+  }
+}

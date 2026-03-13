@@ -1,0 +1,9 @@
+
+[rendering]
+	#If true, glass blocks edges will not be rendered when connected to other glass blocks.Potentially works for other mods glass blocks registered.
+	connectedGlassBlocks = true
+	#If false, all glass panes top/bottom edges will be rendered when connected.This will revert panes rendering behavior back to vanilla.
+	connectedGlassPanes = false
+	#If false, mod's glass panes top/bottom edges will be rendered when connected.This will revert panes rendering behavior back to vanilla.
+	connectedOnlyDDGlassPanes = true
+

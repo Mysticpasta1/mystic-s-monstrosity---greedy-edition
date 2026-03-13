@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "biomeswevegone:block/white_mangrove/stripped_log",
+    "post": "biomeswevegone:block/white_mangrove/log"
+  }
+}

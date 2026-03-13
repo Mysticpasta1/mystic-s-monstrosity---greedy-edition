@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/accent",
+  "textures": {
+    "texture": "condiments:block/dreamwoods/great_willow_accent"
+  }
+}

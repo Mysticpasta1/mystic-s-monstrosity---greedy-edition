@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "outer_end:block/azure_stripped_stem_side",
+    "post": "outer_end:block/azure_stem_side"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/forestry/polished_birch_fireproof_log_top",
+    "side": "condiments:block/forestry/polished_birch_fireproof_log"
+  }
+}

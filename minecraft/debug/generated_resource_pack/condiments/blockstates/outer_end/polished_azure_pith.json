@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/outer_end/polished_azure_pith_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/outer_end/polished_azure_pith_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/outer_end/polished_azure_pith_z"
+    }
+  }
+}

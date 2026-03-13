@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/silentgear/polished_netherwood_log_top",
+    "side": "condiments:block/silentgear/polished_netherwood_log"
+  }
+}

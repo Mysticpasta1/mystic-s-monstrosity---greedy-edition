@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_rotated_side_x",
+  "textures": {
+    "wall": "betterend:block/helix_tree_stripped_log_side"
+  }
+}

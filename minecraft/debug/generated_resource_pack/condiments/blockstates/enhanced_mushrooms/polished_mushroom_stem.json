@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/enhanced_mushrooms/polished_mushroom_stem_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/enhanced_mushrooms/polished_mushroom_stem_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/enhanced_mushrooms/polished_mushroom_stem_z"
+    }
+  }
+}

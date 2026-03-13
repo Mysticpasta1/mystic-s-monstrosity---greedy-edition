@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "thermal:block/stripped_rubberwood_log",
+    "post": "thermal:block/rubberwood_log"
+  }
+}

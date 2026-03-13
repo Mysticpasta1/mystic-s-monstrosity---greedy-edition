@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice3_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "exquisito:block/zure_berry_cake_side_0",
+		"top_up": "exquisito:block/zure_berry_cake_top",
+		"inner": "exquisito:block/zure_berry_cake_inner_0",
+		"bottom": "exquisito:block/zure_berry_cake_bottom",
+		"top": "exquisito:block/zure_berry_cake_top",
+		"particle": "exquisito:block/zure_berry_cake_side_0",
+		"side": "exquisito:block/zure_berry_cake_side_0"
+	}
+
+}

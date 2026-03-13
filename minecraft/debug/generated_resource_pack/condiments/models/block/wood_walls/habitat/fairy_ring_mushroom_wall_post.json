@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_post_inflate",
+  "textures": {
+    "wall": "habitat:block/fairy_ring_mushroom_stem"
+  }
+}

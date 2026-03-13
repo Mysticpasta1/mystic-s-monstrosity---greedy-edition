@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "goodending:block/stripped_muddy_oak_log",
+    "post": "goodending:block/muddy_oak_log"
+  }
+}

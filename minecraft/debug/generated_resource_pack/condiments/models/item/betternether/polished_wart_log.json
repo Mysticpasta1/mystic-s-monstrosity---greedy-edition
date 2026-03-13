@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/betternether/polished_wart_log_top",
+    "side": "condiments:block/betternether/polished_wart_log"
+  }
+}

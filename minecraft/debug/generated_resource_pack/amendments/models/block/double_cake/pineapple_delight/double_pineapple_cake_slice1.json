@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice1_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "pineapple_delight:block/pineapple_cake_side",
+		"top_up": "pineapple_delight:block/pineapple_cake_top",
+		"inner": "pineapple_delight:block/pineapple_cake_inner",
+		"bottom": "pineapple_delight:block/pineapple_cake_bottom",
+		"top": "pineapple_delight:block/pineapple_cake_top",
+		"particle": "pineapple_delight:block/pineapple_cake_side",
+		"side": "pineapple_delight:block/pineapple_cake_side"
+	}
+
+}

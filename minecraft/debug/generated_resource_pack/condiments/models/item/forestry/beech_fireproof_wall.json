@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "forestry:block/stripped_beech_log",
+    "post": "forestry:block/beech_log"
+  }
+}

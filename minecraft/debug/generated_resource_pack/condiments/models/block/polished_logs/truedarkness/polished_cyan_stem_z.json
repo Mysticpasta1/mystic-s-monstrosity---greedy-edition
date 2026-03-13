@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_z",
+  "textures": {
+    "end": "condiments:block/truedarkness/polished_cyan_stem_top",
+    "side": "condiments:block/truedarkness/polished_cyan_stem"
+  }
+}

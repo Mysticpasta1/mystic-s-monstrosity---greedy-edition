@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "truedarkness:block/stripped_cyan_stem_side",
+    "post": "truedarkness:block/cyan"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/outer_accent",
+  "textures": {
+    "texture": "condiments:block/silverwoodtrees/staghorn_sumac_accent"
+  }
+}

@@ -1,0 +1,22 @@
+#Internal config version used for automatic migrations. Do not edit.
+#Range: 0 ~ 999
+configVersion = 1
+#Monocle render X offset (left/right). Negative = left, positive = right.
+#Range: -2.0 ~ 2.0
+monocleOffsetX = -0.1
+#Monocle render Y offset (up/down).
+#Range: -2.0 ~ 2.0
+monocleOffsetY = -0.45
+#Monocle render Z offset (forward/back). More negative usually pushes outward from the face.
+#Range: -2.0 ~ 2.0
+monocleOffsetZ = -0.4
+#Monocle render scale.
+#Range: 0.05 ~ 4.0
+monocleScale = 0.3
+#Monocle rotation around X in degrees.
+#Range: -180.0 ~ 180.0
+monocleRotXDeg = 5.0
+#Monocle rotation around Y in degrees.
+#Range: -180.0 ~ 180.0
+monocleRotYDeg = 0.0
+

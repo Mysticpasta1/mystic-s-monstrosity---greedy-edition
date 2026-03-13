@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "habitat:block/stripped_fairy_ring_mushroom_stem",
+    "post": "habitat:block/fairy_ring_mushroom_stem"
+  }
+}

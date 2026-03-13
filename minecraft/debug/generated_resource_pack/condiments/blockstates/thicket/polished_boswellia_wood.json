@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/thicket/polished_boswellia_wood_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/thicket/polished_boswellia_wood_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/thicket/polished_boswellia_wood_z"
+    }
+  }
+}

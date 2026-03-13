@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "betterend:block/end_lotus_stripped_log_side",
+    "post": "betterend:block/end_lotus_log_side"
+  }
+}

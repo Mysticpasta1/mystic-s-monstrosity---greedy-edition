@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice4_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "compatdelight:block/mowziesdelight/suns_cake_side",
+		"top_up": "compatdelight:block/mowziesdelight/suns_cake_top",
+		"inner": "compatdelight:block/mowziesdelight/suns_cake_inner",
+		"bottom": "minecraft:block/cake_bottom",
+		"top": "compatdelight:block/mowziesdelight/suns_cake_top",
+		"particle": "compatdelight:block/mowziesdelight/suns_cake_side",
+		"side": "compatdelight:block/mowziesdelight/suns_cake_side"
+	}
+
+}

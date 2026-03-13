@@ -1,0 +1,5 @@
+#Reduce multiblock client ticks (unstable)
+reduceOverhead = false
+#Joke
+fusionCoreSizeMultiplier = 1.0
+

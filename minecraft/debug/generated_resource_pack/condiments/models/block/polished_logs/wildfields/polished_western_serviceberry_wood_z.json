@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_z",
+  "textures": {
+    "end": "condiments:block/wildfields/polished_western_serviceberry_log",
+    "side": "condiments:block/wildfields/polished_western_serviceberry_log"
+  }
+}

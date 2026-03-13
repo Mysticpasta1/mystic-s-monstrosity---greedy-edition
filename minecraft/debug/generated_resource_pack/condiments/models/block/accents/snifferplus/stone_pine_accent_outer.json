@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/outer_accent",
+  "textures": {
+    "texture": "condiments:block/snifferplus/stone_pine_accent"
+  }
+}

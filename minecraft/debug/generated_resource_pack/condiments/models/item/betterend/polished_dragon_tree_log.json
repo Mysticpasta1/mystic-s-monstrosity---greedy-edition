@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/betterend/polished_dragon_tree_log_top",
+    "side": "condiments:block/betterend/polished_dragon_tree_log"
+  }
+}

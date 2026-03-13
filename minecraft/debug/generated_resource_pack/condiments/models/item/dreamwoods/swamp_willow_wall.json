@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "dreamwoods:block/stripped_swamp_willow_log",
+    "post": "dreamwoods:block/swamp_willow_log"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "upgrade_aquatic:block/stripped_driftwood_log",
+    "post": "upgrade_aquatic:block/driftwood_log"
+  }
+}

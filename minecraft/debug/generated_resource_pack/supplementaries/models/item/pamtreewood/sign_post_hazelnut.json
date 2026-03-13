@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "supplementaries:item/sign_posts/pamtreewood/sign_post_hazelnut"
+  }
+}

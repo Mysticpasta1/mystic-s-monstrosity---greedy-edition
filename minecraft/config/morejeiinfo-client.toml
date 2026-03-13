@@ -1,0 +1,32 @@
+
+#Tooltip Settings
+#Tooltip Options
+[tooltipOptions]
+	#Configure tooltip for burn time.
+	#Allowed Values: DISABLED, ENABLED, ON_SHIFT, ON_DEBUG, ON_SHIFT_AND_DEBUG
+	burnTimeTooltipMode = "ON_DEBUG"
+	#Configure tooltip for durability.
+	#Allowed Values: DISABLED, ENABLED, ON_SHIFT, ON_DEBUG, ON_SHIFT_AND_DEBUG
+	durabilityTooltipMode = "ON_DEBUG"
+	#Configure tooltip for enchantability
+	#Allowed Values: DISABLED, ENABLED, ON_SHIFT, ON_DEBUG, ON_SHIFT_AND_DEBUG
+	enchantabilityTooltipMode = "ON_DEBUG"
+	#Configure tooltip for hunger and saturation.
+	#Allowed Values: DISABLED, ENABLED, ON_SHIFT, ON_DEBUG, ON_SHIFT_AND_DEBUG
+	foodTooltipMode = "ON_DEBUG"
+	#Configure tooltip for max stack size.
+	#Allowed Values: DISABLED, ENABLED, ON_SHIFT, ON_DEBUG, ON_SHIFT_AND_DEBUG
+	maxStackSizeTooltipMode = "ON_DEBUG"
+	#Configure tooltip for NBT data.
+	#Allowed Values: DISABLED, ENABLED, ON_SHIFT, ON_DEBUG, ON_SHIFT_AND_DEBUG
+	nbtTooltipMode = "ON_DEBUG"
+	#Configure tooltip for registry name. E.g. minecraft:stone
+	#Allowed Values: DISABLED, ENABLED, ON_SHIFT, ON_DEBUG, ON_SHIFT_AND_DEBUG
+	registryNameTooltipMode = "DISABLED"
+	#Configure tooltip for tags. E.g. forge:ingot, minecraft:planks
+	#Allowed Values: DISABLED, ENABLED, ON_SHIFT, ON_DEBUG, ON_SHIFT_AND_DEBUG
+	tagsTooltipMode = "ON_DEBUG"
+	#Configure tooltip for translation key. E.g. block.minecraft.stone
+	#Allowed Values: DISABLED, ENABLED, ON_SHIFT, ON_DEBUG, ON_SHIFT_AND_DEBUG
+	translationKeyTooltipMode = "ON_DEBUG"
+

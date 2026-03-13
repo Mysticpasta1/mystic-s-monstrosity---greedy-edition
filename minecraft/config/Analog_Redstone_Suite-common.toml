@@ -1,0 +1,5 @@
+
+[BaseAnalogDiodeBlock]
+	#Read sides like the back (ex: will use the content of a chest on the side as a valid redstone signal)
+	ALL_POWERS_ON_SIDES = true
+

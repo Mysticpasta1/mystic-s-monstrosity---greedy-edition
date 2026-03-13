@@ -1,0 +1,7519 @@
+{
+  "enabled": true,
+  "monsters": {
+    "legendary_monsters:overgrown_colossus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:maledictus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ad_astra:mogler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:coral_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_prowler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illagerinvasion:necromancer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undergarden:stoneborn": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:warped_forest_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:failed_son_of_the_unknown": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:tropicreeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "galosphere:berserker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:golden_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:archevoker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:flower_fields_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:yeti": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:goblin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:veinraver_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "betterend:end_slime": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:catacombs_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:desert_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:skull_bomb": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:necromancer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "savage_and_ravage:trickster": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:warden": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "nuclearcraft:feral_ghoul_boss": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "darkerdepths:void_soul_knight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:turtle_egg": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:meature": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:trick_or_treat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "iceandfire:dread_lich": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:flameborn_warrior": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:tropi_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "toybox:faceless_doll": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "outer_end:sinker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "graveyard:skeleton_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:offspring_of_the_unknown": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:ender_guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:deepling_warlock": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "kobolds:kobold_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bygonenether:piglin_hunter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:returning_knight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "neapolitan:plantain_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:badlands_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mekanismadditions:baby_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bygonenether:wex": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "monsterexpansion:rhyza": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "betternether:jungle_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:giant_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:imp_clone": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:molten_ball": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:gold_construct": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:warmth_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:jaguar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:neutral_mox": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "graveyard:nightmare": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "darkerdepths:body_snatcher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:shulker_mimic": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:guardbot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "toybox:tin_robot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:glow_bug": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:haunted_knight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:eih": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "aether:valkyrie_queen": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:trollenraged": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bygonenether:warped_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "outer_end:entombed": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:crawler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "graveyard:reaper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:old_magispeller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:illusioner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:the_obliterator": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:xydrax_elite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:rime_spectre": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:eyesore": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:troll": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:stratling": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "takesapillage:skirmisher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:ritekeeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:hydra": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:fire_mage": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:gloomer_elder": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:foliaath": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:test_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:frostmaw": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:lich": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "outer_end:purpur_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "caverns_and_chasms:mime": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:streetlight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:drowned": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:moray_eel_yellow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:allied_ghost": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ad_astra:martian_raptor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:beeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:ambusher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "botania:doppleganger": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:subzero_stray": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undergarden:rotling": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:lobster_bicolor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "geosmelt:soul_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:vampire": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:old_freakager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undergarden:forgotten": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "occultism:possessed_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ad_astra:zombified_pygro": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:abaddon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:wither": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:snow_guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "sullysmod:bouldering_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "wetland_whimsy:blemish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enderzoology:wither_cat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:warborn_aegis": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:wither_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:cinder_acolyte": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:voldon_elite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:spruce_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "conjurer_illager:conjurer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:bomber": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illagerinvasion:inquisitor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:wilden_boss": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:elder_guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:netherite_monstrosity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "royalvariations:royal_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endergetic:glider_eetle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:redcap_sapper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:wadjet": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "upgrade_aquatic:flare": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ad_astra:sulfur_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:illager_soul": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_koboldiator": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:umvuthana_raptor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:tank_illager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:brute_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:eridium_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:dark_sorcerer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:upper_goblin_knight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:cave_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:ghost": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_counterspell_watcher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:gloomer_chiller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "graveyard:wraith": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:knight_phantom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:minotaur": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:vampflyer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:ladybug": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:lampad": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:magi_heal": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:magehunter_vindicator": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:umvuthana_crane": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:towerwood_borer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:corrupted_knight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "immersiveengineering:bulwark": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_ignited_revenant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:koboleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_koboleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:silverfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:accursed_lord_boss": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:old_axe": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:zombie": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:silverqueenbodiless": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "iceandfire:dread_knight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "occultism:possessed_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "graveyard:acolyte": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:crocofang": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "immersiveengineering:fusilier": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:fiddler_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:savannah_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:nuaos_elite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "royalvariations:royal_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:swarm_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "toybox:doll": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "atlantis:zombie_starfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:remnant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:elite_draugr": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:malicious_root": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:hoglin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:horned_worm": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:warped_fungussus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:wraith": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "evilcraft:vengeance_spirit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tradersindisguise:bow_ambusher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "aether:sentry": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:temple": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:corrupted_assassin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:lobster_black": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:deepling_angler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:gargoyle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tconstruct:terracube": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "orc_hut:orc": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:blasphemous_malformation": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:draugr": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enderzoology:fallen_mount": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enderzoology:infested_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:extended_death_laser_beam": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:phantom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:mob_spirit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:zombified_piglin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:purple_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:boss_randomizer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_royal_draugur": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:night_shade": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "nirvana:reefer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:snow_queen": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:ice_spikes_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:ender_dragon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "variantsandventures:gelid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:ghost_angel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "quark:wraith": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:undercopter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "graveyard:ghoul": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:vex": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:frost_illager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endergetic:brood_eetle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:frostbitten_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:titania": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:skeleton": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -15.0
+    },
+    "twilightforest:naga": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_coral_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illagerinvasion:basher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:direwolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:electro_illager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "deeperdarker:sculk_leech": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:ravager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:white_lipped_peccary": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:clawdian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:lobster_red": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:old_netherite_monstrosity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:humboldt": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:neon_vortex": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:flameborn_guard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:corrundoling": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:flutterfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:horseshoe_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:drowned_host": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:possessed_armor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:dead_king": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ad_extendra:freeze": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enderzoology:concussion_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:spawn_fluffer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mekanismadditions:baby_stray": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "evilcraft:werewolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "deeperdarker:sludge": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "occultism:possessed_endermite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:shulker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "aether:fire_minion": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:undead_neon_resident": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "toybox:teddy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "royalvariations:royal_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:umvuthana_follower_raptor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ad_astra:pygro_brute": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:ender_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:axe": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ebwizardry:storm_elemental": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:swamp_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:frost_giant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cryingwitherskeleonmod:cryingskeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "sullysmod:jungle_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:yellow_crystal_star": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:neutral_neonica": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:beach_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "caverns_and_chasms:deeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:brutal_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:crystalcopter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:blockchain_goblin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "windswept:chilled": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:infernal_blaze": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "aether:sun_spirit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:hedge_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ebwizardry:lightning_wraith": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "toybox:bonk": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:gold_scanbot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:googloid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:corrundodile": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "savage_and_ravage:executioner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:cloud_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:faker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "iceandfire:troll": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illagerinvasion:alchemist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:twittollager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:phantom_ancient_remnant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:hills_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "caverns_and_chasms:peeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:villager_soul": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undergarden:rotwalker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:stable_ice_core": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "evilcraft:netherfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:forlorn": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:mox": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:carminite_ghastling": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:knights_armor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:spirit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:hostile_wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bygonenether:corpor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:infernal_wither_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "rftoolsdim:dimensional_blob_common": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:shaman_illager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:googloid_ghost": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:bamboo_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:vesper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:waste_runner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:withered_abomination": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:web": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tconstruct:ender_slime": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:ashenmancer_illager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:blaze": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ad_astra:zombified_mogler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:lower_goblin_knight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:extended_laser_beam": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:gloomer_warrior": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:bone": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mekanismadditions:baby_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:alp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:annihilation_pursuer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "occultism:possessed_warden": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:magma_cube": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "wizard_tower:wizard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:deepling": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:remnant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:old_ragno": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "outer_end:stalker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:ancient_remnant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:miner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:day_stalker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_aptrgangr": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:the_prowler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "rftoolsdim:dimensional_blob_rare": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:savanna_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:hinder": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:urchinkin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "embers:ancient_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_ignited_berserker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:toxic_cave_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:zombie_villager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "spider_caves:black_recluse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:wandering_eye": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:hex": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:lobster_blue": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:giant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:coral_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:botfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:moon_dungeon_guard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:ice_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enchantwithmob:enchanter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:harbinger_cube": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:end_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_clawdian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:igniter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ostrea:ancestral_axolotl": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:soulsand_valley_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:amethyst_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:mossy_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:modur_elite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "upgrade_aquatic:thrasher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:spawner_placer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illagerinvasion:sorcerer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:ragno": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:neon_resident": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:dart_illager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "allthemodium:piglich": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "immersiveengineering:commando": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_draugur": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:helmet_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:wilden_stalker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:cave_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "occultism:possessed_shulker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ad_astra:corrupted_lunarian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:ancient_ancient_remnant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:husk": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:corrupted_mage": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bosses_of_mass_destruction:gauntlet": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:cave_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "evilcraft:poisonous_libelle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:blue_crystal_star": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:scorched_sentinel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:redcap": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:air_mage": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:umvuthana": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "darkerdepths:glowshroom_monster": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "savage_and_ravage:skeleton_villager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "galosphere:preserved": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:deepling_drowned": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:carminite_broodling": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:v_monkey": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:haunted_guard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:light_blue_crystal_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:ur_ghast": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "occultism:wild_hunt_wither_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:dark_oak_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_watcher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:tapir": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "deeperdarker:sculk_centipede": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:summon_vhex": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "occultism:possessed_hoglin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:water_mage": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:loyal_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endertrigon:baby_ender_dragon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:corrupted_necromancer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:ghast": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:umvuthana_crane_player": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:ignited_berserker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enderzoology:fallen_knight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:sniper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:flame_drifter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:the_leviathan": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:piglin_brute": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:blue_crystal_construct": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:fire_beetle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:red_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:gnome": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:king_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:light_blue_crystal_construct": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:oni": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "deeperdarker:stalker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "toybox:walking_wooden_bricks": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:cultist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "fdbosses:fire_malkuth_warrior": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bosses_of_mass_destruction:void_blossom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:deepling_brute": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enderzoology:enderminy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:necromancer_illager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:stray": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:occult_witch": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:big_chungus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "occultism:wild_hunt_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:eridium_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:scarab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "nuclearcraft:feral_ghoul": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:tropiskelly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:tarantula": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "graveyard:nameless_hanged": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:grave_walker_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:orange_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tradersindisguise:sickle_ambusher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:possessed_armor_inquisitor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:kobold": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:vampbiter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:skeleton_druid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:web_net": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:omen_gazer_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "geosmelt:jungle_tarantula": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "totemic:baykok": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:hummingbird": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "upgrade_aquatic:great_thrasher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "azukaarsfairdifficultyoverhaul:ancient_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "wetland_whimsy:swamp_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:neonica": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "aether:mimic": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:scanbot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bygonenether:wither_skeleton_knight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:seliora": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:scylla": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:tropibee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:slime_beetle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:apothecarist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:blasting_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undergarden:sploogie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:pumpkin_bomb": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "royalvariations:royal_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:adherent": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:engineer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "thermal:blizz": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:rising_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:goblin_fear": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:mist_wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:scythe": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:pinch_beetle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:crashager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:the_watcher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:ice_crystal": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:mutant_neon_resident": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:wasp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:intruder": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:desert_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:guard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:green_crystal_construct": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "yungscavebiomes:sand_snapper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:condemned": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "savage_and_ravage:griefer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "savage_and_ravage:iceologer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:meat_puddle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illagerinvasion:surrendered": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:yeti_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illagerinvasion:marauder": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:draugr_boss": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:voldon_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:amarok": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:poker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:veil_stalker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_amethyst_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:corrupted_human": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:minoshroom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "geosmelt:skeleton_warrior": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:swarm_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:huntsman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:cindaria": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:vindicator": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:carminite_ghastguard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:iguana": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:chagrin_sentry": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:general": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_coralssus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:evoker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:slime": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:baby_neon_resident": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:black_charro": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "iceandfire:dread_ghoul": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:possessed_armor_archer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "quark:forgotten": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:withered_demon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undergarden:muncher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:nameless_sorcerer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:red_crystal_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:flow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "progressivebosses:wither": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:endermaptera": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:vicious_phantom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:roving_cube": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:tree_frog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "variantsandventures:thicket": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:debug_wizard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:soul_reaper_ghost": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:yellow_crystal_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:nether_wastes_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:lionfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:ocean_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:yellow_crystal_construct": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:karakondjul": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:spiky_bug": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:coralssus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:endermite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "graveyard:revenant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:dark_oak_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:heavy_laserbot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "graveyard:lich": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "lost_aether_content:aerwhale_king": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:corrundum_spike": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "takesapillage:legioner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "variantsandventures:murk": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "graveyard:corrupted_pillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tconstruct:sky_slime": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:fire_boss": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:badlands_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:snowy_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:hippocamtus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:small_robot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:wilden_hunter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:the_harbinger": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:funnybone": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "betternether:skull": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "iceandfire:dread_horse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bosses_of_mass_destruction:lich": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "occultism:possessed_weak_shulker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "betterend:shadow_walker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "gtbcs_geomancy_plus:geomancer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "geosmelt:blight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "thermal:blitz": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illagerinvasion:firecaller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:bluff": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undergarden:forgotten_guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:witch": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:grottol": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:corrupted_hand": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:giant_mole": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "outer_end:himmelite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:hovering_hurricane": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:winter_wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:swamp_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "doom_and_gloom:holler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bosses_of_mass_destruction:obsidilith": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:baby_foliaath": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:unstable_ice_core": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:crimson_forest_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undergarden:nargoyle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ad_astra:pygro": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:death_tome": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:ship_ghost": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "toybox:toy_tank": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:illashooter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm_spellbooks:summoned_elite_draugur": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:alpha_yeti": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "sundries:wraith": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:lich_minion": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:slugger": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "iceandfire:dread_beast": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:failed_remnant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illagerinvasion:invoker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:posessed_paladin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bygonenether:wraither": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:magispeller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:snowy_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:green_crystal_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:umvuthi": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "gtbcs_geomancy_plus:summoned_umvuthana_crane": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "azukaarsfairdifficultyoverhaul:raised_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ebwizardry:shadow_wraith": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "gtbcs_geomancy_plus:summoned_umvuthana_raptor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "the_bumblezone:rootmin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:light_blue_crystal_star": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "iceandfire:dread_scuttler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:blue_crystal_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "rftoolsdim:dimensional_blob_legendary": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bygonenether:piglin_prisoner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:ignis": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:scorpion": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:naga": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "yungscavebiomes:ice_cube": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:soulmass": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "iceandfire:ghost": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:chaos_monarch": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:plateau_boss": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:earth_mage": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "betternether:naga": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "evilcraft:controlled_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:ferrous_wroughtnaut": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:silverqueen": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:mosquito_swarm": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:pillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:pyromancer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:tropi_spider_egg": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ad_astra:star_crawler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:red_crystal_star": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:moray_eel_brown": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "geosmelt:galaxy_champion": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:zoglin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:red_crystal_construct": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mekanismadditions:baby_wither_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:corrupted_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "occultism:possessed_phantom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:chorusling": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:green_basilisk_lizard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "thermal:basalz": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "variantsandventures:verdant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:laserbot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:fairy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "kobolds:kobold_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:starved": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:dripstone_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ebwizardry:evil_wizard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:ancient_guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:assassin_illager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:cowktail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "iceandfire:dread_thrall": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:placer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:prismkeeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ebwizardry:ice_wraith": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:wilden_guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:factory": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:cursed_armor_stand": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:citadel_keeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illagerinvasion:archivist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:kobolediator": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:corrupted_unformed_remnants": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:bloodthirstybeast": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:corrupted_husk": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:troll": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:carminite_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:jungle_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:deepling_priest": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:gold_undead_neon_resident": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undergarden:rotbeast": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:cryomancer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endergetic:charger_eetle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:moonknight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:skeletosaurus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:dispenser": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:piglin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:soulsteal_warrior": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:invisicreeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "aether:slider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "deeperdarker:shriek_worm": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:lava_eater": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "advanced_mobs:elder_brute_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:brown_basilisk_lizard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:armored_giant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:equestrian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "takesapillage:archer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:ignited_revenant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "graveyard:corrupted_vindicator": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:sprinter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:killbot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:spiritcaller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "gtbcs_geomancy_plus:geo_grandmaster": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:spider_monkey": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:absorber": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:old_scythe": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illagerinvasion:provoker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:windswept_hills_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enderzoology:wither_witch": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:laserbeam": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:royal_draugr": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "tropicraft:ashen": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:green_crystal_star": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:corrundum_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "faa:blue_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:maze_slime": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "ror:rainboom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "occultism:possessed_ghast": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:preserver": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "deeperdarker:shattered": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:night_prowler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:endersent": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mythsandlegends:imp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "truedarkness:gloomer_craftsman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:end_islands_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "twilightforest:giant_miner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "progressivebosses:wither_minion": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:aptrgangr": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mekanismadditions:baby_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "occultism:possessed_elder_guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "fdbosses:ice_malkuth_warrior": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "deeperdarker:sculk_snapper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:umvuthana_follower_player": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "difficultraids:warrior_illager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:kaboomer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "aether:valkyrie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "soulsweapons:evil_forlorn": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:faller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:symbiocto": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "enderzoology:dire_wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:freakager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    }
+  },
+  "animals": {
+    "bloodyhell:cyclops_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "tropicraft:turtle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:chocolate_chip_starfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "mahoutsukai:fae_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "environmental:deer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:trader_llama": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:moustached_tamarin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:yeti_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:familiar_wixie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "aether_redux:cockatrice_spawner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "goblintraders:goblin_trader": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:horse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "deep_aether:quail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:ring_tailed_lemur": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "missingwilds:firefly_swarm": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "aether:sheepuff": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "industrialupgrade:bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "goated:geep": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "legendarycreatures:wisp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:mantis": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:llama": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "twilightforest:raven": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "biomeswevegone:man_o_war": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:tadpole": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:dolphin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:blood_fire_soul": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "upgrade_aquatic:immortal_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:imp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "environmental:yak": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "tropicraft:marlin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:crystal_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "inventorypets:bed_pet_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:firenando_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:stoplight_loosejaw": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:blood_nova_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:bear": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:serval": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "crittersandcompanions:jumping_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "upgrade_aquatic:box_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:river_dolphin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:vulture": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:mantaray": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:zebra": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "deep_aether:eots_controller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "pet_cemetery:skeleton_wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "environmental:duck": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "endergetic:purpoid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "buzzier_bees:grizzly_bear": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:marlin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "the_bumblezone:bee_queen": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "pneumaticcraft:harvesting_drone": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "atlantis:rubyclaw_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "goblintraders:vein_goblin_trader": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "tombstone:spectral_wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:gift_starby": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:ferruginous_hawk": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "galosphere:spectre": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "undergarden:brute": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:axolotl_pet_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:mooshroom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "tropicraft:piranha": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "pneumaticcraft:amadrone": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:dragonfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "tropicraft:dolphin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:bigfin_squid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:barreleye_fish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "aquatic_frontiers:coralcrab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:axolotl": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "fdbosses:chesed_monolith": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:summoned_vex": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:foliot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ebwizardry:wizard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "mysticsbiomes:strawberry_cow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:greedy_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "deep_aether:windfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:moose": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "environmental:tapir": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:strider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "quark:crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "deep_aether:gentle_wind": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:elephant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:drygmy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "betternether:flying_pig": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "planttech2:plant_mite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "sullysmod:lanternfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "spelunkery:dust_bunny": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:wandering_trader": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "environmental:reindeer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "aether:flying_cow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "biomeswevegone:oddion": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:cardinal": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "deeperdarker:angler_fish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:hammerhead_pet_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "inventorypets:satya_nadella_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:naked_mole_rat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:sea_urchin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:skeloraptor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:darkling_beetle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "legendarycreatures:nether_wisp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ecologics:coconut_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "mythicbotany:alf_pixie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:zumusiasal": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ultramarine:travelling_merchant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "rainbowreef:crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:stone_statue": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:rhnull_impaler_projectile": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "betternether:hydrogen_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:siren": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:blood_arrow_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ror:giant_butterfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:bloodybelly_comb_jelly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:iiwi": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:western_meadowlark": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "crittersandcompanions:red_panda": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "doggytalents:dog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "geologicexpansion:duck": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:mushroom_fields_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "mysticsbiomes:red_panda": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:leaf_sheep": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:eyeshellsnail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "aether:aerbunny": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "twilightforest:dwarf_rabbit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:fox": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "monsterexpansion:kobeko": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "giants_overhaul:giant_drowned": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "mysticsbiomes:rainbow_chicken": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:mouse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:chicken": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "betternether:firefly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ebwizardry:magic_slime": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ad_astra:glacian_ram": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "buzzier_bees:moobloom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:sunfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:olm": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:ringtailcat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "neapolitan:chimpanzee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:atolla_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "queen_bee:queen_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "fdbosses:geburah_bell": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "tropicraft:eagle_ray": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:crystal_pillar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "shellfish:moss_ball": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:infestation_decal": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "illageandspillage:spirit_hand": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "starbunclemania:starby_mount": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "endermanoverhaul:pet_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:pancake_slug": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "totemic:bald_eagle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:nine_banded_armadillo": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "atlantis:leviathan": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:rhino": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "shellfish:lobster": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:cascading_weald_walker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ghosts:ghost": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:polar_bear": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:anglerfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "legendarycreatures:ender_wisp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "atlantis:thalassian_seahorse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "habitat:pooka": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "tropicraft:failgull": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:turtle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:rattlesnake": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:sheep": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:marten": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:shame_faced_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "quark:foxhound": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:pinocchio_anole": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:shrimp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:robin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:tortoise": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:familiar_starbuncle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:siren_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "goodending:woodpecker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "shellfish:clam": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:opossum": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:starbuncle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:squid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "twilightforest:tiny_bird": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:blood_slash_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "undergarden:dweller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "aquatic_frontiers:coralgolem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:marid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:blood_fire_meteor_projectile": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:blue_dragon_slug": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:whirlisprig": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "biome_backlog:ostrich": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "quark:shiba": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:pixie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:garden_eel_white": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:corrupted_bloody_soul_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:saiga": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:blue_spotted_stingray": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "undergarden:scintling": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "twilightforest:quest_ram": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "crittersandcompanions:dragonfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:shub_niggurath_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bagus_lib:mini_bagu": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:sea_bunny": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:nautilus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "supplementaries:red_merchant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:afrit_wild": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:fried_egg_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ghosts:small_ghost": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "pneumaticcraft:programmable_controller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ror:small_snail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "endergetic:booflo_baby": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:summon_dolphin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "caverns_and_chasms:glare": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:marmot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:priest": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:dragonfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:summon_direwolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "twilightforest:bighorn_sheep": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:beholder_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:bat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:sparrow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "crittersandcompanions:otter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "cataclysm:netherite_ministrosity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:amphithere": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "mysticsbiomes:butterfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:flounder": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:summon_wskeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:shub_niggurath_spawn": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "darkerdepths:void_soul": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:white_fruit_bat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "windswept:frostbiter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "dragonmounts:dragon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ror:cowbot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:abyssal_knight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:summon_skelehorse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:hippo": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:bloody_soul_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "autumnity:turkey": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wetland_whimsy:crane": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:familiar_amethyst_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:snake": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "railways:conductor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:weasel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:blacksmith_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:lizard_tail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:mantis_shrimp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:blasphemous_small_whirlwind_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:rolypoly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "mysticsbiomes:sea_otter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:caterpillar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "dtnpaletteofpaws:wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "betterend:dragonfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:garden_eel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:afrit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "inventorypets:siamese_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:goat_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:visceral_projectile": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:blasphemous_whirlwind_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:grasshopper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:cat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:amethyst_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:leafsheep": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:lizard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:stymphalian_bird": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:pallid_winged_grasshopper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ecologics:penguin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:virulent_anchor_projectile": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:hippogryph": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:snail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bygonenether:wither_skeleton_horse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:chimera_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ad_astra:lunarian_wandering_trader": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:unknown_eye_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:finch": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "endergetic:puff_bug": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:siamang_gibbon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "vintagevibes:butterfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:panda": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:aye_aye": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "environmental:zebra": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "mowziesmobs:lantern": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "environmental:zorse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:guardian_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:glow_squid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:leech": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ebwizardry:ice_giant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:fanfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:vampire_squid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "upgrade_aquatic:goose": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "pet_cemetery:zombie_parrot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:vexing_weald_walker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "planttech2:snail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "betterend:silk_moth": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:shark": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultengineering:puca": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:mole": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:seahorse_green": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:fennec": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:unknown_entity_arms": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:mata_mata": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:djinni": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "rainbowreef:arrow_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:leaf_frog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:mummy_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:cyclops": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:firefly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "environmental:zonkey": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "inventorypets:anvil_pet_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:leafinsect": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:leaf_frog_tadpole": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:donkey": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "the_bumblezone:variant_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "gardentrails:silkmoth": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "deep_aether:venomite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "longwings:butterfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "quark:stoneling": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:coyote": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:stickbug": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:bison": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:summoned_polar_bear": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "deep_aether:eots_segment": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:giraffe": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "cataclysm:the_baby_leviathan": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "galosphere:sparkle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "quark:toretoise": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "the_bumblezone:honey_slime": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ostrea:mossy_axolotl": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:sacabambaspis": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "enderzoology:owl": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "sullysmod:tortoise": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "planttech2:tech_trader": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ywzj_midi:fake_player": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:crimsonraven": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "pet_cemetery:skeleton_parrot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "longwings:moth": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "snuffles:snuffle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:ice_dragon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:summon_camel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "galosphere:specterpillar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:deer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ecologics:squirrel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:blood_projectile": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:cardigan_corgi": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "environmental:slabfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "autumnity:snail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "undergarden:gloomper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:pink_fairy_armadillo": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:beetle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:parrot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:stag_beetle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:demonic_husband": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "mysticsbiomes:caterpillar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:ladybug": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:scarletspeckledfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "inventorypets:mini_quantum_enderman_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "shellfish:oyster": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "monsterexpansion:rakoth": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:familiar_bookwyrm": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:sea_serpent": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:orca": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:starfall_projectile": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:pembroke_corgi": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ad_astra:lunarian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:frog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "crittersandcompanions:shima_enaga": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "giants_overhaul:giant_husk": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "twilightforest:deer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "biome_backlog:vulture": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "enemyexpansion:drone": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:blasphemous_arm_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:sloth_bear": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "guardribbits:guard_ribbit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:alligator": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "pneumaticcraft:collector_drone": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "upgrade_aquatic:cassiopea_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "twilightforest:squirrel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:mule": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:hydra": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:cthulhu_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:beaver_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:boar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ribbits:ribbit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "fdbosses:malkuth": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "sundries:thinker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "crittersandcompanions:leaf_insect": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:mole": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "twilightforest:boar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "creeperoverhaul:mushroom_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:otherworld_bird": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "atlantis:coconut_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "sundries:scallop": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:seahorse_yellow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:disc_fish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "crittersandcompanions:ferret": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:blazing_weald_walker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:harlequin_shrimp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:man_o_war": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:allay": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "graveyard:ghouling": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "pneumaticcraft:guard_drone": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:beefly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:rhnull_heavy_sword_projectile": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "pet_cemetery:zombie_wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "endergetic:booflo_adolescent": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "pet_cemetery:skeleton_cat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:black_billed_magpie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:compass_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:opah": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:firenando_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "irons_spellbooks:spectral_steed": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:blood_fire_column_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:familiar_whirlisprig": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:flashing_weald_walker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:small_crimson_dagger": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:siren_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:white_tailed_jackrabbit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "tombstone:grave_guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "goodending:firefly_swarm": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "inventorypets:mini_quantum_blaze_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "aether_redux:shimmercow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "totemic:buffalo": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:dragon_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "tropicraft:cubera": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:hammerhead_shark": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "atlantis:starfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:nettle_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "fdbosses:chesed": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:bloodpig": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:bloodseeker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "winteroverhaul:robin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "mysticsbiomes:chocolate_cow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:silkworm": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:millipede_head": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:lightning_dragon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:headless_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ebwizardry:remnant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "atmospheric:cochineal": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "undergarden:smog_mog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:pig": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 15.0,
+      "threshold": -18.0
+    },
+    "fdbosses:judgement_bird": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "legendary_monsters:dune_sentinel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:narwhal": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:goat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:giant_red_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:fire_dragon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "aether_redux:mykapod": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "shellfish:mussel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "tropicraft:hammerhead": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:skeleton_horse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:napoleon_wrasse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:cow": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 25.0,
+      "threshold": -18.0
+    },
+    "inventorypets:steve_ballmer_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "biome_backlog:meerkat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:duck": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:blood_soul_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:hippocampus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:sanguine_sacrifice_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:blunthead_tree_snake": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:familiar_drygmy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "monsterexpansion:leivekilth": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:seahorse_pink": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:steppe_eagle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:white_spotted_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:lacewing": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:bluejay": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "aether:moa": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "habitat:passerine": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:lobsterion": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "outer_end:spectrafly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "pet_cemetery:zombie_cat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:spider_tailed_adder": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:weevil": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:flourishing_weald_walker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_elemental:summon_strider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:demonic_wife": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "magicalmarine:squish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:oarfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:tower_snail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:rabbit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "pneumaticcraft:drone": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "savage_and_ravage:creepie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:red_river_hog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "goodending:marsh": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:butterfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "inventorypets:bill_gates_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ghosts:kodama": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:mauve_stinger_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:summon_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:veiled_chameleon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:hedgehog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "pneumaticcraft:logistics_drone": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "deep_aether:aerglow_fish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:summon_horse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:silkmoth": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:immortal_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:devil_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:bat_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:gorgon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:deep_scorpion": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:lion": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "undergarden:gwib": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:deer_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:canary": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "mysticsbiomes:vanilla_cow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "aether_redux:blightbunny_spawner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:sniffer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "wildfields:steppe_viper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "bloodyhell:blood_portal_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:zombie_horse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:cockatrice": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:rubber_ducky_isopod": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:camel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "forestry:butterfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:sea_angel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faunify:chinchilla": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ars_nouveau:summon_wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "monsterexpansion:skrythe": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "naturalist:coral_snake": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "swampier_swamps:dragonfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "endergetic:booflo": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "faa:lions_mane_jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:rabbit_snail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:ocelot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "twilightforest:penguin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "iceandfire:deathworm": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "cataclysm:modern_remnant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "the_bumblezone:beehemoth": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "aether:phyg": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "occultism:fairy_familiar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "ambientadditions:giant_land_snail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "hexalia:silk_moth": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "undergarden:mog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/quark/polished_ancient_log",
+    "side": "condiments:block/quark/polished_ancient_log"
+  }
+}

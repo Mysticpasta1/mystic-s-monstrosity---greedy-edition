@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/missingtrees/polished_azalea_log_top",
+    "side": "condiments:block/missingtrees/polished_azalea_log"
+  }
+}

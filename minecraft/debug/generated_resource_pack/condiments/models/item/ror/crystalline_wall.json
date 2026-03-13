@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "ror:block/stripped_crystalline_log",
+    "post": "ror:block/crystalline_log"
+  }
+}

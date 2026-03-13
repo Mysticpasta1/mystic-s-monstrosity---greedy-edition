@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "mynethersdelight:block/stripped_powdery_block",
+    "post": "mynethersdelight:block/powdery_block"
+  }
+}

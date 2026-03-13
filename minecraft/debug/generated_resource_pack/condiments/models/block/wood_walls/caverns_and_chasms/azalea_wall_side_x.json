@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_rotated_side_x",
+  "textures": {
+    "wall": "caverns_and_chasms:block/stripped_azalea_log"
+  }
+}

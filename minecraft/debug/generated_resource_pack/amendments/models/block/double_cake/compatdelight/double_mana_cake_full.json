@@ -1,0 +1,13 @@
+{
+	"parent": "amendments:block/double_cake/full_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "compatdelight:block/botaniadelight/mana_cake_side",
+		"top_up": "compatdelight:block/botaniadelight/mana_cake_top",
+		"bottom": "compatdelight:block/botaniadelight/mana_cake_bottom",
+		"top": "compatdelight:block/botaniadelight/mana_cake_top",
+		"particle": "compatdelight:block/botaniadelight/mana_cake_side",
+		"side": "compatdelight:block/botaniadelight/mana_cake_side"
+	}
+
+}

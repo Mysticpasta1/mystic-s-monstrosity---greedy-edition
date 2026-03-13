@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "betternether:block/mushroom_fir_stripped_log_side",
+    "post": "betternether:block/mushroom_fir_bark"
+  }
+}

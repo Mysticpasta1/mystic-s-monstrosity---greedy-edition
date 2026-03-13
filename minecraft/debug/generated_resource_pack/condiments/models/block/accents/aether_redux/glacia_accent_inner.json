@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/inner_accent",
+  "textures": {
+    "texture": "condiments:block/aether_redux/glacia_accent"
+  }
+}

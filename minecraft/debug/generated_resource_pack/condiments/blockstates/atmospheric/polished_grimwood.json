@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/atmospheric/polished_grimwood_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/atmospheric/polished_grimwood_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/atmospheric/polished_grimwood_z"
+    }
+  }
+}

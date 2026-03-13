@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_rotated_side_x",
+  "textures": {
+    "wall": "undergarden:block/stripped_wigglewood_log_side"
+  }
+}

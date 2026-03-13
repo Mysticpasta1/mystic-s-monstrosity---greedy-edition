@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice6_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "seasonals:block/beetroot_cake_side",
+		"top_up": "seasonals:block/beetroot_cake_top",
+		"inner": "seasonals:block/beetroot_cake_inner",
+		"bottom": "seasonals:block/beetroot_cake_bottom",
+		"top": "seasonals:block/beetroot_cake_top",
+		"particle": "seasonals:block/beetroot_cake_side",
+		"side": "seasonals:block/beetroot_cake_side"
+	}
+
+}

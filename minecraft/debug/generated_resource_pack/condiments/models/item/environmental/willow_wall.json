@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "environmental:block/stripped_willow_log",
+    "post": "environmental:block/willow_log"
+  }
+}

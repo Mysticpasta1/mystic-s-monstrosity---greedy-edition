@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/botania/polished_dreamwood_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/botania/polished_dreamwood_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/botania/polished_dreamwood_z"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+	"parent": "amendments:block/double_cake/full_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "thermal:block/chocolate_cake_side",
+		"top_up": "thermal:block/chocolate_cake_top",
+		"bottom": "thermal:block/chocolate_cake_bottom",
+		"top": "thermal:block/chocolate_cake_top",
+		"particle": "thermal:block/chocolate_cake_side",
+		"side": "thermal:block/chocolate_cake_side"
+	}
+
+}
