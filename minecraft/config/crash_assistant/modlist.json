@@ -11102,13 +11102,6 @@
     "curseForgeHash": 2434907592,
     "modrinthHash": "335f9e616be97491b746c56ae85646edace708f7"
   },
-  "spark-1.10.56-forge.jar": {
-    "jarName": "spark-1.10.56-forge.jar",
-    "modId": "spark",
-    "version": "1.10.53",
-    "curseForgeHash": 1506242661,
-    "modrinthHash": "21dab935df6f26d4adfdf6f153114320bcea49d0"
-  },
   "sparsestructures-forge-1.20.1-3.0.jar": {
     "jarName": "sparsestructures-forge-1.20.1-3.0.jar",
     "modId": "sparsestructures",
