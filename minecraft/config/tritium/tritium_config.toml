@@ -54,7 +54,7 @@ MAX_FPS = 0
 
 [rendering.entityCulling]
 ## Enable Culling
-enableCulling = true
+enableCulling = false
 
 ## Enable Block Entity Culling
 enableBlockEntityCulling = false
