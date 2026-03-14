@@ -9805,3 +9805,8 @@
 	[l2hostility.blocks]
 		hostility_beacon = "[255,255,255]"
 
+[more_potion_effects]
+
+	[more_potion_effects.blocks]
+		compressed_air = "[255,255,255]"
+

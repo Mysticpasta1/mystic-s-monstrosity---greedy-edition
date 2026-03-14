@@ -8778,6 +8778,13 @@
     "curseForgeHash": 3808132610,
     "modrinthHash": "64b7281fc993fd22175cc5318c53c131b211c34e"
   },
+  "more_potion_effects-2.5.6-forge-1.20.1.jar": {
+    "jarName": "more_potion_effects-2.5.6-forge-1.20.1.jar",
+    "modId": "more_potion_effects",
+    "version": "2.5.6",
+    "curseForgeHash": 3011001742,
+    "modrinthHash": "210d29b5878375703ca1a229ae15380ee56b6b80"
+  },
   "moreartifacts-1.5.5-1.20.1.jar": {
     "jarName": "moreartifacts-1.5.5-1.20.1.jar",
     "modId": "moreartifacts",
