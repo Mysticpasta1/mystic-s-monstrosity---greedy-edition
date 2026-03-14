@@ -131,11 +131,6 @@
 	[disenchanting_table.blocks]
 		disenchanting_table = "[255,255,255]"
 
-[useful_rocks]
-
-	[useful_rocks.blocks]
-		granite_furnace = "[255,255,255]"
-
 [betteramethyst]
 
 	[betteramethyst.blocks]

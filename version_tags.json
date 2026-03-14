@@ -1,7 +1,7 @@
 [
   {
-    "version": "30.2.2",
-    "created_at": "2026-03-14T18:50:26.2027414Z",
+    "version": "30.2.3",
+    "created_at": "2026-03-14T21:24:07.6858307Z",
     "notes": null,
     "mod_snapshot": [
       {
@@ -18227,15 +18227,6 @@
         "mod_id": null,
         "file_size": 12889,
         "curseforge_id": 1091889,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "useful_rocks-1.1.0.jar",
-        "name": "\u6709\u7528\u7684\u5CA9\u77F3",
-        "version": null,
-        "mod_id": null,
-        "file_size": 105291,
-        "curseforge_id": 1474119,
         "modrinth_id": null
       },
       {
