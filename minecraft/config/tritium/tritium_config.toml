@@ -60,7 +60,7 @@ enableCulling = true
 enableBlockEntityCulling = false
 
 ## Enable Tick Stopping
-enableTickStopping = false
+enableTickStopping = true
 
 ## Enable Name Tag Culling
 enableNameTagCulling = true
@@ -131,13 +131,13 @@ maxParticles = 16384
 [entities]
 [entities.entityOpt]
 ## Optimize Entities
-optimizeEntities = false
+optimizeEntities = true
 
 ## Tick Raiders In Raid
 tickRaidersInRaid = true
 
 ## Ite
-ite = false
+ite = true
 
 ## Horizontal Range
 horizontalRange = 256

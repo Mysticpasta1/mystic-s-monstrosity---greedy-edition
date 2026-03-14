@@ -1,7 +1,7 @@
 [
   {
-    "version": "30.2.3",
-    "created_at": "2026-03-14T21:24:07.6858307Z",
+    "version": "30.3.0",
+    "created_at": "2026-03-14T23:12:48.3372309Z",
     "notes": null,
     "mod_snapshot": [
       {
@@ -2264,11 +2264,11 @@
         "modrinth_id": "PbNc6qBY"
       },
       {
-        "file_name": "bloodyhell-0.7.812.jar",
+        "file_name": "bloodyhell-0.8.0.jar",
         "name": "BloodyHell!",
         "version": null,
         "mod_id": null,
-        "file_size": 23531795,
+        "file_size": 26777595,
         "curseforge_id": 1202025,
         "modrinth_id": null
       },
@@ -5565,15 +5565,6 @@
         "file_size": 213641,
         "curseforge_id": 815292,
         "modrinth_id": "hWQSZxmj"
-      },
-      {
-        "file_name": "duradisp-1.0.5.jar",
-        "name": "Dura: ReDisplayed",
-        "version": null,
-        "mod_id": null,
-        "file_size": 225854,
-        "curseforge_id": 1333235,
-        "modrinth_id": null
       },
       {
         "file_name": "durabilitytooltip-1.1.6-forge-mc1.20.jar",
@@ -10967,11 +10958,11 @@
         "modrinth_id": "5NTPlvnj"
       },
       {
-        "file_name": "MEED-1.20.1-7.8.1.jar",
+        "file_name": "MEED-1.20.1-7.9.jar",
         "name": "Moderately Enough Effect Descriptions (MEED)",
         "version": null,
         "mod_id": null,
-        "file_size": 90609,
+        "file_size": 91563,
         "curseforge_id": 918638,
         "modrinth_id": null
       },
@@ -14900,11 +14891,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "sophisticatedbackpacks-1.20.1-3.24.25.1566.jar",
+        "file_name": "sophisticatedbackpacks-1.20.1-3.24.26.1567.jar",
         "name": "Sophisticated Backpacks",
         "version": null,
         "mod_id": null,
-        "file_size": 990023,
+        "file_size": 990101,
         "curseforge_id": 422301,
         "modrinth_id": null
       },
@@ -14918,20 +14909,20 @@
         "modrinth_id": null
       },
       {
-        "file_name": "sophisticatedcore-1.20.1-1.3.7.1518.jar",
+        "file_name": "sophisticatedcore-1.20.1-1.3.8.1524.jar",
         "name": "Sophisticated Core",
         "version": null,
         "mod_id": null,
-        "file_size": 1419639,
+        "file_size": 1419928,
         "curseforge_id": 618298,
         "modrinth_id": null
       },
       {
-        "file_name": "sophisticatedstorage-1.20.1-1.4.28.1526.jar",
+        "file_name": "sophisticatedstorage-1.20.1-1.4.29.1527.jar",
         "name": "Sophisticated Storage",
         "version": null,
         "mod_id": null,
-        "file_size": 1667092,
+        "file_size": 1667180,
         "curseforge_id": 619320,
         "modrinth_id": null
       },
