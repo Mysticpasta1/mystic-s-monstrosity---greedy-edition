@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "productivetrees:block/stripped/rowan",
+    "post": "productivetrees:block/log/rowan"
+  }
+}

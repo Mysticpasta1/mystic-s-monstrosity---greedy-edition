@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "productivetrees:block/stripped/bull_pine",
+    "post": "productivetrees:block/log/bull_pine"
+  }
+}

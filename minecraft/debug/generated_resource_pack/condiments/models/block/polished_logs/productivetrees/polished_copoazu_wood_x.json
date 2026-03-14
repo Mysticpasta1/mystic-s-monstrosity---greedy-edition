@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_x",
+  "textures": {
+    "end": "condiments:block/productivetrees/polished_copoazu_log",
+    "side": "condiments:block/productivetrees/polished_copoazu_log"
+  }
+}

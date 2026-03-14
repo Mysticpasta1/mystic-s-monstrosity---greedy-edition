@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/productivetrees/polished_tuscarora_crepe_myrtle_log",
+    "side": "condiments:block/productivetrees/polished_tuscarora_crepe_myrtle_log"
+  }
+}

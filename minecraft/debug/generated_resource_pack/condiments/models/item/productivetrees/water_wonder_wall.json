@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "productivetrees:block/stripped/water_wonder",
+    "post": "productivetrees:block/log/water_wonder"
+  }
+}

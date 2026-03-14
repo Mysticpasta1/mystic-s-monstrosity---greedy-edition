@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_rotated_side_z",
+  "textures": {
+    "wall": "productivetrees:block/stripped/beliy_naliv_apple"
+  }
+}

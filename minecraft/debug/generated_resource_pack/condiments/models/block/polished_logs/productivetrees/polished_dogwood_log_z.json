@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_z",
+  "textures": {
+    "end": "condiments:block/productivetrees/polished_dogwood_log_top",
+    "side": "condiments:block/productivetrees/polished_dogwood_log"
+  }
+}

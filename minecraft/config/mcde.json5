@@ -25,11 +25,11 @@
 		"minecraft:unbreaking"
 	],
 	// Allow curses to appear
-	"allowCurses": false,
+	"allowCurses": true,
 	// Generate enchantments only if they are available for random selection.
 	"respectAvailabilityForRandomSelection": true,
 	// Allow treasure enchantments to appear
-	"allowTreasure": false,
+	"allowTreasure": true,
 	/* Require compatibility of enchantments in different slots.
 	   For example, if this is false, you can enchant an armor both for protection and fire protection simultaneously.
 	   Anvils are also affected.

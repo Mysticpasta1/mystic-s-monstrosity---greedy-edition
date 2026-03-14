@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "productivetrees:block/stripped/purple_crepe_myrtle",
+    "post": "productivetrees:block/log/purple_crepe_myrtle"
+  }
+}

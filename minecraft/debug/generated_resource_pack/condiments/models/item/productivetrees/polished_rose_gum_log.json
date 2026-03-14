@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/productivetrees/polished_rose_gum_log_top",
+    "side": "condiments:block/productivetrees/polished_rose_gum_log"
+  }
+}

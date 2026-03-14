@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "productivetrees:block/stripped/yellow_meranti",
+    "post": "productivetrees:block/log/yellow_meranti"
+  }
+}

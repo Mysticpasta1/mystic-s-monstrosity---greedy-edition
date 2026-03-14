@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "sonicraft:block/chillyblossom_log_side_stripped",
+    "post": "sonicraft:block/chillyblossom_log_side"
+  }
+}

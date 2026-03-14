@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "productivetrees:block/stripped/pink_ivory",
+    "post": "productivetrees:block/log/pink_ivory"
+  }
+}

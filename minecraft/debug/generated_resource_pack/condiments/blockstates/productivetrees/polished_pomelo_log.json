@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/productivetrees/polished_pomelo_log_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/productivetrees/polished_pomelo_log_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/productivetrees/polished_pomelo_log_z"
+    }
+  }
+}
