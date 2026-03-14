@@ -12950,6 +12950,13 @@
     "curseForgeHash": 1877037548,
     "modrinthHash": "7295788df92b75b49affb11d13f9fcf0385017fc"
   },
+  "tritium-forge-1.20.1-26.5.jar": {
+    "jarName": "tritium-forge-1.20.1-26.5.jar",
+    "modId": "tritium",
+    "version": "26.5",
+    "curseForgeHash": 2490331042,
+    "modrinthHash": "ba368e638a226f6330b205ad06212c5c3a3e7612"
+  },
   "Tropicraft-9.6.3.jar": {
     "jarName": "Tropicraft-9.6.3.jar",
     "modId": "tropicraft",

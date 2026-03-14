@@ -13,7 +13,7 @@
 	#Show bar texture
 	bar = true
 	#Show the hp bar of the mobs who are damaged
-	damaged_only = false
+	damaged_only = true
 	#Show the hp bar of the mob you are looking at
 	hovered_only = false
 	#

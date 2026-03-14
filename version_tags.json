@@ -1,7 +1,7 @@
 [
   {
-    "version": "30.2.0",
-    "created_at": "2026-03-14T11:35:34.0814122Z",
+    "version": "30.2.2",
+    "created_at": "2026-03-14T18:50:26.2027414Z",
     "notes": null,
     "mod_snapshot": [
       {
@@ -16652,6 +16652,15 @@
         "mod_id": null,
         "file_size": 87138,
         "curseforge_id": 870210,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "tritium-forge-1.20.1-26.5.jar",
+        "name": "Tritium",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1869144,
+        "curseforge_id": 1390106,
         "modrinth_id": null
       },
       {
