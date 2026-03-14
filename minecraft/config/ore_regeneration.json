@@ -1,0 +1,153 @@
+{
+  "ores": [
+    {
+      "block": "minecraft:iron_ore",
+      "deepslate_variant": "minecraft:deepslate_iron_ore",
+      "target_blocks": [
+        "minecraft:stone",
+        "minecraft:deepslate"
+      ],
+      "vein_size": {
+        "min": 4,
+        "max": 9
+      },
+      "height_range": {
+        "min": -64,
+        "max": 72
+      },
+      "veins_per_region": 8,
+      "region_size": 3
+    },
+    {
+      "block": "minecraft:coal_ore",
+      "deepslate_variant": "minecraft:deepslate_coal_ore",
+      "target_blocks": [
+        "minecraft:stone",
+        "minecraft:deepslate"
+      ],
+      "vein_size": {
+        "min": 4,
+        "max": 12
+      },
+      "height_range": {
+        "min": -64,
+        "max": 192
+      },
+      "veins_per_region": 10,
+      "region_size": 3
+    },
+    {
+      "block": "minecraft:copper_ore",
+      "deepslate_variant": "minecraft:deepslate_copper_ore",
+      "target_blocks": [
+        "minecraft:stone",
+        "minecraft:deepslate"
+      ],
+      "vein_size": {
+        "min": 5,
+        "max": 10
+      },
+      "height_range": {
+        "min": -16,
+        "max": 112
+      },
+      "veins_per_region": 6,
+      "region_size": 3
+    },
+    {
+      "block": "minecraft:gold_ore",
+      "deepslate_variant": "minecraft:deepslate_gold_ore",
+      "target_blocks": [
+        "minecraft:stone",
+        "minecraft:deepslate"
+      ],
+      "vein_size": {
+        "min": 4,
+        "max": 9
+      },
+      "height_range": {
+        "min": -64,
+        "max": 32
+      },
+      "veins_per_region": 4,
+      "region_size": 3
+    },
+    {
+      "block": "minecraft:redstone_ore",
+      "deepslate_variant": "minecraft:deepslate_redstone_ore",
+      "target_blocks": [
+        "minecraft:stone",
+        "minecraft:deepslate"
+      ],
+      "vein_size": {
+        "min": 4,
+        "max": 8
+      },
+      "height_range": {
+        "min": -64,
+        "max": 16
+      },
+      "veins_per_region": 6,
+      "region_size": 3
+    },
+    {
+      "block": "minecraft:diamond_ore",
+      "deepslate_variant": "minecraft:deepslate_diamond_ore",
+      "target_blocks": [
+        "minecraft:stone",
+        "minecraft:deepslate"
+      ],
+      "vein_size": {
+        "min": 3,
+        "max": 7
+      },
+      "height_range": {
+        "min": -64,
+        "max": 16
+      },
+      "veins_per_region": 3,
+      "region_size": 3
+    },
+    {
+      "block": "minecraft:lapis_ore",
+      "deepslate_variant": "minecraft:deepslate_lapis_ore",
+      "target_blocks": [
+        "minecraft:stone",
+        "minecraft:deepslate"
+      ],
+      "vein_size": {
+        "min": 4,
+        "max": 8
+      },
+      "height_range": {
+        "min": -64,
+        "max": 64
+      },
+      "veins_per_region": 4,
+      "region_size": 3
+    },
+    {
+      "block": "minecraft:emerald_ore",
+      "deepslate_variant": "minecraft:deepslate_emerald_ore",
+      "target_blocks": [
+        "minecraft:stone",
+        "minecraft:deepslate"
+      ],
+      "vein_size": {
+        "min": 1,
+        "max": 3
+      },
+      "height_range": {
+        "min": -16,
+        "max": 256
+      },
+      "veins_per_region": 1,
+      "region_size": 3
+    }
+  ],
+  "regeneration": {
+    "check_interval_ticks": 1200,
+    "max_operations_per_tick": 50,
+    "regions_per_check": 2
+  }
+}

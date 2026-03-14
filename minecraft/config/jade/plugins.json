@@ -18,6 +18,10 @@
   "underlay": {
     "overlay": true
   },
+  "dtphc2": {
+    "maple_spile": true,
+    "passion_fruit_vine": true
+  },
   "melter": {
     "melter_data": true
   },
@@ -305,6 +309,12 @@
   "framedblocks": {
     "framed_item_frame": true
   },
+  "l2hostility": {
+    "mob": true
+  },
+  "dtaddon_lib": {
+    "maple_spile": true
+  },
   "tombstone": {
     "decorative_graves": true,
     "player_graves": true
@@ -322,6 +332,13 @@
   "functionalstorage": {
     "armory": true
   },
+  "productivebees": {
+    "solitary_nest": true,
+    "jar": true,
+    "canvas_beehive": true,
+    "bee_attributes": true,
+    "productive_bee": true
+  },
   "modularrouters": {
     "router": true
   },
@@ -338,6 +355,13 @@
     "crop_progress": true,
     "pie_icons": true,
     "mushroom_colony": true
+  },
+  "dynamictrees": {
+    "rooty_water": true,
+    "pod": true,
+    "fruit": true,
+    "rooty": true,
+    "branch": true
   },
   "ultramarine": {
     "brick_kiln": true,

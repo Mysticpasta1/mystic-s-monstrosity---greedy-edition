@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/productivetrees/great_sallow"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/productivetrees/great_sallow",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/productivetrees/great_sallow",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/productivetrees/great_sallow",
+      "y": 270
+    }
+  }
+}

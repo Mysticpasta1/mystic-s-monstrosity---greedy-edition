@@ -1,7 +1,7 @@
 [
   {
-    "version": "29.1.0",
-    "created_at": "2026-03-13T06:55:51.1448148Z",
+    "version": "30.0.0",
+    "created_at": "2026-03-14T09:23:54.5978673Z",
     "notes": null,
     "mod_snapshot": [
       {
@@ -338,6 +338,15 @@
         "modrinth_id": "9fG5wAkl"
       },
       {
+        "file_name": "ae2cs-1.20.1-forge-1.1.4.jar",
+        "name": "AE2 Crystal Science",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1703742,
+        "curseforge_id": 1435174,
+        "modrinth_id": "uJ9afomy"
+      },
+      {
         "file_name": "ae2insertexportcard-1.20.1-1.3.0.jar",
         "name": "AE2 Insert Export Card",
         "version": null,
@@ -543,6 +552,15 @@
         "file_size": 2452826,
         "curseforge_id": 855631,
         "modrinth_id": "b6tH06zJ"
+      },
+      {
+        "file_name": "aether-ruined-portal-3.0.jar",
+        "name": "Aether Ruined Portals",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2827253,
+        "curseforge_id": 1388747,
+        "modrinth_id": null
       },
       {
         "file_name": "AetherVillages-1.20.1-1.0.7-forge.jar",
@@ -824,13 +842,13 @@
         "modrinth_id": "S8F0jey8"
       },
       {
-        "file_name": "ancientstructures-forge-1.20.1-0.0.13.jar",
+        "file_name": "ancientstructures-forge-1.20.1-0.0.14.jar",
         "name": "Ancient Structures",
         "version": null,
         "mod_id": null,
-        "file_size": 535535,
+        "file_size": 536460,
         "curseforge_id": 1300212,
-        "modrinth_id": null
+        "modrinth_id": "gZp8ofn3"
       },
       {
         "file_name": "ancientvillages-forge-1.20.1-0.0.3.jar",
@@ -875,6 +893,15 @@
         "mod_id": null,
         "file_size": 2803994,
         "curseforge_id": 313970,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "apotheotic_hostility-1.20.1-1.0.1.jar",
+        "name": "Apotheotic Hostility",
+        "version": null,
+        "mod_id": null,
+        "file_size": 294639,
+        "curseforge_id": 1468025,
         "modrinth_id": null
       },
       {
@@ -1391,6 +1418,15 @@
         "modrinth_id": "lOOpEntO"
       },
       {
+        "file_name": "attributification-forge-2.0.4.jar",
+        "name": "Attributification [Attribute Unification]",
+        "version": null,
+        "mod_id": null,
+        "file_size": 125860,
+        "curseforge_id": 1465383,
+        "modrinth_id": "Kh7Ccq3T"
+      },
+      {
         "file_name": "attributizer-3.1.jar",
         "name": "Attributizer",
         "version": null,
@@ -1578,6 +1614,33 @@
         "file_size": 28225,
         "curseforge_id": 261251,
         "modrinth_id": "lL2MtE37"
+      },
+      {
+        "file_name": "badland-moai-villager-1.0.jar",
+        "name": "Badland Moai Villager",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2506482,
+        "curseforge_id": 1472510,
+        "modrinth_id": "LG9iEbxP"
+      },
+      {
+        "file_name": "badland-pyramid-3.0.jar",
+        "name": "Badland Temple",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2039580,
+        "curseforge_id": 1383833,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "badland-village-4.0.jar",
+        "name": "Badland Villages",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2451218,
+        "curseforge_id": 1379927,
+        "modrinth_id": null
       },
       {
         "file_name": "BadOptimizations-2.4.1-1.20.1.jar",
@@ -2849,6 +2912,15 @@
         "modrinth_id": null
       },
       {
+        "file_name": "centrifugetiersreproduced-1.20.1-1.4.2.jar",
+        "name": "Centrifuge Tiers: Reproduced",
+        "version": null,
+        "mod_id": null,
+        "file_size": 103079,
+        "curseforge_id": 872232,
+        "modrinth_id": "kdj4UZE7"
+      },
+      {
         "file_name": "BetterBeacons-Forge-1.20.1-2.0.0.jar",
         "name": "CERBON\u0027s Better Beacons",
         "version": null,
@@ -3083,20 +3155,11 @@
         "modrinth_id": "R0icEsBD"
       },
       {
-        "file_name": "citadel-2.6.3-1.20.1.jar",
-        "name": "Citadel",
-        "version": null,
-        "mod_id": null,
-        "file_size": 3185275,
-        "curseforge_id": 331936,
-        "modrinth_id": "jJfV67b1"
-      },
-      {
-        "file_name": "civillis-forge-1.2.0-release\u002Bmc1.20.1.jar",
+        "file_name": "civillis-forge-1.2.1-release\u002Bmc1.20.1.jar",
         "name": "Civillis",
         "version": null,
         "mod_id": null,
-        "file_size": 286488,
+        "file_size": 294617,
         "curseforge_id": 1460803,
         "modrinth_id": "Dx2SPPEi"
       },
@@ -3839,6 +3902,15 @@
         "modrinth_id": "LNytGWDc"
       },
       {
+        "file_name": "Create\u002BBOP Rose Quartz.jar",
+        "name": "Create \u002B Biomes O\u0027 Plenty Rose Quartz Compatability",
+        "version": null,
+        "mod_id": null,
+        "file_size": 13389,
+        "curseforge_id": 940637,
+        "modrinth_id": null
+      },
+      {
         "file_name": "create_ad_astra_compat-forge-1.20.1-1.0.0.jar",
         "name": "Create Ad Atra Compat",
         "version": null,
@@ -4278,6 +4350,15 @@
         "file_size": 489265,
         "curseforge_id": 906239,
         "modrinth_id": "r4Knci2k"
+      },
+      {
+        "file_name": "create_kinetic_illuminator-forge-1.0.1.jar",
+        "name": "Create: Kinetic Illuminator",
+        "version": null,
+        "mod_id": null,
+        "file_size": 84514,
+        "curseforge_id": 1375962,
+        "modrinth_id": "LZysq1sr"
       },
       {
         "file_name": "mechanical_botany-1.0.5\u002B1.20.1-neoforged.jar",
@@ -5477,6 +5558,24 @@
         "modrinth_id": "cF1BYe6H"
       },
       {
+        "file_name": "Dungeons And Villages DeeperAndDarker 1.20.1.jar",
+        "name": "Dungeons And Villages: Deeper and Darker",
+        "version": null,
+        "mod_id": null,
+        "file_size": 266498,
+        "curseforge_id": 1481113,
+        "modrinth_id": "dDLO8v94"
+      },
+      {
+        "file_name": "dungeonsartifacts-1.5.0-1.20.1.jar",
+        "name": "Dungeons Artifacts",
+        "version": null,
+        "mod_id": null,
+        "file_size": 932227,
+        "curseforge_id": 663360,
+        "modrinth_id": "KEoZdemO"
+      },
+      {
         "file_name": "dungeonsenchantments-1.1.1-1.20.1.jar",
         "name": "Dungeons Enchantments",
         "version": null,
@@ -5519,6 +5618,276 @@
         "mod_id": null,
         "file_size": 141149,
         "curseforge_id": 650016,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTrees-1.20.1-1.4.10.jar",
+        "name": "Dynamic Trees",
+        "version": null,
+        "mod_id": null,
+        "file_size": 3754640,
+        "curseforge_id": 252818,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesArsNouveau-1.20.1-1.2.0.jar",
+        "name": "Dynamic Trees - Ars Nouveau",
+        "version": null,
+        "mod_id": null,
+        "file_size": 284593,
+        "curseforge_id": 874028,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesArtsandCrafts-1.20.1-1.0.2.jar",
+        "name": "Dynamic Trees - Arts and Crafts",
+        "version": null,
+        "mod_id": null,
+        "file_size": 4776814,
+        "curseforge_id": 1212761,
+        "modrinth_id": "aZNuXAkp"
+      },
+      {
+        "file_name": "DynamicTrees-1.20.1-1.4.9.jar",
+        "name": "Dynamic Trees - Au Naturel Edit",
+        "version": null,
+        "mod_id": null,
+        "file_size": 3754109,
+        "curseforge_id": 1406388,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesAutumnity-1.20.1-1.3.2.jar",
+        "name": "Dynamic Trees - Autumnity",
+        "version": null,
+        "mod_id": null,
+        "file_size": 55984,
+        "curseforge_id": 602692,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesBOP-1.20.1-3.3.3.jar",
+        "name": "Dynamic Trees - Biomes O\u0027 Plenty",
+        "version": null,
+        "mod_id": null,
+        "file_size": 413433,
+        "curseforge_id": 289529,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesCroptopia-1.20.1-1.0.0.jar",
+        "name": "Dynamic Trees - Croptopia ",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1150058,
+        "curseforge_id": 1168636,
+        "modrinth_id": "TIF8EckY"
+      },
+      {
+        "file_name": "DynamicTreesEcologics-1.20.1-1.1.0.jar",
+        "name": "Dynamic Trees - Ecologics",
+        "version": null,
+        "mod_id": null,
+        "file_size": 98104,
+        "curseforge_id": 871323,
+        "modrinth_id": "2H9XSQjq"
+      },
+      {
+        "file_name": "DynamicTreesEnhancedMushrooms-1.20.1-1.0.0.jar",
+        "name": "Dynamic Trees - Enhanced Mushrooms",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1891353,
+        "curseforge_id": 1215278,
+        "modrinth_id": "5oJoOjwU"
+      },
+      {
+        "file_name": "dthexcasting-1.0.2.jar",
+        "name": "Dynamic Trees - Hexcasting",
+        "version": null,
+        "mod_id": null,
+        "file_size": 73986,
+        "curseforge_id": 1206773,
+        "modrinth_id": "gQRjFWM9"
+      },
+      {
+        "file_name": "DynamicTreesInventoryPets-1.20.1-1.0.0.jar",
+        "name": "Dynamic Trees - Inventory Pets",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1281698,
+        "curseforge_id": 1215295,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesNaturesAura-1.20.1-1.4.0.jar",
+        "name": "Dynamic Trees - Nature\u2019s Aura",
+        "version": null,
+        "mod_id": null,
+        "file_size": 353068,
+        "curseforge_id": 403135,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesNeapolitan-1.20.1-1.3.2.jar",
+        "name": "Dynamic Trees - Neapolitan",
+        "version": null,
+        "mod_id": null,
+        "file_size": 139462,
+        "curseforge_id": 508225,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "Dynamic Trees BWG-1.20.1-1.0.9.jar",
+        "name": "Dynamic Trees - Oh The Biomes We\u0027ve Gone",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1222166,
+        "curseforge_id": 1269211,
+        "modrinth_id": "z5yJOJnS"
+      },
+      {
+        "file_name": "DynamicTreesPrimalMagick-1.20.1-1.0.3.jar",
+        "name": "Dynamic Trees - Primal Magick",
+        "version": null,
+        "mod_id": null,
+        "file_size": 120912,
+        "curseforge_id": 1081250,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesQuark-1.20.1-2.5.3.jar",
+        "name": "Dynamic Trees - Quark",
+        "version": null,
+        "mod_id": null,
+        "file_size": 464224,
+        "curseforge_id": 386753,
+        "modrinth_id": "9paueCZy"
+      },
+      {
+        "file_name": "DynamicTreesRainbowOaks-1.20.1-1.0.0.jar",
+        "name": "Dynamic Trees - Rainbow Oaks Renewed",
+        "version": null,
+        "mod_id": null,
+        "file_size": 4443078,
+        "curseforge_id": 1214165,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesRU-1.20.1-1.0.1.jar",
+        "name": "Dynamic Trees - Regions Unexplored",
+        "version": null,
+        "mod_id": null,
+        "file_size": 763194,
+        "curseforge_id": 1157051,
+        "modrinth_id": "IOcN8dvy"
+      },
+      {
+        "file_name": "DynamicTrees-Soils-Compat-1.20.1-1.1.0.jar",
+        "name": "Dynamic Trees - Soils Compat - Immersive Weathering/Grounded/Unearthed Soils",
+        "version": null,
+        "mod_id": null,
+        "file_size": 808673,
+        "curseforge_id": 1185895,
+        "modrinth_id": "oZn5qAQl"
+      },
+      {
+        "file_name": "DynamicTreesSoniCraft-1.20.1-1.2.0.jar",
+        "name": "Dynamic Trees - SoniCraft",
+        "version": null,
+        "mod_id": null,
+        "file_size": 918211,
+        "curseforge_id": 1215282,
+        "modrinth_id": "XxG8TlRF"
+      },
+      {
+        "file_name": "DynamicTreesTerralith-1.20.1-1.2.6.jar",
+        "name": "Dynamic Trees - Terralith",
+        "version": null,
+        "mod_id": null,
+        "file_size": 514225,
+        "curseforge_id": 852886,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesAether-1.20.1-1.3.3.jar",
+        "name": "Dynamic Trees - The Aether",
+        "version": null,
+        "mod_id": null,
+        "file_size": 538364,
+        "curseforge_id": 387443,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesTheTwilightForest-1.20.1-2.2.0.jar",
+        "name": "Dynamic Trees - The Twilight Forest",
+        "version": null,
+        "mod_id": null,
+        "file_size": 295107,
+        "curseforge_id": 391986,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesTinkersConstruct-1.20.1-1.5.0.jar",
+        "name": "Dynamic Trees - Tinker\u0027s Construct",
+        "version": null,
+        "mod_id": null,
+        "file_size": 134470,
+        "curseforge_id": 386747,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesUpgradeAquatic-1.20.1-1.2.0.jar",
+        "name": "Dynamic Trees - Upgrade Aquatic",
+        "version": null,
+        "mod_id": null,
+        "file_size": 35342,
+        "curseforge_id": 570119,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesAddonLib-1.20.1-0.1.0-BETA4.jar",
+        "name": "Dynamic Trees Addon Lib",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1335172,
+        "curseforge_id": 1404692,
+        "modrinth_id": "ju42L8G7"
+      },
+      {
+        "file_name": "dynamictrees_createcompat-1.0.1.jar",
+        "name": "Dynamic Trees Create Compat",
+        "version": null,
+        "mod_id": null,
+        "file_size": 11811,
+        "curseforge_id": 980611,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "dtnatures_spirit-1.20.1-forge-1.3-all.jar",
+        "name": "Dynamic Trees for Nature\u0027s Spirit",
+        "version": null,
+        "mod_id": null,
+        "file_size": 582710,
+        "curseforge_id": 1049917,
+        "modrinth_id": "RenmoBVn"
+      },
+      {
+        "file_name": "DynamicTreesPHC2-1.20.1-1.3.2.jar",
+        "name": "Dynamic Trees Pam\u0027s Harvestcraft 2: Trees",
+        "version": null,
+        "mod_id": null,
+        "file_size": 748946,
+        "curseforge_id": 839090,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DynamicTreesPlus-1.20.1-1.2.2.jar",
+        "name": "Dynamic Trees Plus",
+        "version": null,
+        "mod_id": null,
+        "file_size": 534711,
+        "curseforge_id": 478155,
         "modrinth_id": null
       },
       {
@@ -5637,6 +6006,15 @@
         "file_size": 14561,
         "curseforge_id": 638508,
         "modrinth_id": "a8Jk9kpK"
+      },
+      {
+        "file_name": "effectification-forge-2.0.3.jar",
+        "name": "Effectification [Effect Unification]",
+        "version": null,
+        "mod_id": null,
+        "file_size": 129851,
+        "curseforge_id": 1465387,
+        "modrinth_id": "efENFWZV"
       },
       {
         "file_name": "effortlessbuilding-1.20.1-3.10.jar",
@@ -5799,6 +6177,15 @@
         "file_size": 526201,
         "curseforge_id": 913523,
         "modrinth_id": "SwDIbBHh"
+      },
+      {
+        "file_name": "end-moai-villager-1.0.jar",
+        "name": "End Moai Villager",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2703493,
+        "curseforge_id": 1474764,
+        "modrinth_id": "GQj2n5FE"
       },
       {
         "file_name": "endportalparallax-2.1.1-mc1.20.1-forge.jar",
@@ -6042,6 +6429,15 @@
         "file_size": 611496,
         "curseforge_id": 491890,
         "modrinth_id": null
+      },
+      {
+        "file_name": "etheria-0.3.4.jar",
+        "name": "Etheria",
+        "version": null,
+        "mod_id": null,
+        "file_size": 38763492,
+        "curseforge_id": 1100499,
+        "modrinth_id": "JB7x5dm4"
       },
       {
         "file_name": "etstlib-3.0.0-beta.19.jar",
@@ -6296,6 +6692,15 @@
         "modrinth_id": "5IIKsxiL"
       },
       {
+        "file_name": "fallen-fungus-3.0.jar",
+        "name": "Fallen Fungus",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2679155,
+        "curseforge_id": 1378156,
+        "modrinth_id": null
+      },
+      {
         "file_name": "fallen_lib-1.2.0-hotfix.jar",
         "name": "fallen lib",
         "version": null,
@@ -6312,6 +6717,15 @@
         "file_size": 17916,
         "curseforge_id": 1309023,
         "modrinth_id": "o5JOQZQk"
+      },
+      {
+        "file_name": "fallen_logs-6.0.jar",
+        "name": "Fallen Logs",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2517101,
+        "curseforge_id": 1379290,
+        "modrinth_id": null
       },
       {
         "file_name": "fallingleaves-1.20.1-2.1.2.jar",
@@ -6692,11 +7106,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "floating_islands-1.4.5.jar",
+        "file_name": "floating_islands-1.4.6.jar",
         "name": "Floating Islands",
         "version": null,
         "mod_id": null,
-        "file_size": 326047,
+        "file_size": 346076,
         "curseforge_id": 1216244,
         "modrinth_id": "Ii9sVXDo"
       },
@@ -7340,6 +7754,15 @@
         "modrinth_id": "T0OUgf8P"
       },
       {
+        "file_name": "ghost-moai-villager-1.0.jar",
+        "name": "Ghost Moai Villager",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2228878,
+        "curseforge_id": 1476368,
+        "modrinth_id": "AE3e4bL9"
+      },
+      {
         "file_name": "ghosts-forge-1.20.1-1.3.2.jar",
         "name": "Ghosts",
         "version": null,
@@ -7626,6 +8049,15 @@
         "file_size": 40716,
         "curseforge_id": 656136,
         "modrinth_id": null
+      },
+      {
+        "file_name": "greek-moai-villager-1.0.jar",
+        "name": "Greek Moai Villager",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2701901,
+        "curseforge_id": 1474701,
+        "modrinth_id": "iSlc71Ct"
       },
       {
         "file_name": "greek_villager_house-1.0.0-forge-1.20.1.jar",
@@ -8087,6 +8519,15 @@
         "modrinth_id": "VpmCsizY"
       },
       {
+        "file_name": "ice-moai-villager-1.0.jar",
+        "name": "Ice Moai Villager",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2246396,
+        "curseforge_id": 1475601,
+        "modrinth_id": "GMbPY7uL"
+      },
+      {
         "file_name": "icepreventscropgrowth-1.20.1-3.5.jar",
         "name": "Ice Prevents Crop Growth",
         "version": null,
@@ -8213,6 +8654,15 @@
         "modrinth_id": null
       },
       {
+        "file_name": "ImmediatelyFast-Forge-1.5.4\u002B1.20.4.jar",
+        "name": "ImmediatelyFast",
+        "version": null,
+        "mod_id": null,
+        "file_size": 538992,
+        "curseforge_id": 686911,
+        "modrinth_id": "5ZwdcRci"
+      },
+      {
         "file_name": "immersive_aircraft-1.4.0\u002B1.20.1-forge.jar",
         "name": "Immersive Aircraft",
         "version": null,
@@ -8330,11 +8780,11 @@
         "modrinth_id": "fECIioDQ"
       },
       {
-        "file_name": "MCT-ImmersiveTechnology-1.20.1-2.0.1-b5894-beta.jar",
+        "file_name": "MCT-ImmersiveTechnology-1.20.1-2.0.1-b6037-beta.jar",
         "name": "Immersive Technology",
         "version": null,
         "mod_id": null,
-        "file_size": 10714374,
+        "file_size": 10719383,
         "curseforge_id": 359407,
         "modrinth_id": "DvaEUke2"
       },
@@ -8690,6 +9140,15 @@
         "modrinth_id": "fxaE37Sf"
       },
       {
+        "file_name": "Arcane_EssencePlus.jar",
+        "name": "Iron\u0027s Spell Books: Arcane Essence Blocks",
+        "version": null,
+        "mod_id": null,
+        "file_size": 25930,
+        "curseforge_id": 1083218,
+        "modrinth_id": "Pkj2hNRk"
+      },
+      {
         "file_name": "irons_spellbooks-1.20.1-3.15.4.jar",
         "name": "Iron\u0027s Spells \u0027n Spellbooks",
         "version": null,
@@ -8706,6 +9165,15 @@
         "file_size": 3758273,
         "curseforge_id": 635843,
         "modrinth_id": "pe7FN3d6"
+      },
+      {
+        "file_name": "itemcoating-forge-2.0.1.jar",
+        "name": "Item Coating",
+        "version": null,
+        "mod_id": null,
+        "file_size": 190943,
+        "curseforge_id": 1472302,
+        "modrinth_id": "j3chjxJ5"
       },
       {
         "file_name": "item-filters-forge-2001.1.0-build.59.jar",
@@ -8886,6 +9354,15 @@
         "file_size": 7284,
         "curseforge_id": 542110,
         "modrinth_id": "Z6clHfIZ"
+      },
+      {
+        "file_name": "jungle-moai-villager-1.0.jar",
+        "name": "Jungle Moai Villager",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2986909,
+        "curseforge_id": 1476380,
+        "modrinth_id": "vI3YjqXe"
       },
       {
         "file_name": "jungle_treehouse_village-1.0.0-forge-1.20.1.jar",
@@ -9122,12 +9599,48 @@
         "modrinth_id": "a48R8AGk"
       },
       {
+        "file_name": "l2archery-2.5.0.jar",
+        "name": "L2 Archery",
+        "version": null,
+        "mod_id": null,
+        "file_size": 497038,
+        "curseforge_id": 758353,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "l2artifacts-2.4.28.jar",
+        "name": "L2 Artifacts",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1731055,
+        "curseforge_id": 659547,
+        "modrinth_id": null
+      },
+      {
         "file_name": "l2backpack-2.5.7.jar",
         "name": "L2 Backpack",
         "version": null,
         "mod_id": null,
         "file_size": 886889,
         "curseforge_id": 620229,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "l2complements-2.6.1.jar",
+        "name": "L2 Complements",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1211184,
+        "curseforge_id": 758349,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "l2hostility-2.5.18.jar",
+        "name": "L2 Hostility",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1407090,
+        "curseforge_id": 909207,
         "modrinth_id": null
       },
       {
@@ -10094,11 +10607,11 @@
         "modrinth_id": "6pY6oEMg"
       },
       {
-        "file_name": "metal_works-1.2.0.jar",
+        "file_name": "metal_works-1.2.0BETA2.jar",
         "name": "Metal Works",
         "version": null,
         "mod_id": null,
-        "file_size": 1650801,
+        "file_size": 1387510,
         "curseforge_id": 956564,
         "modrinth_id": null
       },
@@ -10326,6 +10839,96 @@
         "file_size": 177655,
         "curseforge_id": 418518,
         "modrinth_id": "h9YVd656"
+      },
+      {
+        "file_name": "moai-cowboy-villager-1.0.jar",
+        "name": "Moai Cowboy Villager",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2744767,
+        "curseforge_id": 1475617,
+        "modrinth_id": "NNv9elXp"
+      },
+      {
+        "file_name": "moai-diorite-statue-1.0.jar",
+        "name": "Moai Diorite Statue",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2725328,
+        "curseforge_id": 1472853,
+        "modrinth_id": "Tc1igzXY"
+      },
+      {
+        "file_name": "moai-granite-statue-1.0.jar",
+        "name": "Moai Granite Statue",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2890452,
+        "curseforge_id": 1476375,
+        "modrinth_id": "Dm86AMfY"
+      },
+      {
+        "file_name": "moai-japanese-soldier-villager-1.0.jar",
+        "name": "Moai Japanese Soldier Villager",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2679061,
+        "curseforge_id": 1474673,
+        "modrinth_id": "DkpW08yj"
+      },
+      {
+        "file_name": "moai-mustache-villager-1.0.jar",
+        "name": "Moai Mustache Villager",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2574148,
+        "curseforge_id": 1474756,
+        "modrinth_id": "ecdH0qKJ"
+      },
+      {
+        "file_name": "moai-nether-statue-1.0.jar",
+        "name": "Moai Nether Statue",
+        "version": null,
+        "mod_id": null,
+        "file_size": 3252128,
+        "curseforge_id": 1473347,
+        "modrinth_id": "c63X2A2G"
+      },
+      {
+        "file_name": "moai-prismarine-statue-1.0.jar",
+        "name": "Moai Prismarine King Statue",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2526090,
+        "curseforge_id": 1473366,
+        "modrinth_id": "eb8qPinZ"
+      },
+      {
+        "file_name": "moai-prismarine-king-statue-1.0.jar",
+        "name": "Moai Prismarine Statue",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2489069,
+        "curseforge_id": 1472845,
+        "modrinth_id": "8RImYwRY"
+      },
+      {
+        "file_name": "moai-villager-statue-1.0.jar",
+        "name": "Moai Villager Statue",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2813634,
+        "curseforge_id": 1471912,
+        "modrinth_id": "P3eFkSE4"
+      },
+      {
+        "file_name": "moai-witch-wood-1.0.jar",
+        "name": "Moai Witch Wood",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2459075,
+        "curseforge_id": 1473444,
+        "modrinth_id": "Ot1fLPew"
       },
       {
         "file_name": "mob-ai-tweaks-1.10.1-1.20.1.jar",
@@ -10562,6 +11165,15 @@
         "modrinth_id": "nGUXvjTa"
       },
       {
+        "file_name": "moonflower-1.0.1.jar",
+        "name": "Moonflower",
+        "version": null,
+        "mod_id": null,
+        "file_size": 51324,
+        "curseforge_id": 1480298,
+        "modrinth_id": null
+      },
+      {
         "file_name": "moonlight-1.20-2.16.28-forge.jar",
         "name": "Moonlight Library",
         "version": null,
@@ -10587,6 +11199,15 @@
         "file_size": 27768,
         "curseforge_id": 324553,
         "modrinth_id": "B10lMHiA"
+      },
+      {
+        "file_name": "moreartifacts-1.5.5-1.20.1.jar",
+        "name": "More Artifacts",
+        "version": null,
+        "mod_id": null,
+        "file_size": 447050,
+        "curseforge_id": 1143299,
+        "modrinth_id": "pw7I8DWj"
       },
       {
         "file_name": "mavapi-1.1.4-mc1.20.1.jar",
@@ -10632,6 +11253,15 @@
         "file_size": 253600,
         "curseforge_id": 1461072,
         "modrinth_id": null
+      },
+      {
+        "file_name": "more_curios_slots-1.3.jar",
+        "name": "More Curios Slots",
+        "version": null,
+        "mod_id": null,
+        "file_size": 223886,
+        "curseforge_id": 1344694,
+        "modrinth_id": "v4mOUzHT"
       },
       {
         "file_name": "moredelight-25.07.28-1.20-forge.jar",
@@ -10697,6 +11327,15 @@
         "modrinth_id": "UxYNfnfx"
       },
       {
+        "file_name": "morerelics-1.7.0-1.20.1.jar",
+        "name": "More Relics",
+        "version": null,
+        "mod_id": null,
+        "file_size": 753263,
+        "curseforge_id": 1269280,
+        "modrinth_id": "NmYBBHLU"
+      },
+      {
         "file_name": "mtetm-1.3.2-1.20.1.jar",
         "name": "More Tetra Materials",
         "version": null,
@@ -10742,6 +11381,15 @@
         "modrinth_id": "xu15hkKT"
       },
       {
+        "file_name": "moreiotas-forge-1.20.1-0.1.1.jar",
+        "name": "MoreIotas",
+        "version": null,
+        "mod_id": null,
+        "file_size": 19408245,
+        "curseforge_id": 824728,
+        "modrinth_id": null
+      },
+      {
         "file_name": "morejeiinfo-forge-1.20.1-1.0.1.jar",
         "name": "MoreJeiInfo",
         "version": null,
@@ -10776,6 +11424,15 @@
         "file_size": 76237,
         "curseforge_id": 60089,
         "modrinth_id": "aC3cM3Vq"
+      },
+      {
+        "file_name": "minecraft_movie_structures-4.0.jar",
+        "name": "Movie Structures",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2624165,
+        "curseforge_id": 1383812,
+        "modrinth_id": null
       },
       {
         "file_name": "movingelevators-1.4.12-forge-mc1.20.1.jar",
@@ -10911,6 +11568,15 @@
         "file_size": 325616,
         "curseforge_id": 368098,
         "modrinth_id": "ntMyNH8c"
+      },
+      {
+        "file_name": "mystian-apiary-1.5.jar",
+        "name": "Mystian Apiary",
+        "version": null,
+        "mod_id": null,
+        "file_size": 11293382,
+        "curseforge_id": 1348575,
+        "modrinth_id": null
       },
       {
         "file_name": "mysticsbiomes-1.20.1-3.5.jar",
@@ -11489,6 +12155,15 @@
         "modrinth_id": "6r6m61bn"
       },
       {
+        "file_name": "orbital_railgun-1.4.2.jar",
+        "name": "Orbital Railgun Reforged",
+        "version": null,
+        "mod_id": null,
+        "file_size": 832521,
+        "curseforge_id": 1358503,
+        "modrinth_id": null
+      },
+      {
         "file_name": "orc_hut-1.0.3-forge-1.20.1.jar",
         "name": "Orc_Hut",
         "version": null,
@@ -11496,6 +12171,15 @@
         "file_size": 47333,
         "curseforge_id": 1107754,
         "modrinth_id": "x41Rekja"
+      },
+      {
+        "file_name": "oregeneration-1.0.0.jar",
+        "name": "Ore Regenerator",
+        "version": null,
+        "mod_id": null,
+        "file_size": 28692,
+        "curseforge_id": 1243104,
+        "modrinth_id": null
       },
       {
         "file_name": "OreBerries-Replanted-1.20.1-0.5.2.jar",
@@ -12101,6 +12785,15 @@
         "modrinth_id": null
       },
       {
+        "file_name": "potentia beta 0.10.2.jar",
+        "name": "Potentia: Titans Mod Returns",
+        "version": null,
+        "mod_id": null,
+        "file_size": 19071840,
+        "curseforge_id": 1359990,
+        "modrinth_id": null
+      },
+      {
         "file_name": "potionbundles-1.20-1.8.jar",
         "name": "Potion Bundles",
         "version": null,
@@ -12146,6 +12839,15 @@
         "modrinth_id": null
       },
       {
+        "file_name": "Potion level fix-forge-1.20.1-1.6.jar",
+        "name": "PotionLevelFix",
+        "version": null,
+        "mod_id": null,
+        "file_size": 683318,
+        "curseforge_id": 1070801,
+        "modrinth_id": "Vq1i7Hy0"
+      },
+      {
         "file_name": "potionsmaster-1.20.1-47.1.70-0.6.0.jar",
         "name": "PotionsMaster",
         "version": null,
@@ -12182,6 +12884,15 @@
         "modrinth_id": null
       },
       {
+        "file_name": "primalmagick-4.0.11.jar",
+        "name": "Primal Magick",
+        "version": null,
+        "mod_id": null,
+        "file_size": 7584404,
+        "curseforge_id": 545271,
+        "modrinth_id": "VlgDBPBy"
+      },
+      {
         "file_name": "Prism-1.20.1-forge-1.0.5.jar",
         "name": "Prism",
         "version": null,
@@ -12189,6 +12900,24 @@
         "file_size": 52205,
         "curseforge_id": 638111,
         "modrinth_id": "1OE8wbN0"
+      },
+      {
+        "file_name": "productivebees-1.20.1-12.6.0.jar",
+        "name": "Productive Bees",
+        "version": null,
+        "mod_id": null,
+        "file_size": 4956306,
+        "curseforge_id": 377897,
+        "modrinth_id": "jH6iiqkd"
+      },
+      {
+        "file_name": "productivetrees-1.20.1-0.2.6.jar",
+        "name": "Productive Trees",
+        "version": null,
+        "mod_id": null,
+        "file_size": 14696872,
+        "curseforge_id": 867074,
+        "modrinth_id": "BTmup08e"
       },
       {
         "file_name": "profile_cached-25.04.3\u002B1.20.1-forge-all.jar",
@@ -12936,6 +13665,15 @@
         "file_size": 1521089,
         "curseforge_id": 445274,
         "modrinth_id": "OCJRPujW"
+      },
+      {
+        "file_name": "arcane_abilities-0.3.2.jar",
+        "name": "Relics: Arcane Abilities",
+        "version": null,
+        "mod_id": null,
+        "file_size": 632354,
+        "curseforge_id": 951287,
+        "modrinth_id": "skRKjv3D"
       },
       {
         "file_name": "Reoreganized 1.20.1-4.4.1.jar",
@@ -14162,6 +14900,15 @@
         "modrinth_id": "R1LxuhQe"
       },
       {
+        "file_name": "sonicraft-1.9.1-forge-1.20.1.jar",
+        "name": "SoniCraft",
+        "version": null,
+        "mod_id": null,
+        "file_size": 42297700,
+        "curseforge_id": 490147,
+        "modrinth_id": "SpdllB1s"
+      },
+      {
         "file_name": "sookiscustomblocks-0.0.5-1.20.1.jar",
         "name": "SookisCustomBlocks",
         "version": null,
@@ -14268,6 +15015,15 @@
         "file_size": 124072,
         "curseforge_id": 1121967,
         "modrinth_id": null
+      },
+      {
+        "file_name": "spark-1.10.53-forge.jar",
+        "name": "spark",
+        "version": null,
+        "mod_id": null,
+        "file_size": 3114590,
+        "curseforge_id": 361579,
+        "modrinth_id": "l6YH9Als"
       },
       {
         "file_name": "sparsestructures-forge-1.20.1-3.0.jar",
@@ -14430,6 +15186,15 @@
         "file_size": 224882,
         "curseforge_id": 886735,
         "modrinth_id": "zqFS0wQJ"
+      },
+      {
+        "file_name": "Stackable Potions-forge-1.20.1-1.0.0.jar",
+        "name": "StackablePotions [Forge]",
+        "version": null,
+        "mod_id": null,
+        "file_size": 10691,
+        "curseforge_id": 599436,
+        "modrinth_id": null
       },
       {
         "file_name": "stackedblocks-25.02.13-1.20-forge.jar",
@@ -14772,6 +15537,15 @@
         "file_size": 1627788,
         "curseforge_id": 306935,
         "modrinth_id": "aecUorJQ"
+      },
+      {
+        "file_name": "sfcr-1.8.1.1-mc1.20.1.jar",
+        "name": "SuperFancyClouds: Refabricated",
+        "version": null,
+        "mod_id": null,
+        "file_size": 179018,
+        "curseforge_id": 820317,
+        "modrinth_id": "Hoop89kN"
       },
       {
         "file_name": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
@@ -15233,13 +16007,13 @@
         "modrinth_id": null
       },
       {
-        "file_name": "TheOuterEnd-1.0.12.jar",
+        "file_name": "TheOuterEnd-1.0.13.jar",
         "name": "The Outer End",
         "version": null,
         "mod_id": null,
-        "file_size": 14373761,
+        "file_size": 14375300,
         "curseforge_id": 430404,
-        "modrinth_id": null
+        "modrinth_id": "X8s97ySO"
       },
       {
         "file_name": "twilightforest-1.20.1-4.3.2508-universal.jar",
@@ -15899,15 +16673,6 @@
         "modrinth_id": null
       },
       {
-        "file_name": "tritium-forge-1.20.1-26.5.jar",
-        "name": "Tritium",
-        "version": null,
-        "mod_id": null,
-        "file_size": 1869144,
-        "curseforge_id": 1390106,
-        "modrinth_id": "AyzF4cmc"
-      },
-      {
         "file_name": "Tropicraft-9.6.3.jar",
         "name": "Tropicraft",
         "version": null,
@@ -15960,6 +16725,15 @@
         "file_size": 293222,
         "curseforge_id": 508348,
         "modrinth_id": "YUTKRI5S"
+      },
+      {
+        "file_name": "tuff-golem-statues-2.0.jar",
+        "name": "Tuff Golem Statues",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2967720,
+        "curseforge_id": 1384441,
+        "modrinth_id": "2ZKWYMds"
       },
       {
         "file_name": "tuffores-1.20.1-1.0.5.jar",
@@ -16763,15 +17537,6 @@
         "modrinth_id": "Vr3O6THr"
       },
       {
-        "file_name": "wakes-1.20.1-Forge-1.0.9.jar",
-        "name": "Wakes Reforged",
-        "version": null,
-        "mod_id": null,
-        "file_size": 212248,
-        "curseforge_id": 1223529,
-        "modrinth_id": "E0SdeAoH"
-      },
-      {
         "file_name": "Wallpapercraft-1.20.1-1.1.0.jar",
         "name": "Wallpapercraft",
         "version": null,
@@ -16788,6 +17553,15 @@
         "file_size": 18843,
         "curseforge_id": 1339509,
         "modrinth_id": "w85gQlPx"
+      },
+      {
+        "file_name": "water-wells-updated-3.0.jar",
+        "name": "Water Wells Updated",
+        "version": null,
+        "mod_id": null,
+        "file_size": 3139706,
+        "curseforge_id": 1461920,
+        "modrinth_id": "ubfuLN9b"
       },
       {
         "file_name": "watercondenser-1.20.1-1.5.0.jar",

@@ -1534,6 +1534,11 @@
     255,
     255
   ],
+  "sonicraft:pink_studiopolis_glass": [
+    255,
+    102,
+    187
+  ],
   "buildersdelight:warped_glass_pane_3": [
     255,
     255,
@@ -2919,6 +2924,11 @@
     0,
     0
   ],
+  "primalmagick:stained_skyglass_purple": [
+    170,
+    34,
+    255
+  ],
   "aestheticwindows:vertical_fourpane_window_sugi_nss": [
     255,
     255,
@@ -2973,6 +2983,11 @@
     170,
     34,
     255
+  ],
+  "primalmagick:stained_skyglass_pane_black": [
+    0,
+    0,
+    0
   ],
   "fintastic:tinted_infernal_aquarium_glass": [
     255,
@@ -3359,6 +3374,11 @@
     255,
     255
   ],
+  "primalmagick:stained_skyglass_pane_gray": [
+    136,
+    136,
+    136
+  ],
   "bblocks:wa_glass2_pane": [
     255,
     255,
@@ -3464,6 +3484,11 @@
     255,
     255
   ],
+  "primalmagick:stained_skyglass_black": [
+    0,
+    0,
+    0
+  ],
   "sundries:vermillion_wrought_iron_glass_pane": [
     255,
     255,
@@ -3478,6 +3503,11 @@
     255,
     255,
     255
+  ],
+  "primalmagick:stained_skyglass_green": [
+    0,
+    255,
+    0
   ],
   "chipped:tiled_red_stained_glass": [
     255,
@@ -3780,6 +3810,11 @@
     255
   ],
   "naturalist:azure_froglass_pane": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:star_light_glass": [
     255,
     255,
     255
@@ -4619,6 +4654,11 @@
     136,
     136
   ],
+  "primalmagick:skyglass_pane": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_np_light_gray": [
     136,
     136,
@@ -4743,6 +4783,11 @@
     255,
     255,
     255
+  ],
+  "primalmagick:stained_skyglass_light_gray": [
+    136,
+    136,
+    136
   ],
   "atlantis:white_sea_glass_button": [
     255,
@@ -5069,6 +5114,11 @@
     0,
     255
   ],
+  "primalmagick:stained_skyglass_magenta": [
+    255,
+    0,
+    255
+  ],
   "chipped:raster_blue_stained_glass": [
     0,
     0,
@@ -5093,6 +5143,16 @@
     255,
     102,
     17
+  ],
+  "primalmagick:stained_skyglass_pane_yellow": [
+    255,
+    255,
+    0
+  ],
+  "primalmagick:stained_skyglass_pane_green": [
+    0,
+    255,
+    0
   ],
   "chipped:fancy_leaded_glass_pane": [
     255,
@@ -6404,6 +6464,11 @@
     136,
     136
   ],
+  "primalmagick:stained_skyglass_pane_white": [
+    255,
+    255,
+    255
+  ],
   "betternether:quartz_glass_framed_pane_black": [
     0,
     0,
@@ -6511,6 +6576,11 @@
   ],
   "mcwfurnitures:crimson_glass_kitchen_cabinet": [
     255,
+    255,
+    255
+  ],
+  "primalmagick:stained_skyglass_pane_cyan": [
+    0,
     255,
     255
   ],
@@ -6840,6 +6910,11 @@
     255
   ],
   "aestheticwindows:fourpane_window_jungle": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:crisis_city_glass": [
     255,
     255,
     255
@@ -7484,6 +7559,11 @@
     255,
     0
   ],
+  "primalmagick:stained_skyglass_pane_light_gray": [
+    136,
+    136,
+    136
+  ],
   "aestheticwindows:fourpane_window_aspen_nss": [
     255,
     255,
@@ -7853,6 +7933,11 @@
     0,
     255,
     255
+  ],
+  "primalmagick:stained_skyglass_orange": [
+    255,
+    102,
+    17
   ],
   "aestheticwindows:empty_window_fossil_marlstone_block": [
     255,
@@ -8343,6 +8428,11 @@
     0,
     255,
     0
+  ],
+  "primalmagick:stained_skyglass_blue": [
+    0,
+    0,
+    255
   ],
   "aestheticwindows:vertical_fourpane_window_cottonwood": [
     255,
@@ -9464,6 +9554,11 @@
     255,
     255
   ],
+  "primalmagick:stained_skyglass_pane_lime": [
+    187,
+    255,
+    0
+  ],
   "longwings:glass_jar": [
     255,
     255,
@@ -9527,6 +9622,11 @@
   "compressedblocks:c0_glass": [
     255,
     255,
+    255
+  ],
+  "sonicraft:blue_studiopolis_glass": [
+    0,
+    0,
     255
   ],
   "enderio:clear_glass_da_gray": [
@@ -9764,6 +9864,11 @@
     255,
     255
   ],
+  "primalmagick:stained_skyglass_pane_magenta": [
+    255,
+    0,
+    255
+  ],
   "aestheticwindows:fourpane_empty_window_western_serviceberry": [
     255,
     255,
@@ -9889,6 +9994,11 @@
     255,
     0
   ],
+  "primalmagick:stained_skyglass_pane_blue": [
+    0,
+    0,
+    255
+  ],
   "dawnoftimebuilder:lattice_stone_bricks_window": [
     255,
     255,
@@ -10010,6 +10120,11 @@
     0
   ],
   "tconstruct:clear_tinted_glass": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:death_egg_glass": [
     255,
     255,
     255
@@ -10263,6 +10378,11 @@
     255,
     0,
     0
+  ],
+  "primalmagick:stained_skyglass_cyan": [
+    0,
+    255,
+    255
   ],
   "aestheticwindows:vertical_empty_window_swamp_oak": [
     255,
@@ -10732,6 +10852,11 @@
   "enderio:clear_glass_em_blue": [
     0,
     0,
+    255
+  ],
+  "primalmagick:stained_skyglass_pane_purple": [
+    170,
+    34,
     255
   ],
   "atlantis:lime_patterned_sea_glass_slab": [
@@ -11214,6 +11339,11 @@
     255,
     255
   ],
+  "primalmagick:stained_skyglass_pane_orange": [
+    255,
+    102,
+    17
+  ],
   "rechiseledcreate:jungle_window_covered_connecting": [
     255,
     0,
@@ -11689,6 +11819,11 @@
     255,
     255
   ],
+  "primalmagick:stained_skyglass_pane_light_blue": [
+    0,
+    0,
+    255
+  ],
   "enderio:clear_glass_np_green": [
     0,
     255,
@@ -11708,6 +11843,11 @@
     255,
     255,
     255
+  ],
+  "primalmagick:stained_skyglass_brown": [
+    136,
+    68,
+    17
   ],
   "enderio:clear_glass_a_brown": [
     136,
@@ -12034,6 +12174,11 @@
     0,
     255
   ],
+  "sonicraft:scrap_brain_safety_glass": [
+    255,
+    255,
+    255
+  ],
   "patternedglass:cyan_patterned_glass": [
     0,
     255,
@@ -12324,12 +12469,22 @@
     255,
     0
   ],
+  "primalmagick:stained_skyglass_pane_red": [
+    255,
+    0,
+    0
+  ],
   "chipped:large_diamond_cyan_stained_glass": [
     0,
     255,
     255
   ],
   "rechiseledcreate:acacia_window_diagonal": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:capsule_glass": [
     255,
     255,
     255
@@ -12608,6 +12763,11 @@
     255,
     255,
     255
+  ],
+  "primalmagick:stained_skyglass_lime": [
+    187,
+    255,
+    0
   ],
   "chipped:small_green_stained_glass_pane": [
     0,
@@ -13744,6 +13904,11 @@
     0,
     255
   ],
+  "sonicraft:crisis_city_glass_broken": [
+    255,
+    255,
+    255
+  ],
   "chipped:large_diamond_green_stained_glass": [
     0,
     255,
@@ -14064,6 +14229,11 @@
     255,
     255
   ],
+  "primalmagick:stained_skyglass_pane_brown": [
+    136,
+    68,
+    17
+  ],
   "betternether:quartz_glass_framed_magenta": [
     255,
     0,
@@ -14289,6 +14459,11 @@
     102,
     17
   ],
+  "primalmagick:stained_skyglass_gray": [
+    136,
+    136,
+    136
+  ],
   "chipped:tile_windowed_crimson_door": [
     255,
     255,
@@ -14465,6 +14640,11 @@
     255
   ],
   "aestheticwindows:fourpane_empty_window_yew": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:skyglass": [
     255,
     255,
     255
@@ -15399,6 +15579,11 @@
     255,
     255
   ],
+  "primalmagick:stained_skyglass_white": [
+    255,
+    255,
+    255
+  ],
   "securitycraft:reinforced_green_stained_glass_pane": [
     0,
     255,
@@ -16159,6 +16344,11 @@
     255,
     255
   ],
+  "sonicraft:death_egg_arena_window_closed": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_enm_light_gray": [
     136,
     136,
@@ -16363,6 +16553,11 @@
     187,
     255,
     0
+  ],
+  "primalmagick:stained_skyglass_light_blue": [
+    0,
+    0,
+    255
   ],
   "sundries:beige_wrought_iron_glass_pane": [
     255,
@@ -18444,6 +18639,11 @@
     255,
     255
   ],
+  "primalmagick:stained_skyglass_pane_pink": [
+    255,
+    102,
+    187
+  ],
   "xycraft_world:glass_viewer_rgb_pink": [
     255,
     102,
@@ -18764,6 +18964,11 @@
     0,
     255
   ],
+  "sonicraft:scrap_brain_glass": [
+    255,
+    255,
+    255
+  ],
   "tconstruct:seared_soul_glass_pane": [
     255,
     0,
@@ -18804,6 +19009,11 @@
     0,
     255
   ],
+  "primalmagick:stained_skyglass_pink": [
+    255,
+    102,
+    187
+  ],
   "silentgems:citrine_glass": [
     255,
     255,
@@ -18833,6 +19043,11 @@
     255,
     255,
     255
+  ],
+  "primalmagick:stained_skyglass_red": [
+    255,
+    0,
+    0
   ],
   "mcwdoors:mangrove_barn_glass_door": [
     255,
@@ -19229,6 +19444,11 @@
     255,
     255
   ],
+  "sonicraft:death_egg_arena_window": [
+    255,
+    255,
+    255
+  ],
   "betternether:quartz_glass_pane_green": [
     0,
     255,
@@ -19564,6 +19784,11 @@
     255,
     255
   ],
+  "primalmagick:stained_skyglass_yellow": [
+    255,
+    255,
+    0
+  ],
   "glassential:blue_glass_door": [
     0,
     0,
@@ -19758,6 +19983,11 @@
     0,
     0,
     0
+  ],
+  "sonicraft:workshop_glass": [
+    255,
+    255,
+    255
   ],
   "tconstruct:soul_glass_pane": [
     0,

@@ -1,0 +1,9 @@
+
+[Client]
+	#True/False, Custom armor display?
+	"Armor Display" = false
+	#True/False, Show custom difficulty name?
+	"Difficulty Display" = false
+	#Use vanilla health bar?
+	"Custom Healthbar Display" = false
+

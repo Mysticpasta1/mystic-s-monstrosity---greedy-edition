@@ -99,6 +99,17 @@
         "value": 1000
       }
     },
+    "mna_attributes:affinity_earth": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "hexcasting:feeble_mind": {
       "enabled": false,
       "min": {
@@ -209,6 +220,17 @@
         "value": 2048
       }
     },
+    "mna_attributes:spell_duration_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "expanded_combat:void_dmg": {
       "enabled": false,
       "min": {
@@ -286,6 +308,17 @@
         "value": 1
       }
     },
+    "mna_attributes:max_mana_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "ars_trinkets:ars_trinkets.perk.spell_damage_pct": {
       "enabled": false,
       "min": {
@@ -306,6 +339,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "mna_attributes:mana_regen": {
+      "enabled": false,
+      "min": {
+        "default": 0.01,
+        "value": 0.01
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "environmental:stealth": {
@@ -506,6 +550,28 @@
         "value": 100
       }
     },
+    "mna_attributes:affinity_water": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "mna_attributes:affinity_wind": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "celestial_core:regen_rate": {
       "enabled": false,
       "min": {
@@ -559,6 +625,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "mna_attributes:affinity_ender": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "attributeslib:overheal": {
@@ -812,6 +889,28 @@
       "max": {
         "default": 200,
         "value": 200
+      }
+    },
+    "mna_attributes:affinity_fire": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "mna_attributes:affinity_arcane": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "hexcasting:scry_sight": {
@@ -1078,6 +1177,17 @@
         "value": 100
       }
     },
+    "mna_attributes:spell_damage_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "ars_trinkets:ars_trinkets.perk.total_mana_regen_boost": {
       "enabled": false,
       "min": {
@@ -1219,6 +1329,17 @@
       "max": {
         "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
         "value": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      }
+    },
+    "mna_attributes:cast_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0.001,
+        "value": 0.001
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "soulsweapons:base_posture_increase": {
@@ -1661,6 +1782,17 @@
         "value": 100
       }
     },
+    "mna_attributes:max_mana": {
+      "enabled": false,
+      "min": {
+        "default": -999999999,
+        "value": -999999999
+      },
+      "max": {
+        "default": 999999999,
+        "value": 999999999
+      }
+    },
     "attributeslib:prot_pierce": {
       "enabled": false,
       "min": {
@@ -1793,6 +1925,17 @@
         "value": 100
       }
     },
+    "l2hostility:extra_scale": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "ror:fear_resistance": {
       "enabled": false,
       "min": {
@@ -1859,6 +2002,17 @@
         "value": 2048
       }
     },
+    "mna_attributes:spell_damage": {
+      "enabled": false,
+      "min": {
+        "default": -2048,
+        "value": -2048
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "expanded_combat:soul_dmg": {
       "enabled": false,
       "min": {
@@ -1901,6 +2055,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "mna_attributes:spell_efficiency": {
+      "enabled": false,
+      "min": {
+        "default": -2048,
+        "value": -2048
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "shieldinghealth:attribute.shieldinghealth.shield_delay": {
@@ -2308,6 +2473,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "l2hostility:extra_difficulty": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
       }
     },
     "tconstruct:player.mining_speed_multiplier": {

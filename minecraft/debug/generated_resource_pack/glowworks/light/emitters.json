@@ -334,6 +334,11 @@
     102,
     187
   ],
+  "productivetrees:blue_yonder_bookshelf": [
+    0,
+    0,
+    255
+  ],
   "fcb:fcbg9220015": [
     255,
     255,
@@ -395,6 +400,11 @@
     255
   ],
   "moglowstonelamps:white_lamp": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:time_traveller_planks": [
     255,
     255,
     255
@@ -468,6 +478,11 @@
     153,
     204,
     204
+  ],
+  "primalmagick:heavenly_font_infernal": [
+    255,
+    255,
+    255
   ],
   "refurbished_furniture:dark_range_hood": [
     255,
@@ -564,6 +579,11 @@
     255,
     0
   ],
+  "productivetrees:expansion_box_cave_dweller": [
+    255,
+    255,
+    255
+  ],
   "aquatictorches:aquatic_wall_torch": [
     255,
     255,
@@ -580,6 +600,11 @@
     255
   ],
   "pyrite:glow_stained_sign": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:expansion_box_slimy_delight": [
     255,
     255,
     255
@@ -764,6 +789,11 @@
     255,
     255
   ],
+  "primalmagick:ritual_candle_purple": [
+    170,
+    34,
+    255
+  ],
   "mcwholidays:white_garland_yellow_lights": [
     255,
     255,
@@ -854,6 +884,11 @@
     255,
     0
   ],
+  "primalmagick:small_synthetic_quartz_bud": [
+    255,
+    255,
+    255
+  ],
   "nightlights:hanging_lights_light_gray": [
     136,
     136,
@@ -914,6 +949,11 @@
     255,
     255
   ],
+  "productivetrees:cave_dweller_bookshelf": [
+    255,
+    255,
+    255
+  ],
   "botania:light_gray_floating_flower": [
     136,
     136,
@@ -969,6 +1009,11 @@
     255,
     0
   ],
+  "productivetrees:water_wonder_wall_sign": [
+    255,
+    255,
+    255
+  ],
   "malum:iridescent_wall_ether_torch": [
     255,
     255,
@@ -980,6 +1025,11 @@
     0
   ],
   "createmetalwork:molten_osmium": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:level_select_studiopolis_zone_portal": [
     255,
     255,
     255
@@ -1025,6 +1075,11 @@
     0
   ],
   "chisel:triple_bricks/glowstone": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:artificial_font_hallowed": [
     255,
     255,
     255
@@ -1110,6 +1165,11 @@
     255
   ],
   "mekanism:elite_combining_factory": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:sparkle_cherry_trapdoor": [
     255,
     255,
     255
@@ -1239,6 +1299,16 @@
     0,
     255
   ],
+  "productivetrees:sparkle_cherry_fence": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:casino_night_vertical_line_light": [
+    255,
+    255,
+    255
+  ],
   "thaumon:eldritch_lantern": [
     255,
     255,
@@ -1364,10 +1434,25 @@
     0,
     0
   ],
+  "productivetrees:blue_yonder_pressure_plate": [
+    0,
+    0,
+    255
+  ],
+  "productivetrees:night_fuchsia_leaves": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_light_gray_ring_black_bg_flipping": [
     0,
     0,
     0
+  ],
+  "productivetrees:flickering_sun_stairs": [
+    255,
+    255,
+    255
   ],
   "aether:trapped_sentry_stone": [
     255,
@@ -1449,12 +1534,22 @@
     255,
     0
   ],
+  "sonicraft:green_scrap_brain_crystal": [
+    0,
+    255,
+    0
+  ],
   "rockyminerals:saltstone_lamp": [
     255,
     255,
     255
   ],
   "quark:blaze_lantern": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:slimy_delight_button": [
     255,
     255,
     255
@@ -1503,6 +1598,11 @@
     187,
     255,
     0
+  ],
+  "productivetrees:blue_yonder_fence": [
+    0,
+    0,
+    255
   ],
   "refurbished_furniture:jungle_light_ceiling_fan": [
     255,
@@ -1572,6 +1672,11 @@
   "systeams:steam_dynamo": [
     255,
     255,
+    255
+  ],
+  "primalmagick:ritual_candle_light_blue": [
+    0,
+    0,
     255
   ],
   "create:green_nixie_tube": [
@@ -1654,6 +1759,11 @@
     102,
     17
   ],
+  "sonicraft:crisis_city_portal": [
+    255,
+    255,
+    255
+  ],
   "redeco:light_blue_lamp": [
     0,
     0,
@@ -1709,6 +1819,11 @@
     255,
     255
   ],
+  "primalmagick:medium_synthetic_quartz_bud": [
+    255,
+    255,
+    255
+  ],
   "mcwholidays:purple_string_lights": [
     170,
     34,
@@ -1739,6 +1854,11 @@
     255,
     255
   ],
+  "productivetrees:black_ember_leaves": [
+    0,
+    0,
+    0
+  ],
   "colorfulcampfires:green_spruce_dark_campfire": [
     0,
     255,
@@ -1753,6 +1873,11 @@
     255,
     102,
     17
+  ],
+  "productivetrees:slimy_delight_wood": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:green_birch_campfire": [
     0,
@@ -1934,6 +2059,11 @@
     255,
     255
   ],
+  "productivetrees:sparkle_cherry_button": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:light_gray_mangrove_campfire": [
     136,
     136,
@@ -2043,6 +2173,11 @@
     0,
     0,
     0
+  ],
+  "productivetrees:time_traveller_wall_hanging_sign": [
+    255,
+    255,
+    255
   ],
   "gemsnjewels:ornament_sapphire_block": [
     255,
@@ -2194,6 +2329,11 @@
     102,
     17
   ],
+  "sonicraft:power_formation_signal": [
+    255,
+    255,
+    255
+  ],
   "valhelsia_furniture:light_gray_fabric_desk_lamp": [
     136,
     136,
@@ -2203,6 +2343,11 @@
     255,
     102,
     187
+  ],
+  "productivetrees:flickering_sun_stripped_log": [
+    255,
+    255,
+    255
   ],
   "nightlights:frog_white": [
     255,
@@ -2222,6 +2367,11 @@
   "moglowstone:purple_glowstone_block": [
     170,
     34,
+    255
+  ],
+  "productivetrees:time_traveller_door": [
+    255,
+    255,
     255
   ],
   "mcwlights:pink_paper_lamp": [
@@ -2289,6 +2439,11 @@
     255,
     255
   ],
+  "productivetrees:firecracker_leaves": [
+    255,
+    255,
+    255
+  ],
   "ad_astra:light_blue_industrial_lamp": [
     0,
     0,
@@ -2338,6 +2493,11 @@
     255,
     102,
     187
+  ],
+  "productivetrees:night_fuchsia_trapdoor": [
+    255,
+    255,
+    255
   ],
   "musings:circle_green_ring_black_bg": [
     0,
@@ -2409,15 +2569,15 @@
     136,
     136
   ],
-  "ad_astra:small_green_industrial_lamp": [
-    0,
-    255,
-    0
-  ],
   "metal_works:mage_campfire": [
     255,
     255,
     255
+  ],
+  "ad_astra:small_green_industrial_lamp": [
+    0,
+    255,
+    0
   ],
   "ad_astra:red_industrial_lamp": [
     255,
@@ -2524,6 +2684,11 @@
     102,
     17
   ],
+  "productivetrees:firecracker_stripped_wood": [
+    255,
+    255,
+    255
+  ],
   "nightlights:fairy_lights_black": [
     0,
     0,
@@ -2533,6 +2698,11 @@
     187,
     255,
     0
+  ],
+  "productivetrees:purple_spiral_hanging_sign": [
+    170,
+    34,
+    255
   ],
   "colorfulcampfires:gray_stripped_acacia_campfire": [
     136,
@@ -2664,6 +2834,11 @@
     255,
     255
   ],
+  "primalmagick:synthetic_quartz_cluster": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:gray_cherry_dark_campfire": [
     136,
     136,
@@ -2685,6 +2860,11 @@
     255
   ],
   "sullysmod:quartz_lantern": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:night_fuchsia_stripped_wood": [
     255,
     255,
     255
@@ -2734,6 +2914,11 @@
     255,
     255
   ],
+  "primalmagick:artificial_font_earth": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:brown_birch_dark_campfire": [
     136,
     68,
@@ -2779,6 +2964,11 @@
     255,
     255
   ],
+  "productivetrees:rippling_willow_wall_sign": [
+    255,
+    255,
+    255
+  ],
   "tf_dnv:shroom_lantern": [
     255,
     255,
@@ -2810,6 +3000,11 @@
     136
   ],
   "minecraft:sculk_catalyst": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:casino_night_slot_wheel": [
     255,
     255,
     255
@@ -2914,6 +3109,11 @@
     0,
     0
   ],
+  "sonicraft:night_carnival_inverted_neon_star": [
+    255,
+    255,
+    255
+  ],
   "rockyminerals:anhydrite_lamp_slab": [
     255,
     255,
@@ -2930,6 +3130,11 @@
     255
   ],
   "mekanism_extras:infinite_compressing_factory": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:cart_route_signal": [
     255,
     255,
     255
@@ -2995,6 +3200,11 @@
     255
   ],
   "dreamwoods:pink_shroom_cap": [
+    255,
+    102,
+    187
+  ],
+  "sonicraft:pink_labyrinth_zone_crystal": [
     255,
     102,
     187
@@ -3194,6 +3404,11 @@
     68,
     17
   ],
+  "productivetrees:time_traveller_sign": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:yellow_dark_oak_campfire": [
     255,
     255,
@@ -3203,6 +3418,11 @@
     255,
     255,
     0
+  ],
+  "productivetrees:flickering_sun_wall_hanging_sign": [
+    255,
+    255,
+    255
   ],
   "additional_lights:soul_fire_for_fire_pit_l": [
     0,
@@ -3278,6 +3498,11 @@
     255,
     255,
     0
+  ],
+  "productivetrees:soul_tree_stairs": [
+    0,
+    0,
+    255
   ],
   "musings:circle_gray_ring_blue_bg_flipping": [
     0,
@@ -3434,6 +3659,16 @@
     102,
     187
   ],
+  "primalmagick:ritual_candle_pink": [
+    255,
+    102,
+    187
+  ],
+  "sonicraft:level_select_scrap_brain_zone_portal": [
+    255,
+    255,
+    255
+  ],
   "betterend:terminite_chandelier": [
     255,
     255,
@@ -3579,6 +3814,11 @@
     255,
     255
   ],
+  "productivetrees:time_traveller_wall_sign": [
+    255,
+    255,
+    255
+  ],
   "betterend:quartz_lantern": [
     255,
     255,
@@ -3617,6 +3857,11 @@
   "embers:molten_mithril_block": [
     255,
     255,
+    255
+  ],
+  "productivetrees:purple_spiral_leaves": [
+    170,
+    34,
     255
   ],
   "fcb:fcbg6908195": [
@@ -3683,6 +3928,11 @@
     255,
     255,
     0
+  ],
+  "productivetrees:soul_tree_fence_gate": [
+    0,
+    0,
+    255
   ],
   "projectred_illumination:white_inverted_illumar_lamp": [
     255,
@@ -3834,6 +4084,11 @@
     255,
     255
   ],
+  "sonicraft:level_select_seaside_hill_portal": [
+    153,
+    204,
+    204
+  ],
   "mekanismadditions:black_plastic_glow": [
     0,
     0,
@@ -3956,6 +4211,11 @@
   ],
   "colorfulcampfires:cyan_stripped_birch_dark_campfire": [
     0,
+    255,
+    255
+  ],
+  "productivetrees:cave_dweller_pressure_plate": [
+    255,
     255,
     255
   ],
@@ -4109,6 +4369,11 @@
     34,
     255
   ],
+  "productivetrees:blue_yonder_wall_hanging_sign": [
+    0,
+    0,
+    255
+  ],
   "pyrite:glow_lamp": [
     255,
     255,
@@ -4123,6 +4388,11 @@
     255,
     0,
     0
+  ],
+  "productivetrees:sparkle_cherry_fence_gate": [
+    255,
+    255,
+    255
   ],
   "abstoneedition:glowstone_slab": [
     255,
@@ -4218,11 +4488,6 @@
     255,
     0,
     0
-  ],
-  "metal_works:waxed_corroded_tin_mage_lantern": [
-    255,
-    255,
-    255
   ],
   "botania:potted_purple_mushroom": [
     170,
@@ -4572,6 +4837,11 @@
   "rechiseled:glowstone_bricks_stairs_connecting": [
     255,
     255,
+    255
+  ],
+  "productivetrees:blue_yonder_sign": [
+    0,
+    0,
     255
   ],
   "colorfulcampfires:lime_stripped_spruce_dark_campfire": [
@@ -4984,6 +5254,11 @@
     255,
     0
   ],
+  "primalmagick:artificial_font_moon": [
+    255,
+    255,
+    255
+  ],
   "wallpapercraft:stonelampgreen-9": [
     0,
     255,
@@ -4998,6 +5273,11 @@
     0,
     255,
     0
+  ],
+  "sonicraft:studiopolis_pink_bot_sign": [
+    255,
+    102,
+    187
   ],
   "silentgems:black_diamond_lamp_on": [
     0,
@@ -5064,7 +5344,22 @@
     0,
     255
   ],
+  "productivetrees:black_ember_wood": [
+    0,
+    0,
+    0
+  ],
   "chipped:shroomlight_lodestone_side": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:night_fuchsia_door": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:flickering_sun_sign": [
     255,
     255,
     255
@@ -5105,6 +5400,11 @@
     255
   ],
   "betterarcheology:radiance_totem": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:forbidden_font_moon": [
     255,
     255,
     255
@@ -5168,6 +5468,11 @@
     187,
     255,
     0
+  ],
+  "sonicraft:casino_night_light": [
+    255,
+    255,
+    255
   ],
   "xycraft_world:lamp_cube_purple": [
     170,
@@ -5237,11 +5542,6 @@
   "xycraft_world:aurey_block_matte_glowing_cyan": [
     0,
     255,
-    255
-  ],
-  "metal_works:corroded_tin_soul_lantern": [
-    0,
-    0,
     255
   ],
   "colorfulcampfires:purple_stripped_crimson_stem_dark_campfire": [
@@ -5419,6 +5719,11 @@
     0,
     255
   ],
+  "dtbwg:blooming_witch_hazel_leaves": [
+    255,
+    255,
+    255
+  ],
   "wallpapercraft:auralampblue-8": [
     0,
     0,
@@ -5569,6 +5874,11 @@
     0,
     255
   ],
+  "sonicraft:level_select_ice_cap_zone_portal": [
+    255,
+    255,
+    255
+  ],
   "suppsquared:crimson_lantern": [
     255,
     255,
@@ -5609,6 +5919,11 @@
     255,
     255
   ],
+  "productivetrees:time_traveller_stripped_log": [
+    255,
+    255,
+    255
+  ],
   "skinnedlanterns:paper_green_soul_lantern_block": [
     0,
     255,
@@ -5618,6 +5933,11 @@
     255,
     0,
     0
+  ],
+  "productivetrees:soul_tree_wood": [
+    0,
+    0,
+    255
   ],
   "musings:circle_green_ring_white_bg_flipping": [
     255,
@@ -5684,9 +6004,19 @@
     255,
     0
   ],
+  "productivetrees:blue_yonder_door": [
+    0,
+    0,
+    255
+  ],
   "luminax:light_blue_luminax_block": [
     0,
     0,
+    255
+  ],
+  "sonicraft:casino_night_star_light": [
+    255,
+    255,
     255
   ],
   "ror:glowing_light_blue_stained_glass_pane": [
@@ -5715,6 +6045,11 @@
     255
   ],
   "natures_spirit:shiitake_mushroom": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:firecracker_bookshelf": [
     255,
     255,
     255
@@ -5748,6 +6083,11 @@
     255,
     255,
     255
+  ],
+  "productivetrees:black_ember_bookshelf": [
+    0,
+    0,
+    0
   ],
   "pyrite:glow_framed_glass": [
     255,
@@ -5824,6 +6164,11 @@
     255,
     255
   ],
+  "productivetrees:rippling_willow_stairs": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:blue_stripped_birch_campfire": [
     0,
     0,
@@ -5852,6 +6197,11 @@
   "betterend:blue_vine_fur": [
     0,
     0,
+    255
+  ],
+  "arcane_abilities:skills_grimoire": [
+    255,
+    255,
     255
   ],
   "xycraft_world:aurey_block_matte_glowing_brown": [
@@ -5908,6 +6258,11 @@
     255,
     102,
     187
+  ],
+  "productivetrees:flickering_sun_pressure_plate": [
+    255,
+    255,
+    255
   ],
   "tconstruct:blazing_blood_fluid": [
     255,
@@ -6084,6 +6439,11 @@
     255,
     255
   ],
+  "productivetrees:water_wonder_fence": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg2293970": [
     255,
     255,
@@ -6159,6 +6519,16 @@
     255,
     0
   ],
+  "productivetrees:cave_dweller_wood": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:large_synthetic_emerald_bud": [
+    255,
+    255,
+    255
+  ],
   "collectorsreap:black_candle_lucuma_cake": [
     0,
     0,
@@ -6179,6 +6549,11 @@
     255,
     0
   ],
+  "productivetrees:rippling_willow_hanging_sign": [
+    255,
+    255,
+    255
+  ],
   "thingamajigs:light_gray_jol": [
     136,
     136,
@@ -6187,6 +6562,11 @@
   "neonlamps:purple_lamp": [
     170,
     34,
+    255
+  ],
+  "productivetrees:night_fuchsia_hanging_sign": [
+    255,
+    255,
     255
   ],
   "colorfulcampfires:gray_crimson_stem_dark_campfire": [
@@ -6314,6 +6694,11 @@
     0,
     255
   ],
+  "productivetrees:slimy_delight_wall_sign": [
+    255,
+    255,
+    255
+  ],
   "chipped:inlayed_shroomlight": [
     255,
     255,
@@ -6333,6 +6718,11 @@
     0,
     255,
     0
+  ],
+  "primalmagick:concocter": [
+    255,
+    255,
+    255
   ],
   "fcb:fcbg175": [
     255,
@@ -6452,6 +6842,11 @@
   "vanilladelight:polished_andesite_stove": [
     255,
     255,
+    255
+  ],
+  "productivetrees:blue_yonder_stripped_log": [
+    0,
+    0,
     255
   ],
   "colorfulcampfires:red_cherry_dark_campfire": [
@@ -6694,6 +7089,11 @@
     255,
     255
   ],
+  "productivetrees:time_traveller_hanging_sign": [
+    255,
+    255,
+    255
+  ],
   "pyrite:glow_carpet": [
     255,
     255,
@@ -6779,6 +7179,11 @@
     255,
     255
   ],
+  "productivetrees:slimy_delight_stripped_log": [
+    255,
+    255,
+    255
+  ],
   "thingamajigs:wall_clear_bulb": [
     255,
     255,
@@ -6844,6 +7249,11 @@
     255,
     255
   ],
+  "productivetrees:water_wonder_button": [
+    255,
+    255,
+    255
+  ],
   "ror:spectra_tank": [
     255,
     255,
@@ -6878,6 +7288,11 @@
     255,
     0,
     0
+  ],
+  "sonicraft:vision_block": [
+    255,
+    255,
+    255
   ],
   "spelunkery:phosphor_fungus_block": [
     255,
@@ -6939,6 +7354,11 @@
     0,
     0
   ],
+  "primalmagick:incense_brazier": [
+    255,
+    255,
+    255
+  ],
   "furnish:wither_skull_torch": [
     255,
     255,
@@ -6979,9 +7399,9 @@
     255,
     255
   ],
-  "metal_works:waxed_eroded_tin_mage_lantern": [
-    255,
-    255,
+  "productivetrees:soul_tree_stripped_log": [
+    0,
+    0,
     255
   ],
   "mysticsbiomes:orange_frosted_candle_cake_red": [
@@ -7005,6 +7425,11 @@
     0
   ],
   "quark:myalite_crystal": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:death_egg_hologram": [
     255,
     255,
     255
@@ -7069,6 +7494,11 @@
     0,
     255
   ],
+  "productivetrees:cave_dweller_fence_gate": [
+    255,
+    255,
+    255
+  ],
   "ebwizardry:wall_receptacle": [
     255,
     255,
@@ -7082,6 +7512,11 @@
   "reddensstonelantern:medium_stone_lantern_top_light": [
     255,
     255,
+    255
+  ],
+  "productivetrees:soul_tree_pressure_plate": [
+    0,
+    0,
     255
   ],
   "musings:circle_pink_ring_white_bg": [
@@ -7169,6 +7604,11 @@
     255,
     255
   ],
+  "productivetrees:water_wonder_wall_hanging_sign": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_yellow_ring_pink_bg_flipping": [
     255,
     102,
@@ -7189,15 +7629,15 @@
     255,
     255
   ],
-  "mysticsbiomes:lime_frosted_candle_cake_orange": [
-    255,
-    102,
-    17
-  ],
   "metal_works:tarnished_tin_lantern": [
     255,
     255,
     255
+  ],
+  "mysticsbiomes:lime_frosted_candle_cake_orange": [
+    255,
+    102,
+    17
   ],
   "botania:orange_floating_flower": [
     255,
@@ -7252,6 +7692,11 @@
   "skinnedlanterns:bee_soul_lantern_block": [
     0,
     0,
+    255
+  ],
+  "sonicraft:casino_night_slot_wheel_rng": [
+    255,
+    255,
     255
   ],
   "aether_redux:potted_cloudcap_mushling": [
@@ -7310,6 +7755,11 @@
     255
   ],
   "fcb:fcbg44835": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:slimy_delight_wall_hanging_sign": [
     255,
     255,
     255
@@ -7489,6 +7939,11 @@
     255,
     255
   ],
+  "sonicraft:night_carnival_lamp": [
+    255,
+    255,
+    255
+  ],
   "lost_aether_content:locked_light_gale_stone": [
     255,
     255,
@@ -7505,11 +7960,6 @@
     0
   ],
   "chipped:burning_coal_lantern": [
-    255,
-    255,
-    255
-  ],
-  "metal_works:waxed_tin_mage_lantern": [
     255,
     255,
     255
@@ -7603,6 +8053,11 @@
     255,
     0,
     0
+  ],
+  "productivetrees:slimy_delight_hanging_sign": [
+    255,
+    255,
+    255
   ],
   "dazzle:light_blue_icy_analog_lamp": [
     0,
@@ -7754,6 +8209,11 @@
     255,
     255
   ],
+  "productivetrees:night_fuchsia_slab": [
+    255,
+    255,
+    255
+  ],
   "quark:black_crystal_lamp": [
     0,
     0,
@@ -7803,6 +8263,16 @@
     255,
     255,
     255
+  ],
+  "sonicraft:level_select_sandopolis_zone_portal": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:ritual_candle_gray": [
+    136,
+    136,
+    136
   ],
   "chipped:brick_bordered_magma_block": [
     255,
@@ -7934,6 +8404,11 @@
     255,
     255
   ],
+  "sonicraft:combat_route_signal": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_cycle_white": [
     255,
     255,
@@ -8002,6 +8477,11 @@
   "molten_vents:active_molten_veridium": [
     255,
     255,
+    255
+  ],
+  "productivetrees:purple_spiral_stairs": [
+    170,
+    34,
     255
   ],
   "fcb:fcbg16101260": [
@@ -8120,6 +8600,11 @@
     0
   ],
   "upgrade_aquatic:luminous_prismarine": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:calcinator_forbidden": [
     255,
     255,
     255
@@ -8259,12 +8744,12 @@
     34,
     255
   ],
-  "xkdeco:mimic/rockyminerals/worn_granite_lamp_wall": [
+  "metal_works:tin_lantern": [
     255,
     255,
     255
   ],
-  "metal_works:tin_lantern": [
+  "xkdeco:mimic/rockyminerals/worn_granite_lamp_wall": [
     255,
     255,
     255
@@ -8484,6 +8969,11 @@
     0,
     0
   ],
+  "sonicraft:scrap_brain_lamp": [
+    255,
+    255,
+    255
+  ],
   "betterblockz:zeon_light_gray_blockz_7": [
     136,
     136,
@@ -8492,6 +8982,11 @@
   "colored_water:luminous_magenta_water_cauldron": [
     255,
     0,
+    255
+  ],
+  "sonicraft:vision_gold_ring": [
+    255,
+    255,
     255
   ],
   "pyrite:star_torch": [
@@ -8589,6 +9084,11 @@
     255,
     255
   ],
+  "productivetrees:flickering_sun_trapdoor": [
+    255,
+    255,
+    255
+  ],
   "colored_water:luminous_condense_orange_water_cauldron": [
     255,
     102,
@@ -8664,6 +9164,11 @@
     255,
     255
   ],
+  "sonicraft:level_select_casino_night_zone_portal": [
+    255,
+    255,
+    255
+  ],
   "betterend:iron_bulb_lantern_purple": [
     170,
     34,
@@ -8698,6 +9203,11 @@
     255,
     255,
     255
+  ],
+  "productivetrees:black_ember_stripped_wood": [
+    0,
+    0,
+    0
   ],
   "musings:circle_orange_ring_gray_bg": [
     136,
@@ -8814,6 +9324,11 @@
     255,
     0
   ],
+  "sonicraft:sky_sanctuary_warp_point_on": [
+    255,
+    255,
+    255
+  ],
   "mekanism:advanced_purifying_factory": [
     255,
     255,
@@ -8909,6 +9424,11 @@
     68,
     17
   ],
+  "sonicraft:casino_night_slot_wall_yellow": [
+    255,
+    255,
+    0
+  ],
   "betterend:iron_chandelier": [
     255,
     255,
@@ -8943,6 +9463,11 @@
     255,
     102,
     187
+  ],
+  "productivetrees:night_fuchsia_wall_hanging_sign": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:white_acacia_dark_campfire": [
     255,
@@ -9244,6 +9769,11 @@
     255,
     255
   ],
+  "productivetrees:blue_yonder_hanging_sign": [
+    0,
+    0,
+    255
+  ],
   "snowyspirit:glow_lights_light_gray": [
     136,
     136,
@@ -9293,6 +9823,11 @@
     187,
     255,
     0
+  ],
+  "productivetrees:water_wonder_slab": [
+    255,
+    255,
+    255
   ],
   "musings:circle_purple_ring_lime_bg_flipping": [
     187,
@@ -9674,6 +10209,11 @@
     255,
     255
   ],
+  "sonicraft:night_carnival_neon_star": [
+    255,
+    255,
+    255
+  ],
   "dazzle:black_modern_analog_lamp": [
     0,
     0,
@@ -9744,6 +10284,11 @@
     255,
     0
   ],
+  "productivetrees:water_wonder_stripped_log": [
+    255,
+    255,
+    255
+  ],
   "xycraft_world:aurey_block_fx_glowing_black": [
     0,
     0,
@@ -9804,7 +10349,22 @@
     0,
     255
   ],
+  "sonicraft:blue_labyrinth_zone_crystal": [
+    0,
+    0,
+    255
+  ],
   "embers:molten_iron_block": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:soul_tree_leaves": [
+    0,
+    0,
+    255
+  ],
+  "productivetrees:flickering_sun_hanging_sign": [
     255,
     255,
     255
@@ -10009,6 +10569,11 @@
     255,
     0
   ],
+  "productivetrees:sparkle_cherry_log": [
+    255,
+    255,
+    255
+  ],
   "mekanismgenerators:wind_generator": [
     255,
     255,
@@ -10154,6 +10719,11 @@
     255,
     255
   ],
+  "etheria:ether_altar": [
+    255,
+    255,
+    255
+  ],
   "gobber2:gobber2_glass": [
     255,
     255,
@@ -10269,6 +10839,11 @@
     0,
     0
   ],
+  "primalmagick:forbidden_font_sky": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_yellow_ring_purple_bg": [
     170,
     34,
@@ -10314,6 +10889,11 @@
     0,
     255
   ],
+  "primalmagick:entropy_sink": [
+    255,
+    255,
+    255
+  ],
   "dazzle:black_polished_shroomlight": [
     0,
     0,
@@ -10335,6 +10915,11 @@
     0
   ],
   "truedarkness:spore_vine_block": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:night_fuchsia_bookshelf": [
     255,
     255,
     255
@@ -10534,6 +11119,11 @@
     0,
     0
   ],
+  "productivetrees:time_traveller_stairs": [
+    255,
+    255,
+    255
+  ],
   "pyrite:glow_wool": [
     255,
     255,
@@ -10550,6 +11140,11 @@
     255
   ],
   "fastitemframes:glow_item_frame": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:casino_night_slot_wheel_rings": [
     255,
     255,
     255
@@ -10719,11 +11314,6 @@
     255,
     0
   ],
-  "metal_works:eroded_tin_lantern": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_gray_ring_magenta_bg_flipping": [
     255,
     0,
@@ -10799,6 +11389,11 @@
     255,
     255
   ],
+  "dtprimalmagick:hallowood_leaves": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:magenta_stripped_crimson_stem_dark_campfire": [
     255,
     0,
@@ -10820,6 +11415,21 @@
     255
   ],
   "bloodyhell:spiky_grass": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:soul_glow_field": [
+    0,
+    0,
+    255
+  ],
+  "productivetrees:sparkle_cherry_bookshelf": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:star_light_lamppost_lamp": [
     255,
     255,
     255
@@ -10860,6 +11470,11 @@
     255
   ],
   "neonlamps:inverted_purple_lamp": [
+    170,
+    34,
+    255
+  ],
+  "productivetrees:purple_spiral_slab": [
     170,
     34,
     255
@@ -10974,6 +11589,11 @@
     255,
     255
   ],
+  "productivetrees:soul_tree_sign": [
+    0,
+    0,
+    255
+  ],
   "colored_water:luminous_white_water_cauldron": [
     255,
     255,
@@ -11013,6 +11633,11 @@
     255,
     255,
     255
+  ],
+  "primalmagick:forbidden_font_sea": [
+    153,
+    204,
+    204
   ],
   "tconstruct:fiery_liquid_fluid": [
     255,
@@ -11119,6 +11744,11 @@
     255,
     255
   ],
+  "sonicraft:studiopolis_spin_club_sign": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_cycle_cyan": [
     0,
     255,
@@ -11131,6 +11761,11 @@
   ],
   "valhelsia_furniture:red_fabric_desk_lamp": [
     255,
+    0,
+    0
+  ],
+  "productivetrees:black_ember_fence_gate": [
+    0,
     0,
     0
   ],
@@ -11329,6 +11964,11 @@
     102,
     17
   ],
+  "productivetrees:slimy_delight_pressure_plate": [
+    255,
+    255,
+    255
+  ],
   "betterblockz:cyberlight_alt_blockz_6": [
     255,
     255,
@@ -11469,6 +12109,11 @@
     255,
     255
   ],
+  "the_bumblezone:essence_block_blue": [
+    0,
+    0,
+    255
+  ],
   "betterblockz:zeon_cyan_blockz_1": [
     0,
     255,
@@ -11477,11 +12122,6 @@
   "thermal:dynamo_gourmand": [
     255,
     255,
-    255
-  ],
-  "the_bumblezone:essence_block_blue": [
-    0,
-    0,
     255
   ],
   "securitycraft:protecto": [
@@ -11567,11 +12207,6 @@
   "colorfulcampfires:magenta_stripped_warped_stem_campfire": [
     255,
     0,
-    255
-  ],
-  "metal_works:waxed_eroded_tin_lantern": [
-    255,
-    255,
     255
   ],
   "betterblockz:zeon_lime_blockz_4": [
@@ -11699,6 +12334,11 @@
     255,
     255
   ],
+  "etheria:ether_loom": [
+    255,
+    255,
+    255
+  ],
   "ad_extendra:glowing_plutonium_pillar": [
     255,
     255,
@@ -11758,11 +12398,6 @@
     0,
     255,
     0
-  ],
-  "metal_works:corroded_tin_lantern": [
-    255,
-    255,
-    255
   ],
   "betterblockz:cyberlight_alt_blockz_7": [
     255,
@@ -11839,6 +12474,11 @@
     0,
     255
   ],
+  "productivetrees:time_traveller_log": [
+    255,
+    255,
+    255
+  ],
   "mcwlights:soul_acacia_tiki_torch": [
     255,
     255,
@@ -11893,6 +12533,11 @@
     0,
     255,
     0
+  ],
+  "productivetrees:blue_yonder_slab": [
+    0,
+    0,
+    255
   ],
   "luminax:black_luminax_pressure_plate": [
     0,
@@ -11973,6 +12618,11 @@
     136,
     68,
     17
+  ],
+  "productivetrees:black_ember_sign": [
+    0,
+    0,
+    0
   ],
   "chipped:polished_shroomlight": [
     255,
@@ -12189,7 +12839,22 @@
     102,
     17
   ],
+  "productivetrees:flickering_sun_leaves": [
+    255,
+    255,
+    255
+  ],
   "abstoneedition:glowstone_bricks_slab": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:ritual_candle_cyan": [
+    0,
+    255,
+    255
+  ],
+  "productivetrees:night_fuchsia_stairs": [
     255,
     255,
     255
@@ -12310,6 +12975,11 @@
     255
   ],
   "quark:glow_shroom_block": [
+    255,
+    255,
+    255
+  ],
+  "dtaether:flowering_roseroot_leaves": [
     255,
     255,
     255
@@ -12469,6 +13139,11 @@
     255,
     0
   ],
+  "productivetrees:black_ember_pressure_plate": [
+    0,
+    0,
+    0
+  ],
   "chipped:brown_mushroom_cluster": [
     136,
     68,
@@ -12524,6 +13199,11 @@
     255,
     0
   ],
+  "primalmagick:hallowood_leaves": [
+    255,
+    255,
+    255
+  ],
   "dawnoftimebuilder:stone_bricks_fireplace": [
     255,
     255,
@@ -12543,6 +13223,11 @@
     136,
     136,
     136
+  ],
+  "productivetrees:water_wonder_door": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:brown_stripped_birch_dark_campfire": [
     136,
@@ -12849,6 +13534,16 @@
     255,
     255
   ],
+  "sonicraft:death_egg_horizon_block": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:level_select_chemical_plant_zone_portal": [
+    255,
+    255,
+    255
+  ],
   "betterend:terminite_bulb_lantern_light_blue": [
     0,
     0,
@@ -13054,11 +13749,6 @@
     136,
     136
   ],
-  "metal_works:corroded_tin_mage_lantern": [
-    255,
-    255,
-    255
-  ],
   "embers:molten_copper_block": [
     255,
     255,
@@ -13070,6 +13760,11 @@
     0
   ],
   "truedarkness:neasky_moss": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:sanguine_crucible": [
     255,
     255,
     255
@@ -13160,6 +13855,11 @@
     187
   ],
   "supplementaries:blaze_rod": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:slimy_delight_bookshelf": [
     255,
     255,
     255
@@ -13284,6 +13984,11 @@
     102,
     187
   ],
+  "primalmagick:forbidden_font_infernal": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_orange_ring_cyan_bg_flipping": [
     0,
     255,
@@ -13389,6 +14094,11 @@
     102,
     17
   ],
+  "productivetrees:rippling_willow_pressure_plate": [
+    255,
+    255,
+    255
+  ],
   "pyrite:glow_terracotta_bricks": [
     255,
     255,
@@ -13403,6 +14113,11 @@
     0,
     255,
     0
+  ],
+  "primalmagick:small_synthetic_diamond_bud": [
+    255,
+    255,
+    255
   ],
   "snowyspirit:glow_lights_light_blue": [
     0,
@@ -13439,6 +14154,11 @@
     102,
     17
   ],
+  "productivetrees:firecracker_button": [
+    255,
+    255,
+    255
+  ],
   "redeco:green_lamp": [
     0,
     255,
@@ -13464,6 +14184,11 @@
     255,
     255
   ],
+  "primalmagick:ritual_candle_yellow": [
+    255,
+    255,
+    0
+  ],
   "truedarkness:prismarine_coral_colourless": [
     255,
     255,
@@ -13474,6 +14199,11 @@
     68,
     17
   ],
+  "productivetrees:black_ember_stairs": [
+    0,
+    0,
+    0
+  ],
   "chemlib:radon_lamp_block": [
     255,
     255,
@@ -13483,6 +14213,16 @@
     0,
     0,
     0
+  ],
+  "productivetrees:rippling_willow_fence": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:advanced_cave_dweller_beehive": [
+    255,
+    255,
+    255
   ],
   "skinnedlanterns:ornament_light_gray_lantern_block": [
     136,
@@ -13539,6 +14279,11 @@
     136,
     136
   ],
+  "sonicraft:casino_night_slot_frame": [
+    255,
+    255,
+    255
+  ],
   "wider_ender_chests:lapis_ender_chest": [
     255,
     255,
@@ -13563,6 +14308,11 @@
     255,
     0,
     0
+  ],
+  "productivetrees:water_wonder_sign": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:orange_jungle_dark_campfire": [
     255,
@@ -13591,6 +14341,11 @@
   ],
   "colorfulcampfires:magenta_mangrove_dark_campfire": [
     255,
+    0,
+    255
+  ],
+  "productivetrees:blue_yonder_leaves": [
+    0,
     0,
     255
   ],
@@ -13724,6 +14479,11 @@
     255,
     255
   ],
+  "productivetrees:blue_yonder_fence_gate": [
+    0,
+    0,
+    255
+  ],
   "truedarkness:measky_leaves": [
     255,
     255,
@@ -13734,7 +14494,17 @@
     255,
     255
   ],
+  "sonicraft:night_carnival_lamppost_lamp": [
+    255,
+    255,
+    255
+  ],
   "truedarkness:lighted_vine_active_0": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:flickering_sun_fence": [
     255,
     255,
     255
@@ -13789,7 +14559,17 @@
     255,
     255
   ],
+  "productivetrees:night_fuchsia_sign": [
+    255,
+    255,
+    255
+  ],
   "buildersdelight:lantern_2": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:forbidden_font_hallowed": [
     255,
     255,
     255
@@ -13818,6 +14598,11 @@
     255,
     102,
     187
+  ],
+  "sonicraft:studiopolis_popcorn_shop_floor": [
+    255,
+    255,
+    255
   ],
   "braziliandelight:carrot_cake_with_chocolate_with_orange_candle": [
     255,
@@ -14289,6 +15074,11 @@
     255,
     255
   ],
+  "productivetrees:advanced_night_fuchsia_beehive": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg9205": [
     255,
     255,
@@ -14305,6 +15095,11 @@
     255
   ],
   "xkdeco:mimic/rockyminerals/pumice_lamp_wall": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:ancient_font_moon": [
     255,
     255,
     255
@@ -14379,6 +15174,11 @@
     0,
     0
   ],
+  "productivetrees:flickering_sun_door": [
+    255,
+    255,
+    255
+  ],
   "botania:floating_jiyuulia": [
     255,
     255,
@@ -14439,12 +15239,12 @@
     255,
     255
   ],
-  "musings:circle_cyan_ring_blue_bg_flipping": [
+  "metal_works:waxed_tarnished_tin_soul_lantern": [
     0,
     0,
     255
   ],
-  "metal_works:waxed_tarnished_tin_soul_lantern": [
+  "musings:circle_cyan_ring_blue_bg_flipping": [
     0,
     0,
     255
@@ -14494,6 +15294,11 @@
     255,
     255
   ],
+  "sonicraft:spring_yard_lamp_slab": [
+    255,
+    255,
+    255
+  ],
   "additional_lights:al_wall_torch_birch_planks": [
     255,
     255,
@@ -14518,6 +15323,11 @@
     255,
     255,
     0
+  ],
+  "sonicraft:carnival_night_lamp": [
+    255,
+    255,
+    255
   ],
   "rockyminerals:anhydrite_lamp_pressure_plate": [
     255,
@@ -14754,6 +15564,11 @@
     255,
     255
   ],
+  "productivetrees:slimy_delight_trapdoor": [
+    255,
+    255,
+    255
+  ],
   "nightlights:frog_brown": [
     136,
     68,
@@ -14829,6 +15644,11 @@
     255,
     0
   ],
+  "sonicraft:death_egg_electric_block": [
+    255,
+    255,
+    255
+  ],
   "minecraft:torch": [
     255,
     255,
@@ -14899,6 +15719,11 @@
     255,
     0
   ],
+  "primalmagick:artificial_font_void": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:brown_cherry_dark_campfire": [
     136,
     68,
@@ -14948,6 +15773,11 @@
     255,
     255,
     0
+  ],
+  "productivetrees:soul_tree_fence": [
+    0,
+    0,
+    255
   ],
   "xycraft_world:lamp_cube_cyan": [
     0,
@@ -15040,6 +15870,11 @@
     255
   ],
   "dawnoftimebuilder:spruce_low_table": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:rippling_willow_leaves": [
     255,
     255,
     255
@@ -15514,6 +16349,11 @@
     255,
     255
   ],
+  "primalmagick:medium_synthetic_emerald_bud": [
+    255,
+    255,
+    255
+  ],
   "thingamajigs:rr_cantilever_lights": [
     255,
     255,
@@ -15544,6 +16384,11 @@
     255,
     255
   ],
+  "productivetrees:rippling_willow_stripped_log": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:green_stripped_warped_stem_campfire": [
     0,
     255,
@@ -15570,6 +16415,16 @@
     136
   ],
   "mekanism:creative_bin": [
+    255,
+    255,
+    255
+  ],
+  "dtquark:glow_shroom_cap_center": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:mobius_portal": [
     255,
     255,
     255
@@ -15719,6 +16574,11 @@
     255,
     0
   ],
+  "sonicraft:studiopolis_light": [
+    255,
+    255,
+    255
+  ],
   "regions_unexplored:dropleaf": [
     255,
     255,
@@ -15810,6 +16670,11 @@
     0
   ],
   "regions_unexplored:hanging_prismarite": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:firecracker_wall_hanging_sign": [
     255,
     255,
     255
@@ -15927,6 +16792,11 @@
   "outer_end:glowing_ancient_ice": [
     255,
     255,
+    255
+  ],
+  "productivetrees:blue_yonder_stripped_wood": [
+    0,
+    0,
     255
   ],
   "collectorsreap:white_candle_lime_cake": [
@@ -16059,6 +16929,11 @@
     255,
     255
   ],
+  "productivetrees:sparkle_cherry_stripped_wood": [
+    255,
+    255,
+    255
+  ],
   "skinnedlanterns:paper_cyan_soul_lantern_block": [
     0,
     255,
@@ -16070,6 +16945,11 @@
     255
   ],
   "undergarden:potted_shimmerweed": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:large_synthetic_diamond_bud": [
     255,
     255,
     255
@@ -16294,6 +17174,11 @@
     255,
     255
   ],
+  "sonicraft:night_carnival_glowing_lamp": [
+    255,
+    255,
+    255
+  ],
   "chipped:smooth_ringed_magma_block": [
     255,
     255,
@@ -16303,6 +17188,11 @@
     255,
     102,
     17
+  ],
+  "productivetrees:black_ember_fence": [
+    0,
+    0,
+    0
   ],
   "skinnedlanterns:paper_pink_lantern_block": [
     255,
@@ -16509,6 +17399,11 @@
     255,
     255
   ],
+  "productivetrees:firecracker_pressure_plate": [
+    255,
+    255,
+    255
+  ],
   "allthecompressed:blaze_block_3x": [
     255,
     255,
@@ -16558,6 +17453,11 @@
     136,
     136,
     136
+  ],
+  "productivetrees:expansion_box_firecracker": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:stripped_cherry_campfire": [
     255,
@@ -16613,6 +17513,11 @@
     255,
     102,
     17
+  ],
+  "sonicraft:null_space_stone": [
+    255,
+    255,
+    255
   ],
   "fcb:fcbg4650240": [
     255,
@@ -16683,6 +17588,11 @@
     136,
     136,
     136
+  ],
+  "productivetrees:night_fuchsia_log": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:white_birch_dark_campfire": [
     255,
@@ -16829,6 +17739,11 @@
     255,
     255
   ],
+  "primalmagick:artificial_font_sky": [
+    255,
+    255,
+    255
+  ],
   "collectorsreap:orange_candle_pink_dragon_fruit_cake": [
     255,
     102,
@@ -16868,6 +17783,11 @@
     255,
     255,
     0
+  ],
+  "sonicraft:studiopolis_checkerboard_neon": [
+    255,
+    255,
+    255
   ],
   "farmersrespite:orange_candle_coffee_cake": [
     255,
@@ -16984,6 +17904,11 @@
     102,
     187
   ],
+  "productivetrees:rippling_willow_wood": [
+    255,
+    255,
+    255
+  ],
   "aether_redux:sentrite_lantern": [
     255,
     255,
@@ -17003,6 +17928,11 @@
     255,
     0,
     0
+  ],
+  "dtquark:glow_shroom_cap": [
+    255,
+    255,
+    255
   ],
   "chipped:sea_lodestone_side": [
     153,
@@ -17134,6 +18064,11 @@
     255,
     0
   ],
+  "productivetrees:blue_yonder_button": [
+    0,
+    0,
+    255
+  ],
   "pyrite:star_terracotta": [
     255,
     255,
@@ -17190,6 +18125,11 @@
     255
   ],
   "betterend:smaragdant_crystal": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:rippling_willow_fence_gate": [
     255,
     255,
     255
@@ -17344,6 +18284,11 @@
     34,
     255
   ],
+  "primalmagick:artificial_font_sun": [
+    255,
+    255,
+    255
+  ],
   "ad_astra:small_magenta_industrial_lamp": [
     255,
     0,
@@ -17494,6 +18439,11 @@
     255,
     255
   ],
+  "sonicraft:casino_night_circle_light": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg27055": [
     255,
     255,
@@ -17614,6 +18564,11 @@
     0,
     255
   ],
+  "productivetrees:black_ember_planks": [
+    0,
+    0,
+    0
+  ],
   "colored_water:luminous_light_gray_fluid_block": [
     136,
     136,
@@ -17648,6 +18603,16 @@
     187,
     255,
     0
+  ],
+  "productivetrees:flickering_sun_wall_sign": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:casino_night_slot_wheel_netherite": [
+    255,
+    255,
+    255
   ],
   "somemoreblocks:ochre_redstone_froglight": [
     255,
@@ -18004,6 +18969,11 @@
     0,
     255
   ],
+  "productivetrees:purple_spiral_log": [
+    170,
+    34,
+    255
+  ],
   "thingamajigs:tall_lamp": [
     255,
     255,
@@ -18052,6 +19022,11 @@
   "musings:circle_light_blue_ring_magenta_bg_flipping": [
     255,
     0,
+    255
+  ],
+  "productivetrees:water_wonder_fence_gate": [
+    255,
+    255,
     255
   ],
   "bc_additions:glow_crystal_block": [
@@ -18144,6 +19119,11 @@
     255,
     255
   ],
+  "dtbop:glowshroom_cap_center": [
+    255,
+    255,
+    255
+  ],
   "glassential:glass_light_pane": [
     255,
     255,
@@ -18199,15 +19179,15 @@
     255,
     255
   ],
-  "metal_works:waxed_corroded_tin_soul_lantern": [
-    0,
-    0,
-    255
-  ],
   "xycraft_world:aurey_block_matte_glowing_light_gray": [
     136,
     136,
     136
+  ],
+  "sonicraft:spring_yard_lamp": [
+    255,
+    255,
+    255
   ],
   "furnish:black_paper_lamp": [
     0,
@@ -18320,6 +19300,11 @@
     255
   ],
   "spelunkery:rock_salt_brick_wall": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:time_traveller_bookshelf": [
     255,
     255,
     255
@@ -18504,6 +19489,11 @@
     255,
     255
   ],
+  "sonicraft:casino_night_slot_wheel_eggman": [
+    255,
+    255,
+    255
+  ],
   "atmospheric:shimmering_passion_fruit_crate": [
     255,
     255,
@@ -18548,6 +19538,11 @@
     255,
     0,
     0
+  ],
+  "productivetrees:slimy_delight_log": [
+    255,
+    255,
+    255
   ],
   "mekanism:advanced_bin": [
     255,
@@ -18624,6 +19619,11 @@
     102,
     187
   ],
+  "metal_works:tarnished_tin_soul_lantern": [
+    0,
+    0,
+    255
+  ],
   "silentgems:ammolite_glowrose": [
     255,
     255,
@@ -18635,11 +19635,6 @@
     0
   ],
   "graveyard:soul_fire_brazier": [
-    0,
-    0,
-    255
-  ],
-  "metal_works:tarnished_tin_soul_lantern": [
     0,
     0,
     255
@@ -18704,6 +19699,11 @@
     0,
     255
   ],
+  "productivetrees:flickering_sun_slab": [
+    255,
+    255,
+    255
+  ],
   "beautify:lamp_candelabra": [
     255,
     255,
@@ -18729,6 +19729,11 @@
     255,
     255
   ],
+  "productivetrees:firecracker_slab": [
+    255,
+    255,
+    255
+  ],
   "redeco:lime_paper_lantern": [
     187,
     255,
@@ -18738,11 +19743,6 @@
     255,
     0,
     0
-  ],
-  "metal_works:eroded_tin_soul_lantern": [
-    0,
-    0,
-    255
   ],
   "tinkers_delight:molten_hot_pot_iron_fluid": [
     255,
@@ -18824,9 +19824,19 @@
     0,
     0
   ],
+  "productivetrees:rippling_willow_log": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:light_blue_oak_dark_campfire": [
     0,
     0,
+    255
+  ],
+  "primalmagick:small_synthetic_emerald_bud": [
+    255,
+    255,
     255
   ],
   "botania:magenta_mushroom": [
@@ -18909,6 +19919,11 @@
     255,
     255
   ],
+  "productivetrees:expansion_box_blue_yonder": [
+    0,
+    0,
+    255
+  ],
   "nightlights:fairy_lights_pink": [
     255,
     102,
@@ -18917,6 +19932,11 @@
   "bbb:acacia_lantern": [
     255,
     255,
+    255
+  ],
+  "productivetrees:soul_tree_bookshelf": [
+    0,
+    0,
     255
   ],
   "compat_o_plenty:galanos_vertical_slab": [
@@ -19134,6 +20154,11 @@
     255,
     255
   ],
+  "productivetrees:water_wonder_log": [
+    255,
+    255,
+    255
+  ],
   "windswept:nightshade": [
     255,
     255,
@@ -19152,6 +20177,11 @@
   "colorfulcampfires:magenta_stripped_jungle_campfire": [
     255,
     0,
+    255
+  ],
+  "sonicraft:turtle_route_signal": [
+    255,
+    255,
     255
   ],
   "betterblockz:zeon_blue_blockz_7": [
@@ -19270,6 +20300,11 @@
     0
   ],
   "colorfulcampfires:stripped_dark_oak_campfire": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:slimy_delight_planks": [
     255,
     255,
     255
@@ -19429,12 +20464,27 @@
     0,
     0
   ],
+  "productivetrees:flickering_sun_log": [
+    255,
+    255,
+    255
+  ],
   "xycraft_world:aurey_block_fx_glowing_blue": [
     0,
     0,
     255
   ],
   "fcb:fcbg4650310": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:cave_dweller_button": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:rippling_willow_bookshelf": [
     255,
     255,
     255
@@ -19454,9 +20504,19 @@
     255,
     255
   ],
+  "primalmagick:forbidden_font_void": [
+    255,
+    255,
+    255
+  ],
   "tconstruct:molten_bronze_fluid": [
     255,
     255,
+    255
+  ],
+  "sonicraft:casino_night_slot_wall_blue": [
+    0,
+    0,
     255
   ],
   "buildersdelight:laboratory_4": [
@@ -19481,6 +20541,16 @@
   ],
   "dazzle:cyan_polished_shroomlight": [
     0,
+    255,
+    255
+  ],
+  "sonicraft:night_carnival_blue_neon_star": [
+    0,
+    0,
+    255
+  ],
+  "productivetrees:firecracker_log": [
+    255,
     255,
     255
   ],
@@ -19603,6 +20673,11 @@
     255,
     102,
     187
+  ],
+  "primalmagick:heavenly_font_void": [
+    255,
+    255,
+    255
   ],
   "mcwholidays:blue_string_lights": [
     0,
@@ -19799,6 +20874,11 @@
     255,
     255
   ],
+  "sonicraft:solid_lava": [
+    255,
+    255,
+    255
+  ],
   "architects_palette:abyssaline_tile_slab": [
     255,
     255,
@@ -19814,7 +20894,22 @@
     255,
     255
   ],
+  "productivetrees:slimy_delight_fence": [
+    255,
+    255,
+    255
+  ],
   "silentgems:turquoise_lamp_inverted_on": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:sparkle_cherry_wood": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:medium_synthetic_diamond_bud": [
     255,
     255,
     255
@@ -20069,6 +21164,11 @@
     255,
     255
   ],
+  "primalmagick:forbidden_font_sun": [
+    255,
+    255,
+    255
+  ],
   "bloodyhell:blood_scrapper_plant": [
     255,
     255,
@@ -20194,6 +21294,11 @@
     68,
     17
   ],
+  "productivetrees:time_traveller_slab": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg11522700": [
     255,
     255,
@@ -20239,6 +21344,11 @@
     255,
     255
   ],
+  "productivetrees:slimy_delight_slab": [
+    255,
+    255,
+    255
+  ],
   "pyrite:star_stained_slab": [
     255,
     255,
@@ -20273,6 +21383,16 @@
     187,
     255,
     0
+  ],
+  "primalmagick:small_synthetic_amethyst_bud": [
+    170,
+    34,
+    255
+  ],
+  "sonicraft:level_select_carnival_night_zone_portal": [
+    255,
+    255,
+    255
   ],
   "vanilladelight:red_sandstone_stove": [
     255,
@@ -20312,6 +21432,11 @@
   "projectred_illumination:magenta_inverted_illumar_lamp": [
     255,
     0,
+    255
+  ],
+  "productivetrees:firecracker_wall_sign": [
+    255,
+    255,
     255
   ],
   "reddensstonelantern:mini_stone_lantern_light": [
@@ -20509,6 +21634,16 @@
     0,
     0
   ],
+  "productivetrees:advanced_soul_tree_beehive": [
+    0,
+    0,
+    255
+  ],
+  "productivetrees:expansion_box_black_ember": [
+    0,
+    0,
+    0
+  ],
   "thermal:prismarine_crossover_rail": [
     255,
     255,
@@ -20639,6 +21774,11 @@
     255,
     0
   ],
+  "productivetrees:night_fuchsia_planks": [
+    255,
+    255,
+    255
+  ],
   "bambooeverything:dry_bamboo_torch": [
     255,
     255,
@@ -20668,6 +21808,11 @@
     136,
     136,
     136
+  ],
+  "primalmagick:ritual_candle_orange": [
+    255,
+    102,
+    17
   ],
   "fcb:fcbg11513845": [
     255,
@@ -20749,6 +21894,11 @@
     0,
     255
   ],
+  "productivetrees:sparkle_cherry_stairs": [
+    255,
+    255,
+    255
+  ],
   "silentgems:alexandrite_glowrose": [
     255,
     255,
@@ -20782,6 +21932,11 @@
   "absentbydesign:wall_crying_obsidian": [
     255,
     255,
+    255
+  ],
+  "productivetrees:advanced_blue_yonder_beehive": [
+    0,
+    0,
     255
   ],
   "botania:floating_solegnolia_chibi": [
@@ -20854,6 +22009,11 @@
     68,
     17
   ],
+  "sonicraft:casino_night_slot_wheel_shield": [
+    255,
+    255,
+    255
+  ],
   "biomesoplenty:medium_rose_quartz_bud": [
     255,
     255,
@@ -20877,6 +22037,11 @@
   "mysticsbiomes:vanilla_candle_cake_magenta": [
     255,
     0,
+    255
+  ],
+  "productivetrees:firecracker_door": [
+    255,
+    255,
     255
   ],
   "mcwlights:striped_lantern": [
@@ -20934,12 +22099,12 @@
     0,
     0
   ],
-  "mynethersdelight:nether_stove": [
+  "metal_works:waxed_tin_lantern": [
     255,
     255,
     255
   ],
-  "metal_works:waxed_tin_lantern": [
+  "mynethersdelight:nether_stove": [
     255,
     255,
     255
@@ -21022,6 +22187,11 @@
   "deep_aether:glowing_spores": [
     255,
     255,
+    255
+  ],
+  "productivetrees:soul_tree_button": [
+    0,
+    0,
     255
   ],
   "minecraft:conduit": [
@@ -21175,6 +22345,11 @@
     255
   ],
   "suppsquared:gold_candle_holder_ender": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:forbidden_font_blood": [
     255,
     255,
     255
@@ -21354,6 +22529,16 @@
     0,
     255
   ],
+  "productivetrees:flickering_sun_button": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:rippling_willow_sign": [
+    255,
+    255,
+    255
+  ],
   "skinnedlanterns:honey_soul_lantern_block": [
     0,
     0,
@@ -21383,6 +22568,11 @@
     136,
     136,
     136
+  ],
+  "productivetrees:black_ember_wall_sign": [
+    0,
+    0,
+    0
   ],
   "nightlights:mushroom_blue": [
     0,
@@ -21450,6 +22640,11 @@
     187
   ],
   "fcb:fcbg9219840": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:casino_night_slot_sound_trigger": [
     255,
     255,
     255
@@ -21569,6 +22764,11 @@
     255,
     255
   ],
+  "sonicraft:studiopolis_lamppost_lamp": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_magenta_ring_black_bg": [
     0,
     0,
@@ -21615,6 +22815,16 @@
     255
   ],
   "securitycraft:keypad_furnace": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:turquoise_froglight": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:level_select_star_light_zone_portal": [
     255,
     255,
     255
@@ -21689,6 +22899,11 @@
     255,
     255
   ],
+  "productivetrees:expansion_box_soul_tree": [
+    0,
+    0,
+    255
+  ],
   "dazzle:green_polished_shroomlight": [
     0,
     255,
@@ -21758,6 +22973,11 @@
     255,
     0,
     0
+  ],
+  "primalmagick:large_synthetic_amethyst_bud": [
+    170,
+    34,
+    255
   ],
   "chromatic_construct:molten_etherium_fluid": [
     255,
@@ -22279,6 +23499,11 @@
     255,
     255
   ],
+  "productivetrees:firecracker_planks": [
+    255,
+    255,
+    255
+  ],
   "colored_water:luminous_condense_lime_fluid_block": [
     187,
     255,
@@ -22488,6 +23713,11 @@
     255,
     102,
     187
+  ],
+  "productivetrees:cave_dweller_sign": [
+    255,
+    255,
+    255
   ],
   "pigsteel:waxed_infected_pigsteel_soul_lantern": [
     0,
@@ -22699,6 +23929,11 @@
     255,
     255
   ],
+  "productivetrees:expansion_box_night_fuchsia": [
+    255,
+    255,
+    255
+  ],
   "dazzle:polished_shroomlight": [
     255,
     255,
@@ -22859,6 +24094,11 @@
     255,
     255
   ],
+  "productivetrees:purple_spiral_stripped_wood": [
+    170,
+    34,
+    255
+  ],
   "botania:animated_torch": [
     255,
     255,
@@ -22944,6 +24184,11 @@
     255,
     255
   ],
+  "productivetrees:purple_spiral_sign": [
+    170,
+    34,
+    255
+  ],
   "the_bumblezone:essence_block_green": [
     0,
     255,
@@ -22968,6 +24213,11 @@
     0,
     255,
     0
+  ],
+  "sonicraft:level_select_marble_garden_zone_portal": [
+    255,
+    255,
+    255
   ],
   "musings:circle_lime_ring_red_bg_flipping": [
     255,
@@ -23023,6 +24273,11 @@
     255,
     255,
     0
+  ],
+  "productivetrees:slimy_delight_stairs": [
+    255,
+    255,
+    255
   ],
   "nightlights:mushroom_brown": [
     136,
@@ -23083,6 +24338,11 @@
     255,
     255,
     255
+  ],
+  "primalmagick:ritual_candle_light_gray": [
+    136,
+    136,
+    136
   ],
   "enderio:light_inverted": [
     255,
@@ -23244,6 +24504,11 @@
     255,
     0
   ],
+  "sonicraft:level_select_night_carnival_zone_portal": [
+    255,
+    255,
+    255
+  ],
   "rockyminerals:olivine_redstone_lamp": [
     255,
     0,
@@ -23258,6 +24523,16 @@
     255,
     255,
     255
+  ],
+  "primalmagick:heavenly_font_moon": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:ritual_candle_red": [
+    255,
+    0,
+    0
   ],
   "fcb:fcbg9237865": [
     255,
@@ -23284,6 +24559,11 @@
     136,
     136
   ],
+  "primalmagick:heavenly_font_hallowed": [
+    255,
+    255,
+    255
+  ],
   "silentgems:citrine_lamp_on": [
     255,
     255,
@@ -23303,6 +24583,11 @@
     255,
     0,
     0
+  ],
+  "sonicraft:casino_night_horizonal_line_light": [
+    255,
+    255,
+    255
   ],
   "xkdeco:stone_lamp": [
     255,
@@ -23380,6 +24665,11 @@
     255
   ],
   "twilightforest:ghast_trap": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:water_wonder_hanging_sign": [
     255,
     255,
     255
@@ -23784,10 +25074,20 @@
     102,
     17
   ],
+  "productivetrees:time_traveller_stripped_wood": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_blue_ring_magenta_bg_flipping": [
     255,
     0,
     255
+  ],
+  "primalmagick:artificial_font_sea": [
+    153,
+    204,
+    204
   ],
   "mysticsbiomes:pink_frosted_candle_cake_gray": [
     136,
@@ -23879,12 +25179,22 @@
     255,
     255
   ],
+  "primalmagick:consecration_field": [
+    255,
+    255,
+    255
+  ],
   "bno:nether_redstone_ore": [
     255,
     0,
     0
   ],
   "ctl:panel_ilb": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:death_egg_interior_wall": [
     255,
     255,
     255
@@ -23969,6 +25279,11 @@
     34,
     255
   ],
+  "productivetrees:water_wonder_trapdoor": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_purple_ring_cyan_bg": [
     0,
     255,
@@ -23995,6 +25310,11 @@
     255
   ],
   "ror:activated_pegasus_device": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:casino_night_slot_wheel_spinning": [
     255,
     255,
     255
@@ -24204,6 +25524,11 @@
     102,
     187
   ],
+  "productivetrees:night_fuchsia_pressure_plate": [
+    255,
+    255,
+    255
+  ],
   "mcwlights:round_garden_light": [
     255,
     255,
@@ -24212,6 +25537,11 @@
   "colorfulcampfires:purple_warped_stem_dark_campfire": [
     170,
     34,
+    255
+  ],
+  "productivetrees:blue_yonder_log": [
+    0,
+    0,
     255
   ],
   "fcb:fcbg11469045": [
@@ -24223,6 +25553,11 @@
     255,
     0,
     0
+  ],
+  "productivetrees:cave_dweller_stripped_log": [
+    255,
+    255,
+    255
   ],
   "chipped:small_crying_obsidian_bricks": [
     255,
@@ -24329,6 +25664,11 @@
     255,
     255
   ],
+  "productivetrees:time_traveller_fence_gate": [
+    255,
+    255,
+    255
+  ],
   "farmersrespite:red_candle_coffee_cake": [
     255,
     0,
@@ -24378,6 +25718,16 @@
     0,
     0,
     0
+  ],
+  "productivetrees:firecracker_fence": [
+    255,
+    255,
+    255
+  ],
+  "etheria:trial": [
+    255,
+    255,
+    255
   ],
   "fcb:fcbg2311715": [
     255,
@@ -24489,6 +25839,11 @@
     255,
     0
   ],
+  "productivetrees:purple_spiral_wall_sign": [
+    170,
+    34,
+    255
+  ],
   "rockyminerals:opal_lamp_stairs": [
     255,
     255,
@@ -24508,6 +25863,11 @@
     255,
     102,
     17
+  ],
+  "productivetrees:advanced_flickering_sun_beehive": [
+    255,
+    255,
+    255
   ],
   "chimes:amethyst_chimes": [
     170,
@@ -24564,6 +25924,11 @@
     255,
     255
   ],
+  "l2hostility:hostility_beacon": [
+    255,
+    255,
+    255
+  ],
   "suppsquared:gold_candle_holder_black": [
     0,
     0,
@@ -24587,6 +25952,11 @@
   "thingamajigs:ped_signal_worded": [
     255,
     255,
+    255
+  ],
+  "productivetrees:soul_tree_hanging_sign": [
+    0,
+    0,
     255
   ],
   "moglowstoneplus:purple_glowstone_slab": [
@@ -24624,6 +25994,11 @@
     136,
     136
   ],
+  "productivetrees:rippling_willow_planks": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_brown_ring_lime_bg_flipping": [
     187,
     255,
@@ -24649,6 +26024,11 @@
     255,
     255
   ],
+  "productivetrees:expansion_box_flickering_sun": [
+    255,
+    255,
+    255
+  ],
   "skinnedlanterns:paper_black_lantern_block": [
     0,
     0,
@@ -24670,6 +26050,21 @@
     255
   ],
   "buzzier_bees:honey_lamp": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:speed_formation_signal": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:sparkle_cherry_hanging_sign": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:firecracker_hanging_sign": [
     255,
     255,
     255
@@ -24764,6 +26159,16 @@
     255,
     255
   ],
+  "sonicraft:level_select_mushroom_hill_zone_portal": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:firecracker_sign": [
+    255,
+    255,
+    255
+  ],
   "dawnoftimebuilder:stone_bricks_small_pool": [
     255,
     255,
@@ -24778,6 +26183,11 @@
     255,
     255,
     0
+  ],
+  "primalmagick:large_synthetic_quartz_bud": [
+    255,
+    255,
+    255
   ],
   "bettas:ledbarhigh": [
     255,
@@ -24848,6 +26258,11 @@
     0,
     255,
     0
+  ],
+  "primalmagick:synthetic_amethyst_cluster": [
+    170,
+    34,
+    255
   ],
   "fcb:fcbg4605510": [
     255,
@@ -25084,6 +26499,11 @@
     255,
     255
   ],
+  "sonicraft:death_egg_eye": [
+    255,
+    255,
+    255
+  ],
   "dazzle:magenta_polished_shroomlight": [
     255,
     0,
@@ -25092,6 +26512,11 @@
   "metal_works:rose_lantern": [
     255,
     255,
+    255
+  ],
+  "productivetrees:purple_spiral_planks": [
+    170,
+    34,
     255
   ],
   "bloodmagic:dungeon_eye": [
@@ -25214,6 +26639,11 @@
     255,
     0
   ],
+  "productivetrees:time_traveller_leaves": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:blue_stripped_crimson_stem_dark_campfire": [
     0,
     0,
@@ -25259,6 +26689,11 @@
     255,
     255
   ],
+  "productivetrees:rippling_willow_door": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg4623360": [
     255,
     255,
@@ -25270,6 +26705,11 @@
     255
   ],
   "cyclic:netherite_lantern": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:studiopolis_egg_tv_wall_display": [
     255,
     255,
     255
@@ -25349,6 +26789,11 @@
     0,
     0
   ],
+  "primalmagick:ritual_candle_white": [
+    255,
+    255,
+    255
+  ],
   "wallpapercraft:stonelampred-6": [
     255,
     0,
@@ -25399,15 +26844,20 @@
     255,
     0
   ],
+  "productivetrees:night_fuchsia_fence": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:calcinator_heavenly": [
+    255,
+    255,
+    255
+  ],
   "tanukidecor:orange_science_pod": [
     255,
     102,
     17
-  ],
-  "metal_works:tin_mage_lantern": [
-    255,
-    255,
-    255
   ],
   "mysticsbiomes:cyan_frosted_candle_cake_cyan": [
     0,
@@ -25435,6 +26885,16 @@
     255
   ],
   "thingamajigs:traffic_signal_left": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:heavenly_font_earth": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:launch_base_rocket_fire": [
     255,
     255,
     255
@@ -25480,6 +26940,11 @@
     255
   ],
   "chipped:angry_magma_block": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:sparkle_cherry_pressure_plate": [
     255,
     255,
     255
@@ -25610,6 +27075,11 @@
     255
   ],
   "betterend:respawn_obelisk": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:night_fuchsia_stripped_log": [
     255,
     255,
     255
@@ -25849,6 +27319,11 @@
     102,
     17
   ],
+  "productivetrees:cave_dweller_door": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:cyan_crimson_stem_campfire": [
     0,
     255,
@@ -25865,6 +27340,11 @@
     255
   ],
   "avaritia_integration:potted_asgard_dandelion": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:level_select_spring_yard_zone_portal": [
     255,
     255,
     255
@@ -25932,6 +27412,11 @@
   "thermal_extra:raw_zinc": [
     255,
     255,
+    255
+  ],
+  "productivetrees:purple_spiral_button": [
+    170,
+    34,
     255
   ],
   "musings:circle_pink_ring_gray_bg": [
@@ -26064,6 +27549,11 @@
     255,
     0
   ],
+  "productivetrees:rippling_willow_button": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg9229045": [
     255,
     255,
@@ -26084,6 +27574,11 @@
     0,
     0
   ],
+  "productivetrees:soul_tree_stripped_wood": [
+    0,
+    0,
+    255
+  ],
   "twilightforest:vanishing_block": [
     255,
     255,
@@ -26101,6 +27596,11 @@
   ],
   "somemoreblocks:redstone_shroomlight": [
     255,
+    0,
+    0
+  ],
+  "productivetrees:black_ember_slab": [
+    0,
     0,
     0
   ],
@@ -26179,6 +27679,11 @@
     0,
     255
   ],
+  "sonicraft:night_carnival_neon_lights": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_lime_ring_brown_bg_flipping": [
     136,
     68,
@@ -26195,6 +27700,11 @@
     255
   ],
   "betterend:iron_bulb_lantern_white": [
+    255,
+    255,
+    255
+  ],
+  "dttwilightforest:mushgloom_cap_center": [
     255,
     255,
     255
@@ -26384,6 +27894,11 @@
     255,
     255
   ],
+  "etheria:ether_source": [
+    255,
+    255,
+    255
+  ],
   "neonlamps:inverted_white_lamp": [
     255,
     255,
@@ -26405,6 +27920,11 @@
     255
   ],
   "mekanism:painting_machine": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:level_select_launch_base_zone_portal": [
     255,
     255,
     255
@@ -26468,6 +27988,11 @@
     255,
     255,
     255
+  ],
+  "sonicraft:spring_yard_searchlight": [
+    153,
+    204,
+    204
   ],
   "colorfulcampfires:blue_stripped_spruce_campfire": [
     0,
@@ -26542,6 +28067,11 @@
   "biomesoplenty:anomaly": [
     255,
     255,
+    255
+  ],
+  "productivetrees:soul_tree_door": [
+    0,
+    0,
     255
   ],
   "mcwlights:iron_framed_torch": [
@@ -26664,6 +28194,11 @@
     102,
     187
   ],
+  "productivetrees:cave_dweller_leaves": [
+    255,
+    255,
+    255
+  ],
   "xkdeco:mimic/rockyminerals/terra_rossa_lamp_wall": [
     255,
     255,
@@ -26678,6 +28213,16 @@
     187,
     255,
     0
+  ],
+  "productivetrees:black_ember_log": [
+    0,
+    0,
+    0
+  ],
+  "productivetrees:night_fuchsia_fence_gate": [
+    255,
+    255,
+    255
   ],
   "fcb:fcbg13762700": [
     255,
@@ -26749,6 +28294,11 @@
     34,
     255
   ],
+  "sonicraft:death_egg_lamp": [
+    255,
+    255,
+    255
+  ],
   "ctl:slab_ilb": [
     255,
     255,
@@ -26818,6 +28368,11 @@
     0,
     255,
     0
+  ],
+  "sonicraft:casino_night_slot_result_trigger": [
+    255,
+    255,
+    255
   ],
   "betterend:iron_bulb_lantern_orange": [
     255,
@@ -27049,6 +28604,11 @@
     255,
     255
   ],
+  "ae2cs:deepslate_charged_certus_quartz_ore": [
+    255,
+    255,
+    255
+  ],
   "chipped:inscribed_crying_obsidian": [
     255,
     255,
@@ -27174,6 +28734,11 @@
     255,
     255
   ],
+  "sonicraft:red_spring_yard_light": [
+    255,
+    0,
+    0
+  ],
   "mekanism:chemical_dissolution_chamber": [
     255,
     255,
@@ -27279,6 +28844,11 @@
     255,
     255
   ],
+  "sonicraft:death_egg_stars_block": [
+    255,
+    255,
+    255
+  ],
   "thingamajigs:tri_candle_holder": [
     255,
     255,
@@ -27302,6 +28872,11 @@
   "regions_unexplored:glowing_blue_bioshroom_block": [
     0,
     0,
+    255
+  ],
+  "primalmagick:artificial_font_infernal": [
+    255,
+    255,
     255
   ],
   "nightlights:octopus_brown": [
@@ -27330,6 +28905,11 @@
     255
   ],
   "botania:floating_kekimurus": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:synthetic_diamond_cluster": [
     255,
     255,
     255
@@ -27379,6 +28959,11 @@
     0,
     255
   ],
+  "productivetrees:slimy_delight_sign": [
+    255,
+    255,
+    255
+  ],
   "bloodyhell:droopvine_plant": [
     255,
     255,
@@ -27403,6 +28988,16 @@
     0,
     255,
     0
+  ],
+  "sonicraft:casino_night_slot_wheel_shoes": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:advanced_water_wonder_beehive": [
+    255,
+    255,
+    255
   ],
   "metal_works:mage_fire": [
     255,
@@ -27460,6 +29055,11 @@
     136
   ],
   "spelunkery:rock_salt_slab": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:night_fuchsia_wall_sign": [
     255,
     255,
     255
@@ -27559,15 +29159,15 @@
     0,
     0
   ],
-  "botania:yellow_mushroom": [
-    255,
-    255,
-    0
-  ],
   "the_bumblezone:string_curtain_cyan": [
     0,
     255,
     255
+  ],
+  "botania:yellow_mushroom": [
+    255,
+    255,
+    0
   ],
   "colorfulcampfires:black_stripped_birch_dark_campfire": [
     0,
@@ -27714,6 +29314,11 @@
     255,
     255
   ],
+  "dttwilightforest:mushgloom_cap": [
+    255,
+    255,
+    255
+  ],
   "minecraft:pearlescent_froglight": [
     255,
     255,
@@ -27837,6 +29442,11 @@
   "betterend:aurant_polypore": [
     255,
     255,
+    255
+  ],
+  "productivetrees:blue_yonder_wood": [
+    0,
+    0,
     255
   ],
   "chisel:encased_bricks/glowstone": [
@@ -27974,6 +29584,11 @@
     255,
     255
   ],
+  "productivetrees:cave_dweller_slab": [
+    255,
+    255,
+    255
+  ],
   "illagerinvasion:magic_fire": [
     255,
     255,
@@ -27995,6 +29610,11 @@
     255
   ],
   "tconstruct:molten_iron_fluid": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:sparkle_cherry_stripped_log": [
     255,
     255,
     255
@@ -28339,6 +29959,11 @@
     0,
     0
   ],
+  "productivetrees:slimy_delight_leaves": [
+    255,
+    255,
+    255
+  ],
   "betterend:thallasium_chandelier": [
     255,
     255,
@@ -28394,6 +30019,11 @@
     102,
     187
   ],
+  "dttwilightforest:mushgloom_branch": [
+    255,
+    255,
+    255
+  ],
   "xycraft_world:lamp_lantern_gray": [
     136,
     136,
@@ -28401,6 +30031,11 @@
   ],
   "musings:circle_black_ring_red_bg": [
     255,
+    0,
+    0
+  ],
+  "productivetrees:black_ember_door": [
+    0,
     0,
     0
   ],
@@ -28428,6 +30063,11 @@
     255,
     102,
     187
+  ],
+  "primalmagick:heavenly_font_sun": [
+    255,
+    255,
+    255
   ],
   "minecraft:end_gateway": [
     255,
@@ -28599,6 +30239,11 @@
     255,
     255
   ],
+  "productivetrees:time_traveller_trapdoor": [
+    255,
+    255,
+    255
+  ],
   "rubinated_nether:bleeding_obsidian": [
     255,
     255,
@@ -28644,7 +30289,7 @@
     255,
     255
   ],
-  "betterblockz:cyberlight_thin_alt_0": [
+  "productivetrees:slimy_delight_door": [
     255,
     255,
     255
@@ -28653,6 +30298,11 @@
     187,
     255,
     0
+  ],
+  "betterblockz:cyberlight_thin_alt_0": [
+    255,
+    255,
+    255
   ],
   "chipped:thick_inlayed_redstone_lamp": [
     255,
@@ -28839,6 +30489,11 @@
     255,
     255
   ],
+  "primalmagick:medium_synthetic_amethyst_bud": [
+    170,
+    34,
+    255
+  ],
   "betterend:smaragdant_crystal_pillar": [
     255,
     255,
@@ -28929,6 +30584,11 @@
     0,
     0
   ],
+  "productivetrees:purple_spiral_door": [
+    170,
+    34,
+    255
+  ],
   "dazzle:white_end_rod": [
     255,
     255,
@@ -28982,11 +30642,6 @@
   "ribbits:swamp_lantern": [
     255,
     255,
-    255
-  ],
-  "metal_works:waxed_eroded_tin_soul_lantern": [
-    0,
-    0,
     255
   ],
   "wider_ender_chests:redstone_ender_chest": [
@@ -29169,6 +30824,11 @@
     136,
     136
   ],
+  "sonicraft:level_select_green_hill_zone_portal": [
+    0,
+    255,
+    0
+  ],
   "xycraft_override:magma_red": [
     255,
     0,
@@ -29254,6 +30914,11 @@
     0,
     0
   ],
+  "sonicraft:level_select_emerald_hill_zone_portal": [
+    255,
+    255,
+    255
+  ],
   "additional_lights:al_torch_packed_ice": [
     255,
     255,
@@ -29304,6 +30969,11 @@
     255,
     255
   ],
+  "primalmagick:calcinator_enchanted": [
+    255,
+    255,
+    255
+  ],
   "supplementaries:candle_holder_purple": [
     170,
     34,
@@ -29343,6 +31013,11 @@
     255,
     255,
     0
+  ],
+  "productivetrees:water_wonder_wood": [
+    255,
+    255,
+    255
   ],
   "ad_astra:strophar_fence_gate": [
     255,
@@ -29454,6 +31129,11 @@
     0,
     255
   ],
+  "productivetrees:water_wonder_pressure_plate": [
+    255,
+    255,
+    255
+  ],
   "ad_astra:aeronos_cap": [
     255,
     255,
@@ -29504,6 +31184,11 @@
     255,
     255
   ],
+  "productivetrees:rippling_willow_trapdoor": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:light_blue_crimson_stem_campfire": [
     0,
     0,
@@ -29522,6 +31207,11 @@
   "quark:blue_corundum_pane": [
     0,
     0,
+    255
+  ],
+  "productivetrees:night_fuchsia_wood": [
+    255,
+    255,
     255
   ],
   "mekanism:basic_fluid_tank": [
@@ -29569,6 +31259,16 @@
     102,
     17
   ],
+  "ae2cs:charged_certus_quartz_ore": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:water_wonder_stairs": [
+    255,
+    255,
+    255
+  ],
   "truedarkness:skystar_small_roots": [
     255,
     255,
@@ -29593,6 +31293,11 @@
     0,
     0,
     255
+  ],
+  "primalmagick:ritual_candle_black": [
+    0,
+    0,
+    0
   ],
   "gemsnjewels:ornament_tourmaline_block": [
     255,
@@ -29684,6 +31389,11 @@
     0,
     0
   ],
+  "primalmagick:heavenly_font_sea": [
+    153,
+    204,
+    204
+  ],
   "industrialupgrade:fluid/fluidpahoehoe_lava": [
     255,
     255,
@@ -29705,6 +31415,11 @@
     255
   ],
   "tanukidecor:neon_club_sign": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:slimy_delight_fence_gate": [
     255,
     255,
     255
@@ -29755,6 +31470,11 @@
     255
   ],
   "undergarden:smog_vent": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:advanced_firecracker_beehive": [
     255,
     255,
     255
@@ -29814,6 +31534,11 @@
     255,
     255
   ],
+  "productivetrees:blue_yonder_trapdoor": [
+    0,
+    0,
+    255
+  ],
   "hexcasting:scroll_paper_lantern": [
     255,
     255,
@@ -29837,6 +31562,11 @@
   "wallpapercraft:stonelamppurple-5": [
     170,
     34,
+    255
+  ],
+  "primalmagick:heavenly_font_sky": [
+    255,
+    255,
     255
   ],
   "wallpapercraft:stonelamppurple-6": [
@@ -29919,6 +31649,11 @@
     0,
     255
   ],
+  "primalmagick:ritual_candle_green": [
+    0,
+    255,
+    0
+  ],
   "moglowstoneplus:magenta_glowstone_slab": [
     255,
     0,
@@ -29984,6 +31719,11 @@
     255,
     0
   ],
+  "productivetrees:soul_tree_slab": [
+    0,
+    0,
+    255
+  ],
   "planttech2:electric_fence": [
     255,
     255,
@@ -30010,6 +31750,11 @@
     0
   ],
   "colorfulcampfires:stripped_bamboo_campfire": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:infernal_furnace": [
     255,
     255,
     255
@@ -30134,6 +31879,11 @@
     255,
     0
   ],
+  "sonicraft:level_select_scorched_angel_island_zone_portal": [
+    255,
+    255,
+    255
+  ],
   "biomesoplenty:potted_glowflower": [
     255,
     255,
@@ -30229,6 +31979,11 @@
     255,
     255
   ],
+  "productivetrees:sparkle_cherry_sign": [
+    255,
+    255,
+    255
+  ],
   "davespotioneering:reinforced_water_cauldron": [
     255,
     255,
@@ -30260,11 +32015,6 @@
     255
   ],
   "fcb:fcbg8960": [
-    255,
-    255,
-    255
-  ],
-  "metal_works:waxed_corroded_tin_lantern": [
     255,
     255,
     255
@@ -30309,6 +32059,11 @@
     255,
     255
   ],
+  "productivetrees:sparkle_cherry_leaves": [
+    255,
+    255,
+    255
+  ],
   "chipped:cracked_flat_crying_obsidian_tiles": [
     255,
     255,
@@ -30334,6 +32089,11 @@
     0,
     255
   ],
+  "productivetrees:slimy_delight_stripped_wood": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:pink_stripped_jungle_dark_campfire": [
     255,
     102,
@@ -30347,6 +32107,11 @@
   "fcb:fcbg11495925": [
     255,
     255,
+    255
+  ],
+  "productivetrees:purple_spiral_pressure_plate": [
+    170,
+    34,
     255
   ],
   "xkdeco:roofed_lamp": [
@@ -30380,6 +32145,11 @@
     255
   ],
   "graveyard:great_scarlet_heart": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:angel_island_portal": [
     255,
     255,
     255
@@ -30629,6 +32399,11 @@
     0,
     0
   ],
+  "productivebees:glowstone_nest": [
+    255,
+    255,
+    255
+  ],
   "enigmaticlegacy:massive_redstonelamp": [
     255,
     0,
@@ -30642,11 +32417,6 @@
   "suppsquared:gold_candle_holder_light_blue": [
     0,
     0,
-    255
-  ],
-  "metal_works:waxed_tarnished_tin_mage_lantern": [
-    255,
-    255,
     255
   ],
   "mcwholidays:purple_decorated_christmas_tree_base": [
@@ -30722,6 +32492,11 @@
   "bc_core:tinted_water_block_214": [
     255,
     255,
+    255
+  ],
+  "productivetrees:expansion_box_purple_spiral": [
+    170,
+    34,
     255
   ],
   "tanukidecor:yellow_rocket_lamp": [
@@ -30934,6 +32709,11 @@
     255,
     255
   ],
+  "productivetrees:blue_yonder_planks": [
+    0,
+    0,
+    255
+  ],
   "luminax:purple_luminax_slab": [
     170,
     34,
@@ -31059,6 +32839,16 @@
     0,
     0
   ],
+  "sonicraft:level_select_lava_reef_zone_portal": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:time_traveller_fence": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_light_gray_ring_magenta_bg_flipping": [
     255,
     0,
@@ -31094,6 +32884,11 @@
     255,
     255
   ],
+  "productivetrees:black_ember_button": [
+    0,
+    0,
+    0
+  ],
   "colored_water:luminous_green_fluid_block": [
     0,
     255,
@@ -31115,6 +32910,11 @@
     17
   ],
   "additional_lights:al_lamp_iron_block": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:calcinator_basic": [
     255,
     255,
     255
@@ -31144,6 +32944,11 @@
     136,
     136
   ],
+  "productivetrees:firecracker_stairs": [
+    255,
+    255,
+    255
+  ],
   "spelunkery:phosphor_fungus": [
     255,
     255,
@@ -31159,6 +32964,11 @@
     102,
     187
   ],
+  "sonicraft:sky_sanctuary_warp_point": [
+    255,
+    255,
+    255
+  ],
   "mcwholidays:purple_tiny_string_lights": [
     170,
     34,
@@ -31173,6 +32983,11 @@
     255,
     255,
     255
+  ],
+  "sonicraft:cpz_red_lamp": [
+    255,
+    0,
+    0
   ],
   "regions_unexplored:mycotoxic_daisy": [
     255,
@@ -31274,15 +33089,15 @@
     255,
     255
   ],
-  "musings:circle_light_gray_ring_yellow_bg_flipping": [
-    255,
-    255,
-    0
-  ],
   "metal_works:waxed_tin_soul_lantern": [
     0,
     0,
     255
+  ],
+  "musings:circle_light_gray_ring_yellow_bg_flipping": [
+    255,
+    255,
+    0
   ],
   "colorfulcampfires:black_warped_stem_campfire": [
     0,
@@ -31409,9 +33224,19 @@
     102,
     17
   ],
+  "primalmagick:ritual_candle_brown": [
+    136,
+    68,
+    17
+  ],
   "mekanismadditions:light_blue_plastic_glow_slab": [
     0,
     0,
+    255
+  ],
+  "productivetrees:water_wonder_planks": [
+    255,
+    255,
     255
   ],
   "mcwholidays:wavy_garland_yellow_lights": [
@@ -31684,6 +33509,11 @@
     68,
     17
   ],
+  "productivetrees:advanced_sparkle_cherry_beehive": [
+    255,
+    255,
+    255
+  ],
   "diamethysts:small_diamethyst_bud": [
     170,
     34,
@@ -31727,6 +33557,11 @@
   "moglowstoneplus:magenta_glowstone_brick": [
     255,
     0,
+    255
+  ],
+  "productivetrees:purple_spiral_bookshelf": [
+    170,
+    34,
     255
   ],
   "betterend:umbrella_moss_tall": [
@@ -31954,12 +33789,17 @@
     255,
     255
   ],
-  "fcb:fcbg6944140": [
+  "primalmagick:synthetic_emerald_cluster": [
     255,
     255,
     255
   ],
   "metal_works:mage_lantern": [
+    255,
+    255,
+    255
+  ],
+  "fcb:fcbg6944140": [
     255,
     255,
     255
@@ -32084,6 +33924,11 @@
     68,
     17
   ],
+  "productivetrees:purple_spiral_wood": [
+    170,
+    34,
+    255
+  ],
   "musings:circle_cyan_ring_brown_bg": [
     136,
     68,
@@ -32184,6 +34029,11 @@
     255,
     255
   ],
+  "productivetrees:flickering_sun_wood": [
+    255,
+    255,
+    255
+  ],
   "bc_core:tinted_water_block_118": [
     255,
     255,
@@ -32279,6 +34129,11 @@
     255,
     255
   ],
+  "productivetrees:cave_dweller_hanging_sign": [
+    255,
+    255,
+    255
+  ],
   "abstoneedition:smooth_glowstone": [
     255,
     255,
@@ -32289,10 +34144,20 @@
     255,
     255
   ],
+  "primalmagick:ancient_font_earth": [
+    255,
+    255,
+    255
+  ],
   "silentgear:stone_torch": [
     255,
     255,
     0
+  ],
+  "productivetrees:flickering_sun_planks": [
+    255,
+    255,
+    255
   ],
   "colored_water:luminous_condense_red_water_cauldron": [
     255,
@@ -32404,6 +34269,11 @@
     102,
     17
   ],
+  "productivetrees:firecracker_stripped_log": [
+    255,
+    255,
+    255
+  ],
   "collectorsreap:gray_candle_pink_dragon_fruit_cake": [
     255,
     102,
@@ -32415,6 +34285,11 @@
     255
   ],
   "beautify:lamp_candelabra_white": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:flickering_sun_fence_gate": [
     255,
     255,
     255
@@ -32439,6 +34314,11 @@
     255,
     255
   ],
+  "potentia:molten_fuel_block": [
+    255,
+    255,
+    255
+  ],
   "bc_core:tinted_water_block_167": [
     255,
     255,
@@ -32457,6 +34337,11 @@
   "musings:circle_magenta_ring_light_blue_bg": [
     0,
     0,
+    255
+  ],
+  "productivetrees:water_wonder_stripped_wood": [
+    255,
+    255,
     255
   ],
   "betterend:thallasium_bulb_lantern_purple": [
@@ -32518,6 +34403,11 @@
     255,
     255,
     255
+  ],
+  "productivetrees:black_ember_hanging_sign": [
+    0,
+    0,
+    0
   ],
   "skinnedlanterns:paper_orange_lantern_block": [
     255,
@@ -32617,6 +34507,11 @@
   "undergarden:undergarden_portal": [
     255,
     255,
+    255
+  ],
+  "productivetrees:soul_tree_log": [
+    0,
+    0,
     255
   ],
   "fcb:fcbg4587555": [
@@ -32834,6 +34729,11 @@
     255,
     255
   ],
+  "sonicraft:cpz_blue_lamp": [
+    0,
+    0,
+    255
+  ],
   "mcwlights:soul_cherry_tiki_torch": [
     255,
     255,
@@ -32853,6 +34753,11 @@
     255,
     255,
     0
+  ],
+  "productivetrees:firecracker_fence_gate": [
+    255,
+    255,
+    255
   ],
   "thingamajigs:store_number_sign": [
     255,
@@ -32944,7 +34849,22 @@
     255,
     0
   ],
+  "primalmagick:forbidden_font_earth": [
+    255,
+    255,
+    255
+  ],
   "create:refined_radiance_casing": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:level_select_angel_island_zone_portal": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:level_select_aquatic_ruin_zone_portal": [
     255,
     255,
     255
@@ -33229,6 +35149,11 @@
     68,
     17
   ],
+  "productivetrees:water_wonder_leaves": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:brown_crimson_stem_dark_campfire": [
     136,
     68,
@@ -33325,6 +35250,11 @@
     255
   ],
   "mekanism:ultimate_crushing_factory": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:fly_formation_signal": [
     255,
     255,
     255
@@ -33469,6 +35399,11 @@
     0,
     255
   ],
+  "productivetrees:time_traveller_button": [
+    255,
+    255,
+    255
+  ],
   "chipped:inlayed_magma_block": [
     255,
     255,
@@ -33579,6 +35514,11 @@
     255,
     255
   ],
+  "etheria:boss_block": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_gray_ring_yellow_bg": [
     255,
     255,
@@ -33587,6 +35527,11 @@
   "thingamajigs:small_christmas_tree": [
     255,
     255,
+    255
+  ],
+  "primalmagick:ritual_candle_magenta": [
+    255,
+    0,
     255
   ],
   "truedarkness:skystar_flowers": [
@@ -33648,6 +35593,11 @@
     136,
     136,
     136
+  ],
+  "productivetrees:advanced_black_ember_beehive": [
+    0,
+    0,
+    0
   ],
   "skinnedlanterns:skeleton_ender_lantern_block": [
     255,
@@ -33769,6 +35719,11 @@
     0,
     255
   ],
+  "productivetrees:time_traveller_pressure_plate": [
+    255,
+    255,
+    255
+  ],
   "truedarkness:waster_flower": [
     255,
     255,
@@ -33864,6 +35819,11 @@
     255,
     255
   ],
+  "primalmagick:ritual_candle_lime": [
+    187,
+    255,
+    0
+  ],
   "supplementaries:candle_holder_cupric": [
     255,
     255,
@@ -33945,6 +35905,11 @@
     0
   ],
   "mcwlights:glowstone_slab": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:firecracker_trapdoor": [
     255,
     255,
     255
@@ -34104,6 +36069,11 @@
     136,
     136
   ],
+  "sonicraft:casino_night_slot_wheel_jackpot": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:purple_acacia_dark_campfire": [
     170,
     34,
@@ -34134,9 +36104,19 @@
     0,
     0
   ],
+  "productivetrees:purple_spiral_stripped_log": [
+    170,
+    34,
+    255
+  ],
   "chisel:cracked_bricks/glowstone": [
     255,
     255,
+    255
+  ],
+  "primalmagick:ritual_candle_blue": [
+    0,
+    0,
     255
   ],
   "createmetalwork:molten_andesite_alloy": [
@@ -34244,6 +36224,11 @@
     255,
     255
   ],
+  "productivetrees:black_ember_trapdoor": [
+    0,
+    0,
+    0
+  ],
   "lost_aether_content:treasure_doorway_light_gale_stone": [
     255,
     255,
@@ -34312,6 +36297,11 @@
   "vintagevibes:crimson_paper_lantern": [
     255,
     255,
+    255
+  ],
+  "productivetrees:advanced_purple_spiral_beehive": [
+    170,
+    34,
     255
   ],
   "mysticsbiomes:strawberry_candle_cake_purple": [
@@ -34439,6 +36429,11 @@
     136,
     136
   ],
+  "productivetrees:night_fuchsia_button": [
+    255,
+    255,
+    255
+  ],
   "betterend:sulphuric_rock_lantern": [
     255,
     255,
@@ -34512,6 +36507,11 @@
   "colorfulcampfires:magenta_spruce_dark_campfire": [
     255,
     0,
+    255
+  ],
+  "productivetrees:cave_dweller_log": [
+    255,
+    255,
     255
   ],
   "fcb:fcbg11495750": [
@@ -34719,6 +36719,11 @@
     255,
     0
   ],
+  "primalmagick:heavenly_font_blood": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_light_blue_ring_white_bg_flipping": [
     255,
     255,
@@ -34854,6 +36859,11 @@
     255,
     255
   ],
+  "etheria:ether_collector": [
+    255,
+    255,
+    255
+  ],
   "bosses_of_mass_destruction:chiseled_stone_altar": [
     255,
     255,
@@ -34889,6 +36899,11 @@
     255,
     255
   ],
+  "primalmagick:emberflower": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg11495715": [
     255,
     255,
@@ -34911,6 +36926,11 @@
   ],
   "xkdeco:mimic/luminax/magenta_luminax_wall": [
     255,
+    0,
+    255
+  ],
+  "productivetrees:blue_yonder_wall_sign": [
+    0,
     0,
     255
   ],
@@ -34953,6 +36973,11 @@
     0,
     0,
     0
+  ],
+  "dtbop:glowshroom_cap": [
+    255,
+    255,
+    255
   ],
   "darkerdepths:magma_pad": [
     255,
@@ -35043,6 +37068,11 @@
     255,
     255,
     0
+  ],
+  "productivebees:inactive_dragon_egg": [
+    255,
+    255,
+    255
   ],
   "fcb:fcbg4623430": [
     255,
@@ -35454,6 +37484,11 @@
     255,
     255
   ],
+  "sonicraft:level_select_press_garden_zone_portal": [
+    255,
+    255,
+    255
+  ],
   "supplementaries:clock_block": [
     255,
     255,
@@ -35484,6 +37519,11 @@
     255,
     255
   ],
+  "productivetrees:cave_dweller_stairs": [
+    255,
+    255,
+    255
+  ],
   "minecraft:magma_block": [
     255,
     255,
@@ -35509,6 +37549,11 @@
     255,
     255
   ],
+  "primalmagick:ancient_font_sky": [
+    255,
+    255,
+    255
+  ],
   "betterend:thallasium_bulb_lantern_magenta": [
     255,
     0,
@@ -35520,6 +37565,11 @@
     17
   ],
   "evilcraft:spirit_portal": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:cave_dweller_wall_sign": [
     255,
     255,
     255
@@ -35654,6 +37704,11 @@
     102,
     187
   ],
+  "sonicraft:level_select_marble_zone_portal": [
+    255,
+    255,
+    255
+  ],
   "rechiseled:glowstone_brick_paving_stairs_connecting": [
     255,
     255,
@@ -35663,6 +37718,11 @@
     255,
     0,
     0
+  ],
+  "primalmagick:sunlamp": [
+    255,
+    255,
+    255
   ],
   "hauntedharvest:redstone_jack_o_lantern": [
     255,
@@ -35722,6 +37782,11 @@
   "colorfulcampfires:purple_stripped_crimson_stem_campfire": [
     170,
     34,
+    255
+  ],
+  "productivetrees:rippling_willow_stripped_wood": [
+    255,
+    255,
     255
   ],
   "mysticsbiomes:lime_frosted_candle_cake_green": [
@@ -35814,10 +37879,20 @@
     255,
     0
   ],
+  "productivetrees:expansion_box_time_traveller": [
+    255,
+    255,
+    255
+  ],
   "braziliandelight:carrot_cake_with_brown_candle": [
     136,
     68,
     17
+  ],
+  "sonicraft:night_carnival_blue_neon_tiles": [
+    0,
+    0,
+    255
   ],
   "skinnedlanterns:ornament_blue_lantern_block": [
     0,
@@ -35850,6 +37925,11 @@
     0
   ],
   "musings:circle_purple_ring_light_blue_bg": [
+    0,
+    0,
+    255
+  ],
+  "dtaether:flowering_blue_roseroot_leaves": [
     0,
     0,
     255
@@ -35959,6 +38039,11 @@
     255,
     0
   ],
+  "productivetrees:expansion_box_rippling_willow": [
+    255,
+    255,
+    255
+  ],
   "collectorsreap:brown_candle_lime_cake": [
     187,
     255,
@@ -35980,6 +38065,16 @@
     255
   ],
   "mekanism_extras:cosmic_crushing_factory": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:sparkle_cherry_wall_sign": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:ancient_font_sun": [
     255,
     255,
     255
@@ -36024,6 +38119,11 @@
     0,
     0
   ],
+  "primalmagick:glow_field": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_lime_ring_blue_bg_flipping": [
     0,
     0,
@@ -36064,11 +38164,6 @@
     136,
     136
   ],
-  "metal_works:eroded_tin_mage_lantern": [
-    255,
-    255,
-    255
-  ],
   "securitycraft:keypad_smoker": [
     255,
     255,
@@ -36108,6 +38203,11 @@
     187,
     255,
     0
+  ],
+  "productivetrees:sparkle_cherry_wall_hanging_sign": [
+    255,
+    255,
+    255
   ],
   "fcb:fcbg2320850": [
     255,
@@ -36189,6 +38289,11 @@
     0,
     255
   ],
+  "productivetrees:advanced_slimy_delight_beehive": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg11513670": [
     255,
     255,
@@ -36203,6 +38308,11 @@
     0,
     255,
     0
+  ],
+  "productivetrees:water_wonder_bookshelf": [
+    255,
+    255,
+    255
   ],
   "wallpapercraft:stonelampgreen-12": [
     0,
@@ -36279,11 +38389,6 @@
     255,
     255
   ],
-  "metal_works:tarnished_tin_mage_lantern": [
-    255,
-    255,
-    255
-  ],
   "xycraft_world:lamp_cube_magenta": [
     255,
     0,
@@ -36355,6 +38460,11 @@
     255
   ],
   "rubinated_nether:ruby_lantern": [
+    255,
+    255,
+    255
+  ],
+  "sonicraft:null_space_pillar": [
     255,
     255,
     255
@@ -36494,9 +38604,19 @@
     68,
     17
   ],
+  "productivetrees:purple_spiral_wall_hanging_sign": [
+    170,
+    34,
+    255
+  ],
   "mcwholidays:purple_decorated_christmas_tree_bottom": [
     170,
     34,
+    255
+  ],
+  "productivetrees:cave_dweller_wall_hanging_sign": [
+    255,
+    255,
     255
   ],
   "mysticsbiomes:orange_frosted_candle_cake_cyan": [
@@ -36548,6 +38668,11 @@
     255,
     255,
     0
+  ],
+  "productivetrees:advanced_rippling_willow_beehive": [
+    255,
+    255,
+    255
   ],
   "mcwlights:golden_chandelier": [
     255,
@@ -36614,6 +38739,11 @@
     136,
     136
   ],
+  "sonicraft:blue_spring_yard_light": [
+    0,
+    0,
+    255
+  ],
   "arts_and_crafts:cyan_chalk_dust": [
     0,
     255,
@@ -36647,6 +38777,11 @@
   "betterblockz:zeon_light_blue_blockz_0": [
     0,
     0,
+    255
+  ],
+  "productivetrees:sparkle_cherry_door": [
+    255,
+    255,
     255
   ],
   "betterblockz:zeon_light_blue_blockz_1": [
@@ -36979,6 +39114,26 @@
     255,
     255
   ],
+  "productivetrees:cave_dweller_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:cave_dweller_planks": [
+    255,
+    255,
+    255
+  ],
+  "primalmagick:essence_furnace": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:soul_tree_wall_sign": [
+    0,
+    0,
+    255
+  ],
   "pyrite:light_gray_torch": [
     136,
     136,
@@ -37139,6 +39294,11 @@
     255,
     0
   ],
+  "sonicraft:studiopolis_eggnog_sign": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg11531590": [
     255,
     255,
@@ -37215,6 +39375,11 @@
     255
   ],
   "pyrite:star_stained_pressure_plate": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:rippling_willow_slab": [
     255,
     255,
     255
@@ -37318,6 +39483,11 @@
     255,
     255,
     255
+  ],
+  "primalmagick:ancient_font_sea": [
+    153,
+    204,
+    204
   ],
   "wallpapercraft:auralampcyan-9": [
     0,
@@ -37549,6 +39719,11 @@
     255,
     255
   ],
+  "primalmagick:artificial_font_blood": [
+    255,
+    255,
+    255
+  ],
   "xkdeco:mimic/luminax/black_luminax_wall": [
     0,
     0,
@@ -37557,6 +39732,11 @@
   "colorfulcampfires:magenta_spruce_campfire": [
     255,
     0,
+    255
+  ],
+  "sonicraft:night_carnival_blaze_sign": [
+    255,
+    255,
     255
   ],
   "musings:circle_white_ring_magenta_bg_flipping": [
@@ -37789,6 +39969,11 @@
     136,
     136
   ],
+  "sonicraft:chaostone_redstone_ore_glowing": [
+    255,
+    0,
+    0
+  ],
   "supplementaries:candle_holder_brown": [
     136,
     68,
@@ -37804,6 +39989,11 @@
     255,
     255
   ],
+  "productivetrees:firecracker_wood": [
+    255,
+    255,
+    255
+  ],
   "mcwlights:classic_street_lamp": [
     255,
     255,
@@ -37812,6 +40002,11 @@
   "fcb:fcbg16065490": [
     255,
     255,
+    255
+  ],
+  "productivetrees:purple_spiral_fence": [
+    170,
+    34,
     255
   ],
   "musings:circle_blue_ring_green_bg": [
@@ -37831,6 +40026,11 @@
   ],
   "colorfulcampfires:cyan_oak_dark_campfire": [
     0,
+    255,
+    255
+  ],
+  "productivetrees:cave_dweller_stripped_wood": [
+    255,
     255,
     255
   ],
@@ -37939,6 +40139,16 @@
     204,
     204
   ],
+  "primalmagick:moonwood_leaves": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:expansion_box_water_wonder": [
+    255,
+    255,
+    255
+  ],
   "skinnedlanterns:present_red_soul_lantern_block": [
     255,
     0,
@@ -37994,6 +40204,11 @@
     255,
     255
   ],
+  "productivetrees:purple_spiral_fence_gate": [
+    170,
+    34,
+    255
+  ],
   "colorfulcampfires:gray_stripped_mangrove_campfire": [
     136,
     136,
@@ -38022,6 +40237,11 @@
   "skinnedlanterns:guardian_soul_lantern_block": [
     0,
     0,
+    255
+  ],
+  "sonicraft:studiopolis_disco_floor": [
+    255,
+    255,
     255
   ],
   "botania:potted_magenta_shiny_flower": [
@@ -38239,6 +40459,11 @@
     255,
     255
   ],
+  "productivetrees:soul_tree_planks": [
+    0,
+    0,
+    255
+  ],
   "pyrite:glow_stained_fence": [
     255,
     255,
@@ -38424,6 +40649,11 @@
     255,
     0
   ],
+  "productivebees:dragon_egg_hive": [
+    255,
+    255,
+    255
+  ],
   "fantasyfurniture:venthyr/wall_light": [
     255,
     255,
@@ -38438,6 +40668,11 @@
     136,
     136,
     136
+  ],
+  "productivetrees:rippling_willow_wall_hanging_sign": [
+    255,
+    255,
+    255
   ],
   "mcwlights:orange_lamp": [
     255,
@@ -38479,7 +40714,17 @@
     255,
     255
   ],
+  "productivetrees:soul_tree_trapdoor": [
+    0,
+    0,
+    255
+  ],
   "colorfulcampfires:white_cherry_campfire": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:sparkle_cherry_planks": [
     255,
     255,
     255
@@ -38542,6 +40787,11 @@
   "ars_elemental:mermaid_rock": [
     255,
     255,
+    255
+  ],
+  "productivetrees:purple_spiral_trapdoor": [
+    170,
+    34,
     255
   ],
   "fcb:fcbg11477795": [
@@ -39054,6 +41304,11 @@
     255,
     255
   ],
+  "productivetrees:black_ember_wall_hanging_sign": [
+    0,
+    0,
+    0
+  ],
   "swampier_swamps:magenta_froglight": [
     255,
     0,
@@ -39087,6 +41342,11 @@
   "musings:circle_green_ring_purple_bg": [
     170,
     34,
+    255
+  ],
+  "productivetrees:time_traveller_wood": [
+    255,
+    255,
     255
   ],
   "natures_spirit:black_paper_lantern": [
@@ -39189,6 +41449,11 @@
     255,
     0
   ],
+  "productivetrees:cave_dweller_fence": [
+    255,
+    255,
+    255
+  ],
   "thaumon:crystal_stand": [
     255,
     255,
@@ -39229,6 +41494,11 @@
     255,
     255
   ],
+  "primalmagick:sunwood_leaves": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg9193065": [
     255,
     255,
@@ -39249,6 +41519,11 @@
     255,
     255
   ],
+  "productivetrees:sparkle_cherry_slab": [
+    255,
+    255,
+    255
+  ],
   "mekanismadditions:purple_plastic_glow_stairs": [
     170,
     34,
@@ -39256,6 +41531,11 @@
   ],
   "mysticsbiomes:pink_frosted_candle_cake_cyan": [
     0,
+    255,
+    255
+  ],
+  "productivetrees:advanced_time_traveller_beehive": [
+    255,
     255,
     255
   ],
@@ -39554,6 +41834,11 @@
     255,
     255
   ],
+  "productivetrees:flickering_sun_bookshelf": [
+    255,
+    255,
+    255
+  ],
   "bc_core:tinted_water_block_231": [
     255,
     255,
@@ -39583,6 +41868,11 @@
     255,
     255,
     0
+  ],
+  "primalmagick:spirit_lantern": [
+    255,
+    255,
+    255
   ],
   "suppsquared:gold_candle_holder_yellow": [
     255,
@@ -39659,12 +41949,27 @@
     255,
     255
   ],
+  "productivetrees:black_ember_stripped_log": [
+    0,
+    0,
+    0
+  ],
   "farmersrespite:blue_candle_coffee_cake": [
     0,
     0,
     255
   ],
   "fcb:fcbg6926255": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:soul_tree_wall_hanging_sign": [
+    0,
+    0,
+    255
+  ],
+  "productivetrees:flickering_sun_stripped_wood": [
     255,
     255,
     255
@@ -39764,6 +42069,11 @@
     255,
     255
   ],
+  "sonicraft:light_blue_scrap_brain_crystal": [
+    0,
+    0,
+    255
+  ],
   "ror:pink_neon_block": [
     255,
     102,
@@ -39789,6 +42099,11 @@
     0,
     0
   ],
+  "productivetrees:expansion_box_sparkle_cherry": [
+    255,
+    255,
+    255
+  ],
   "botania:green_shiny_flower": [
     0,
     255,
@@ -39813,6 +42128,16 @@
     255,
     255,
     0
+  ],
+  "sonicraft:studiopolis_egg_tv_sign": [
+    255,
+    255,
+    255
+  ],
+  "productivetrees:blue_yonder_stairs": [
+    0,
+    0,
+    255
   ],
   "mysticsbiomes:cyan_frosted_candle_cake_light_gray": [
     136,

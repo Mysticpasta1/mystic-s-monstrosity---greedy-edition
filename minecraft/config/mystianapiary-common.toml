@@ -1,0 +1,14 @@
+
+[apiary]
+	#Log bee produce resolution to the console for troubleshooting.
+	debugBeeProduce = false
+	#Base speed multiplier for the apiary. 1 = no change, 2 = half the base process time, 4 = quarter, etc.
+	#Range: 1.0 ~ 1024.0
+	apiaryBaseSpeedMultiplier = 2.0
+	#Soft cap: maximum slot completions processed per tick to smooth bursts. Set 0 to disable.
+	#Range: 0 ~ 27
+	maxCompletionsPerTick = 12
+	#Randomized bees: keep the same selected flower for this many completions before rerolling. 1 = reroll every completion.
+	#Range: 1 ~ 6000
+	randomizedRerollIntervalCompletions = 40
+

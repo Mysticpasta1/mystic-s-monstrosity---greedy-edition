@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/productivetrees/water_wonder"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/productivetrees/water_wonder",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/productivetrees/water_wonder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/productivetrees/water_wonder",
+      "y": 270
+    }
+  }
+}

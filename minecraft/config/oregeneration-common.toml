@@ -1,0 +1,7 @@
+
+#Ore Regeneration Configuration
+[general]
+	#Time interval (in minutes) between checks for ore regeneration
+	#Range: 1 ~ 1440
+	regenerationIntervalMinutes = 5
+

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/productivetrees/papaya"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/productivetrees/papaya",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/productivetrees/papaya",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/productivetrees/papaya",
+      "y": 270
+    }
+  }
+}

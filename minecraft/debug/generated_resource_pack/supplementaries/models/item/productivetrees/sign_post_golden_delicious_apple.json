@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "supplementaries:item/sign_posts/productivetrees/sign_post_golden_delicious_apple"
+  }
+}

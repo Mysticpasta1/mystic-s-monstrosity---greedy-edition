@@ -7720,6 +7720,1646 @@
       "enabled": false,
       "speed": 1.0,
       "range": 50.0
+    },
+    "primalmagick:treefolk": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:inner_demon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "primalmagick:friendly_witch": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:primalite_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:hexium_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:hallowsteel_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_basic_earth": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_grand_earth": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_majestic_earth": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_basic_sea": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_grand_sea": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_majestic_sea": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_basic_sky": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_grand_sky": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_majestic_sky": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_basic_sun": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_grand_sun": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_majestic_sun": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_basic_moon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_grand_moon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_majestic_moon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_basic_blood": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_grand_blood": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_majestic_blood": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_basic_infernal": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_grand_infernal": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_majestic_infernal": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_basic_void": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_grand_void": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_majestic_void": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_basic_hallowed": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_grand_hallowed": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "primalmagick:pixie_majestic_hallowed": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "iceandaddon:black_frost_2": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:dread_ghoul": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:dread_throll": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:dread_knight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:dread_scuttler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:dread_lich": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:dread_yak": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:dread_rhino": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:dread_scuttler_queen": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:dread_lich_king": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:kraken_2": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:ifrit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:kraken_mini": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:kriona": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:dread_spikes": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:dread_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:kriona_clone": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "iceandaddon:dread_soul": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mario:toad": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "mario:koopa": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mario:blue_shell_koopa": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mario:goomba": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mario:wingy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "mario:bob_omb": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mario:bob_omblit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mario:shy_guy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:illusion_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:demon_lord": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:council_warden": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:mushroom_soldier": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:pixie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:demon_imp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:barkling": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:lantern_wraith": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:spell_breaker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:living_ward": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:witch_hunter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:hulking_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:skeleton_assassin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:chatterer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:faction_war": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:spectral_horse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "mna:wither_lich": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:tfpd": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:pumpkin_king": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:odin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:insect_swarm": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:blood_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "mna:blood_tendril": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:tails_flying": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:flicky": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:cucky": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:pecky": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:picky": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:pocky": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:ricky": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:rocky": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:motobug": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:eggman_bomb": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:eggman_boss": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:eggman_boss_damaged": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:crabmeat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:caterkiller_head": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:caterkiller_body": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:metal_sonic": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:cyclone": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:tails_cyclone": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:sonic_ball_form": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:tornado": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:super_sonic_ball_form": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:rouge": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:tikal": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:hint_orb_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:chao": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:black_market_chao": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:replica_metal_sonic": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:infinite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:air_bubble": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:eggman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:death_egg_robot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:death_egg_robot_damaged": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:magnet_effect": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:escaping_eggman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:blast_processing_primed": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:death_egg_robot_player": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:eggman_entity_magnet": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:cpz_metal_sonic_death_trigger": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:popcorn": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:hornet_van": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:camera_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:scrap_brain_eggman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:tails_swipe": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:orbinaut": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:tubinaut": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:chopper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:cream": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:cheese": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:cheese_entity_magnet": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:ring_spawner_outline": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:ice_bomba": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:ice_bomba_no_bomb": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:speed_star": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:blank_race_car": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:royal_chariot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:blaze_the_cat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:whirlwind_sport": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:dark_reaper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:pink_cabriolet": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:lip_spyder": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:land_breaker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:egg_pawn": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:orbinaut_mk_ii": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:star_pointer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:rhinobot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:eggrobo": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:mecha_sonic": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:mecha_sonic_ball_form": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:super_mecha_sonic": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:mecha_sonic_ring": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:flapper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:super_tails": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:super_knuckles": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:burning_blaze": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:egg_wrecker_boss": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:egg_drillster_boss": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:big_arms_boss": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:eggmobile": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:egg_wrecker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:egg_spiker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:egg_drillster": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:big_arms": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:clamer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:marble_fireball": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:hero_character_spawner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:replica_chaos": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:sonic": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:chaos_zero": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:froggy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:big_the_cat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:caterkiller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:buzz_bomber": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:splats": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:iwamodoki": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:roller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:burrobot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:ball_hog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:ball_hog_bomb_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:sonic_player_model": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:iblis_biter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:iblis_taker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:iblis_worm": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:werehog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:tails": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:avatar_player": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:vision_target": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:knuckles": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:super_sonic": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:hyper_sonic": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:amy_rose": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:emerald_power_pickaxe": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:omega": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:shadow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:mephiles": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:mephiles_minion": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:mephiles_disguise": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:replica_shadow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:silver": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:pk_wooden_container": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:pk_steel_container": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:pk_explosive_crate": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:pk_blue_crate": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:super_shadow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:silver_sonic": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:silver_sonic_spawnpoint": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:death_egg_robot_spawnpoint": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:big_arms_spawnpoint": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:metal_sonic_spawnpoint": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:orca": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:bobsled_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:omochao_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "sonicraft:espio": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:charmy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:vector": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:neo_metal_sonic": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:neo_metal_sonic_transform": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:metal_overlord": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:metal_slime_block_flying": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:metal_overlord_defeated": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:metal_overlord_claw_missile_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:metal_overlord_spine_missile_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "sonicraft:metal_overlord_crystal_cage": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "dungeonsartifacts:soul_wizard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "productivebees:dye_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:lumber_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:quarry_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:rancher_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:collector_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:hoarder_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:farmer_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:creeper_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:cupid_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:configurable_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:ashy_mining_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:blue_banded_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:green_carpenter_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:yellow_black_carpenter_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:chocolate_mining_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:digger_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:leafcutter_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:mason_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:neon_cuckoo_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:nomad_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:reed_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:resin_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:sweat_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:bumble_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "particlepresets:summoningcircle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "particlepresets:ritualcirclesmall": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "potentia:silverfish_loyalist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:silverfish_priest": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:silverfish_zealot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:silverfish_bishop": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:silverfish_guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:silverfish_templar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:silverfish_arbitrator": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:snow_golem_titan": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:reinforced_snow_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:silverfish_grandmaster": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:big_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:ragged_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:gray_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:school_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:yeller_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:rad_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:brown_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:caged_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:female_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:injured_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:silverfish_lord": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:slime_titan": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:magma_titan": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:omegafish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:golden_guard": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:ender_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:big_enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:ghoul": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:wight": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:wraith": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:big_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:golden_guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:withered_goliath": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:cave_spider_loyalist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:cave_spider_priest": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:cave_spider_zealot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:cave_spider_bishop": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:cave_spider_guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:cave_spider_titan": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:spider_titan": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:mighty_mite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:witherzilla": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:ender_squid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:dustworm": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:frostfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:poisonfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:magmafish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:seafish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:enderfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:harcadium_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:void_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:omega_worm": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:omega_frostfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:omega_seafish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:o_poisonfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:omega_magmafish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:voidfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:ash_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:frozen_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:frail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:mailed_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:skeleton_headless": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:skeleton_ivy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:skeleton_fourface": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:skeleton_bigface": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:skeleton_blue": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:skeleton_suit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:skeleton_sad": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:skeleton_skin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:skeleton_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:skeleton_school": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:undead_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:undead_lich": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:undead_creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:reinforced_iron_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:cave_spider_templar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "potentia:cave_spider_arbitrator": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
     }
   }
 }
