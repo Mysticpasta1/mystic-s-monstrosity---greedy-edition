@@ -1,0 +1,6 @@
+{
+  "item_id": "minecraft:jack_o_lantern",
+  "light_level": 15,
+  "water_sensitive": false,
+  "particles": "minecraft:flame"
+}

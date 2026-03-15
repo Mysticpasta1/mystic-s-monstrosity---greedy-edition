@@ -1,0 +1,7 @@
+{
+  "item_id": "minecraft:conduit",
+  "light_level": 15,
+  "water_sensitive": false,
+  "particles": "minecraft:nautilus",
+  "activate_sounds": "minecraft:block.conduit.ambient"
+}

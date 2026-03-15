@@ -7049,8 +7049,6 @@
 		glowing_crystal_glass_block = "[255,255,255]"
 		glowing_crystal_lantern = "[255,255,255]"
 		blood_glowing_chains_block = "[255,255,255]"
-		blood_altar = "[255,255,255]"
-		main_blood_altar = "[255,255,255]"
 		cinder_bloom_cactus_flower = "[255,255,255]"
 		eroded_blasphemous_sandstone = "[255,255,255]"
 		fully_eroded_blasphemous_sandstone = "[255,255,255]"
@@ -7061,6 +7059,9 @@
 		blood_fire = "[255,255,255]"
 		ancient_bloody_lamp = "[255,255,255]"
 		ancient_torch_block = "[255,255,0]"
+		crimson_lure_mushroom_block = "[255,255,255]"
+		blasphemous_blood_altar = "[255,255,255]"
+		main_blasphemous_blood_altar = "[255,255,255]"
 
 [outer_end]
 

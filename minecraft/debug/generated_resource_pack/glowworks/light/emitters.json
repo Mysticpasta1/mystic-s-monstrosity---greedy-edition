@@ -8184,6 +8184,11 @@
     255,
     255
   ],
+  "bloodyhell:crimson_lure_mushroom_block": [
+    255,
+    255,
+    255
+  ],
   "minecraft:lava_cauldron": [
     255,
     255,
@@ -23609,11 +23614,6 @@
     255,
     255
   ],
-  "bloodyhell:main_blood_altar": [
-    255,
-    255,
-    255
-  ],
   "tconstruct:scorched_alloyer": [
     255,
     255,
@@ -24353,6 +24353,11 @@
     255,
     102,
     17
+  ],
+  "bloodyhell:blasphemous_blood_altar": [
+    255,
+    255,
+    255
   ],
   "allthecompressed:glowstone_8x": [
     255,
@@ -28905,6 +28910,11 @@
     255
   ],
   "primalmagick:synthetic_diamond_cluster": [
+    255,
+    255,
+    255
+  ],
+  "bloodyhell:main_blasphemous_blood_altar": [
     255,
     255,
     255
@@ -34245,11 +34255,6 @@
     255
   ],
   "bc_core:tinted_water_block_130": [
-    255,
-    255,
-    255
-  ],
-  "bloodyhell:blood_altar": [
     255,
     255,
     255

@@ -7,5 +7,5 @@
 	# If true, the food book lists benefits that you haven't acquired yet, in addition to the ones you have.
 	#
 	#
-	shouldShowInactiveBenefits = true
+	shouldShowInactiveBenefits = false
 

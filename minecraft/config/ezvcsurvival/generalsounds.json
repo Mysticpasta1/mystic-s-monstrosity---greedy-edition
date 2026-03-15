@@ -11232,6 +11232,18 @@
       "speed": 1.0,
       "range": 60.0,
       "blocked_sounds": []
+    },
+    "bloodyhell:weeping_ocular": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "bloodyhell:unknown_lantern": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
     }
   },
   "sounds": {
@@ -67360,6 +67372,60 @@
       "is_priority": false
     },
     "potentia:wraithhit": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "bloodyhell:failed_son_of_the_unknown_ambience": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "bloodyhell:failed_son_of_the_unknown_step": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "bloodyhell:weeping_ocular_wing": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "bloodyhell:weeping_tear_shoot": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "bloodyhell:hostile_arm_scream": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "bloodyhell:unknown_lantern_heartbeat": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "bloodyhell:unknown_lantern_ambient_1": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "bloodyhell:unknown_lantern_ambient_2": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "bloodyhell:unknown_lantern_gaze": {
       "enabled": false,
       "speed_multiplier": 1.0,
       "range_multiplier": 1.0,

@@ -1,0 +1,7 @@
+{
+  "item_id": "minecraft:lava_bucket",
+  "light_level": 15,
+  "water_sensitive": false,
+  "particles": "minecraft:lava",
+  "activate_sounds": "minecraft:block.lava.pop"
+}

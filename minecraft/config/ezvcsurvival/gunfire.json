@@ -9360,6 +9360,16 @@
       "enabled": false,
       "speed": 1.0,
       "range": 50.0
+    },
+    "bloodyhell:weeping_ocular": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "bloodyhell:unknown_lantern": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
     }
   }
 }

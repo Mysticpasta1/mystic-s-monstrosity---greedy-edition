@@ -1,0 +1,7 @@
+{
+  "item_id": "minecraft:ender_chest",
+  "light_level": 7,
+  "water_sensitive": false,
+  "particles": "minecraft:portal",
+  "activate_sounds": "minecraft:block.ender_chest.open"
+}

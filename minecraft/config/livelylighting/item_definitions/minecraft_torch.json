@@ -1,0 +1,8 @@
+{
+  "item_id": "minecraft:torch",
+  "light_level": 14,
+  "water_sensitive": true,
+  "particles": "minecraft:flame",
+  "activate_sounds": "minecraft:block.fire.ambient",
+  "deactivate_sounds": "minecraft:block.fire.extinguish"
+}

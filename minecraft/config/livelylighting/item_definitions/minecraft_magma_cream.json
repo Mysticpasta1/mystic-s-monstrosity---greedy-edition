@@ -1,0 +1,6 @@
+{
+  "item_id": "minecraft:magma_cream",
+  "light_level": 8,
+  "water_sensitive": false,
+  "particles": "minecraft:flame"
+}

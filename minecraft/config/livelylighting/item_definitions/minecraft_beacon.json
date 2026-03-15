@@ -1,0 +1,7 @@
+{
+  "item_id": "minecraft:beacon",
+  "light_level": 15,
+  "water_sensitive": false,
+  "particles": "minecraft:end_rod",
+  "activate_sounds": "minecraft:block.beacon.ambient"
+}

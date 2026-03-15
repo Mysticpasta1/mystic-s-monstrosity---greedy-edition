@@ -1,0 +1,6 @@
+{
+  "item_id": "minecraft:glowstone",
+  "light_level": 15,
+  "water_sensitive": false,
+  "particles": "minecraft:end_rod"
+}

@@ -1898,12 +1898,12 @@
     "curseForgeHash": 3100438522,
     "modrinthHash": "ae2451fcb27f75421337d38d3a13f3e5f4b6dd71"
   },
-  "bloodyhell-0.7.812.jar": {
-    "jarName": "bloodyhell-0.7.812.jar",
+  "bloodyhell-0.8.0.jar": {
+    "jarName": "bloodyhell-0.8.0.jar",
     "modId": "bloodyhell",
-    "version": "0.7.812",
-    "curseForgeHash": 3675102787,
-    "modrinthHash": "ee32b6e3ea661a5095ef406988a403f5740ef187"
+    "version": "0.8.0",
+    "curseForgeHash": 737112760,
+    "modrinthHash": "9f3643c356ac2036310059dc4112a52d8f0117dd"
   },
   "blooming-biosphere-1.1.0-1.20.1.jar": {
     "jarName": "blooming-biosphere-1.1.0-1.20.1.jar",
@@ -3750,12 +3750,12 @@
     "curseForgeHash": 3077305853,
     "modrinthHash": "65161963984b80d47e36437d74efb810032f8706"
   },
-  "dawnoftimebuilder-forge-1.20.1-1.5.45.jar": {
-    "jarName": "dawnoftimebuilder-forge-1.20.1-1.5.45.jar",
+  "dawnoftimebuilder-forge-1.20.1-1.5.46.jar": {
+    "jarName": "dawnoftimebuilder-forge-1.20.1-1.5.46.jar",
     "modId": "dawnoftimebuilder",
-    "version": "1.5.45",
-    "curseForgeHash": 3159684802,
-    "modrinthHash": "d69e2d333304cc840958e8b3994ce10119f287cd"
+    "version": "1.5.46",
+    "curseForgeHash": 2116007540,
+    "modrinthHash": "6245ab67b0a06ffdf8987bfff9e1a957b873a09a"
   },
   "dazzle-2-1.0.0-1.20.1-forge.jar": {
     "jarName": "dazzle-2-1.0.0-1.20.1-forge.jar",
@@ -4330,13 +4330,6 @@
     "version": "1.1.6",
     "curseForgeHash": 725455096,
     "modrinthHash": "e2ad1faa1f9764cf444851d6e4b700d1cc5f6ead"
-  },
-  "duradisp-1.0.5.jar": {
-    "jarName": "duradisp-1.0.5.jar",
-    "modId": "duradisp",
-    "version": "1.0.5",
-    "curseForgeHash": 165299020,
-    "modrinthHash": "afd41046f5254d0e1bf6bd16dbbda902fe945f5f"
   },
   "DustrialDecor-1.3.5-1.20.jar": {
     "jarName": "DustrialDecor-1.3.5-1.20.jar",
@@ -6241,6 +6234,13 @@
     "curseForgeHash": 1957168717,
     "modrinthHash": "cc4c9b049bf28586adbeae84c13a9182a0fa1465"
   },
+  "gnetum-2.4.1.jar": {
+    "jarName": "gnetum-2.4.1.jar",
+    "modId": "gnetum",
+    "version": "2.4.1",
+    "curseForgeHash": 104931889,
+    "modrinthHash": "324e4b12bc30499c4be69af59873f412fb64a6c3"
+  },
   "goated-1.20-1.3.6.jar": {
     "jarName": "goated-1.20-1.3.6.jar",
     "modId": "goated",
@@ -8120,12 +8120,12 @@
     "curseForgeHash": 639401750,
     "modrinthHash": "cf406ee7bb19e4c36475be4d66007d04a044e00b"
   },
-  "MEED-1.20.1-7.8.1.jar": {
-    "jarName": "MEED-1.20.1-7.8.1.jar",
+  "MEED-1.20.1-7.9.jar": {
+    "jarName": "MEED-1.20.1-7.9.jar",
     "modId": "meed",
     "version": "7.2.0",
-    "curseForgeHash": 1059861384,
-    "modrinthHash": "d0fb70ccdc1b6fe7543cb496ba009800c409f41f"
+    "curseForgeHash": 3613196086,
+    "modrinthHash": "4b57c0116b96043a10a938a8e1a5c2979f6b08f9"
   },
   "MekaJadeUpgrades-Unofficial-1.0.0.jar": {
     "jarName": "MekaJadeUpgrades-Unofficial-1.0.0.jar",
@@ -11543,6 +11543,13 @@
     "curseForgeHash": 3402444196,
     "modrinthHash": "15296a7d8942a7a3376f293265b5146af6c42ec7"
   },
+  "sodiumdynamiclights-forge-1.0.10-1.20.1.jar": {
+    "jarName": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+    "modId": "sodiumdynamiclights",
+    "version": "1.0.9",
+    "curseForgeHash": 4061843185,
+    "modrinthHash": "d27524e85bed0f0af83c03be46f9ca3eb02a1be9"
+  },
   "sodiumoptionsapi-forge-1.0.10-1.20.1.jar": {
     "jarName": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
     "modId": "sodiumoptionsapi",
@@ -11563,13 +11570,6 @@
     "version": "3.4",
     "curseForgeHash": 2514688930,
     "modrinthHash": "a81fdb9436dc60407a5abdb1a3466208ec5ec99d"
-  },
-  "solapplepie-1.20.1-2.3.0.jar": {
-    "jarName": "solapplepie-1.20.1-2.3.0.jar",
-    "modId": "solapplepie",
-    "version": "1.20.1-2.3.0",
-    "curseForgeHash": 2182373170,
-    "modrinthHash": "db306008033065fc4ca97f66d38183206a55d458"
   },
   "solcarrot-1.20.1-1.15.1.jar": {
     "jarName": "solcarrot-1.20.1-1.15.1.jar",
@@ -11599,12 +11599,12 @@
     "curseForgeHash": 953930486,
     "modrinthHash": "a67d745d90ab0e1e2f3b8a7b5a2e8af5365af253"
   },
-  "sophisticatedbackpacks-1.20.1-3.24.25.1566.jar": {
-    "jarName": "sophisticatedbackpacks-1.20.1-3.24.25.1566.jar",
+  "sophisticatedbackpacks-1.20.1-3.24.26.1567.jar": {
+    "jarName": "sophisticatedbackpacks-1.20.1-3.24.26.1567.jar",
     "modId": "sophisticatedbackpacks",
-    "version": "3.24.25.1566",
-    "curseForgeHash": 2464752774,
-    "modrinthHash": "77d64371fa4e7fa2ae5a8e7472e8d88e1e3fc235"
+    "version": "3.24.26.1567",
+    "curseForgeHash": 3067337972,
+    "modrinthHash": "ce5739cdde4773664dd2db5a4a1da231313e7f1e"
   },
   "sophisticatedbackpackscreateintegration-1.20.1-0.1.5.30.jar": {
     "jarName": "sophisticatedbackpackscreateintegration-1.20.1-0.1.5.30.jar",
@@ -11613,19 +11613,19 @@
     "curseForgeHash": 2371828629,
     "modrinthHash": "5597cce58d4c3529574c12ef6d39932c600bcdc1"
   },
-  "sophisticatedcore-1.20.1-1.3.7.1518.jar": {
-    "jarName": "sophisticatedcore-1.20.1-1.3.7.1518.jar",
+  "sophisticatedcore-1.20.1-1.3.8.1524.jar": {
+    "jarName": "sophisticatedcore-1.20.1-1.3.8.1524.jar",
     "modId": "sophisticatedcore",
-    "version": "1.3.7.1518",
-    "curseForgeHash": 1777234427,
-    "modrinthHash": "df7ed04a2aa5b9cae8dccb4b1128d4749efe173f"
+    "version": "1.3.8.1524",
+    "curseForgeHash": 3796727452,
+    "modrinthHash": "5f79aab1ddae56fdbae42a637be4d11ed0c2c91a"
   },
-  "sophisticatedstorage-1.20.1-1.4.28.1526.jar": {
-    "jarName": "sophisticatedstorage-1.20.1-1.4.28.1526.jar",
+  "sophisticatedstorage-1.20.1-1.4.29.1527.jar": {
+    "jarName": "sophisticatedstorage-1.20.1-1.4.29.1527.jar",
     "modId": "sophisticatedstorage",
-    "version": "1.4.28.1526",
-    "curseForgeHash": 2012508367,
-    "modrinthHash": "4fddc182ec555273fccbbb493cc5fd2a691a7bd0"
+    "version": "1.4.29.1527",
+    "curseForgeHash": 4136519784,
+    "modrinthHash": "60edd2eef7d67721ecf5b9cb237e8c5668ad5681"
   },
   "sophisticatedstoragecreateintegration-1.20.1-0.1.15.63.jar": {
     "jarName": "sophisticatedstoragecreateintegration-1.20.1-0.1.15.63.jar",
@@ -11858,12 +11858,12 @@
     "curseForgeHash": 2589454475,
     "modrinthHash": "29270e52479b9fc0c951bb83ebfe543c39a080b2"
   },
-  "Steam_Rails-1.7.1+forge-mc1.20.1.jar": {
-    "jarName": "Steam_Rails-1.7.1+forge-mc1.20.1.jar",
+  "Steam_Rails-1.7.2+forge-mc1.20.1.jar": {
+    "jarName": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
     "modId": "railways",
-    "version": "1.7.1+forge-mc1.20.1",
-    "curseForgeHash": 1356222844,
-    "modrinthHash": "93c32e96f463f5d4758e939916c7a8de79bd6212"
+    "version": "1.7.2+forge-mc1.20.1",
+    "curseForgeHash": 3883819242,
+    "modrinthHash": "15d317afd2459368b19c23f2bdfefdeb87708bdd"
   },
   "steampunk_clocktower-1.0.0-forge-1.20.1.jar": {
     "jarName": "steampunk_clocktower-1.0.0-forge-1.20.1.jar",
@@ -12816,13 +12816,6 @@
     "version": "1.7.4",
     "curseForgeHash": 728811383,
     "modrinthHash": "9516e49f4095ffb4aedeaf07ffc64fbbb53fc226"
-  },
-  "torcy-1.0.2.jar": {
-    "jarName": "torcy-1.0.2.jar",
-    "modId": "torcy",
-    "version": "1.0.2",
-    "curseForgeHash": 4011718008,
-    "modrinthHash": "6183f233483956f566f7de88bfb39bcac0756a63"
   },
   "TotemFactory-1.1.0+mc1.20.1-Forge.jar": {
     "jarName": "TotemFactory-1.1.0+mc1.20.1-Forge.jar",

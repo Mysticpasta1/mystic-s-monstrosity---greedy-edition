@@ -1,0 +1,28 @@
+{
+  "enable": true,
+  "max_light_sources": 500,
+  "enchanted_items_glow": true,
+  "fire_aspect_glow": true,
+  "enable_entity_lights": true,
+  "creeper_lighting": true,
+  "tnt_lighting": true,
+  "burning_entity_lighting": true,
+  "glowing_effect_lighting": true,
+  "enable_particles": true,
+  "enable_sounds": true,
+  "auto_detect_block_light": true,
+  "auto_detect_blacklist": [
+    "minecraft:light"
+  ],
+  "vs_support": false,
+  "experimental": {
+    "smoothing": false,
+    "smoothing_all_entities": false,
+    "cluster_growing": false,
+    "cluster_merge_distance": 6.0,
+    "max_influence_radius": 3,
+    "trail_decay_rate": 2,
+    "fade_in_rate": 5,
+    "light_source_spacing": 0.0
+  }
+}

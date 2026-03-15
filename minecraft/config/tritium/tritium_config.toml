@@ -40,7 +40,7 @@ fastBlit = true
 
 [rendering.reflex]
 ## Enable Reflex
-enableReflex = false
+enableReflex = true
 
 ## Reflex Debug
 reflexDebug = false

@@ -1,0 +1,8 @@
+{
+  "item_id": "minecraft:campfire",
+  "light_level": 15,
+  "water_sensitive": true,
+  "particles": "minecraft:flame",
+  "activate_sounds": "minecraft:block.campfire.crackle",
+  "deactivate_sounds": "minecraft:block.fire.extinguish"
+}

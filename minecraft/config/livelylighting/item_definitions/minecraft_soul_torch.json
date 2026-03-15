@@ -1,0 +1,8 @@
+{
+  "item_id": "minecraft:soul_torch",
+  "light_level": 10,
+  "water_sensitive": true,
+  "particles": "minecraft:soul_fire_flame",
+  "activate_sounds": "minecraft:block.soul_fire.ambient",
+  "deactivate_sounds": "minecraft:block.fire.extinguish"
+}
