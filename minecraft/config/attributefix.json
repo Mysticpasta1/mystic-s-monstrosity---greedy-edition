@@ -121,17 +121,6 @@
         "value": 1
       }
     },
-    "turtlecore:thrown_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "caverns_and_chasms:weakness_aura": {
       "enabled": false,
       "min": {
@@ -141,6 +130,17 @@
       "max": {
         "default": 30,
         "value": 30
+      }
+    },
+    "turtlecore:thrown_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "dagger_of_bloodletting:bloodletting": {
@@ -660,7 +660,7 @@
         "value": 1000
       }
     },
-    "turtlecore:armor_penetration": {
+    "ars_trinkets:ars_trinkets.perk.total_mana_boost": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -671,7 +671,7 @@
         "value": 1024
       }
     },
-    "ars_trinkets:ars_trinkets.perk.total_mana_boost": {
+    "turtlecore:armor_penetration": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -1199,17 +1199,6 @@
         "value": 1024
       }
     },
-    "turtlecore:critical_damage": {
-      "enabled": false,
-      "min": {
-        "default": 1.5,
-        "value": 1.5
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "tconstruct:generic.knockback_multiplier": {
       "enabled": false,
       "min": {
@@ -1219,6 +1208,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "turtlecore:critical_damage": {
+      "enabled": false,
+      "min": {
+        "default": 1.5,
+        "value": 1.5
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "attributeslib:current_hp_damage": {
@@ -1408,17 +1408,6 @@
         "value": 100
       }
     },
-    "turtlecore:critical_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "obscure_api:regeneration": {
       "enabled": false,
       "min": {
@@ -1439,6 +1428,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "turtlecore:critical_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "malum:soul_ward_recovery_rate": {
@@ -1716,7 +1716,7 @@
         "value": 1
       }
     },
-    "turtlecore:player_size": {
+    "forge:block_reach": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -1727,7 +1727,7 @@
         "value": 1024
       }
     },
-    "forge:block_reach": {
+    "turtlecore:player_size": {
       "enabled": false,
       "min": {
         "default": 0,

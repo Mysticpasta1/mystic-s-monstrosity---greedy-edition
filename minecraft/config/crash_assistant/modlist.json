@@ -9429,12 +9429,12 @@
     "curseForgeHash": 516527841,
     "modrinthHash": "984f774e71790deaec674c7587bd24e0711871b2"
   },
-  "Oh-The-Biomes-Weve-Gone-Forge-1.7.4.jar": {
-    "jarName": "Oh-The-Biomes-Weve-Gone-Forge-1.7.4.jar",
+  "Oh-The-Biomes-Weve-Gone-Forge-1.7.5.jar": {
+    "jarName": "Oh-The-Biomes-Weve-Gone-Forge-1.7.5.jar",
     "modId": "biomeswevegone",
-    "version": "1.7.4",
-    "curseForgeHash": 3226300198,
-    "modrinthHash": "168e2c7f7105bc578e05f0a347856438b5d9f4a6"
+    "version": "1.7.5",
+    "curseForgeHash": 1764237642,
+    "modrinthHash": "a0ffaf9086974ab6d63ade0e9d73e8446b4166a3"
   },
   "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.5.0.jar": {
     "jarName": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.5.0.jar",
@@ -13012,13 +13012,6 @@
     "version": "1.0.0",
     "curseForgeHash": 2627815455,
     "modrinthHash": "1e919f939ea2533007d32217cfe47e3cb400a1f7"
-  },
-  "turtlecore-2.0.1.jar": {
-    "jarName": "turtlecore-2.0.1.jar",
-    "modId": "turtlecore",
-    "version": "2.0.1",
-    "curseForgeHash": 1573244711,
-    "modrinthHash": "0ebc4f48a6d0f21fb5047d1b4c698d967c42d072"
   },
   "Twigs-1.20.1-3.1.0.jar": {
     "jarName": "Twigs-1.20.1-3.1.0.jar",
