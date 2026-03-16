@@ -1,0 +1,5 @@
+
+[VertebraX]
+	#List of effects which can't be extended/reduced by vertebrax.
+	excludedEffects = ["minecraft:levitation"]
+

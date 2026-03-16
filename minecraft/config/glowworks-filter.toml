@@ -4666,3 +4666,8 @@
 		death_egg_arena_window_closed = "[255,255,255]"
 		death_egg_glass = "[255,255,255]"
 
+[actuallyadditions]
+
+	[actuallyadditions.blocks]
+		greenhouse_glass = "[0,255,0]"
+

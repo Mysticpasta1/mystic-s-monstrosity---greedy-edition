@@ -9806,3 +9806,20 @@
 	[more_potion_effects.blocks]
 		compressed_air = "[255,255,255]"
 
+[reliquary]
+
+	[reliquary.blocks]
+		interdiction_torch = "[255,255,0]"
+		wall_interdiction_torch = "[255,255,0]"
+
+[actuallyadditions]
+
+	[actuallyadditions.blocks]
+		powered_furnace = "[255,0,0]"
+		enori_crystal_cluster = "[255,255,255]"
+		restonia_crystal_cluster = "[255,255,255]"
+		palis_crystal_cluster = "[255,255,255]"
+		diamatine_crystal_cluster = "[255,255,255]"
+		void_crystal_cluster = "[255,255,255]"
+		emeradic_crystal_cluster = "[255,255,255]"
+

@@ -759,6 +759,11 @@
     102,
     187
   ],
+  "actuallyadditions:enori_crystal_cluster": [
+    255,
+    255,
+    255
+  ],
   "thingamajigs:railroad_crossing_lights": [
     255,
     255,
@@ -2534,6 +2539,11 @@
     0,
     255
   ],
+  "actuallyadditions:powered_furnace": [
+    255,
+    0,
+    0
+  ],
   "dazzle:light_blue_flare": [
     0,
     0,
@@ -4245,6 +4255,11 @@
     255
   ],
   "fcb:fcbg4614470": [
+    255,
+    255,
+    255
+  ],
+  "actuallyadditions:emeradic_crystal_cluster": [
     255,
     255,
     255
@@ -15959,6 +15974,11 @@
     255,
     255
   ],
+  "reliquary:wall_interdiction_torch": [
+    255,
+    255,
+    0
+  ],
   "neapolitan:magenta_mint_candle_cake": [
     255,
     0,
@@ -22335,6 +22355,11 @@
     0
   ],
   "botania:floating_pollidisiac": [
+    255,
+    255,
+    255
+  ],
+  "actuallyadditions:palis_crystal_cluster": [
     255,
     255,
     255
@@ -29684,6 +29709,11 @@
     0,
     0
   ],
+  "actuallyadditions:void_crystal_cluster": [
+    255,
+    255,
+    255
+  ],
   "skinnedlanterns:ornament_white_lantern_block": [
     255,
     255,
@@ -30865,6 +30895,11 @@
     255
   ],
   "betterend:crystal_moss_cover": [
+    255,
+    255,
+    255
+  ],
+  "actuallyadditions:restonia_crystal_cluster": [
     255,
     255,
     255
@@ -35363,6 +35398,11 @@
     255,
     255,
     255
+  ],
+  "reliquary:interdiction_torch": [
+    255,
+    255,
+    0
   ],
   "fcb:fcbg11477970": [
     255,
@@ -41598,6 +41638,11 @@
     136,
     136,
     136
+  ],
+  "actuallyadditions:diamatine_crystal_cluster": [
+    255,
+    255,
+    255
   ],
   "skinnedlanterns:pinky_soul_lantern_block": [
     255,
