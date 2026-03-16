@@ -11200,6 +11200,13 @@
     "curseForgeHash": 2178368543,
     "modrinthHash": "845b72d08112eaef8250cfa248e3c66d9a2d2dcd"
   },
+  "showcaseitem-1.20.1-1.2.jar": {
+    "jarName": "showcaseitem-1.20.1-1.2.jar",
+    "modId": "showcaseitem",
+    "version": "1.20.1-1.2",
+    "curseForgeHash": 563673003,
+    "modrinthHash": "282e08fc46b7e4bab61a8651b5fcc1ee1befddd9"
+  },
   "Shrink-1.20.1-1.4.5.jar": {
     "jarName": "Shrink-1.20.1-1.4.5.jar",
     "modId": "shrink",
