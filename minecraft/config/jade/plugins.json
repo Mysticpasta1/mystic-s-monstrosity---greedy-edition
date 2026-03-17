@@ -62,6 +62,9 @@
     "wt_master_location": true,
     "wt_owner": true
   },
+  "createlowheated": {
+    "basic_burner_info": true
+  },
   "tesseract": {
     "tesseract": true,
     "remove_default": true

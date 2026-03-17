@@ -5044,6 +5044,11 @@
     255,
     255
   ],
+  "helixalarms:purple_alarm": [
+    170,
+    34,
+    255
+  ],
   "ctl:vertical_halfpanel_htlb": [
     255,
     255,
@@ -7554,6 +7559,11 @@
     255,
     0
   ],
+  "helixalarms:green_alarm": [
+    0,
+    255,
+    0
+  ],
   "wallpapercraft:auralampred-9": [
     255,
     0,
@@ -7923,11 +7933,6 @@
     255,
     255,
     255
-  ],
-  "hybrid-aquatic:glowslime_block": [
-    187,
-    255,
-    0
   ],
   "truedarkness:corrupted_roots": [
     255,
@@ -10130,11 +10135,6 @@
     255
   ],
   "ror:flowerbed_portal": [
-    255,
-    255,
-    255
-  ],
-  "hybrid-aquatic:buoy": [
     255,
     255,
     255
@@ -20719,11 +20719,6 @@
     255,
     255
   ],
-  "hybrid-aquatic:glowstick": [
-    255,
-    255,
-    255
-  ],
   "betterblockz:zeon_white_blockz_0": [
     255,
     255,
@@ -25104,6 +25099,11 @@
     255,
     255
   ],
+  "helixalarms:yellow_alarm": [
+    255,
+    255,
+    0
+  ],
   "musings:circle_blue_ring_magenta_bg_flipping": [
     255,
     0,
@@ -26303,6 +26303,11 @@
     255,
     0,
     0
+  ],
+  "helixalarms:blue_alarm": [
+    0,
+    0,
+    255
   ],
   "musings:circle_orange_ring_yellow_bg": [
     255,
@@ -35154,6 +35159,11 @@
     0,
     0
   ],
+  "helixalarms:cyan_alarm": [
+    0,
+    255,
+    255
+  ],
   "absentbydesign:stairs_glowstone": [
     255,
     255,
@@ -35488,6 +35498,11 @@
     0,
     0,
     255
+  ],
+  "helixalarms:pink_alarm": [
+    255,
+    102,
+    187
   ],
   "nightlights:octopus_red": [
     255,
@@ -35924,11 +35939,6 @@
     255,
     255
   ],
-  "hybrid-aquatic:wall_glowstick": [
-    255,
-    255,
-    255
-  ],
   "skinnedlanterns:paper_light_blue_soul_lantern_block": [
     0,
     0,
@@ -36088,6 +36098,11 @@
     170,
     34,
     255
+  ],
+  "helixalarms:orange_alarm": [
+    255,
+    102,
+    17
   ],
   "lampicus:colorlight_gray": [
     136,
@@ -41188,6 +41203,11 @@
     255,
     255,
     255
+  ],
+  "helixalarms:red_alarm": [
+    255,
+    0,
+    0
   ],
   "additional_lights:al_wall_torch_iron_block": [
     255,
