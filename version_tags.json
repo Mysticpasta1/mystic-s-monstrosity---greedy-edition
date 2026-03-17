@@ -1,7 +1,7 @@
 [
   {
-    "version": "32.0.0",
-    "created_at": "2026-03-17T06:26:53.3119382Z",
+    "version": "32.1.0",
+    "created_at": "2026-03-17T17:11:04.5546711Z",
     "notes": null,
     "mod_snapshot": [
       {
@@ -977,12 +977,12 @@
         "modrinth_id": null
       },
       {
-        "file_name": "appleskin-forge-mc1.20.1-2.7.0.jar",
-        "name": "Apple Skin: Unbound Saturation",
+        "file_name": "appleskin-forge-mc1.20.1-2.5.1.jar",
+        "name": "AppleSkin",
         "version": null,
         "mod_id": null,
-        "file_size": 50417,
-        "curseforge_id": 1449992,
+        "file_size": 47428,
+        "curseforge_id": 248787,
         "modrinth_id": null
       },
       {
@@ -3387,15 +3387,6 @@
         "file_size": 16315966,
         "curseforge_id": 1359559,
         "modrinth_id": "i9ignCtO"
-      },
-      {
-        "file_name": "colorful_lighting-1.20.1-2.3.0.jar",
-        "name": "Colorful Lighting (Sodium Compat)",
-        "version": null,
-        "mod_id": null,
-        "file_size": 187920,
-        "curseforge_id": null,
-        "modrinth_id": "ODD08EMu"
       },
       {
         "file_name": "ColossalChests-1.20.1-1.8.7.jar",
@@ -7887,15 +7878,6 @@
         "file_size": 22475,
         "curseforge_id": 962468,
         "modrinth_id": "AdgLkXjp"
-      },
-      {
-        "file_name": "glowworks-1.20-1.0.3-forge.jar",
-        "name": "glowworks-1.20-1.0.3-forge",
-        "version": null,
-        "mod_id": null,
-        "file_size": 740044,
-        "curseforge_id": 1380836,
-        "modrinth_id": "ovkxGO8r"
       },
       {
         "file_name": "Gobber2-Forge-1.20.1-2.8.9.jar",
@@ -14063,24 +14045,6 @@
         "modrinth_id": null
       },
       {
-        "file_name": "fullsaturation-1.3.jar",
-        "name": "SatStack",
-        "version": null,
-        "mod_id": null,
-        "file_size": 12544,
-        "curseforge_id": 1463163,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "saturation_plus-1.2.0-forge-1.20.jar",
-        "name": "Saturation Plus",
-        "version": null,
-        "mod_id": null,
-        "file_size": 35908,
-        "curseforge_id": 959951,
-        "modrinth_id": "AgApeolo"
-      },
-      {
         "file_name": "saturn-mc1.20.1-0.1.3.jar",
         "name": "Saturn",
         "version": null,
@@ -15618,15 +15582,6 @@
         "file_size": 124157,
         "curseforge_id": 665793,
         "modrinth_id": null
-      },
-      {
-        "file_name": "table_top_craft-1.20.1-6.1.2.jar",
-        "name": "Table Top Craft",
-        "version": null,
-        "mod_id": null,
-        "file_size": 1466790,
-        "curseforge_id": 467136,
-        "modrinth_id": "IO0hAHwQ"
       },
       {
         "file_name": "taiga_survival_house-1.0.0-forge-1.20.1.jar",
