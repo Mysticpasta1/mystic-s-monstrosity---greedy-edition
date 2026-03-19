@@ -1,0 +1,23 @@
+
+#Settings for visual effects (Client Only)
+[VisualSettings]
+	#Play a lightning visual effect on providers that receive patterns.
+	#Default: true
+	enableDistributionEffects = true
+
+#Settings for audio and sound effects (Client Only)
+[AudioSettings]
+	#Suppress the vanilla thunder sound from the lightning effect.
+	#Default: false
+	disableThunderSound = false
+	#Mute the countdown tick sounds in the GUI.
+	#Default: false
+	disableCountdownSound = false
+	#Seconds to wait before playing a custom local sound after distribution starts.
+	#Range: 0.0 ~ 5.0
+	customSoundDelay = 0.1
+	#List of absolute folder paths containing .wav files.
+	#One is picked at random and played through your system audio, bypassing in-game volume settings.
+	#Leave empty to disable.
+	customSoundPaths = []
+

@@ -144,6 +144,9 @@
   "bonsaitrees3": {
     "bonsaipot": true
   },
+  "pattern_archive": {
+    "node_status": true
+  },
   "expatternprovider": {
     "jade_chamber": true,
     "jade_wireless": true

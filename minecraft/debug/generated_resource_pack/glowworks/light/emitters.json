@@ -259,6 +259,11 @@
     255,
     255
   ],
+  "mna:decoration/runic_glass_pink": [
+    255,
+    102,
+    187
+  ],
   "geosmelt:viradium_ore": [
     255,
     255,
@@ -3769,6 +3774,11 @@
     0,
     255
   ],
+  "mna:decoration/runic_glass_pane_yellow": [
+    255,
+    255,
+    0
+  ],
   "chipped:unamused_crying_obsidian": [
     255,
     255,
@@ -6429,6 +6439,11 @@
     255,
     255
   ],
+  "mna:decoration/runic_glass_pane_red": [
+    255,
+    0,
+    0
+  ],
   "ad_astra:strophar_ladder": [
     255,
     255,
@@ -6450,6 +6465,11 @@
     0
   ],
   "mekanism:basic_smelting_factory": [
+    255,
+    255,
+    255
+  ],
+  "born_in_chaos_v1:fel_soil": [
     255,
     255,
     255
@@ -7334,6 +7354,11 @@
     255,
     255
   ],
+  "born_in_chaos_v1:tombstone_derivas": [
+    255,
+    255,
+    255
+  ],
   "outer_end:mint_crystal_bud": [
     255,
     255,
@@ -7373,6 +7398,11 @@
     255,
     255,
     255
+  ],
+  "mna:decoration/runic_glass_gray": [
+    136,
+    136,
+    136
   ],
   "furnish:wither_skull_torch": [
     255,
@@ -7510,11 +7540,6 @@
     255
   ],
   "productivetrees:cave_dweller_fence_gate": [
-    255,
-    255,
-    255
-  ],
-  "ebwizardry:wall_receptacle": [
     255,
     255,
     255
@@ -10579,6 +10604,11 @@
     102,
     17
   ],
+  "mna:decoration/runic_glass_red": [
+    255,
+    0,
+    0
+  ],
   "minecraft:yellow_candle_cake": [
     255,
     255,
@@ -11214,6 +11244,11 @@
     255,
     255
   ],
+  "mna:decoration/runic_glass_blue": [
+    0,
+    0,
+    255
+  ],
   "betterblockz:cyberlight_blockz_1": [
     255,
     255,
@@ -11444,6 +11479,11 @@
     255,
     255
   ],
+  "mna:decoration/runic_glass_pane_light_blue": [
+    0,
+    0,
+    255
+  ],
   "sonicraft:star_light_lamppost_lamp": [
     255,
     255,
@@ -11512,6 +11552,11 @@
   "musings:circle_cycle_black": [
     0,
     0,
+    0
+  ],
+  "mna:decoration/runic_glass_lime": [
+    187,
+    255,
     0
   ],
   "mekanism_extras:infinite_fluid_tank": [
@@ -12068,6 +12113,11 @@
     153,
     204,
     204
+  ],
+  "mna:decoration/runic_glass_pane_gray": [
+    136,
+    136,
+    136
   ],
   "dawnoftimebuilder:stone_bricks_pool": [
     255,
@@ -12809,6 +12859,11 @@
     255,
     255
   ],
+  "mna:decoration/runic_glass_pane_orange": [
+    255,
+    102,
+    17
+  ],
   "musings:circle_orange_ring_pink_bg_flipping": [
     255,
     102,
@@ -12911,6 +12966,11 @@
   ],
   "create:cyan_nixie_tube": [
     0,
+    255,
+    255
+  ],
+  "born_in_chaos_v1:rotten_infernal_pumpkin": [
+    255,
     255,
     255
   ],
@@ -14159,6 +14219,11 @@
     255,
     255
   ],
+  "born_in_chaos_v1:tombstone_rotborne": [
+    255,
+    255,
+    255
+  ],
   "pyrite:white_lamp": [
     255,
     255,
@@ -14874,6 +14939,11 @@
     255,
     255
   ],
+  "mna:decoration/runic_glass_pane_white": [
+    255,
+    255,
+    255
+  ],
   "braziliandelight:carrot_cake_with_magenta_candle": [
     255,
     0,
@@ -14903,6 +14973,11 @@
     255,
     255,
     255
+  ],
+  "mna:decoration/runic_glass_orange": [
+    255,
+    102,
+    17
   ],
   "betterend:smaragdant_crystal_slab": [
     255,
@@ -16144,6 +16219,11 @@
     0,
     0
   ],
+  "mna:decoration/runic_glass_magenta": [
+    255,
+    0,
+    255
+  ],
   "botania:black_shiny_flower": [
     0,
     0,
@@ -16574,6 +16654,11 @@
     255,
     255
   ],
+  "mna:decoration/runic_glass_light_blue": [
+    0,
+    0,
+    255
+  ],
   "mcwholidays:garland_red_lights": [
     255,
     0,
@@ -16709,6 +16794,11 @@
     255,
     255
   ],
+  "mna:decoration/runic_glass_white": [
+    255,
+    255,
+    255
+  ],
   "botania:floating_medumone": [
     255,
     255,
@@ -16755,6 +16845,11 @@
     255
   ],
   "thingamajigs:wall_full_lantern": [
+    255,
+    255,
+    255
+  ],
+  "mna:decoration/runic_glass": [
     255,
     255,
     255
@@ -17228,6 +17323,11 @@
     170,
     34,
     255
+  ],
+  "mna:decoration/runic_glass_pane_green": [
+    0,
+    255,
+    0
   ],
   "allthecompressed:blaze_block_1x": [
     255,
@@ -17784,6 +17884,11 @@
     255,
     255
   ],
+  "mna:decoration/runic_glass_green": [
+    0,
+    255,
+    0
+  ],
   "collectorsreap:pink_candle_pomegranate_cake": [
     255,
     102,
@@ -18079,6 +18184,11 @@
     255,
     255
   ],
+  "mna:decoration/runic_glass_pane_pink": [
+    255,
+    102,
+    187
+  ],
   "collectorsreap:pink_candle_lime_cake": [
     187,
     255,
@@ -18148,6 +18258,11 @@
     255,
     255,
     255
+  ],
+  "mna:decoration/runic_glass_pane_black": [
+    0,
+    0,
+    0
   ],
   "productivetrees:rippling_willow_fence_gate": [
     255,
@@ -18487,6 +18602,11 @@
   "neonlamps:lime_lamp": [
     187,
     255,
+    0
+  ],
+  "mna:decoration/runic_glass_black": [
+    0,
+    0,
     0
   ],
   "simplylight:illuminant_brown_block": [
@@ -19349,6 +19469,11 @@
     102,
     17
   ],
+  "mna:construct_workbench": [
+    255,
+    255,
+    255
+  ],
   "bloodyhell:star_lamp_block": [
     255,
     255,
@@ -19505,6 +19630,11 @@
     255
   ],
   "aether_redux:potted_shimmerstool": [
+    255,
+    255,
+    255
+  ],
+  "mna:mage_light": [
     255,
     255,
     255
@@ -23099,6 +23229,11 @@
     102,
     17
   ],
+  "mna:hellfire": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_light_gray_ring_blue_bg_flipping": [
     0,
     0,
@@ -23238,6 +23373,11 @@
     255,
     255,
     255
+  ],
+  "mna:decoration/runic_glass_light_gray": [
+    136,
+    136,
+    136
   ],
   "colorfulcampfires:light_blue_stripped_acacia_dark_campfire": [
     0,
@@ -24599,6 +24739,11 @@
     255,
     255
   ],
+  "born_in_chaos_v1:lifestealer_skull": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_light_gray_ring_red_bg_flipping": [
     255,
     0,
@@ -24779,6 +24924,11 @@
     255,
     255
   ],
+  "mna:decoration/runic_glass_yellow": [
+    255,
+    255,
+    0
+  ],
   "colored_water:luminous_condense_yellow_fluid_block": [
     255,
     255,
@@ -24878,6 +25028,11 @@
     255,
     255,
     255
+  ],
+  "mna:decoration/runic_glass_brown": [
+    136,
+    68,
+    17
   ],
   "xycraft_world:lamp_pillar_gray": [
     136,
@@ -25649,11 +25804,6 @@
     255,
     255
   ],
-  "ebwizardry:crystal_flower": [
-    255,
-    255,
-    255
-  ],
   "aether_redux:corrupted_vines": [
     255,
     255,
@@ -26120,6 +26270,11 @@
     255
   ],
   "fcb:fcbg4623395": [
+    255,
+    255,
+    255
+  ],
+  "born_in_chaos_v1:tombstone_fubuki_banzai": [
     255,
     255,
     255
@@ -26880,6 +27035,11 @@
     255
   ],
   "primalmagick:calcinator_heavenly": [
+    255,
+    255,
+    255
+  ],
+  "mna:invisible_light": [
     255,
     255,
     255
@@ -27669,6 +27829,11 @@
     255,
     255
   ],
+  "mna:decoration/runic_glass_pane_cyan": [
+    0,
+    255,
+    255
+  ],
   "silentgems:iolite_glowrose": [
     255,
     255,
@@ -28102,6 +28267,11 @@
   "productivetrees:soul_tree_door": [
     0,
     0,
+    255
+  ],
+  "born_in_chaos_v1:argillite_lamp": [
+    255,
+    255,
     255
   ],
   "mcwlights:iron_framed_torch": [
@@ -29634,6 +29804,11 @@
     255,
     255
   ],
+  "mna:decoration/runic_glass_pane_brown": [
+    136,
+    68,
+    17
+  ],
   "mcwlights:soul_mangrove_tiki_torch": [
     255,
     255,
@@ -29670,6 +29845,11 @@
     255
   ],
   "endergetic:acidian_lantern": [
+    255,
+    255,
+    255
+  ],
+  "born_in_chaos_v1:fel_soil_destructible": [
     255,
     255,
     255
@@ -29824,6 +30004,11 @@
     255,
     255
   ],
+  "born_in_chaos_v1:infernal_evil_pumpkin": [
+    255,
+    255,
+    255
+  ],
   "quark:grate": [
     255,
     255,
@@ -29939,6 +30124,11 @@
     255,
     255
   ],
+  "born_in_chaos_v1:tombstone_euthymia": [
+    255,
+    255,
+    255
+  ],
   "vanilladelight:nether_bricks_stove": [
     255,
     255,
@@ -29993,6 +30183,11 @@
     255,
     255,
     0
+  ],
+  "born_in_chaos_v1:tombstone_2_dling": [
+    255,
+    255,
+    255
   ],
   "refurbished_furniture:black_lamp": [
     0,
@@ -31374,11 +31569,6 @@
     255,
     255
   ],
-  "ebwizardry:imbuement_altar": [
-    255,
-    255,
-    255
-  ],
   "bbb:birch_lantern": [
     255,
     255,
@@ -32150,6 +32340,11 @@
     255
   ],
   "fcb:fcbg11495925": [
+    255,
+    255,
+    255
+  ],
+  "born_in_chaos_v1:tombstone_memesus": [
     255,
     255,
     255
@@ -32984,11 +33179,6 @@
     255,
     255
   ],
-  "ebwizardry:potted_crystal_flower": [
-    255,
-    255,
-    255
-  ],
   "moglowstoneplus:gray_glowstone_brick": [
     136,
     136,
@@ -33348,6 +33538,11 @@
     136,
     136,
     136
+  ],
+  "mna:decoration/runic_glass_cyan": [
+    0,
+    255,
+    255
   ],
   "colorfulcampfires:magenta_stripped_dark_oak_dark_campfire": [
     255,
@@ -34969,6 +35164,11 @@
     0,
     255
   ],
+  "mna:decoration/runic_glass_pane_blue": [
+    0,
+    0,
+    255
+  ],
   "nightlights:hanging_lights_white": [
     255,
     255,
@@ -35178,6 +35378,11 @@
     255,
     255,
     255
+  ],
+  "mna:decoration/runic_glass_pane_lime": [
+    187,
+    255,
+    0
   ],
   "musings:circle_lime_ring_orange_bg": [
     255,
@@ -35624,11 +35829,6 @@
     255,
     0
   ],
-  "ebwizardry:receptacle": [
-    255,
-    255,
-    255
-  ],
   "the_bumblezone:essence_block_red": [
     255,
     0,
@@ -35737,6 +35937,11 @@
   "biomeswevegone:blooming_witch_hazel_leaves": [
     255,
     255,
+    255
+  ],
+  "mna:decoration/runic_glass_purple": [
+    170,
+    34,
     255
   ],
   "colored_water:luminous_condense_purple_fluid_block": [
@@ -36954,6 +37159,11 @@
     255,
     255
   ],
+  "born_in_chaos_v1:tombstone_orion": [
+    255,
+    255,
+    255
+  ],
   "chipped:inlayed_glowstone": [
     255,
     255,
@@ -37550,6 +37760,11 @@
     255
   ],
   "supplementaries:clock_block": [
+    255,
+    255,
+    255
+  ],
+  "born_in_chaos_v1:tombstone_d_4rkdevilx": [
     255,
     255,
     255
@@ -38254,6 +38469,11 @@
     255,
     0
   ],
+  "mna:decoration/runic_glass_pane_magenta": [
+    255,
+    0,
+    255
+  ],
   "create_enchantment_industry:blaze_enchanter": [
     255,
     255,
@@ -38303,6 +38523,11 @@
     255,
     102,
     17
+  ],
+  "born_in_chaos_v1:tombstone_dark_titan_066": [
+    255,
+    255,
+    255
   ],
   "thingamajigs:cyan_jol": [
     0,
@@ -38924,6 +39149,11 @@
     255,
     255
   ],
+  "born_in_chaos_v1:flaming_evil_pumpkin": [
+    255,
+    255,
+    255
+  ],
   "sundries:waxed_weathered_dark_iron_chandelier": [
     255,
     0,
@@ -39488,6 +39718,11 @@
     255,
     255,
     255
+  ],
+  "mna:decoration/runic_glass_pane_light_gray": [
+    136,
+    136,
+    136
   ],
   "mcwholidays:orange_string_lights": [
     255,
@@ -40469,6 +40704,11 @@
     0,
     255
   ],
+  "born_in_chaos_v1:infernal_evil_pumpkin_s": [
+    255,
+    255,
+    255
+  ],
   "abstoneedition:smooth_glowstone_wall": [
     255,
     255,
@@ -40623,6 +40863,11 @@
     0,
     255,
     0
+  ],
+  "mna:decoration/runic_glass_pane_purple": [
+    170,
+    34,
+    255
   ],
   "planttech2:warped_hyphae_candle": [
     255,

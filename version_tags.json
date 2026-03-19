@@ -1,7 +1,7 @@
 [
   {
-    "version": "32.1.0",
-    "created_at": "2026-03-17T17:11:04.5546711Z",
+    "version": "33.0.0",
+    "created_at": "2026-03-19T00:26:20.1795421Z",
     "notes": null,
     "mod_snapshot": [
       {
@@ -977,12 +977,12 @@
         "modrinth_id": null
       },
       {
-        "file_name": "appleskin-forge-mc1.20.1-2.5.1.jar",
-        "name": "AppleSkin",
+        "file_name": "appleskin-forge-mc1.20.1-2.7.0.jar",
+        "name": "Apple Skin: Unbound Saturation",
         "version": null,
         "mod_id": null,
-        "file_size": 47428,
-        "curseforge_id": 248787,
+        "file_size": 50417,
+        "curseforge_id": 1449992,
         "modrinth_id": null
       },
       {
@@ -1011,6 +1011,15 @@
         "file_size": 8495956,
         "curseforge_id": 223794,
         "modrinth_id": "XxWD5pD3"
+      },
+      {
+        "file_name": "applied_extended_crafting-1.1.1.jar",
+        "name": "Applied Extended Crafting",
+        "version": null,
+        "mod_id": null,
+        "file_size": 216539,
+        "curseforge_id": 1484112,
+        "modrinth_id": null
       },
       {
         "file_name": "infinitypattern-1.1-Forge-1.20.1.jar",
@@ -1301,15 +1310,6 @@
         "modrinth_id": "Tsw8vbks"
       },
       {
-        "file_name": "art_of_forging-1.8.4-1.20.1.jar",
-        "name": "Art Of Forging",
-        "version": null,
-        "mod_id": null,
-        "file_size": 559418,
-        "curseforge_id": 596955,
-        "modrinth_id": "Y9qsR64e"
-      },
-      {
         "file_name": "artifacts-forge-9.5.16.jar",
         "name": "Artifacts",
         "version": null,
@@ -1371,6 +1371,15 @@
         "file_size": 16619,
         "curseforge_id": 1091297,
         "modrinth_id": "dJkH8Y3N"
+      },
+      {
+        "file_name": "jei-1.20.1-forge-15.20.0.129-async-1.jar",
+        "name": "Async JEI (Just Enough Item)",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1414085,
+        "curseforge_id": 1180017,
+        "modrinth_id": null
       },
       {
         "file_name": "atlantis-11.19.2025-1.20.1-10.0.2-forge.jar",
@@ -2237,11 +2246,11 @@
         "modrinth_id": "PbNc6qBY"
       },
       {
-        "file_name": "bloodyhell-0.8.01.jar",
+        "file_name": "bloodyhell-0.8.02.jar",
         "name": "BloodyHell!",
         "version": null,
         "mod_id": null,
-        "file_size": 26779299,
+        "file_size": 26791763,
         "curseforge_id": 1202025,
         "modrinth_id": null
       },
@@ -2352,6 +2361,24 @@
         "file_size": 343925,
         "curseforge_id": 228525,
         "modrinth_id": "uy4Cnpcm"
+      },
+      {
+        "file_name": "born_in_chaos_[Forge]1.20.1_1.7.4.jar",
+        "name": "Born in Chaos",
+        "version": null,
+        "mod_id": null,
+        "file_size": 11833732,
+        "curseforge_id": 686437,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "borninconfiguration-3.1.2-all.jar",
+        "name": "Born In Configuration",
+        "version": null,
+        "mod_id": null,
+        "file_size": 2958732,
+        "curseforge_id": 1019091,
+        "modrinth_id": null
       },
       {
         "file_name": "BOMD-Forge-1.20.1-1.1.2.jar",
@@ -2489,6 +2516,15 @@
         "modrinth_id": null
       },
       {
+        "file_name": "BrandonsCore-1.20.1-3.2.1.302-universal.jar",
+        "name": "Brandon\u0027s Core",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1358270,
+        "curseforge_id": 231382,
+        "modrinth_id": null
+      },
+      {
         "file_name": "braziliandelight-forge-2.0.3\u002B1.20.1.jar",
         "name": "Brazilian Delight",
         "version": null,
@@ -2570,11 +2606,11 @@
         "modrinth_id": "5lX4Ih4V"
       },
       {
-        "file_name": "bc_additions-1.20.1-1.1.0.jar",
+        "file_name": "bc_additions-1.20.1-1.2.0.jar",
         "name": "Builders Companion Additions",
         "version": null,
         "mod_id": null,
-        "file_size": 176666,
+        "file_size": 235249,
         "curseforge_id": 1425929,
         "modrinth_id": null
       },
@@ -3389,6 +3425,24 @@
         "modrinth_id": "i9ignCtO"
       },
       {
+        "file_name": "glowworks-1.20-1.0.3-forge.jar",
+        "name": "Colorful Lighting (Glowworks)",
+        "version": null,
+        "mod_id": null,
+        "file_size": 740044,
+        "curseforge_id": 1380836,
+        "modrinth_id": "ovkxGO8r"
+      },
+      {
+        "file_name": "colorful_lighting-1.20.1-2.3.1.jar",
+        "name": "Colorful Lighting (Sodium Compat)",
+        "version": null,
+        "mod_id": null,
+        "file_size": 188054,
+        "curseforge_id": 1373023,
+        "modrinth_id": null
+      },
+      {
         "file_name": "ColossalChests-1.20.1-1.8.7.jar",
         "name": "ColossalChests",
         "version": null,
@@ -3776,11 +3830,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "CrashAssistant-forge-1.19-1.20.1-1.11.0.jar",
+        "file_name": "CrashAssistant-forge-1.19-1.20.1-1.11.3.jar",
         "name": "Crash Assistant",
         "version": null,
         "mod_id": null,
-        "file_size": 3022834,
+        "file_size": 3046687,
         "curseforge_id": 1154099,
         "modrinth_id": "ix1qq8Ux"
       },
@@ -5360,12 +5414,39 @@
         "modrinth_id": "hcHS5k6e"
       },
       {
-        "file_name": "draconiccodex-0.6.jar",
-        "name": "Draconic Codex",
+        "file_name": "Draconic-Additions-1.20.1-2.4.1.5-universal.jar",
+        "name": "Draconic Additions",
         "version": null,
         "mod_id": null,
-        "file_size": 24988,
+        "file_size": 1017840,
+        "curseforge_id": 314515,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "draconiccodex-0.61.jar",
+        "name": "Draconic Codex (Quark Ancient Tome Expansion)",
+        "version": null,
+        "mod_id": null,
+        "file_size": 24952,
         "curseforge_id": 1259139,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "Draconic-Evolution-1.20.1-3.1.2.621-universal.jar",
+        "name": "Draconic Evolution",
+        "version": null,
+        "mod_id": null,
+        "file_size": 5934411,
+        "curseforge_id": 223565,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "de_additions-1.20.1-1.0.2.jar",
+        "name": "Draconic Evolution Respiration Module",
+        "version": null,
+        "mod_id": null,
+        "file_size": 36047,
+        "curseforge_id": 1480638,
         "modrinth_id": null
       },
       {
@@ -5934,15 +6015,6 @@
         "file_size": 2285317,
         "curseforge_id": 302113,
         "modrinth_id": "DYtfQEYj"
-      },
-      {
-        "file_name": "electroblobs-wizardry-redux-0.7.2-forge.jar",
-        "name": "Electroblob\u0027s Wizardry Redux",
-        "version": null,
-        "mod_id": null,
-        "file_size": 9281610,
-        "curseforge_id": 1405790,
-        "modrinth_id": "s5qOekOc"
       },
       {
         "file_name": "Electrodynamics-1.20.1-1.0.2.jar",
@@ -8600,15 +8672,6 @@
         "modrinth_id": null
       },
       {
-        "file_name": "ImmediatelyFast-Forge-1.5.4\u002B1.20.4.jar",
-        "name": "ImmediatelyFast",
-        "version": null,
-        "mod_id": null,
-        "file_size": 538992,
-        "curseforge_id": 686911,
-        "modrinth_id": "5ZwdcRci"
-      },
-      {
         "file_name": "immersive_aircraft-1.4.0\u002B1.20.1-forge.jar",
         "name": "Immersive Aircraft",
         "version": null,
@@ -9365,15 +9428,6 @@
         "modrinth_id": null
       },
       {
-        "file_name": "jei-1.20.1-forge-15.20.0.129.jar",
-        "name": "Just Enough Items (JEI)",
-        "version": null,
-        "mod_id": null,
-        "file_size": 1409642,
-        "curseforge_id": 238222,
-        "modrinth_id": "u6dRKJwZ"
-      },
-      {
         "file_name": "JustEnoughMekanismMultiblocks-1.20.1-4.16.jar",
         "name": "Just Enough Mekanism Multiblocks",
         "version": null,
@@ -9716,12 +9770,21 @@
         "modrinth_id": "AVq17PqV"
       },
       {
-        "file_name": "legendarycreatures-1.20.1-1.1.1.4.jar",
+        "file_name": "legendarycreatures-1.20.1-1.1.2.jar",
         "name": "Legendary Creatures",
         "version": null,
         "mod_id": null,
-        "file_size": 3704761,
+        "file_size": 3585899,
         "curseforge_id": 837157,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "legendary_spellbooks-1.20.1-0.1.0\u002Bforge.jar",
+        "name": "Legendary Spellbooks",
+        "version": null,
+        "mod_id": null,
+        "file_size": 225356,
+        "curseforge_id": 1478875,
         "modrinth_id": null
       },
       {
@@ -10103,6 +10166,33 @@
         "modrinth_id": "jgzwYsAN"
       },
       {
+        "file_name": "mna-forge-1.20.1-3.1.11-all.jar",
+        "name": "Mana and Artifice",
+        "version": null,
+        "mod_id": null,
+        "file_size": 32388968,
+        "curseforge_id": 406360,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "mna_attrib_apoth-0.5-1.20.1.jar",
+        "name": "Mana and Artifice Apotheosis Compat",
+        "version": null,
+        "mod_id": null,
+        "file_size": 66456,
+        "curseforge_id": 1221872,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "mna_attributes-forge-1.20.1-0.3.0.jar",
+        "name": "Mana and Artifice: Attributes",
+        "version": null,
+        "mod_id": null,
+        "file_size": 40605,
+        "curseforge_id": 1103641,
+        "modrinth_id": null
+      },
+      {
         "file_name": "mana_jade-1.2.1.jar",
         "name": "Mana Jade",
         "version": null,
@@ -10244,6 +10334,15 @@
         "mod_id": null,
         "file_size": 714330,
         "curseforge_id": 233105,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "MCreatorMemFix-1.0.4.jar",
+        "name": "MCreatorMemFix",
+        "version": null,
+        "mod_id": null,
+        "file_size": 230374,
+        "curseforge_id": 1310491,
         "modrinth_id": null
       },
       {
@@ -11300,11 +11399,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "morevanillashields-1.1.5-1.20.1-beta.jar",
+        "file_name": "morevanillashields-1.1.5-1.20.1.jar",
         "name": "More Vanilla Shields",
         "version": null,
         "mod_id": null,
-        "file_size": 345209,
+        "file_size": 366254,
         "curseforge_id": 940758,
         "modrinth_id": "qYO6TImU"
       },
@@ -11444,6 +11543,15 @@
         "modrinth_id": null
       },
       {
+        "file_name": "muid-3.0.1-1.20.1-forge.jar",
+        "name": "MUID - Most Used IDs",
+        "version": null,
+        "mod_id": null,
+        "file_size": 13402,
+        "curseforge_id": 427215,
+        "modrinth_id": null
+      },
+      {
         "file_name": "multipiston-1.20-0.0.47-snapshot.jar",
         "name": "Multi-Piston",
         "version": null,
@@ -11480,11 +11588,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "mutil-1.20.1-6.2.0.jar",
+        "file_name": "mutil-1.20.1-6.3.0.jar",
         "name": "mutil",
         "version": null,
         "mod_id": null,
-        "file_size": 100060,
+        "file_size": 100449,
         "curseforge_id": 351914,
         "modrinth_id": "HWHl8Evb"
       },
@@ -11594,6 +11702,15 @@
         "mod_id": null,
         "file_size": 360310,
         "curseforge_id": 1232977,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "mysticalmorecrops-1.0.1.jar",
+        "name": "Mystical More Crops",
+        "version": null,
+        "mod_id": null,
+        "file_size": 243039,
+        "curseforge_id": 1484031,
         "modrinth_id": null
       },
       {
@@ -11849,7 +11966,7 @@
         "modrinth_id": "KstN3eSL"
       },
       {
-        "file_name": "nonintrusivedoors-0.1-1.20.1.jar",
+        "file_name": "nonintrusivedoors-0.2-1.20.1.jar",
         "name": "Non Intrusive Doors Mod",
         "version": null,
         "mod_id": null,
@@ -11903,7 +12020,7 @@
         "modrinth_id": "aH4Sud5i"
       },
       {
-        "file_name": "NuclearCraft-1.20.1-1.2.17.jar",
+        "file_name": "NuclearCraft-1.20.1-1.2.18.jar",
         "name": "Nuclearcraft Neoteric",
         "version": null,
         "mod_id": null,
@@ -12180,6 +12297,15 @@
         "file_size": 559684,
         "curseforge_id": 308380,
         "modrinth_id": "ugIdhQx4"
+      },
+      {
+        "file_name": "PackagedDraconic-1.20.1-3.1.2.9.jar",
+        "name": "PackagedDraconic",
+        "version": null,
+        "mod_id": null,
+        "file_size": 133982,
+        "curseforge_id": 833931,
+        "modrinth_id": null
       },
       {
         "file_name": "PackagedMekemicals-1.20.1-1.2.2.13.jar",
@@ -13280,7 +13406,7 @@
         "modrinth_id": null
       },
       {
-        "file_name": "visual_keybinder-1.20.1 - 0.1.11.jar",
+        "file_name": "visual_keybinder-1.20.1 - 0.1.12.jar",
         "name": "Raw\u0027s Visual Keybinder",
         "version": null,
         "mod_id": null,
@@ -13352,21 +13478,21 @@
         "modrinth_id": "8TWzoOby"
       },
       {
-        "file_name": "rechiseled-1.2.4-forge-mc1.20.1.jar",
-        "name": "Rechiseled",
-        "version": null,
-        "mod_id": null,
-        "file_size": 11860511,
-        "curseforge_id": 558998,
-        "modrinth_id": "B0g2vT6l"
-      },
-      {
         "file_name": "rechiseled_fans-1.0.0.jar",
         "name": "Rechiseled Fans",
         "version": null,
         "mod_id": null,
         "file_size": 239187,
         "curseforge_id": 933343,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "rechiseled-1.2.4-forge-mc1.20.1.jar",
+        "name": "rechiseled-1.2.4-forge-mc1.20.1",
+        "version": null,
+        "mod_id": null,
+        "file_size": 11860511,
+        "curseforge_id": null,
         "modrinth_id": null
       },
       {
@@ -13721,11 +13847,11 @@
         "modrinth_id": "ZnZ8uqXN"
       },
       {
-        "file_name": "reworkedphantoms-1.2.4\u002Bmc1.19.4.jar",
+        "file_name": "ReworkedPhantoms-1.2.5\u002BForge-1.19.4.jar",
         "name": "Reworked Phantoms",
         "version": null,
         "mod_id": null,
-        "file_size": 12120,
+        "file_size": 27150,
         "curseforge_id": 1272418,
         "modrinth_id": "WvfzCeKX"
       },
@@ -14045,6 +14171,15 @@
         "modrinth_id": null
       },
       {
+        "file_name": "saturation_plus-1.2.0-forge-1.20.jar",
+        "name": "Saturation Plus",
+        "version": null,
+        "mod_id": null,
+        "file_size": 35908,
+        "curseforge_id": 959951,
+        "modrinth_id": null
+      },
+      {
         "file_name": "saturn-mc1.20.1-0.1.3.jar",
         "name": "Saturn",
         "version": null,
@@ -14196,15 +14331,6 @@
         "file_size": 29581,
         "curseforge_id": 509239,
         "modrinth_id": "H6rTJkIn"
-      },
-      {
-        "file_name": "secrets_of_forging_revelations-1.3.4-1.20.1-b.jar",
-        "name": "Secrets Of Forging Revelations",
-        "version": null,
-        "mod_id": null,
-        "file_size": 199977,
-        "curseforge_id": 864307,
-        "modrinth_id": null
       },
       {
         "file_name": "[1.20.1] SecurityCraft v1.10.1.jar",
@@ -14864,11 +14990,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "sophisticatedbackpacks-1.20.1-3.24.27.1580.jar",
+        "file_name": "sophisticatedbackpacks-1.20.1-3.24.29.1588.jar",
         "name": "Sophisticated Backpacks",
         "version": null,
         "mod_id": null,
-        "file_size": 1011654,
+        "file_size": 1011680,
         "curseforge_id": 422301,
         "modrinth_id": null
       },
@@ -15006,15 +15132,6 @@
         "file_size": 2754568,
         "curseforge_id": 790530,
         "modrinth_id": "krskFMfA"
-      },
-      {
-        "file_name": "solcarrot-1.20.1-1.15.1.jar",
-        "name": "Spice of Life: Carrot Edition",
-        "version": null,
-        "mod_id": null,
-        "file_size": 104185,
-        "curseforge_id": 277616,
-        "modrinth_id": null
       },
       {
         "file_name": "spider-caves-forge-20.1.0.jar",
@@ -15764,31 +15881,13 @@
         "modrinth_id": "OUhp5O2m"
       },
       {
-        "file_name": "tetra-1.20.1-6.12.0.jar",
+        "file_name": "tetra-1.20.1-6.13.0.jar",
         "name": "Tetra",
         "version": null,
         "mod_id": null,
-        "file_size": 3981699,
+        "file_size": 4022276,
         "curseforge_id": 289712,
         "modrinth_id": "YP9DjOvN"
-      },
-      {
-        "file_name": "Tetra Attribute Rebalancing-6.9.0-1.0.0-PrecisionFix.jar",
-        "name": "Tetra Attribute Rebalancing",
-        "version": null,
-        "mod_id": null,
-        "file_size": 6686,
-        "curseforge_id": 1363849,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "tetra_engineer_goggles-1.0.1.jar",
-        "name": "Tetra Engineer Goggles",
-        "version": null,
-        "mod_id": null,
-        "file_size": 88326,
-        "curseforge_id": 1407965,
-        "modrinth_id": null
       },
       {
         "file_name": "tetraextras-0.1.4-1.20.1.jar",
@@ -15800,15 +15899,6 @@
         "modrinth_id": "wDvpvvcU"
       },
       {
-        "file_name": "tetra_spell_book-1.1.9.jar",
-        "name": "Tetra Spell Book",
-        "version": null,
-        "mod_id": null,
-        "file_size": 360593,
-        "curseforge_id": 1402916,
-        "modrinth_id": null
-      },
-      {
         "file_name": "tetrasdelight-1.20.1-1.jar",
         "name": "Tetra\u0027s Delight",
         "version": null,
@@ -15816,15 +15906,6 @@
         "file_size": 5152,
         "curseforge_id": 845576,
         "modrinth_id": "TVhC6ZPD"
-      },
-      {
-        "file_name": "tetranomicon-1.6.1-1.20.1.jar",
-        "name": "Tetranomicon",
-        "version": null,
-        "mod_id": null,
-        "file_size": 737563,
-        "curseforge_id": 445385,
-        "modrinth_id": null
       },
       {
         "file_name": "tetratic-combat-expanded-1.20-2.8.3.jar",
@@ -17778,15 +17859,6 @@
         "file_size": 102318,
         "curseforge_id": 1206333,
         "modrinth_id": "qqIrLnDt"
-      },
-      {
-        "file_name": "witheringboon-1.8.3.jar",
-        "name": "Withering Boon",
-        "version": null,
-        "mod_id": null,
-        "file_size": 161498,
-        "curseforge_id": 857533,
-        "modrinth_id": "ALDMlJiu"
       },
       {
         "file_name": "wits-1.1.0\u002B1.20.1-forge.jar",

@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = title_screen
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1773353461163
+  last_edited_time = 1773839009988
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
   custom_menu_title = Mystical Enlightenment 1.20.1 NeoForge
-  [loading_requirement_container_meta:6d3c43cf-160b-4b9c-a031-ab655ad8551c-1773353454825] = [groups:][instances:]
+  [loading_requirement_container_meta:c79924cf-6905-43ce-996d-db41fcc9da67-1773837119606] = [groups:][instances:]
 }
 
 menu_background {

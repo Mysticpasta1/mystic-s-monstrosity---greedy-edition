@@ -497,15 +497,6 @@
 		dark_ceiling_light = "[255,255,255]"
 		television = "[255,255,255]"
 
-[ebwizardry]
-
-	[ebwizardry.blocks]
-		crystal_flower = "[255,255,255]"
-		potted_crystal_flower = "[255,255,255]"
-		receptacle = "[255,255,255]"
-		wall_receptacle = "[255,255,255]"
-		imbuement_altar = "[255,255,255]"
-
 [thermal_extra]
 
 	[thermal_extra.blocks]
@@ -9826,4 +9817,66 @@
 		pink_alarm = "[255,102,187]"
 		orange_alarm = "[255,102,17]"
 		cyan_alarm = "[0,255,255]"
+
+[mna]
+
+	[mna.blocks]
+		mage_light = "[255,255,255]"
+		hellfire = "[255,255,255]"
+		construct_workbench = "[255,255,255]"
+		invisible_light = "[255,255,255]"
+		"decoration/runic_glass" = "[255,255,255]"
+		"decoration/runic_glass_black" = "[0,0,0]"
+		"decoration/runic_glass_blue" = "[0,0,255]"
+		"decoration/runic_glass_brown" = "[136,68,17]"
+		"decoration/runic_glass_cyan" = "[0,255,255]"
+		"decoration/runic_glass_gray" = "[136,136,136]"
+		"decoration/runic_glass_green" = "[0,255,0]"
+		"decoration/runic_glass_light_blue" = "[0,0,255]"
+		"decoration/runic_glass_light_gray" = "[136,136,136]"
+		"decoration/runic_glass_lime" = "[187,255,0]"
+		"decoration/runic_glass_magenta" = "[255,0,255]"
+		"decoration/runic_glass_orange" = "[255,102,17]"
+		"decoration/runic_glass_pink" = "[255,102,187]"
+		"decoration/runic_glass_purple" = "[170,34,255]"
+		"decoration/runic_glass_red" = "[255,0,0]"
+		"decoration/runic_glass_white" = "[255,255,255]"
+		"decoration/runic_glass_yellow" = "[255,255,0]"
+		"decoration/runic_glass_pane_black" = "[0,0,0]"
+		"decoration/runic_glass_pane_blue" = "[0,0,255]"
+		"decoration/runic_glass_pane_brown" = "[136,68,17]"
+		"decoration/runic_glass_pane_cyan" = "[0,255,255]"
+		"decoration/runic_glass_pane_gray" = "[136,136,136]"
+		"decoration/runic_glass_pane_green" = "[0,255,0]"
+		"decoration/runic_glass_pane_light_blue" = "[0,0,255]"
+		"decoration/runic_glass_pane_light_gray" = "[136,136,136]"
+		"decoration/runic_glass_pane_lime" = "[187,255,0]"
+		"decoration/runic_glass_pane_magenta" = "[255,0,255]"
+		"decoration/runic_glass_pane_orange" = "[255,102,17]"
+		"decoration/runic_glass_pane_pink" = "[255,102,187]"
+		"decoration/runic_glass_pane_purple" = "[170,34,255]"
+		"decoration/runic_glass_pane_red" = "[255,0,0]"
+		"decoration/runic_glass_pane_white" = "[255,255,255]"
+		"decoration/runic_glass_pane_yellow" = "[255,255,0]"
+
+[born_in_chaos_v1]
+
+	[born_in_chaos_v1.blocks]
+		flaming_evil_pumpkin = "[255,255,255]"
+		infernal_evil_pumpkin = "[255,255,255]"
+		infernal_evil_pumpkin_s = "[255,255,255]"
+		argillite_lamp = "[255,255,255]"
+		fel_soil = "[255,255,255]"
+		fel_soil_destructible = "[255,255,255]"
+		tombstone_dark_titan_066 = "[255,255,255]"
+		tombstone_orion = "[255,255,255]"
+		lifestealer_skull = "[255,255,255]"
+		tombstone_derivas = "[255,255,255]"
+		tombstone_fubuki_banzai = "[255,255,255]"
+		rotten_infernal_pumpkin = "[255,255,255]"
+		tombstone_memesus = "[255,255,255]"
+		tombstone_2_dling = "[255,255,255]"
+		tombstone_euthymia = "[255,255,255]"
+		tombstone_d_4rkdevilx = "[255,255,255]"
+		tombstone_rotborne = "[255,255,255]"
 

@@ -1839,6 +1839,11 @@
     255,
     255
   ],
+  "born_in_chaos_v1:purple_stained_glass_panel": [
+    170,
+    34,
+    255
+  ],
   "enderio:clear_glass_ea_white": [
     255,
     255,
@@ -5109,6 +5114,11 @@
     255,
     255
   ],
+  "born_in_chaos_v1:purple_stained_glass": [
+    170,
+    34,
+    255
+  ],
   "enderio:clear_glass_p_magenta": [
     255,
     0,
@@ -6085,6 +6095,11 @@
     136
   ],
   "create:glass_fluid_pipe": [
+    255,
+    255,
+    255
+  ],
+  "born_in_chaos_v1:scarlet_stained_glass": [
     255,
     255,
     255
@@ -7399,6 +7414,11 @@
     255,
     255
   ],
+  "born_in_chaos_v1:green_stained_glass_panel": [
+    0,
+    255,
+    0
+  ],
   "buildersdelight:bamboo_glass_pane_2": [
     255,
     255,
@@ -8533,6 +8553,11 @@
     255,
     255,
     255
+  ],
+  "born_in_chaos_v1:green_stained_glass": [
+    0,
+    255,
+    0
   ],
   "minecraft:white_stained_glass_pane": [
     255,
@@ -9909,6 +9934,11 @@
     255,
     0
   ],
+  "born_in_chaos_v1:scarlet_stained_glass_panel": [
+    255,
+    255,
+    255
+  ],
   "aestheticwindows:vertical_fourpane_window_cedar": [
     255,
     255,
@@ -11138,6 +11168,11 @@
     0,
     255,
     255
+  ],
+  "born_in_chaos_v1:orange_stained_glass_panel": [
+    255,
+    102,
+    17
   ],
   "railways:green_round_pane_locometal_window": [
     0,
@@ -13130,6 +13165,11 @@
     255
   ],
   "railways:scorchia_round_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "born_in_chaos_v1:dark_stained_glass_panel": [
     255,
     255,
     255
@@ -16289,6 +16329,11 @@
     136,
     136
   ],
+  "born_in_chaos_v1:cursed_scarlet_ornate_glass_pane": [
+    255,
+    255,
+    255
+  ],
   "mcwwindows:crimson_stem_four_window": [
     255,
     255,
@@ -19054,6 +19099,11 @@
     0,
     0
   ],
+  "born_in_chaos_v1:dark_stained_glass": [
+    255,
+    255,
+    255
+  ],
   "mcwdoors:mangrove_barn_glass_door": [
     255,
     255,
@@ -20488,6 +20538,11 @@
     255,
     255,
     255
+  ],
+  "born_in_chaos_v1:orange_stained_glass": [
+    255,
+    102,
+    17
   ],
   "valhelsia_structures:black_metal_framed_glass": [
     0,

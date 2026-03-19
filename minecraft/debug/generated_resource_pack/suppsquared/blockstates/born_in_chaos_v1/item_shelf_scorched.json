@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/born_in_chaos_v1/scorched"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/born_in_chaos_v1/scorched",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/born_in_chaos_v1/scorched",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/born_in_chaos_v1/scorched",
+      "y": 270
+    }
+  }
+}

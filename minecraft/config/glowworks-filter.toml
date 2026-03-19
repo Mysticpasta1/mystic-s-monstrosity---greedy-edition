@@ -4671,3 +4671,18 @@
 	[actuallyadditions.blocks]
 		greenhouse_glass = "[0,255,0]"
 
+[born_in_chaos_v1]
+
+	[born_in_chaos_v1.blocks]
+		scarlet_stained_glass = "[255,255,255]"
+		scarlet_stained_glass_panel = "[255,255,255]"
+		orange_stained_glass = "[255,102,17]"
+		orange_stained_glass_panel = "[255,102,17]"
+		green_stained_glass = "[0,255,0]"
+		green_stained_glass_panel = "[0,255,0]"
+		purple_stained_glass = "[170,34,255]"
+		purple_stained_glass_panel = "[170,34,255]"
+		dark_stained_glass = "[255,255,255]"
+		dark_stained_glass_panel = "[255,255,255]"
+		cursed_scarlet_ornate_glass_pane = "[255,255,255]"
+

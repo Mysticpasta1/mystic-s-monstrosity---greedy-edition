@@ -21,6 +21,8 @@
 	endermanGriefing = true
 	#Enable Ectoplasm module: Tethered Spirits, ectoplasm drops, and Spectral Sword yield bonuses.
 	ectoplasm = true
+	#Enable Token of Luna: prevents baby animals from groing up.
+	tokenOfLuna = true
 
 [patrol_ward]
 	#Radius (blocks) around warding core/effigy that prevents PATROL spawns.
