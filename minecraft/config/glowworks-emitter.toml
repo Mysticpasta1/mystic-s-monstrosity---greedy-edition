@@ -9880,3 +9880,94 @@
 		tombstone_d_4rkdevilx = "[255,255,255]"
 		tombstone_rotborne = "[255,255,255]"
 
+[fracture]
+
+	[fracture.blocks]
+		radiant_ice = "[255,255,255]"
+		large_flesh_bulb = "[255,255,255]"
+		small_flesh_bulb = "[255,255,255]"
+
+[armageddon_mod]
+
+	[armageddon_mod.blocks]
+		voiderite_ore = "[255,255,255]"
+		elvenite_ore = "[255,255,255]"
+		bloody_ore = "[255,255,255]"
+
+[luminousworld]
+
+	[luminousworld.blocks]
+		white_fire = "[255,255,255]"
+		red_fire = "[255,0,0]"
+		yellow_fire = "[255,255,0]"
+		lime_fire = "[187,255,0]"
+		green_fire = "[0,255,0]"
+		blue_fire = "[0,0,255]"
+		purple_fire = "[170,34,255]"
+		pink_fire = "[255,102,187]"
+		black_fire = "[0,0,0]"
+		fireflyjar = "[255,255,255]"
+		soulbfjar = "[0,0,255]"
+		glowstonebutterflyjar = "[255,255,255]"
+		fire_flyjar_1 = "[255,255,255]"
+		fire_flyjar_2 = "[255,255,255]"
+		talltorchtop = "[255,255,0]"
+		tall_soul_torch_top = "[0,0,255]"
+		viper_egg = "[255,255,255]"
+		phoenix_egg = "[255,255,255]"
+		gilded_tree_ent_trophy = "[255,255,255]"
+		rare_viper_egg = "[255,255,255]"
+		rare_phoenix_egg = "[255,255,255]"
+		beast_pit = "[255,255,255]"
+		beast_pit_off = "[255,255,255]"
+		decorative_lantern = "[255,255,255]"
+		hanging_decorative_lantern = "[255,255,255]"
+
+[luminous_nether]
+
+	[luminous_nether.blocks]
+		golden_fungi = "[255,255,255]"
+		golden_mushroom = "[255,255,255]"
+		goldmushroom = "[255,255,255]"
+		fungirrack_lamp = "[255,255,255]"
+		fungirracklampred = "[255,0,0]"
+		fungirracklamporange = "[255,102,17]"
+		fungirracklamp_green = "[0,255,0]"
+		fungirracklampblue = "[0,0,255]"
+		fungirracklamppurple = "[170,34,255]"
+		fungirracklamp_pink = "[255,102,187]"
+		white_fire = "[255,255,255]"
+		ghost_lantern = "[255,255,255]"
+		candle_stand_top = "[255,255,255]"
+		ghost_lamp = "[255,255,255]"
+		ritual_table = "[255,255,255]"
+		soul_bone_block = "[0,0,255]"
+		ghost_vent_block = "[255,255,255]"
+		nether_candle_stand_top = "[255,255,255]"
+		heavy_nether_brick_lamp = "[255,255,255]"
+		gilded_piglin_trophy = "[255,255,255]"
+		glowing_chiseled_heavy_nether_bricks = "[255,255,255]"
+		full_goldmushroom = "[255,255,255]"
+		lit_pale_melon = "[255,255,255]"
+		hanging_ghost_lantern = "[255,255,255]"
+		popshroom = "[255,255,255]"
+		popjuice_ground = "[255,255,255]"
+
+[luminous_halloween]
+
+	[luminous_halloween.blocks]
+		moonstone = "[255,255,255]"
+		moonstone_bricks = "[255,255,255]"
+		moonstone_brick_stairs = "[255,255,255]"
+		moonstone_brick_slab = "[255,255,255]"
+		moonstone_brick_wall = "[255,255,255]"
+
+[luminous_beasts]
+
+	[luminous_beasts.blocks]
+		sea_viper_egg = "[153,204,204]"
+		rare_viper_egg = "[255,255,255]"
+		beast_pit = "[255,255,255]"
+		beast_pit_off = "[255,255,255]"
+		gilded_ent_trophy = "[255,255,255]"
+

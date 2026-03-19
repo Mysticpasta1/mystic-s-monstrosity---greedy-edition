@@ -1,7 +1,7 @@
 [
   {
-    "version": "33.0.0",
-    "created_at": "2026-03-19T00:26:20.1795421Z",
+    "version": "33.1.0",
+    "created_at": "2026-03-19T22:57:04.1244339Z",
     "notes": null,
     "mod_snapshot": [
       {
@@ -12,6 +12,15 @@
         "file_size": 415067,
         "curseforge_id": 401273,
         "modrinth_id": "FbJOKNup"
+      },
+      {
+        "file_name": "armageddon_jei-1.0.0.jar",
+        "name": "[JEI] Armageddon Treasure Bags",
+        "version": null,
+        "mod_id": null,
+        "file_size": 36169,
+        "curseforge_id": 1396885,
+        "modrinth_id": null
       },
       {
         "file_name": "loooxbotania-1.20.1-1.0.0.jar",
@@ -878,6 +887,15 @@
         "modrinth_id": null
       },
       {
+        "file_name": "apothecary-1.2.5-1.20.1.jar",
+        "name": "Apothecary - Potion Expansion",
+        "version": null,
+        "mod_id": null,
+        "file_size": 132581,
+        "curseforge_id": 1278100,
+        "modrinth_id": null
+      },
+      {
         "file_name": "Apotheosis-1.20.1-7.4.8.jar",
         "name": "Apotheosis",
         "version": null,
@@ -1112,6 +1130,15 @@
         "modrinth_id": "yJR377od"
       },
       {
+        "file_name": "AraxersBestiary-1.20.1-forge-1.4.1.jar",
+        "name": "Araxer\u0027s Bestiary",
+        "version": null,
+        "mod_id": null,
+        "file_size": 621802,
+        "curseforge_id": 1305235,
+        "modrinth_id": null
+      },
+      {
         "file_name": "archbows-1.1.9-1.20.1.jar",
         "name": "Arch Bows",
         "version": null,
@@ -1146,6 +1173,33 @@
         "file_size": 166604,
         "curseforge_id": 1449856,
         "modrinth_id": "tRtQjNO2"
+      },
+      {
+        "file_name": "Armageddon for 1.20.1 (v2.0.10) - The Madness Update.jar",
+        "name": "Armageddon",
+        "version": null,
+        "mod_id": null,
+        "file_size": 11156499,
+        "curseforge_id": 1110642,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "armageddon_ai_fix_v1.jar",
+        "name": "Armageddon AI Fix",
+        "version": null,
+        "mod_id": null,
+        "file_size": 13918,
+        "curseforge_id": 1487829,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "armageddon_tooltip_tier-1.1.0.jar",
+        "name": "Armageddon Tooltip Hint",
+        "version": null,
+        "mod_id": null,
+        "file_size": 17459,
+        "curseforge_id": 1409277,
+        "modrinth_id": null
       },
       {
         "file_name": "Armor of the Ages-forge-1.20.1-1.3.11.jar",
@@ -1724,11 +1778,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "BCLib-20.0.7.jar",
+        "file_name": "bclib-20.0.8.jar",
         "name": "BCLib",
         "version": null,
         "mod_id": null,
-        "file_size": 2175407,
+        "file_size": 2176825,
         "curseforge_id": 1435106,
         "modrinth_id": "obMZk452"
       },
@@ -2216,6 +2270,15 @@
         "mod_id": null,
         "file_size": 46972,
         "curseforge_id": 1226584,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "blighted_beasts-1.20.1-1.5.4.jar",
+        "name": "Blighted Beasts",
+        "version": null,
+        "mod_id": null,
+        "file_size": 961065,
+        "curseforge_id": 1064685,
         "modrinth_id": null
       },
       {
@@ -4730,11 +4793,11 @@
         "modrinth_id": "cE5SLYbv"
       },
       {
-        "file_name": "curvy_pipes-1.20.1-1.14.0.jar",
+        "file_name": "curvy_pipes-1.20.1-1.14.1.jar",
         "name": "Curvy Pipes",
         "version": null,
         "mod_id": null,
-        "file_size": 2629267,
+        "file_size": 2629245,
         "curseforge_id": 1151126,
         "modrinth_id": "Ns4fCzXQ"
       },
@@ -7097,11 +7160,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "floating_islands-1.4.6.jar",
+        "file_name": "floating_islands-1.4.7.jar",
         "name": "Floating Islands",
         "version": null,
         "mod_id": null,
-        "file_size": 346076,
+        "file_size": 358297,
         "curseforge_id": 1216244,
         "modrinth_id": "Ii9sVXDo"
       },
@@ -9428,6 +9491,15 @@
         "modrinth_id": null
       },
       {
+        "file_name": "jei-1.20.1-forge-15.20.0.129.jar",
+        "name": "Just Enough Items (JEI)",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1409642,
+        "curseforge_id": 238222,
+        "modrinth_id": "u6dRKJwZ"
+      },
+      {
         "file_name": "JustEnoughMekanismMultiblocks-1.20.1-4.16.jar",
         "name": "Just Enough Mekanism Multiblocks",
         "version": null,
@@ -10011,6 +10083,60 @@
         "file_size": 187183,
         "curseforge_id": 1234315,
         "modrinth_id": "sE5eVkj4"
+      },
+      {
+        "file_name": "LuminousTag V1.1 - Forge 1.20.1.jar",
+        "name": "LUMINOUS TAG",
+        "version": null,
+        "mod_id": null,
+        "file_size": 194203,
+        "curseforge_id": 1078066,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "LuminousBeast V1.2.6 - Forge 1.20.1.jar",
+        "name": "LUMINOUS: BEASTS",
+        "version": null,
+        "mod_id": null,
+        "file_size": 25915005,
+        "curseforge_id": 1089627,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "Luminous halloween V1.1 - Forge 1.20.1.jar",
+        "name": "LUMINOUS: HALLOWEEN",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1141930,
+        "curseforge_id": 1130217,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "Luminous Monsters V1.2.8 - Forge 1.20.1.jar",
+        "name": "LUMINOUS: MONSTERS",
+        "version": null,
+        "mod_id": null,
+        "file_size": 825004,
+        "curseforge_id": 1066090,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "Luminous Nether V1.3.2 - Forge 1.20.1.jar",
+        "name": "LUMINOUS: NETHER",
+        "version": null,
+        "mod_id": null,
+        "file_size": 22777339,
+        "curseforge_id": 1078098,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "Luminous Overworld V1.5.4 - Forge 1.20.1.jar",
+        "name": "LUMINOUS: OVERWORLD",
+        "version": null,
+        "mod_id": null,
+        "file_size": 22780615,
+        "curseforge_id": 909107,
+        "modrinth_id": null
       },
       {
         "file_name": "mcw-bridges-3.1.2-mc1.20.1forge.jar",
@@ -11970,8 +12096,17 @@
         "name": "Non Intrusive Doors Mod",
         "version": null,
         "mod_id": null,
-        "file_size": 17065,
+        "file_size": 17282,
         "curseforge_id": 951186,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "fracture-0.3.1.jar",
+        "name": "Noodle\u0027s Fracture",
+        "version": null,
+        "mod_id": null,
+        "file_size": 4878933,
+        "curseforge_id": 1145568,
         "modrinth_id": null
       },
       {
@@ -12024,7 +12159,7 @@
         "name": "Nuclearcraft Neoteric",
         "version": null,
         "mod_id": null,
-        "file_size": 17214705,
+        "file_size": 19757348,
         "curseforge_id": 840010,
         "modrinth_id": "Qvd8pl5G"
       },
@@ -13410,7 +13545,7 @@
         "name": "Raw\u0027s Visual Keybinder",
         "version": null,
         "mod_id": null,
-        "file_size": 97122,
+        "file_size": 258438,
         "curseforge_id": 1020759,
         "modrinth_id": null
       },
@@ -14994,7 +15129,7 @@
         "name": "Sophisticated Backpacks",
         "version": null,
         "mod_id": null,
-        "file_size": 1011680,
+        "file_size": 1012686,
         "curseforge_id": 422301,
         "modrinth_id": null
       },

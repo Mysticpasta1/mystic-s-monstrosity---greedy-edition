@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "luminous_nether:block/strippedwitheredlogside",
+    "post": "luminous_nether:block/ashenlogside"
+  }
+}

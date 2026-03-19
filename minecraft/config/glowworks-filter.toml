@@ -4686,3 +4686,13 @@
 		dark_stained_glass_panel = "[255,255,255]"
 		cursed_scarlet_ornate_glass_pane = "[255,255,255]"
 
+[luminousworld]
+
+	[luminousworld.blocks]
+		decorative_glass_block = "[255,255,255]"
+		decorative_glass_pane = "[255,255,255]"
+		decorative_glass_pane_2 = "[255,255,255]"
+		decorative_glass_pane_3 = "[255,255,255]"
+		decorative_glass_pane_4 = "[255,255,255]"
+		decorative_glass_pane_5 = "[255,255,255]"
+

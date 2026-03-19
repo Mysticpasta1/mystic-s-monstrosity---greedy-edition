@@ -718,6 +718,13 @@
     "curseForgeHash": 2999778249,
     "modrinthHash": "6879b099f65ce81695807e0a009a0f444d785721"
   },
+  "apothecary-1.2.5-1.20.1.jar": {
+    "jarName": "apothecary-1.2.5-1.20.1.jar",
+    "modId": "apothecary",
+    "version": "1.2.5",
+    "curseForgeHash": 2449739680,
+    "modrinthHash": "cc4a5e327e078d1a64e9c235e457e77884ecf825"
+  },
   "Apotheosis-1.20.1-7.4.8.jar": {
     "jarName": "Apotheosis-1.20.1-7.4.8.jar",
     "modId": "apotheosis",
@@ -893,6 +900,13 @@
     "curseForgeHash": 3085513260,
     "modrinthHash": "f885d6ef2a6f5ce646401f7250474c019307c1fc"
   },
+  "AraxersBestiary-1.20.1-forge-1.4.1.jar": {
+    "jarName": "AraxersBestiary-1.20.1-forge-1.4.1.jar",
+    "modId": "araxers_bestiary",
+    "version": "1.4.1",
+    "curseForgeHash": 3047720370,
+    "modrinthHash": "bee55d8298b874a734c40fe9af7fc804bd2ecda9"
+  },
   "ARC Fix 1.10.jar": {
     "jarName": "ARC Fix 1.10.jar",
     "modId": "arcfix",
@@ -948,6 +962,34 @@
     "version": "1.0.4",
     "curseForgeHash": 2472909586,
     "modrinthHash": "e4ec3bf548f4fd67e798fa805e3bfe787f5fa373"
+  },
+  "Armageddon for 1.20.1 (v2.0.10) - The Madness Update.jar": {
+    "jarName": "Armageddon for 1.20.1 (v2.0.10) - The Madness Update.jar",
+    "modId": "armageddon_mod",
+    "version": "2.0.10",
+    "curseForgeHash": 337550558,
+    "modrinthHash": "1e6106f2ff07093ce84fab1329add44a8a7db63a"
+  },
+  "armageddon_ai_fix_v1.jar": {
+    "jarName": "armageddon_ai_fix_v1.jar",
+    "modId": "armageddon_ai_overhaul",
+    "version": "1.0.0",
+    "curseForgeHash": 2153473836,
+    "modrinthHash": "21ce2cd132fb7c5f911f5e7b58aa8de2d9f3ede1"
+  },
+  "armageddon_jei-1.0.0.jar": {
+    "jarName": "armageddon_jei-1.0.0.jar",
+    "modId": "armageddon_jei",
+    "version": "1.0.0",
+    "curseForgeHash": 2086603387,
+    "modrinthHash": "4c383880b5019ddcc35df9bfa3b29e541cf713df"
+  },
+  "armageddon_tooltip_tier-1.1.0.jar": {
+    "jarName": "armageddon_tooltip_tier-1.1.0.jar",
+    "modId": "armageddon_tooltip_tier",
+    "version": "1.1.0",
+    "curseForgeHash": 374629154,
+    "modrinthHash": "5e9f5e51bcecf542a15f246d1feb18345815ed68"
   },
   "Armor of the Ages-forge-1.20.1-1.3.11.jar": {
     "jarName": "Armor of the Ages-forge-1.20.1-1.3.11.jar",
@@ -1424,12 +1466,12 @@
     "curseForgeHash": 4270253886,
     "modrinthHash": "924f355dbcd54b99462084ce37c578b86a75b865"
   },
-  "BCLib-20.0.7.jar": {
-    "jarName": "BCLib-20.0.7.jar",
+  "bclib-20.0.8.jar": {
+    "jarName": "bclib-20.0.8.jar",
     "modId": "bclib",
-    "version": "20.0.7",
-    "curseForgeHash": 3035714173,
-    "modrinthHash": "1a7fcb1afa47435fb6a55d9dc69d75186d19ccdd"
+    "version": "20.0.8",
+    "curseForgeHash": 673507522,
+    "modrinthHash": "daaf25833750464c76005181c257b0d7cba1d99b"
   },
   "bctoggle-1.5.jar": {
     "jarName": "bctoggle-1.5.jar",
@@ -1841,6 +1883,13 @@
     "version": "1.0.0",
     "curseForgeHash": 2303215243,
     "modrinthHash": "11f38cd6b4ac625721158f2884a3dabd0fdffd0f"
+  },
+  "blighted_beasts-1.20.1-1.5.4.jar": {
+    "jarName": "blighted_beasts-1.20.1-1.5.4.jar",
+    "modId": "blighted_beasts",
+    "version": "1.0.0",
+    "curseForgeHash": 2005199010,
+    "modrinthHash": "d085634bea49b3bb7d614112109ae303ff2420b5"
   },
   "blocklayering-1.20.1-1.0.3.jar": {
     "jarName": "blocklayering-1.20.1-1.0.3.jar",
@@ -3603,12 +3652,12 @@
     "curseForgeHash": 1502989370,
     "modrinthHash": "072677d8205e108b69074baa032f62668ad6edb6"
   },
-  "curvy_pipes-1.20.1-1.14.0.jar": {
-    "jarName": "curvy_pipes-1.20.1-1.14.0.jar",
+  "curvy_pipes-1.20.1-1.14.1.jar": {
+    "jarName": "curvy_pipes-1.20.1-1.14.1.jar",
     "modId": "curvy_pipes",
-    "version": "1.14.0",
-    "curseForgeHash": 458447535,
-    "modrinthHash": "3ae8989a7eb458ca3b82629cf5936e937b405168"
+    "version": "1.14.1",
+    "curseForgeHash": 3349083481,
+    "modrinthHash": "cd38a984ae3fe53171ebeeef567bb2f36fcc86ce"
   },
   "custom_nether_portals-forge-1.20.1-1.0.0.jar": {
     "jarName": "custom_nether_portals-forge-1.20.1-1.0.0.jar",
@@ -5520,12 +5569,12 @@
     "curseForgeHash": 2841135319,
     "modrinthHash": "114a247a625a5c4f38827680b47f9cce5b7e406d"
   },
-  "floating_islands-1.4.6.jar": {
-    "jarName": "floating_islands-1.4.6.jar",
+  "floating_islands-1.4.7.jar": {
+    "jarName": "floating_islands-1.4.7.jar",
     "modId": "floating_islands",
-    "version": "1.4.6",
-    "curseForgeHash": 512896331,
-    "modrinthHash": "4bb0e076a6c41adfda4b33dfcb933f51ee80e2b8"
+    "version": "1.4.7",
+    "curseForgeHash": 3520730785,
+    "modrinthHash": "754b79b5e50bc8fc0e5acee704c402ac32cc0b14"
   },
   "floormats-1.20.1-1.6.0.jar": {
     "jarName": "floormats-1.20.1-1.6.0.jar",
@@ -5736,6 +5785,13 @@
     "version": "1.0.5",
     "curseForgeHash": 2763312882,
     "modrinthHash": "baffe74c5b996540bd62a88e6017df040770b405"
+  },
+  "fracture-0.3.1.jar": {
+    "jarName": "fracture-0.3.1.jar",
+    "modId": "fracture",
+    "version": "0.3.1",
+    "curseForgeHash": 3494366249,
+    "modrinthHash": "2d7da05e9a9af3867052e049b3016dba208fc1c2"
   },
   "fragmentum-forge-1.20.1-1.1.0.jar": {
     "jarName": "fragmentum-forge-1.20.1-1.1.0.jar",
@@ -7826,12 +7882,54 @@
     "curseForgeHash": 1134418847,
     "modrinthHash": "2aea2f6189a2c900d8f9c6186f0962afbe1b8da0"
   },
+  "Luminous halloween V1.1 - Forge 1.20.1.jar": {
+    "jarName": "Luminous halloween V1.1 - Forge 1.20.1.jar",
+    "modId": "luminous_halloween",
+    "version": "1.1",
+    "curseForgeHash": 2499453352,
+    "modrinthHash": "be900ac1a88a7058b7b443a4ba5ff1c4dd6a1216"
+  },
+  "Luminous Monsters V1.2.8 - Forge 1.20.1.jar": {
+    "jarName": "Luminous Monsters V1.2.8 - Forge 1.20.1.jar",
+    "modId": "luminous_monsters",
+    "version": "1.2.8",
+    "curseForgeHash": 2508818838,
+    "modrinthHash": "3025fc2d490f72668f1280211b5ce5ede6073b0e"
+  },
+  "Luminous Nether V1.3.2 - Forge 1.20.1.jar": {
+    "jarName": "Luminous Nether V1.3.2 - Forge 1.20.1.jar",
+    "modId": "luminous_nether",
+    "version": "1.3.2",
+    "curseForgeHash": 3968832704,
+    "modrinthHash": "af40828b194fe89facb64d94620bac0f3f92bafd"
+  },
+  "Luminous Overworld V1.5.4 - Forge 1.20.1.jar": {
+    "jarName": "Luminous Overworld V1.5.4 - Forge 1.20.1.jar",
+    "modId": "luminousworld",
+    "version": "1.5.4",
+    "curseForgeHash": 2417543126,
+    "modrinthHash": "8843c173040b76e5d6ca0ecdfec485f42746ce71"
+  },
+  "LuminousBeast V1.2.6 - Forge 1.20.1.jar": {
+    "jarName": "LuminousBeast V1.2.6 - Forge 1.20.1.jar",
+    "modId": "luminous_beasts",
+    "version": "1.2.6",
+    "curseForgeHash": 4228936803,
+    "modrinthHash": "72d2977891da8fe6975a67e55dfa207c80dbb032"
+  },
   "luminousblocks-1.3.0-forge-1.20.1.jar": {
     "jarName": "luminousblocks-1.3.0-forge-1.20.1.jar",
     "modId": "luminousblocks",
     "version": "1.3.0",
     "curseForgeHash": 4000717150,
     "modrinthHash": "dde372a1b590b961c8d15cdf0e2cc9d9388e6864"
+  },
+  "LuminousTag V1.1 - Forge 1.20.1.jar": {
+    "jarName": "LuminousTag V1.1 - Forge 1.20.1.jar",
+    "modId": "luminoustag",
+    "version": "1.1",
+    "curseForgeHash": 3093105983,
+    "modrinthHash": "2b0535b04efef6202368939b3e1db4cd77f7ef35"
   },
   "magicalmarine-1.0.3.jar": {
     "jarName": "magicalmarine-1.0.3.jar",

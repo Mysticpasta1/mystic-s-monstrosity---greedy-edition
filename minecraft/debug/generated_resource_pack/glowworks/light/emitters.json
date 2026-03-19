@@ -19,6 +19,11 @@
     0,
     255
   ],
+  "luminousworld:tall_soul_torch_top": [
+    0,
+    0,
+    255
+  ],
   "wallpapercraft:auralampblue-10": [
     0,
     0,
@@ -207,6 +212,11 @@
   "dazzle:light_blue_shroomlight": [
     0,
     0,
+    255
+  ],
+  "luminousworld:rare_phoenix_egg": [
+    255,
+    255,
     255
   ],
   "botania:floating_loonium": [
@@ -687,6 +697,11 @@
   "musings:circle_pink_ring_purple_bg_flipping": [
     170,
     34,
+    255
+  ],
+  "luminous_halloween:moonstone_brick_slab": [
+    255,
+    255,
     255
   ],
   "simplylight:illuminant_panel": [
@@ -2444,6 +2459,11 @@
     255,
     0
   ],
+  "luminous_nether:golden_mushroom": [
+    255,
+    255,
+    255
+  ],
   "essentials:candle_lilypad": [
     255,
     255,
@@ -3195,6 +3215,11 @@
     255
   ],
   "vanilladelight:end_stone_bricks_stove": [
+    255,
+    255,
+    255
+  ],
+  "luminous_halloween:moonstone_brick_stairs": [
     255,
     255,
     255
@@ -3954,6 +3979,11 @@
     255,
     255
   ],
+  "luminous_nether:full_goldmushroom": [
+    255,
+    255,
+    255
+  ],
   "architects_palette:algal_lamp": [
     255,
     255,
@@ -4334,6 +4364,11 @@
     255,
     0
   ],
+  "luminousworld:rare_viper_egg": [
+    255,
+    255,
+    255
+  ],
   "beautify:lamp_candelabra_lime": [
     187,
     255,
@@ -4414,6 +4449,11 @@
     255,
     255
   ],
+  "luminous_halloween:moonstone": [
+    255,
+    255,
+    255
+  ],
   "abstoneedition:glowstone_slab": [
     255,
     255,
@@ -4465,6 +4505,11 @@
     0
   ],
   "fulleng:conversion_monitor": [
+    255,
+    255,
+    255
+  ],
+  "luminousworld:fireflyjar": [
     255,
     255,
     255
@@ -5939,6 +5984,11 @@
     0,
     0
   ],
+  "luminousworld:purple_fire": [
+    170,
+    34,
+    255
+  ],
   "refurbished_furniture:birch_dark_ceiling_fan": [
     255,
     255,
@@ -5978,6 +6028,11 @@
     255,
     255,
     255
+  ],
+  "luminousworld:green_fire": [
+    0,
+    255,
+    0
   ],
   "dazzle:orange_polished_shroomlight": [
     255,
@@ -6770,6 +6825,11 @@
     255
   ],
   "mekanismadditions:white_plastic_glow_slab": [
+    255,
+    255,
+    255
+  ],
+  "armageddon_mod:bloody_ore": [
     255,
     255,
     255
@@ -8829,6 +8889,11 @@
     255,
     255
   ],
+  "luminousworld:beast_pit": [
+    255,
+    255,
+    255
+  ],
   "betterend:end_stone_furnace": [
     255,
     255,
@@ -9069,6 +9134,11 @@
     255,
     255
   ],
+  "luminousworld:glowstonebutterflyjar": [
+    255,
+    255,
+    255
+  ],
   "metal_works:tin_soul_lantern": [
     0,
     0,
@@ -9205,6 +9275,11 @@
     255
   ],
   "chipped:framed_glowstone_lantern": [
+    255,
+    255,
+    255
+  ],
+  "fracture:large_flesh_bulb": [
     255,
     255,
     255
@@ -10084,6 +10159,11 @@
     255,
     255
   ],
+  "luminous_beasts:sea_viper_egg": [
+    153,
+    204,
+    204
+  ],
   "musings:circle_purple_ring_brown_bg": [
     136,
     68,
@@ -10383,6 +10463,11 @@
     136,
     68,
     17
+  ],
+  "luminousworld:viper_egg": [
+    255,
+    255,
+    255
   ],
   "colored_water:luminous_condense_magenta_fluid_block": [
     255,
@@ -11348,6 +11433,11 @@
     255,
     102,
     187
+  ],
+  "luminous_nether:ghost_lamp": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:stripped_birch_campfire": [
     255,
@@ -12679,6 +12769,11 @@
     255,
     255
   ],
+  "luminous_nether:fungirracklampred": [
+    255,
+    0,
+    0
+  ],
   "colorfulcampfires:brown_spruce_dark_campfire": [
     136,
     68,
@@ -12797,6 +12892,11 @@
   "botania:potted_purple_shiny_flower": [
     170,
     34,
+    255
+  ],
+  "fracture:small_flesh_bulb": [
+    255,
+    255,
     255
   ],
   "simplylight:illuminant_light_blue_block": [
@@ -14234,6 +14334,11 @@
     102,
     17
   ],
+  "armageddon_mod:voiderite_ore": [
+    255,
+    255,
+    255
+  ],
   "productivetrees:firecracker_button": [
     255,
     255,
@@ -15422,6 +15527,11 @@
   "rockyminerals:anhydrite_lamp_pressure_plate": [
     255,
     255,
+    255
+  ],
+  "luminous_nether:fungirracklamppurple": [
+    170,
+    34,
     255
   ],
   "architects_palette:polished_glowstone_nub": [
@@ -16634,6 +16744,11 @@
     255,
     255
   ],
+  "luminous_nether:fungirracklampblue": [
+    0,
+    0,
+    255
+  ],
   "luminax:orange_luminax_block": [
     255,
     102,
@@ -16743,6 +16858,11 @@
     255,
     102,
     187
+  ],
+  "luminous_nether:goldmushroom": [
+    255,
+    255,
+    255
   ],
   "rechiseled:glowstone_small_tiles_slab": [
     255,
@@ -16934,6 +17054,11 @@
     255,
     255
   ],
+  "luminous_nether:ghost_vent_block": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:orange_oak_dark_campfire": [
     255,
     102,
@@ -17010,6 +17135,11 @@
     255
   ],
   "musings:circle_blue_ring_white_bg": [
+    255,
+    255,
+    255
+  ],
+  "luminous_beasts:rare_viper_egg": [
     255,
     255,
     255
@@ -17879,6 +18009,11 @@
     255,
     255
   ],
+  "luminous_nether:hanging_ghost_lantern": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg11486720": [
     255,
     255,
@@ -17933,6 +18068,11 @@
     255,
     0,
     0
+  ],
+  "luminous_halloween:moonstone_bricks": [
+    255,
+    255,
+    255
   ],
   "luminax:light_gray_luminax_pressure_plate": [
     136,
@@ -18124,6 +18264,11 @@
     255,
     255
   ],
+  "luminous_nether:fungirracklamp_green": [
+    0,
+    255,
+    0
+  ],
   "minecraft:smoker": [
     255,
     255,
@@ -18182,6 +18327,11 @@
   "chipped:tiny_magma_block_bricks": [
     255,
     255,
+    255
+  ],
+  "luminous_nether:soul_bone_block": [
+    0,
+    0,
     255
   ],
   "mna:decoration/runic_glass_pane_pink": [
@@ -19699,6 +19849,11 @@
     255,
     255
   ],
+  "luminous_nether:gilded_piglin_trophy": [
+    255,
+    255,
+    255
+  ],
   "mcwlights:crimson_tiki_torch": [
     255,
     255,
@@ -20474,6 +20629,11 @@
     255,
     255
   ],
+  "luminous_beasts:beast_pit_off": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg9210950": [
     255,
     255,
@@ -20624,10 +20784,20 @@
     0,
     255
   ],
+  "luminous_nether:fungirrack_lamp": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg4650310": [
     255,
     255,
     255
+  ],
+  "luminous_nether:fungirracklamp_pink": [
+    255,
+    102,
+    187
   ],
   "productivetrees:cave_dweller_button": [
     255,
@@ -20725,6 +20895,11 @@
     255
   ],
   "mekanism_extras:absolute_purifying_factory": [
+    255,
+    255,
+    255
+  ],
+  "luminous_nether:nether_candle_stand_top": [
     255,
     255,
     255
@@ -21059,6 +21234,11 @@
     255,
     255
   ],
+  "luminous_nether:popjuice_ground": [
+    255,
+    255,
+    255
+  ],
   "ad_astra:strophar_trapdoor": [
     255,
     255,
@@ -21164,6 +21344,11 @@
     255,
     0
   ],
+  "luminousworld:decorative_lantern": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg6935145": [
     255,
     255,
@@ -21175,6 +21360,11 @@
     255
   ],
   "fcb:fcbg11522735": [
+    255,
+    255,
+    255
+  ],
+  "luminous_nether:popshroom": [
     255,
     255,
     255
@@ -21510,6 +21700,11 @@
     255
   ],
   "rechiseled:glowstone_rotated_bricks_stairs_connecting": [
+    255,
+    255,
+    255
+  ],
+  "fracture:radiant_ice": [
     255,
     255,
     255
@@ -22474,6 +22669,11 @@
     255,
     255
   ],
+  "luminous_nether:candle_stand_top": [
+    255,
+    255,
+    255
+  ],
   "ror:green_tech_block": [
     0,
     255,
@@ -22693,6 +22893,11 @@
     0,
     0,
     255
+  ],
+  "luminousworld:lime_fire": [
+    187,
+    255,
+    0
   ],
   "mysticsbiomes:cyan_frosted_candle_cake_orange": [
     255,
@@ -23045,6 +23250,11 @@
     255
   ],
   "fcb:fcbg4605475": [
+    255,
+    255,
+    255
+  ],
+  "luminousworld:gilded_tree_ent_trophy": [
     255,
     255,
     255
@@ -24754,6 +24964,11 @@
     255,
     255
   ],
+  "luminousworld:pink_fire": [
+    255,
+    102,
+    187
+  ],
   "xkdeco:stone_lamp": [
     255,
     255,
@@ -26124,6 +26339,11 @@
     34,
     255
   ],
+  "luminousworld:beast_pit_off": [
+    255,
+    255,
+    255
+  ],
   "thingamajigs:ped_signal_worded": [
     255,
     255,
@@ -26423,6 +26643,11 @@
     136,
     68,
     17
+  ],
+  "luminous_nether:glowing_chiseled_heavy_nether_bricks": [
+    255,
+    255,
+    255
   ],
   "torchslabmod:pad_candle": [
     255,
@@ -27464,6 +27689,11 @@
     255,
     255
   ],
+  "luminousworld:hanging_decorative_lantern": [
+    255,
+    255,
+    255
+  ],
   "dazzle:purple_polished_shroomlight": [
     170,
     34,
@@ -28083,6 +28313,11 @@
     255,
     0,
     0
+  ],
+  "luminous_halloween:moonstone_brick_wall": [
+    255,
+    255,
+    255
   ],
   "rockyminerals:duskmire_lamp_stairs": [
     255,
@@ -28984,6 +29219,11 @@
     255,
     0
   ],
+  "luminousworld:soulbfjar": [
+    0,
+    0,
+    255
+  ],
   "minecraft:purple_candle": [
     170,
     34,
@@ -29258,6 +29498,11 @@
     136,
     136,
     136
+  ],
+  "luminous_nether:ghost_lantern": [
+    255,
+    255,
+    255
   ],
   "spelunkery:rock_salt_slab": [
     255,
@@ -30174,6 +30419,11 @@
     102,
     187
   ],
+  "luminousworld:red_fire": [
+    255,
+    0,
+    0
+  ],
   "minecraft:candle": [
     255,
     255,
@@ -30729,6 +30979,11 @@
     34,
     255
   ],
+  "luminousworld:phoenix_egg": [
+    255,
+    255,
+    255
+  ],
   "betterend:smaragdant_crystal_pillar": [
     255,
     255,
@@ -30760,6 +31015,11 @@
     255
   ],
   "rockyminerals:terra_rossa_lamp_slab": [
+    255,
+    255,
+    255
+  ],
+  "armageddon_mod:elvenite_ore": [
     255,
     255,
     255
@@ -31989,6 +32249,11 @@
     255,
     255
   ],
+  "luminous_nether:lit_pale_melon": [
+    255,
+    255,
+    255
+  ],
   "primalmagick:infernal_furnace": [
     255,
     255,
@@ -32093,6 +32358,11 @@
     187,
     255,
     0
+  ],
+  "luminousworld:white_fire": [
+    255,
+    255,
+    255
   ],
   "skinnedlanterns:ornament_lime_soul_lantern_block": [
     187,
@@ -32450,6 +32720,11 @@
     255
   ],
   "xycraft_world:lamp_flush_yellow": [
+    255,
+    255,
+    0
+  ],
+  "luminousworld:talltorchtop": [
     255,
     255,
     0
@@ -33239,6 +33514,11 @@
     255,
     255
   ],
+  "luminousworld:fire_flyjar_2": [
+    255,
+    255,
+    255
+  ],
   "vintagevibes:moonstone_stand": [
     255,
     255,
@@ -33289,7 +33569,17 @@
     255,
     0
   ],
+  "luminousworld:fire_flyjar_1": [
+    255,
+    255,
+    255
+  ],
   "ror:prismacon_portal": [
+    255,
+    255,
+    255
+  ],
+  "luminous_nether:white_fire": [
     255,
     255,
     255
@@ -33934,6 +34224,11 @@
     255,
     255
   ],
+  "luminous_beasts:beast_pit": [
+    255,
+    255,
+    255
+  ],
   "chipped:warped_wall_torch": [
     255,
     255,
@@ -34100,6 +34395,11 @@
     0
   ],
   "darkerdepths:glowshroom_heart": [
+    255,
+    255,
+    255
+  ],
+  "luminous_beasts:gilded_ent_trophy": [
     255,
     255,
     255
@@ -34353,6 +34653,11 @@
     255,
     255,
     255
+  ],
+  "luminous_nether:fungirracklamporange": [
+    255,
+    102,
+    17
   ],
   "darkerdepths:glowshroom_lantern": [
     255,
@@ -36269,6 +36574,11 @@
     255,
     255
   ],
+  "luminous_nether:ritual_table": [
+    255,
+    255,
+    255
+  ],
   "windswept:night_fairy_light": [
     255,
     255,
@@ -36683,6 +36993,11 @@
     255,
     255,
     255
+  ],
+  "luminousworld:black_fire": [
+    0,
+    0,
+    0
   ],
   "endergetic:eetle_egg": [
     255,
@@ -37842,6 +38157,11 @@
   "evilcraft:spirit_portal": [
     255,
     255,
+    255
+  ],
+  "luminousworld:blue_fire": [
+    0,
+    0,
     255
   ],
   "productivetrees:cave_dweller_wall_sign": [
@@ -39538,6 +39858,11 @@
     136,
     136,
     136
+  ],
+  "luminous_nether:heavy_nether_brick_lamp": [
+    255,
+    255,
+    255
   ],
   "musings:circle_brown_ring_light_blue_bg_flipping": [
     0,
@@ -41479,6 +41804,11 @@
     255,
     255
   ],
+  "luminous_nether:golden_fungi": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_light_gray_ring_gray_bg_flipping": [
     136,
     136,
@@ -41798,6 +42128,11 @@
     0,
     0,
     255
+  ],
+  "luminousworld:yellow_fire": [
+    255,
+    255,
+    0
   ],
   "hexalia:salt_lamp": [
     255,

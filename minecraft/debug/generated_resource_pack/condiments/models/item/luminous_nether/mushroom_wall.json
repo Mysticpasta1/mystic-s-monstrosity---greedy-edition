@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "luminous_nether:block/mushroomblockside",
+    "post": "luminous_nether:block/mushroominside"
+  }
+}

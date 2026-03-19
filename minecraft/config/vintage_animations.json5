@@ -1,8 +1,8 @@
 {
-	"chopAnimation": true,
-	"pickAnimation": true,
-	"digAnimation": true,
-	"tillAnimation": true,
+	"chopAnimation": false,
+	"pickAnimation": false,
+	"digAnimation": false,
+	"tillAnimation": false,
 	"showArmsInFirstPerson": false,
-	"showOffHandInFirstPerson": true
+	"showOffHandInFirstPerson": false
 }

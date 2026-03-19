@@ -5624,6 +5624,11 @@
     255,
     0
   ],
+  "luminousworld:decorative_glass_pane": [
+    255,
+    255,
+    255
+  ],
   "quark:pink_framed_glass_pane": [
     255,
     102,
@@ -10129,12 +10134,32 @@
     68,
     17
   ],
+  "luminousworld:decorative_glass_pane_5": [
+    255,
+    255,
+    255
+  ],
   "atlantis:pink_patterned_sea_glass_stairs": [
     255,
     102,
     187
   ],
+  "luminousworld:decorative_glass_pane_3": [
+    255,
+    255,
+    255
+  ],
+  "luminousworld:decorative_glass_pane_4": [
+    255,
+    255,
+    255
+  ],
   "storagedelight:glass_crimson_cabinet": [
+    255,
+    255,
+    255
+  ],
+  "luminousworld:decorative_glass_pane_2": [
     255,
     255,
     255
@@ -15285,6 +15310,11 @@
     255
   ],
   "somemoreblocks:white_stained_tiled_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "luminousworld:decorative_glass_block": [
     255,
     255,
     255
