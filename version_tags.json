@@ -1,7 +1,7 @@
 [
   {
-    "version": "33.1.0",
-    "created_at": "2026-03-19T22:57:04.1244339Z",
+    "version": "31.1.2",
+    "created_at": "2026-03-20T00:50:15.8389542Z",
     "notes": null,
     "mod_snapshot": [
       {
@@ -884,15 +884,6 @@
         "mod_id": null,
         "file_size": 23762,
         "curseforge_id": 1034045,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "apothecary-1.2.5-1.20.1.jar",
-        "name": "Apothecary - Potion Expansion",
-        "version": null,
-        "mod_id": null,
-        "file_size": 132581,
-        "curseforge_id": 1278100,
         "modrinth_id": null
       },
       {
@@ -9491,15 +9482,6 @@
         "modrinth_id": null
       },
       {
-        "file_name": "jei-1.20.1-forge-15.20.0.129.jar",
-        "name": "Just Enough Items (JEI)",
-        "version": null,
-        "mod_id": null,
-        "file_size": 1409642,
-        "curseforge_id": 238222,
-        "modrinth_id": "u6dRKJwZ"
-      },
-      {
         "file_name": "JustEnoughMekanismMultiblocks-1.20.1-4.16.jar",
         "name": "Just Enough Mekanism Multiblocks",
         "version": null,
@@ -15395,24 +15377,6 @@
         "modrinth_id": "LQlQFBH9"
       },
       {
-        "file_name": "staminafortweakers-forge-1.20.1-1.11.jar",
-        "name": "Stamina For Tweakers",
-        "version": null,
-        "mod_id": null,
-        "file_size": 419705,
-        "curseforge_id": 1040808,
-        "modrinth_id": "AejtfAlC"
-      },
-      {
-        "file_name": "staminastoragefix-1.0.0.jar",
-        "name": "Stamina Storage Fix",
-        "version": null,
-        "mod_id": null,
-        "file_size": 4129,
-        "curseforge_id": 1343933,
-        "modrinth_id": null
-      },
-      {
         "file_name": "starbunclemania-1.20.1-1.2.3.0.jar",
         "name": "Starbunclemania",
         "version": null,
@@ -18201,15 +18165,6 @@
         "file_size": 370524,
         "curseforge_id": 421850,
         "modrinth_id": "Ua7DFN59"
-      },
-      {
-        "file_name": "YungsBetterCaves-1.20.1-Forge-2.0.5.jar",
-        "name": "YUNG\u0027s Better Caves",
-        "version": null,
-        "mod_id": null,
-        "file_size": 401492,
-        "curseforge_id": 340583,
-        "modrinth_id": "Dfu00ggU"
       },
       {
         "file_name": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
