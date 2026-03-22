@@ -28,6 +28,4 @@ turnOnDimensionalHaste = true
 #How far is visibility in Water?
 #Range: 1.0 ~ 200.0
 waterVisibility = 120.0
-#Should Per Biome Lighting for Atlantis be on? (Currently doesn't work!!!)
-shouldHavePerBiomeLighting = false
 

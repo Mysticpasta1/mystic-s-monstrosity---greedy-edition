@@ -3,15 +3,15 @@
 
 	[Progession.is_progression_activate]
 		#When false it will delete the progression lock of the mod (unbreakable ores blocks until [...], unusable tools etc...). Default = true
-		is_progression_activate = true
+		is_progression_activate = false
 
 	[Progession.is_nether_blocked]
 		#If true the nether will be blocked until Eldorath is defeated. Default = true
-		is_nether_blocked = true
+		is_nether_blocked = false
 
 	[Progession.are_enchanted_tools_blocked]
 		#If true the enchanted tools will not be usable until Eldorath's death. Default = true
-		are_enchanted_tools_blocked = true
+		are_enchanted_tools_blocked = false
 
 ["Bosses Health"]
 

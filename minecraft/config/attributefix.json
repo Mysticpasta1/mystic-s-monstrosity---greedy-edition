@@ -2167,17 +2167,6 @@
         "value": 100
       }
     },
-    "staminafortweakers:generic.stamina": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "obscure_api:magic_damage": {
       "enabled": false,
       "min": {
@@ -2187,6 +2176,17 @@
       "max": {
         "default": 100000,
         "value": 100000
+      }
+    },
+    "staminafortweakers:generic.stamina": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "irons_spellbooks:cooldown_reduction": {

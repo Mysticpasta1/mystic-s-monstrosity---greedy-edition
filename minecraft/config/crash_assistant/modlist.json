@@ -718,13 +718,6 @@
     "curseForgeHash": 2999778249,
     "modrinthHash": "6879b099f65ce81695807e0a009a0f444d785721"
   },
-  "apothecary-1.2.5-1.20.1.jar": {
-    "jarName": "apothecary-1.2.5-1.20.1.jar",
-    "modId": "apothecary",
-    "version": "1.2.5",
-    "curseForgeHash": 2449739680,
-    "modrinthHash": "cc4a5e327e078d1a64e9c235e457e77884ecf825"
-  },
   "Apotheosis-1.20.1-7.4.8.jar": {
     "jarName": "Apotheosis-1.20.1-7.4.8.jar",
     "modId": "apotheosis",
@@ -1166,12 +1159,12 @@
     "curseForgeHash": 19640273,
     "modrinthHash": "3edadb082665640909733d139b2ca2174b9b5306"
   },
-  "atlantis-11.19.2025-1.20.1-10.0.2-forge.jar": {
-    "jarName": "atlantis-11.19.2025-1.20.1-10.0.2-forge.jar",
+  "atlantis-3.20.2026-1.20.1-10.0.3-forge.jar": {
+    "jarName": "atlantis-3.20.2026-1.20.1-10.0.3-forge.jar",
     "modId": "atlantis",
-    "version": "11.19.2025-1.20.1-10.0.2-forge",
-    "curseForgeHash": 736579360,
-    "modrinthHash": "6bfbd02d2670312108e3ccb0fac39074b6e9c2cd"
+    "version": "3.20.2026-1.20.1-10.0.3-forge",
+    "curseForgeHash": 698577238,
+    "modrinthHash": "a103526f138b49a53930525dcaa8f7b6517a9a82"
   },
   "atlas-core-forge-1.20.1-1.1.2.beta.6.jar": {
     "jarName": "atlas-core-forge-1.20.1-1.1.2.beta.6.jar",
@@ -11963,20 +11956,6 @@
     "curseForgeHash": 2512680915,
     "modrinthHash": "eb3ef7c7be60bcc8f21b9fad9702ab341f6e5eae"
   },
-  "staminafortweakers-forge-1.20.1-1.11.jar": {
-    "jarName": "staminafortweakers-forge-1.20.1-1.11.jar",
-    "modId": "staminafortweakers",
-    "version": "1.11",
-    "curseForgeHash": 2191771908,
-    "modrinthHash": "6d0d6afe6a6e499500459d58b3cb317c3deeed36"
-  },
-  "staminastoragefix-1.0.0.jar": {
-    "jarName": "staminastoragefix-1.0.0.jar",
-    "modId": "staminastoragefix",
-    "version": "1.0.0",
-    "curseForgeHash": 3427017870,
-    "modrinthHash": "3c043fe7ce23088c8b92130713664e9e7be15504"
-  },
   "starbunclemania-1.20.1-1.2.3.0.jar": {
     "jarName": "starbunclemania-1.20.1-1.2.3.0.jar",
     "modId": "starbunclemania",
@@ -14132,13 +14111,6 @@
     "version": "1.20-Forge-4.0.6",
     "curseForgeHash": 2072489450,
     "modrinthHash": "af584b690f5646c6032002b58abc4591beed3833"
-  },
-  "YungsBetterCaves-1.20.1-Forge-2.0.5.jar": {
-    "jarName": "YungsBetterCaves-1.20.1-Forge-2.0.5.jar",
-    "modId": "bettercaves",
-    "version": "1.20.1-Forge-2.0.5",
-    "curseForgeHash": 2983344692,
-    "modrinthHash": "d05e4298569fac7ac9337c8889bcaef3f708feae"
   },
   "YungsBetterDungeons-1.20-Forge-4.0.4.jar": {
     "jarName": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
