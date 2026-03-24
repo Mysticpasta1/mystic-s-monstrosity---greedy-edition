@@ -144,8 +144,9 @@
   "bonsaitrees3": {
     "bonsaipot": true
   },
-  "pattern_archive": {
-    "node_status": true
+  "logisticsnetworks": {
+    "logistics_node_entity": true,
+    "node_attached": true
   },
   "expatternprovider": {
     "jade_chamber": true,

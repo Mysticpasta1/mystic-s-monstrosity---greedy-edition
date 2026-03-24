@@ -9818,47 +9818,6 @@
 		orange_alarm = "[255,102,17]"
 		cyan_alarm = "[0,255,255]"
 
-[mna]
-
-	[mna.blocks]
-		mage_light = "[255,255,255]"
-		hellfire = "[255,255,255]"
-		construct_workbench = "[255,255,255]"
-		invisible_light = "[255,255,255]"
-		"decoration/runic_glass" = "[255,255,255]"
-		"decoration/runic_glass_black" = "[0,0,0]"
-		"decoration/runic_glass_blue" = "[0,0,255]"
-		"decoration/runic_glass_brown" = "[136,68,17]"
-		"decoration/runic_glass_cyan" = "[0,255,255]"
-		"decoration/runic_glass_gray" = "[136,136,136]"
-		"decoration/runic_glass_green" = "[0,255,0]"
-		"decoration/runic_glass_light_blue" = "[0,0,255]"
-		"decoration/runic_glass_light_gray" = "[136,136,136]"
-		"decoration/runic_glass_lime" = "[187,255,0]"
-		"decoration/runic_glass_magenta" = "[255,0,255]"
-		"decoration/runic_glass_orange" = "[255,102,17]"
-		"decoration/runic_glass_pink" = "[255,102,187]"
-		"decoration/runic_glass_purple" = "[170,34,255]"
-		"decoration/runic_glass_red" = "[255,0,0]"
-		"decoration/runic_glass_white" = "[255,255,255]"
-		"decoration/runic_glass_yellow" = "[255,255,0]"
-		"decoration/runic_glass_pane_black" = "[0,0,0]"
-		"decoration/runic_glass_pane_blue" = "[0,0,255]"
-		"decoration/runic_glass_pane_brown" = "[136,68,17]"
-		"decoration/runic_glass_pane_cyan" = "[0,255,255]"
-		"decoration/runic_glass_pane_gray" = "[136,136,136]"
-		"decoration/runic_glass_pane_green" = "[0,255,0]"
-		"decoration/runic_glass_pane_light_blue" = "[0,0,255]"
-		"decoration/runic_glass_pane_light_gray" = "[136,136,136]"
-		"decoration/runic_glass_pane_lime" = "[187,255,0]"
-		"decoration/runic_glass_pane_magenta" = "[255,0,255]"
-		"decoration/runic_glass_pane_orange" = "[255,102,17]"
-		"decoration/runic_glass_pane_pink" = "[255,102,187]"
-		"decoration/runic_glass_pane_purple" = "[170,34,255]"
-		"decoration/runic_glass_pane_red" = "[255,0,0]"
-		"decoration/runic_glass_pane_white" = "[255,255,255]"
-		"decoration/runic_glass_pane_yellow" = "[255,255,0]"
-
 [born_in_chaos_v1]
 
 	[born_in_chaos_v1.blocks]
@@ -9886,13 +9845,6 @@
 		radiant_ice = "[255,255,255]"
 		large_flesh_bulb = "[255,255,255]"
 		small_flesh_bulb = "[255,255,255]"
-
-[armageddon_mod]
-
-	[armageddon_mod.blocks]
-		voiderite_ore = "[255,255,255]"
-		elvenite_ore = "[255,255,255]"
-		bloody_ore = "[255,255,255]"
 
 [luminousworld]
 
@@ -9952,22 +9904,4 @@
 		hanging_ghost_lantern = "[255,255,255]"
 		popshroom = "[255,255,255]"
 		popjuice_ground = "[255,255,255]"
-
-[luminous_halloween]
-
-	[luminous_halloween.blocks]
-		moonstone = "[255,255,255]"
-		moonstone_bricks = "[255,255,255]"
-		moonstone_brick_stairs = "[255,255,255]"
-		moonstone_brick_slab = "[255,255,255]"
-		moonstone_brick_wall = "[255,255,255]"
-
-[luminous_beasts]
-
-	[luminous_beasts.blocks]
-		sea_viper_egg = "[153,204,204]"
-		rare_viper_egg = "[255,255,255]"
-		beast_pit = "[255,255,255]"
-		beast_pit_off = "[255,255,255]"
-		gilded_ent_trophy = "[255,255,255]"
 

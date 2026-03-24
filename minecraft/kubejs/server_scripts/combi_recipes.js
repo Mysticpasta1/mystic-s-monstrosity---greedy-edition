@@ -16,7 +16,7 @@ neofastftl.recipes.extendedcrafting.combination({
     { item: "allthecompressed:unobtainium_allthemodium_alloy_block_9x" },
     { item: "allthecompressed:allthemodium_block_9x" },
     { item: "allthecompressed:vibranium_block_9x" },
-    { item: "aetherianskiestweaks:greg_star_block" }
+    { item: "theoldaddition:the_echoing_note" }
   ],
   result: {
     item: "theoldaddition:the_old_record"
@@ -25,7 +25,44 @@ neofastftl.recipes.extendedcrafting.combination({
 neofastftl.recipes.extendedcrafting.combination({
   powerCost: 100000000000,
   input: {
-    item: "extendedcrafting:nether_star_block"
+    item: "allthecompressed:netherite_block_9x"
+  },
+  ingredients: [
+    { item: "theoldaddition:the_stone_bass" },
+    { item: "theoldaddition:the_ember_chord" },
+    { item: "theoldaddition:the_frost_bell" },
+    { item: "theoldaddition:the_sparkly_string" },
+    { item: "theoldaddition:the_resonant_tide" },
+    { item: "theoldaddition:the_whisper_reed" },
+    { item: "theoldaddition:the_verdant_lyre" },
+  ],
+  result: {
+    item: "theoldaddition:the_echoing_note"
+  }
+}),
+neofastftl.recipes.extendedcrafting.combination({
+  powerCost: 100000000000,
+  input: {
+    item: "avaritia:infinity_catalyst"
+  },
+  ingredients: [
+    { item: "allthecompressed:oak_log_9x" },
+    { item: "allthecompressed:stone_9x" },
+    { item: "allthecompressed:vibranium_allthemodium_alloy_block_9x" },
+    { item: "allthecompressed:unobtainium_vibranium_alloy_block_9x" },
+    { item: "allthecompressed:unobtainium_allthemodium_alloy_block_9x" },
+    { item: "allthecompressed:allthemodium_block_9x" },
+    { item: "allthecompressed:vibranium_block_9x" },
+    { item: "theoldaddition:the_echoing_note" }
+  ],
+  result: {
+    item: "theoldaddition:the_old_record"
+  }
+}),
+neofastftl.recipes.extendedcrafting.combination({
+  powerCost: 100000000000,
+  input: {
+    item: "allthecompressed:moss_block_9x"
   },
   ingredients: [
     { item: "ae2omnicells:quantum_omni_cell_256m" },
@@ -38,9 +75,123 @@ neofastftl.recipes.extendedcrafting.combination({
     { item: "mekanism:pellet_plutonium" }
   ],
   result: {
-    item: "aetherianskiestweaks:greg_star"
+    item: "theoldaddition:the_verdant_lyre"
   }
 }),
+neofastftl.recipes.extendedcrafting.combination({
+  powerCost: 100000000000,
+  input: {
+    item: "allthecompressed:soul_sand_9x"
+  },
+  ingredients: [
+    { item: "ae2omnicells:quantum_omni_cell_256m" },
+    { item: "ae2omnicells:omni_crafting_storage_256m_block" },
+    { item: "aiotbotania:terra_aiot" },
+    { item: "forbidden_arcanus:eternal_stella" },
+    { item: "mekanism:pellet_antimatter" },
+    { item: "mekanism:hdpe_pellet" },
+    { item: "mekanism:pellet_polonium" },
+    { item: "mekanism:pellet_plutonium" }
+  ],
+  result: {
+    item: "theoldaddition:the_whisper_reed"
+  }
+}),
+neofastftl.recipes.extendedcrafting.combination({
+  powerCost: 100000000000,
+  input: {
+    item: "allthecompressed:amythest_block_9x"
+  },
+  ingredients: [
+    { item: "ae2omnicells:quantum_omni_cell_256m" },
+    { item: "ae2omnicells:omni_crafting_storage_256m_block" },
+    { item: "aiotbotania:terra_aiot" },
+    { item: "forbidden_arcanus:eternal_stella" },
+    { item: "mekanism:pellet_antimatter" },
+    { item: "mekanism:hdpe_pellet" },
+    { item: "mekanism:pellet_polonium" },
+    { item: "mekanism:pellet_plutonium" }
+  ],
+  result: {
+    item: "theoldaddition:the_resonant_tide"
+  }
+}),
+neofastftl.recipes.extendedcrafting.combination({
+  powerCost: 100000000000,
+  input: {
+    item: "allthecompressed:snow_9x"
+  },
+  ingredients: [
+    { item: "ae2omnicells:quantum_omni_cell_256m" },
+    { item: "ae2omnicells:omni_crafting_storage_256m_block" },
+    { item: "aiotbotania:terra_aiot" },
+    { item: "forbidden_arcanus:eternal_stella" },
+    { item: "mekanism:pellet_antimatter" },
+    { item: "mekanism:hdpe_pellet" },
+    { item: "mekanism:pellet_polonium" },
+    { item: "mekanism:pellet_plutonium" }
+  ],
+  result: {
+    item: "theoldaddition:the_frost_bell"
+  }
+}),
+neofastftl.recipes.extendedcrafting.combination({
+  powerCost: 100000000000,
+  input: {
+    item: "allthecompressed:quartz_block_9x"
+  },
+  ingredients: [
+    { item: "ae2omnicells:quantum_omni_cell_256m" },
+    { item: "ae2omnicells:omni_crafting_storage_256m_block" },
+    { item: "aiotbotania:terra_aiot" },
+    { item: "forbidden_arcanus:eternal_stella" },
+    { item: "mekanism:pellet_antimatter" },
+    { item: "mekanism:hdpe_pellet" },
+    { item: "mekanism:pellet_polonium" },
+    { item: "mekanism:pellet_plutonium" }
+  ],
+  result: {
+    item: "theoldaddition:the_sparkly_string"
+  }
+}),
+neofastftl.recipes.extendedcrafting.combination({
+  powerCost: 100000000000,
+  input: {
+    item: "allthecompressed:obsidian_9x"
+  },
+  ingredients: [
+    { item: "ae2omnicells:quantum_omni_cell_256m" },
+    { item: "ae2omnicells:omni_crafting_storage_256m_block" },
+    { item: "aiotbotania:terra_aiot" },
+    { item: "forbidden_arcanus:eternal_stella" },
+    { item: "mekanism:pellet_antimatter" },
+    { item: "mekanism:hdpe_pellet" },
+    { item: "mekanism:pellet_polonium" },
+    { item: "mekanism:pellet_plutonium" }
+  ],
+  result: {
+    item: "theoldaddition:the_ember_chord"
+  }
+}),
+neofastftl.recipes.extendedcrafting.combination({
+  powerCost: 100000000000,
+  input: {
+    item: "allthecompressed:stone_9x"
+  },
+  ingredients: [
+    { item: "ae2omnicells:quantum_omni_cell_256m" },
+    { item: "ae2omnicells:omni_crafting_storage_256m_block" },
+    { item: "aiotbotania:terra_aiot" },
+    { item: "forbidden_arcanus:eternal_stella" },
+    { item: "mekanism:pellet_antimatter" },
+    { item: "mekanism:hdpe_pellet" },
+    { item: "mekanism:pellet_polonium" },
+    { item: "mekanism:pellet_plutonium" }
+  ],
+  result: {
+    item: "theoldaddition:the_stone_bass"
+  }
+}),5
 neofastftl.recipes.extendedcrafting.combination({
   powerCost: 100000000000,
   input: {
