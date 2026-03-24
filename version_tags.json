@@ -1,7 +1,7 @@
 [
   {
-    "version": "34.0.0",
-    "created_at": "2026-03-24T03:38:37.1747332Z",
+    "version": "34.0.0-2",
+    "created_at": "2026-03-24T04:01:55.5758024Z",
     "notes": null,
     "mod_snapshot": [
       {
@@ -869,6 +869,15 @@
         "modrinth_id": null
       },
       {
+        "file_name": "apothecary-1.2.5-1.20.1.jar",
+        "name": "Apothecary - Potion Expansion",
+        "version": null,
+        "mod_id": null,
+        "file_size": 132581,
+        "curseforge_id": 1278100,
+        "modrinth_id": null
+      },
+      {
         "file_name": "Apotheosis-1.20.1-7.4.8.jar",
         "name": "Apotheosis",
         "version": null,
@@ -1724,11 +1733,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "bclib-20.0.8.jar",
+        "file_name": "BCLib-20.0.9.jar",
         "name": "BCLib",
         "version": null,
         "mod_id": null,
-        "file_size": 2176825,
+        "file_size": 2177038,
         "curseforge_id": 1435106,
         "modrinth_id": "obMZk452"
       },
@@ -6809,11 +6818,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "FarmersDelight-1.20.1-1.2.10.jar",
+        "file_name": "FarmersDelight-1.20.1-1.2.11.jar",
         "name": "Farmer\u0027s Delight",
         "version": null,
         "mod_id": null,
-        "file_size": 2955928,
+        "file_size": 2963127,
         "curseforge_id": 398521,
         "modrinth_id": "R2OftAxM"
       },
@@ -9903,15 +9912,6 @@
         "file_size": 19767,
         "curseforge_id": 711034,
         "modrinth_id": "kDFtUgr8"
-      },
-      {
-        "file_name": "LiteCore-1.0.0.jar",
-        "name": "LiteCore",
-        "version": null,
-        "mod_id": null,
-        "file_size": 121805,
-        "curseforge_id": 1378291,
-        "modrinth_id": null
       },
       {
         "file_name": "lithostitched-forge-1.20.1-1.4.11.jar",
@@ -14981,15 +14981,6 @@
         "modrinth_id": "Yg1VT27P"
       },
       {
-        "file_name": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
-        "name": "Sodium/Embeddium Dynamic Lights",
-        "version": null,
-        "mod_id": null,
-        "file_size": 511601,
-        "curseforge_id": 551736,
-        "modrinth_id": "PxQSWIcD"
-      },
-      {
         "file_name": "softerhaybales-1.20.1-3.4.jar",
         "name": "Softer Hay Bales",
         "version": null,
@@ -15026,11 +15017,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "sophisticatedbackpacks-1.20.1-3.24.29.1588.jar",
+        "file_name": "sophisticatedbackpacks-1.20.1-3.24.29.1603.jar",
         "name": "Sophisticated Backpacks",
         "version": null,
         "mod_id": null,
-        "file_size": 1012686,
+        "file_size": 1013355,
         "curseforge_id": 422301,
         "modrinth_id": null
       },
@@ -15053,11 +15044,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "sophisticatedstorage-1.20.1-1.4.29.1527.jar",
+        "file_name": "sophisticatedstorage-1.20.1-1.4.29.1536.jar",
         "name": "Sophisticated Storage",
         "version": null,
         "mod_id": null,
-        "file_size": 1667180,
+        "file_size": 1667327,
         "curseforge_id": 619320,
         "modrinth_id": null
       },
@@ -15071,11 +15062,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "sophisticatedstorageinmotion-1.20.1-0.10.28.182.jar",
+        "file_name": "sophisticatedstorageinmotion-1.20.1-0.10.28.198.jar",
         "name": "Sophisticated Storage In Motion",
         "version": null,
         "mod_id": null,
-        "file_size": 393792,
+        "file_size": 394191,
         "curseforge_id": 1166930,
         "modrinth_id": null
       },

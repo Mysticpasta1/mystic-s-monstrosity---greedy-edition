@@ -11634,13 +11634,6 @@
     "curseForgeHash": 3402444196,
     "modrinthHash": "15296a7d8942a7a3376f293265b5146af6c42ec7"
   },
-  "sodiumdynamiclights-forge-1.0.10-1.20.1.jar": {
-    "jarName": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
-    "modId": "sodiumdynamiclights",
-    "version": "1.0.9",
-    "curseForgeHash": 4061843185,
-    "modrinthHash": "d27524e85bed0f0af83c03be46f9ca3eb02a1be9"
-  },
   "sodiumoptionsapi-forge-1.0.10-1.20.1.jar": {
     "jarName": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
     "modId": "sodiumoptionsapi",
