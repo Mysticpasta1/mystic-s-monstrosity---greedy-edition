@@ -209,6 +209,11 @@
     255,
     255
   ],
+  "bibliocraft:blue_fancy_gold_lantern": [
+    0,
+    0,
+    255
+  ],
   "dazzle:light_blue_shroomlight": [
     0,
     0,
@@ -822,6 +827,11 @@
   "mysticsbiomes:cyan_frosted_candle_cake_purple": [
     170,
     34,
+    255
+  ],
+  "bibliocraft:fancy_gold_lantern": [
+    255,
+    255,
     255
   ],
   "betternether:lucis_spore": [
@@ -1779,6 +1789,11 @@
     255,
     255
   ],
+  "bibliocraft:cyan_fancy_iron_lantern": [
+    0,
+    255,
+    255
+  ],
   "redeco:light_blue_lamp": [
     0,
     0,
@@ -1868,6 +1883,11 @@
     255,
     255,
     255
+  ],
+  "bibliocraft:light_gray_fancy_gold_lamp": [
+    136,
+    136,
+    136
   ],
   "productivetrees:black_ember_leaves": [
     0,
@@ -2064,6 +2084,11 @@
     255,
     255
   ],
+  "bibliocraft:magenta_fancy_gold_lamp": [
+    255,
+    0,
+    255
+  ],
   "spelunkery:magenta_glowstick": [
     255,
     0,
@@ -2172,6 +2197,11 @@
   "xkdeco:mimic/architects_palette/polished_glowstone_wall": [
     255,
     255,
+    255
+  ],
+  "bibliocraft:blue_fancy_gold_lamp": [
+    0,
+    0,
     255
   ],
   "fcb:fcbg16092335": [
@@ -2413,6 +2443,11 @@
     0,
     0,
     255
+  ],
+  "bibliocraft:light_gray_fancy_iron_lantern": [
+    136,
+    136,
+    136
   ],
   "chipped:simple_crying_obsidian_pillar": [
     255,
@@ -2785,6 +2820,11 @@
     17
   ],
   "twilightforest:antibuilder": [
+    255,
+    255,
+    255
+  ],
+  "bibliocraft:gold_lantern": [
     255,
     255,
     255
@@ -3209,6 +3249,11 @@
     255,
     255
   ],
+  "bibliocraft:fancy_iron_lamp": [
+    255,
+    255,
+    255
+  ],
   "growthaccelerator:growth_accelerator_v": [
     255,
     255,
@@ -3503,6 +3548,11 @@
     153,
     204,
     204
+  ],
+  "bibliocraft:white_fancy_gold_lantern": [
+    255,
+    255,
+    255
   ],
   "fcb:fcbg13816320": [
     255,
@@ -4114,6 +4164,11 @@
     204,
     204
   ],
+  "bibliocraft:magenta_fancy_iron_lamp": [
+    255,
+    0,
+    255
+  ],
   "mekanismadditions:black_plastic_glow": [
     0,
     0,
@@ -4338,6 +4393,11 @@
     255,
     0,
     0
+  ],
+  "bibliocraft:blue_fancy_iron_lamp": [
+    0,
+    0,
+    255
   ],
   "doom_and_gloom:lime_vigil_candle": [
     187,
@@ -4617,6 +4677,11 @@
   "dazzle:blue_pulsating_analog_lamp": [
     0,
     0,
+    255
+  ],
+  "bibliocraft:fancy_gold_lamp": [
+    255,
+    255,
     255
   ],
   "musings:circle_green_ring_black_bg_flipping": [
@@ -5003,6 +5068,11 @@
     255,
     255,
     255
+  ],
+  "bibliocraft:black_fancy_gold_lamp": [
+    0,
+    0,
+    0
   ],
   "outer_end:rose_crystal_bud": [
     255,
@@ -5869,11 +5939,6 @@
     255,
     255
   ],
-  "cataclysm:melting_netherrack": [
-    255,
-    255,
-    255
-  ],
   "securitycraft:reinforced_magma_block": [
     255,
     255,
@@ -6734,6 +6799,11 @@
     255,
     255
   ],
+  "bibliocraft:brown_fancy_iron_lantern": [
+    136,
+    68,
+    17
+  ],
   "colorfulcampfires:brown_stripped_mangrove_campfire": [
     136,
     68,
@@ -7424,6 +7494,11 @@
     255,
     255
   ],
+  "bibliocraft:gray_fancy_gold_lantern": [
+    136,
+    136,
+    136
+  ],
   "furnish:wither_skull_torch": [
     255,
     255,
@@ -7433,6 +7508,11 @@
     255,
     255,
     255
+  ],
+  "bibliocraft:black_fancy_iron_lamp": [
+    0,
+    0,
+    0
   ],
   "colorfulcampfires:white_mangrove_campfire": [
     255,
@@ -7773,6 +7853,11 @@
     255,
     255,
     255
+  ],
+  "bibliocraft:orange_fancy_iron_lantern": [
+    255,
+    102,
+    17
   ],
   "luminax:green_luminax_wall": [
     0,
@@ -8489,6 +8574,11 @@
     102,
     17
   ],
+  "bibliocraft:purple_fancy_iron_lantern": [
+    170,
+    34,
+    255
+  ],
   "truedarkness:swamp_kelp": [
     255,
     255,
@@ -8512,6 +8602,11 @@
   "betterend:thallasium_bulb_lantern_lime": [
     187,
     255,
+    0
+  ],
+  "bibliocraft:black_fancy_iron_lantern": [
+    0,
+    0,
     0
   ],
   "dazzle:red_modern_analog_lamp": [
@@ -9313,6 +9408,11 @@
     255,
     255,
     255
+  ],
+  "bibliocraft:light_gray_fancy_iron_lamp": [
+    136,
+    136,
+    136
   ],
   "tanukidecor:sweets_wall_lamp": [
     255,
@@ -10154,6 +10254,11 @@
     0,
     255
   ],
+  "bibliocraft:red_fancy_gold_lantern": [
+    255,
+    0,
+    0
+  ],
   "fcb:fcbg2356480": [
     255,
     255,
@@ -10893,6 +10998,11 @@
     255,
     255,
     0
+  ],
+  "bibliocraft:gray_fancy_iron_lantern": [
+    136,
+    136,
+    136
   ],
   "architects_palette:nether_brass_torch": [
     255,
@@ -11703,6 +11813,11 @@
     255,
     255,
     255
+  ],
+  "bibliocraft:orange_fancy_gold_lamp": [
+    255,
+    102,
+    17
   ],
   "xycraft_world:lamp_pillar_light_blue": [
     0,
@@ -12599,6 +12714,11 @@
     255,
     255
   ],
+  "bibliocraft:black_fancy_gold_lantern": [
+    0,
+    0,
+    0
+  ],
   "mysticsbiomes:yellow_frosted_candle_cake_purple": [
     170,
     34,
@@ -13047,6 +13167,11 @@
   "rechiseled:glowstone_brick_pattern": [
     255,
     255,
+    255
+  ],
+  "bibliocraft:purple_fancy_gold_lamp": [
+    170,
+    34,
     255
   ],
   "galosphere:lumiere_cluster": [
@@ -14559,6 +14684,11 @@
     0,
     255
   ],
+  "bibliocraft:green_fancy_iron_lamp": [
+    0,
+    255,
+    0
+  ],
   "colorfulcampfires:light_blue_warped_stem_dark_campfire": [
     0,
     0,
@@ -15508,6 +15638,11 @@
     255,
     0,
     0
+  ],
+  "bibliocraft:pink_fancy_iron_lamp": [
+    255,
+    102,
+    187
   ],
   "xycraft_world:lamp_lantern_red": [
     255,
@@ -17289,6 +17424,11 @@
     255,
     255
   ],
+  "morecandles:scented_candle/dandelion": [
+    255,
+    255,
+    255
+  ],
   "rechiseled:glowstone_large_tiles_connecting": [
     255,
     255,
@@ -17585,6 +17725,11 @@
     136
   ],
   "productivetrees:expansion_box_firecracker": [
+    255,
+    255,
+    255
+  ],
+  "bibliocraft:fancy_iron_lantern": [
     255,
     255,
     255
@@ -18349,6 +18494,11 @@
     0,
     255
   ],
+  "bibliocraft:cyan_fancy_gold_lantern": [
+    0,
+    255,
+    255
+  ],
   "suppsquared:gold_candle_holder_lime": [
     187,
     255,
@@ -18999,6 +19149,11 @@
     255,
     255
   ],
+  "bibliocraft:light_gray_fancy_gold_lantern": [
+    136,
+    136,
+    136
+  ],
   "fcb:fcbg11504815": [
     255,
     255,
@@ -19533,6 +19688,11 @@
     255,
     0,
     255
+  ],
+  "bibliocraft:gray_fancy_gold_lamp": [
+    136,
+    136,
+    136
   ],
   "colorfulcampfires:red_cherry_campfire": [
     255,
@@ -20894,6 +21054,11 @@
     102,
     187
   ],
+  "bibliocraft:red_fancy_gold_lamp": [
+    255,
+    0,
+    0
+  ],
   "framedblocks:framed_wall_torch": [
     255,
     255,
@@ -21093,6 +21258,11 @@
     136,
     68,
     17
+  ],
+  "bibliocraft:gold_soul_lantern": [
+    0,
+    0,
+    255
   ],
   "silentgems:rose_quartz_lamp_inverted_on": [
     255,
@@ -21714,6 +21884,11 @@
     0,
     0
   ],
+  "bibliocraft:light_blue_fancy_iron_lamp": [
+    0,
+    0,
+    255
+  ],
   "musings:circle_cyan_ring_light_gray_bg": [
     136,
     136,
@@ -21954,6 +22129,11 @@
     255,
     0
   ],
+  "bibliocraft:yellow_fancy_gold_lantern": [
+    255,
+    255,
+    0
+  ],
   "productivetrees:night_fuchsia_planks": [
     255,
     255,
@@ -22003,6 +22183,11 @@
     255,
     255,
     0
+  ],
+  "bibliocraft:white_fancy_gold_lamp": [
+    255,
+    255,
+    255
   ],
   "enderite:ender_crystal_cluster": [
     255,
@@ -22313,6 +22498,11 @@
     136,
     136,
     136
+  ],
+  "bibliocraft:brown_fancy_gold_lamp": [
+    136,
+    68,
+    17
   ],
   "chipped:creeper_magma_block_carving": [
     255,
@@ -23999,6 +24189,11 @@
     255,
     255
   ],
+  "bibliocraft:brown_fancy_gold_lantern": [
+    136,
+    68,
+    17
+  ],
   "wallpapercraft:auralamppurple-8": [
     170,
     34,
@@ -24553,11 +24748,6 @@
     255,
     102,
     17
-  ],
-  "bloodyhell:blasphemous_blood_altar": [
-    255,
-    255,
-    255
   ],
   "allthecompressed:glowstone_8x": [
     255,
@@ -27189,6 +27379,11 @@
     34,
     255
   ],
+  "bibliocraft:lime_fancy_gold_lamp": [
+    187,
+    255,
+    0
+  ],
   "fcb:fcbg2329600": [
     255,
     255,
@@ -28454,6 +28649,11 @@
     255,
     0
   ],
+  "bibliocraft:cyan_fancy_iron_lamp": [
+    0,
+    255,
+    255
+  ],
   "productivetrees:black_ember_log": [
     0,
     0,
@@ -28488,6 +28688,11 @@
     0,
     0,
     255
+  ],
+  "bibliocraft:yellow_fancy_iron_lamp": [
+    255,
+    255,
+    0
   ],
   "ars_nouveau:relay_deposit": [
     255,
@@ -28779,6 +28984,11 @@
     102,
     187
   ],
+  "bibliocraft:purple_fancy_gold_lantern": [
+    170,
+    34,
+    255
+  ],
   "tconstruct:blazewood": [
     255,
     255,
@@ -28839,12 +29049,12 @@
     255,
     255
   ],
-  "createresourcegeodes:crimsite_catalyst": [
+  "ae2cs:deepslate_charged_certus_quartz_ore": [
     255,
     255,
     255
   ],
-  "ae2cs:deepslate_charged_certus_quartz_ore": [
+  "createresourcegeodes:crimsite_catalyst": [
     255,
     255,
     255
@@ -29155,11 +29365,6 @@
     255
   ],
   "primalmagick:synthetic_diamond_cluster": [
-    255,
-    255,
-    255
-  ],
-  "bloodyhell:main_blasphemous_blood_altar": [
     255,
     255,
     255
@@ -29839,6 +30044,11 @@
     255,
     255
   ],
+  "bibliocraft:red_fancy_iron_lantern": [
+    255,
+    0,
+    0
+  ],
   "productivetrees:cave_dweller_slab": [
     255,
     255,
@@ -30121,6 +30331,11 @@
   ],
   "colorfulcampfires:yellow_warped_stem_campfire": [
     255,
+    255,
+    0
+  ],
+  "bibliocraft:lime_fancy_iron_lamp": [
+    187,
     255,
     0
   ],
@@ -30443,6 +30658,11 @@
     255,
     255,
     255
+  ],
+  "bibliocraft:orange_fancy_iron_lamp": [
+    255,
+    102,
+    17
   ],
   "composite_material:sculk_infuser": [
     255,
@@ -30779,6 +30999,11 @@
     34,
     255
   ],
+  "bibliocraft:brown_fancy_iron_lamp": [
+    136,
+    68,
+    17
+  ],
   "luminousworld:phoenix_egg": [
     255,
     255,
@@ -30954,7 +31179,17 @@
     0,
     255
   ],
+  "bibliocraft:yellow_fancy_gold_lamp": [
+    255,
+    255,
+    0
+  ],
   "fcb:fcbg17955": [
+    255,
+    255,
+    255
+  ],
+  "morecandles:scented_candle/oxeye": [
     255,
     255,
     255
@@ -31011,6 +31246,11 @@
   ],
   "chipped:vertical_cut_crying_obsidian": [
     255,
+    255,
+    255
+  ],
+  "bibliocraft:cyan_fancy_gold_lamp": [
+    0,
     255,
     255
   ],
@@ -31485,6 +31725,11 @@
     255
   ],
   "colorfulcampfires:light_blue_crimson_stem_campfire": [
+    0,
+    0,
+    255
+  ],
+  "bibliocraft:blue_fancy_iron_lantern": [
     0,
     0,
     255
@@ -32324,6 +32569,11 @@
     0,
     0
   ],
+  "bibliocraft:purple_fancy_iron_lamp": [
+    170,
+    34,
+    255
+  ],
   "musings:circle_lime_ring_yellow_bg_flipping": [
     255,
     255,
@@ -32729,6 +32979,11 @@
     0,
     255
   ],
+  "bibliocraft:pink_fancy_gold_lamp": [
+    255,
+    102,
+    187
+  ],
   "mcwholidays:purple_decorated_christmas_tree_base": [
     170,
     34,
@@ -32859,6 +33114,11 @@
     0,
     255
   ],
+  "bibliocraft:magenta_fancy_iron_lantern": [
+    255,
+    0,
+    255
+  ],
   "thingamajigs:popcorn_machine": [
     255,
     255,
@@ -32908,6 +33168,11 @@
     255,
     255,
     255
+  ],
+  "bibliocraft:green_fancy_gold_lamp": [
+    0,
+    255,
+    0
   ],
   "musings:circle_cyan_ring_light_blue_bg_flipping": [
     0,
@@ -33333,6 +33598,11 @@
     255,
     255,
     255
+  ],
+  "bibliocraft:orange_fancy_gold_lantern": [
+    255,
+    102,
+    17
   ],
   "fcb:fcbg8995": [
     255,
@@ -34429,9 +34699,19 @@
     255,
     0
   ],
+  "bibliocraft:lime_fancy_gold_lantern": [
+    187,
+    255,
+    0
+  ],
   "tconstruct:molten_porcelain_fluid": [
     255,
     255,
+    255
+  ],
+  "bibliocraft:light_blue_fancy_gold_lantern": [
+    0,
+    0,
     255
   ],
   "luminous_nether:fungirracklamporange": [
@@ -35289,6 +35569,11 @@
     255,
     0
   ],
+  "bibliocraft:green_fancy_gold_lantern": [
+    0,
+    255,
+    0
+  ],
   "fcb:fcbg16065280": [
     255,
     255,
@@ -35468,6 +35753,11 @@
     255,
     102,
     187
+  ],
+  "bibliocraft:green_fancy_iron_lantern": [
+    0,
+    255,
+    0
   ],
   "chipped:trodden_crying_obsidian": [
     255,
@@ -37849,6 +38139,11 @@
     255,
     255
   ],
+  "bibliocraft:pink_fancy_iron_lantern": [
+    255,
+    102,
+    187
+  ],
   "musings:circle_red_ring_magenta_bg_flipping": [
     255,
     0,
@@ -37898,6 +38193,11 @@
     255,
     0,
     0
+  ],
+  "bibliocraft:gray_fancy_iron_lamp": [
+    136,
+    136,
+    136
   ],
   "dustrial_decor:large_ender_lantern": [
     255,
@@ -38163,6 +38463,11 @@
     255,
     255,
     255
+  ],
+  "bibliocraft:yellow_fancy_iron_lantern": [
+    255,
+    255,
+    0
   ],
   "quark:white_corundum_pane": [
     255,
@@ -38814,6 +39119,11 @@
     0,
     255
   ],
+  "bibliocraft:light_blue_fancy_iron_lantern": [
+    0,
+    0,
+    255
+  ],
   "fcb:fcbg4605685": [
     255,
     255,
@@ -38837,6 +39147,11 @@
   "dazzle:black_icy_analog_lamp": [
     0,
     0,
+    0
+  ],
+  "bibliocraft:lime_fancy_iron_lantern": [
+    187,
+    255,
     0
   ],
   "autumnity:redstone_jack_o_lantern": [
@@ -39319,6 +39634,11 @@
     0,
     0
   ],
+  "bibliocraft:red_fancy_iron_lamp": [
+    255,
+    0,
+    0
+  ],
   "spelunkery:calcite_redstone_ore": [
     255,
     0,
@@ -39478,6 +39798,11 @@
     136,
     136,
     136
+  ],
+  "bibliocraft:magenta_fancy_gold_lantern": [
+    255,
+    0,
+    255
   ],
   "hauntedharvest:jack_o_lantern": [
     255,
@@ -40504,6 +40829,11 @@
     255,
     0
   ],
+  "bibliocraft:white_fancy_iron_lamp": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg4623570": [
     255,
     255,
@@ -40520,6 +40850,11 @@
     255
   ],
   "productivetrees:expansion_box_water_wonder": [
+    255,
+    255,
+    255
+  ],
+  "bibliocraft:white_fancy_iron_lantern": [
     255,
     255,
     255
@@ -40624,6 +40959,11 @@
     0,
     255
   ],
+  "bibliocraft:light_blue_fancy_gold_lamp": [
+    0,
+    0,
+    255
+  ],
   "mysticsbiomes:pink_frosted_candle_cake_orange": [
     255,
     102,
@@ -40682,6 +41022,11 @@
   "architects_palette:abyssaline_brick_vertical_slab": [
     255,
     255,
+    255
+  ],
+  "bibliocraft:soul_fancy_gold_lantern": [
+    0,
+    0,
     255
   ],
   "fcb:fcbg4623500": [
@@ -41749,6 +42094,11 @@
     255,
     255
   ],
+  "bibliocraft:soul_fancy_iron_lantern": [
+    0,
+    0,
+    255
+  ],
   "dazzle:black_classic_analog_lamp": [
     0,
     0,
@@ -42308,6 +42658,11 @@
     255,
     255,
     255
+  ],
+  "bibliocraft:pink_fancy_gold_lantern": [
+    255,
+    102,
+    187
   ],
   "colorfulcampfires:green_stripped_jungle_campfire": [
     0,

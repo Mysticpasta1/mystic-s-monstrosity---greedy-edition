@@ -85,13 +85,15 @@ enableEquipmentDatapack = true
 	#Max number of traits on mobs
 	#Range: 1 ~ 100
 	maxTraitCount = 9
+	#Allow player to increase difficulty by killing mobs
+	enableAdaptiveLeveling = true
 
 [difficulty]
 	#Max player adaptive level
-	#Range: 100 ~ 100000
+	#Range: 1 ~ 100000
 	maxPlayerLevel = 2000
 	#Max mob level
-	#Range: 100 ~ 100000
+	#Range: 1 ~ 100000
 	maxMobLevel = 3000
 	#Difficulty increment takes this many kills of same level mob
 	#Range: 1 ~ 100000
