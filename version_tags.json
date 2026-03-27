@@ -1,7 +1,7 @@
 [
   {
-    "version": "36.0.1",
-    "created_at": "2026-03-27T17:14:41.7232866Z",
+    "version": "36.1.0",
+    "created_at": "2026-03-27T21:11:46.3635094Z",
     "notes": null,
     "mod_snapshot": [
       {
@@ -2937,6 +2937,24 @@
         "file_size": 103079,
         "curseforge_id": 872232,
         "modrinth_id": "kdj4UZE7"
+      },
+      {
+        "file_name": "ceramicshears-1.20.1-1.9.0.1.jar",
+        "name": "Ceramic Shears",
+        "version": null,
+        "mod_id": null,
+        "file_size": 16348,
+        "curseforge_id": 363553,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "Ceramics-1.20.1-1.8.0.jar",
+        "name": "Ceramics",
+        "version": null,
+        "mod_id": null,
+        "file_size": 902756,
+        "curseforge_id": 250617,
+        "modrinth_id": null
       },
       {
         "file_name": "BetterBeacons-Forge-1.20.1-2.0.0.jar",
@@ -9203,6 +9221,15 @@
         "modrinth_id": "fxaE37Sf"
       },
       {
+        "file_name": "irons_patreon_lib-1.20.1-1.0.0.jar",
+        "name": "Iron\u0027s Patreon Library",
+        "version": null,
+        "mod_id": null,
+        "file_size": 374062,
+        "curseforge_id": 1492763,
+        "modrinth_id": null
+      },
+      {
         "file_name": "Arcane_EssencePlus.jar",
         "name": "Iron\u0027s Spell Books: Arcane Essence Blocks",
         "version": null,
@@ -9212,11 +9239,11 @@
         "modrinth_id": "Pkj2hNRk"
       },
       {
-        "file_name": "irons_spellbooks-1.20.1-3.15.4.jar",
+        "file_name": "irons_spellbooks-1.20.1-3.15.5.1.jar",
         "name": "Iron\u0027s Spells \u0027n Spellbooks",
         "version": null,
         "mod_id": null,
-        "file_size": 15144197,
+        "file_size": 15187252,
         "curseforge_id": 855414,
         "modrinth_id": null
       },
@@ -9894,6 +9921,15 @@
         "file_size": 1253011,
         "curseforge_id": 412525,
         "modrinth_id": "qEH6GYul"
+      },
+      {
+        "file_name": "lightmobs-1.0.0-forge-1.20.1.jar",
+        "name": "Light Mobs",
+        "version": null,
+        "mod_id": null,
+        "file_size": 635743,
+        "curseforge_id": 1480175,
+        "modrinth_id": null
       },
       {
         "file_name": "lim_lib-1.20.1-0.2.0.jar",
@@ -12929,15 +12965,6 @@
         "modrinth_id": null
       },
       {
-        "file_name": "potentia beta 0.10.2.jar",
-        "name": "Potentia: Titans Mod Returns",
-        "version": null,
-        "mod_id": null,
-        "file_size": 19071840,
-        "curseforge_id": 1359990,
-        "modrinth_id": null
-      },
-      {
         "file_name": "potionbundles-1.20-1.8.jar",
         "name": "Potion Bundles",
         "version": null,
@@ -14675,11 +14702,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "voicechat-forge-1.20.1-2.6.12.jar",
+        "file_name": "voicechat-forge-1.20.1-2.6.13.jar",
         "name": "Simple Voice Chat",
         "version": null,
         "mod_id": null,
-        "file_size": 4892161,
+        "file_size": 4894936,
         "curseforge_id": 416089,
         "modrinth_id": null
       },
@@ -15672,6 +15699,15 @@
         "file_size": 21714,
         "curseforge_id": 550963,
         "modrinth_id": "Jch00SNX"
+      },
+      {
+        "file_name": "FireSticks\u002BV.1.5\u002B[1.20.1][FORGE].jar",
+        "name": "Survival Fire Sticks (Wooden Flint and Steel)",
+        "version": null,
+        "mod_id": null,
+        "file_size": 16015,
+        "curseforge_id": 710998,
+        "modrinth_id": null
       },
       {
         "file_name": "survivalhouse-1.3.0-forge-1.20.1.jar",
@@ -18012,6 +18048,15 @@
         "file_size": 224425,
         "curseforge_id": 383182,
         "modrinth_id": "H1x2EwLg"
+      },
+      {
+        "file_name": "xphealth-1.20-0.1.1.jar",
+        "name": "XP Health",
+        "version": null,
+        "mod_id": null,
+        "file_size": 3789,
+        "curseforge_id": 818743,
+        "modrinth_id": null
       },
       {
         "file_name": "xptome-1.20.1-2.2.1.jar",

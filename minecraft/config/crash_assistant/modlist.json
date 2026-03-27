@@ -2353,6 +2353,20 @@
     "curseForgeHash": 3248638975,
     "modrinthHash": "9a38a29d43ac1db640859e806b82c9173fa66a7e"
   },
+  "Ceramics-1.20.1-1.8.0.jar": {
+    "jarName": "Ceramics-1.20.1-1.8.0.jar",
+    "modId": "ceramics",
+    "version": "1.8.0",
+    "curseForgeHash": 1494321778,
+    "modrinthHash": "a696fad01b02a88e6d19e5f2cae76375973dfd84"
+  },
+  "ceramicshears-1.20.1-1.9.0.1.jar": {
+    "jarName": "ceramicshears-1.20.1-1.9.0.1.jar",
+    "modId": "ceramicshears",
+    "version": "1.20.1-1.9.0.1",
+    "curseForgeHash": 2719196909,
+    "modrinthHash": "fd51bb7dc7c6af971b5fa93f7569f4e89858c6d0"
+  },
   "CerbonsAPI-Forge-1.20.1-1.1.0.jar": {
     "jarName": "CerbonsAPI-Forge-1.20.1-1.1.0.jar",
     "modId": "cerbons_api",
@@ -5506,6 +5520,13 @@
     "curseForgeHash": 102404079,
     "modrinthHash": "4a50c3b4c526c7364748ac2fbcd92da20d30d939"
   },
+  "FireSticks+V.1.5+[1.20.1][FORGE].jar": {
+    "jarName": "FireSticks+V.1.5+[1.20.1][FORGE].jar",
+    "modId": "survival_firesticks",
+    "version": "1.0.0",
+    "curseForgeHash": 1057519463,
+    "modrinthHash": "8eb97af4bab24b574c2f40ce549b98899384579c"
+  },
   "fireworkdynamiclight-1.0.1.jar": {
     "jarName": "fireworkdynamiclight-1.0.1.jar",
     "modId": "fireworklight",
@@ -7207,12 +7228,19 @@
     "curseForgeHash": 633801556,
     "modrinthHash": "b1fdcfdd48ac4519ea95cb3b8dbaacc5cf819b20"
   },
-  "irons_spellbooks-1.20.1-3.15.4.jar": {
-    "jarName": "irons_spellbooks-1.20.1-3.15.4.jar",
+  "irons_patreon_lib-1.20.1-1.0.0.jar": {
+    "jarName": "irons_patreon_lib-1.20.1-1.0.0.jar",
+    "modId": "irons_patreon_lib",
+    "version": "1.20.1-1.0.0",
+    "curseForgeHash": 2398697794,
+    "modrinthHash": "9f5d2d8385468c6ef5397f5f18d9db82b624e812"
+  },
+  "irons_spellbooks-1.20.1-3.15.5.1.jar": {
+    "jarName": "irons_spellbooks-1.20.1-3.15.5.1.jar",
     "modId": "irons_spellbooks",
-    "version": "1.20.1-3.15.4",
-    "curseForgeHash": 3373401360,
-    "modrinthHash": "db09c49487fa3ac049230bd9c28a54c37f1e053c"
+    "version": "1.20.1-3.15.5.1",
+    "curseForgeHash": 3085081311,
+    "modrinthHash": "44f44f29c1ef96bfa0a5ffd0886323effae86721"
   },
   "ironshulkerbox-1.20.1-5.3.2.jar": {
     "jarName": "ironshulkerbox-1.20.1-5.3.2.jar",
@@ -7741,6 +7769,13 @@
     "version": "1.20.1-5.0.12",
     "curseForgeHash": 63366263,
     "modrinthHash": "cbf1d3c63bda4a5e2e8fff8feffa3c7fd38f5acc"
+  },
+  "lightmobs-1.0.0-forge-1.20.1.jar": {
+    "jarName": "lightmobs-1.0.0-forge-1.20.1.jar",
+    "modId": "lightmobs",
+    "version": "1.0.0",
+    "curseForgeHash": 3393883568,
+    "modrinthHash": "8e1efa95cb79102af8905ff460fb0b99c1efdd1f"
   },
   "lim_lib-1.20.1-0.2.0.jar": {
     "jarName": "lim_lib-1.20.1-0.2.0.jar",
@@ -10082,13 +10117,6 @@
     "version": "1.0.0",
     "curseForgeHash": 1398935178,
     "modrinthHash": "aceade93c4e3792700b59ac512682cfcd26a1140"
-  },
-  "potentia beta 0.10.2.jar": {
-    "jarName": "potentia beta 0.10.2.jar",
-    "modId": "potentia",
-    "version": "1.0.0",
-    "curseForgeHash": 3608689008,
-    "modrinthHash": "81d9a88cffc30a7e8ad048f1d3d143a277c0c247"
   },
   "Potion level fix-forge-1.20.1-1.6.jar": {
     "jarName": "Potion level fix-forge-1.20.1-1.6.jar",
@@ -13606,12 +13634,12 @@
     "curseForgeHash": 1303874320,
     "modrinthHash": "1f0547f3ba508156cd4630bf793df464230e04f3"
   },
-  "voicechat-forge-1.20.1-2.6.12.jar": {
-    "jarName": "voicechat-forge-1.20.1-2.6.12.jar",
+  "voicechat-forge-1.20.1-2.6.13.jar": {
+    "jarName": "voicechat-forge-1.20.1-2.6.13.jar",
     "modId": "voicechat",
-    "version": "1.20.1-2.6.12",
-    "curseForgeHash": 1121327832,
-    "modrinthHash": "c4d43c19afb69726c36a7ea0fe3bfd5dd848b7b6"
+    "version": "1.20.1-2.6.13",
+    "curseForgeHash": 172401293,
+    "modrinthHash": "acd4d2b8b1a76a5dd7ceb10a1739611d290d6a61"
   },
   "voidminers-1.20.1-1.9.25.3.jar": {
     "jarName": "voidminers-1.20.1-1.9.25.3.jar",
@@ -14004,6 +14032,13 @@
     "version": "5.1.4",
     "curseForgeHash": 153626574,
     "modrinthHash": "7a686d07aeab7d89c876a9e6f90f53514f43a107"
+  },
+  "xphealth-1.20-0.1.1.jar": {
+    "jarName": "xphealth-1.20-0.1.1.jar",
+    "modId": "xphealth",
+    "version": "1.20-0.1.1",
+    "curseForgeHash": 1270303335,
+    "modrinthHash": "f44acf1795b8c2016c45aeabf4d77a547c67d7b8"
   },
   "xptome-1.20.1-2.2.1.jar": {
     "jarName": "xptome-1.20.1-2.2.1.jar",

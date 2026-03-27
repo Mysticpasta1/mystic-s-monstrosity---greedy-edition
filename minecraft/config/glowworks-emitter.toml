@@ -9773,11 +9773,6 @@
 		glow_shroom_cap = "[255,255,255]"
 		glow_shroom_cap_center = "[255,255,255]"
 
-[potentia]
-
-	[potentia.blocks]
-		molten_fuel_block = "[255,255,255]"
-
 [l2hostility]
 
 	[l2hostility.blocks]
@@ -10003,4 +9998,9 @@
 		oil_lantern = "[255,255,255]"
 		candle_lantern = "[255,255,255]"
 		incandescent_light = "[255,255,255]"
+
+[ceramics]
+
+	[ceramics.blocks]
+		kiln = "[255,255,255]"
 

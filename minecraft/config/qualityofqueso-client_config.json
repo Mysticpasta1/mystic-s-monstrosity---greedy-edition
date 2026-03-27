@@ -4,7 +4,7 @@
   "quick_search": true,
   "chest_searching": true,
   "search_inventory": true,
-  "inventory_searching": true,
+  "inventory_searching": false,
   "save_search_text": false,
   "transferring": "SHORTCUT_KEY_OR_BUTTON",
   "container_sorting": "SHORTCUT_KEY_OR_BUTTON",

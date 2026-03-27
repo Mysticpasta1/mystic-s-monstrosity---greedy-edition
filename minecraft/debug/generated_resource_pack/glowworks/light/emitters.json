@@ -32799,6 +32799,11 @@
     255,
     255
   ],
+  "ceramics:kiln": [
+    255,
+    255,
+    255
+  ],
   "bc_core:tinted_water_block_203": [
     255,
     255,
@@ -34995,11 +35000,6 @@
     136
   ],
   "ad_extendra:glowing_neptunium_pillar": [
-    255,
-    255,
-    255
-  ],
-  "potentia:molten_fuel_block": [
     255,
     255,
     255

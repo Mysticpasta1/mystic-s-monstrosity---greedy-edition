@@ -1,5 +1,7 @@
 {
   "apply_fog_function": true,
   "multi_server_configs": false,
-  "blacklisted_servers": []
+  "blacklisted_servers": [
+    "104.194.8.242:25783"
+  ]
 }
