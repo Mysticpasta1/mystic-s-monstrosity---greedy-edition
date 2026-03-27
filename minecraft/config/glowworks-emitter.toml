@@ -9980,3 +9980,27 @@
 		gold_lantern = "[255,255,255]"
 		gold_soul_lantern = "[0,0,255]"
 
+[fairylights]
+
+	[fairylights.blocks]
+		fairy_light = "[255,255,255]"
+		paper_lantern = "[255,255,255]"
+		orb_lantern = "[255,255,255]"
+		flower_light = "[255,255,255]"
+		candle_lantern_light = "[255,255,255]"
+		oil_lantern_light = "[255,255,255]"
+		jack_o_lantern = "[255,255,255]"
+		skull_light = "[255,255,255]"
+		ghost_light = "[255,255,255]"
+		spider_light = "[255,255,255]"
+		witch_light = "[255,255,255]"
+		snowflake_light = "[255,255,255]"
+		heart_light = "[255,255,255]"
+		moon_light = "[255,255,255]"
+		star_light = "[255,255,255]"
+		icicle_lights = "[255,255,255]"
+		meteor_light = "[255,255,255]"
+		oil_lantern = "[255,255,255]"
+		candle_lantern = "[255,255,255]"
+		incandescent_light = "[255,255,255]"
+

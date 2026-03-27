@@ -3504,6 +3504,11 @@
     68,
     17
   ],
+  "fairylights:star_light": [
+    255,
+    255,
+    255
+  ],
   "mcwholidays:green_string_lights": [
     0,
     255,
@@ -4399,6 +4404,11 @@
     0,
     255
   ],
+  "fairylights:moon_light": [
+    255,
+    255,
+    255
+  ],
   "doom_and_gloom:lime_vigil_candle": [
     187,
     255,
@@ -4695,6 +4705,11 @@
     255
   ],
   "fcb:fcbg6899200": [
+    255,
+    255,
+    255
+  ],
+  "fairylights:skull_light": [
     255,
     255,
     255
@@ -8279,6 +8294,11 @@
     255,
     255
   ],
+  "fairylights:meteor_light": [
+    255,
+    255,
+    255
+  ],
   "minecraft:small_amethyst_bud": [
     170,
     34,
@@ -9784,6 +9804,11 @@
     255,
     255
   ],
+  "fairylights:candle_lantern": [
+    255,
+    255,
+    255
+  ],
   "minecraft:red_candle": [
     255,
     0,
@@ -10030,6 +10055,11 @@
     255
   ],
   "pyrite:glow_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "fairylights:orb_lantern": [
     255,
     255,
     255
@@ -16244,6 +16274,11 @@
     255,
     0
   ],
+  "fairylights:fairy_light": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg6917120": [
     255,
     255,
@@ -17352,6 +17387,11 @@
   "mysticsbiomes:orange_frosted_candle_cake_light_blue": [
     0,
     0,
+    255
+  ],
+  "fairylights:candle_lantern_light": [
+    255,
+    255,
     255
   ],
   "botania:red_mushroom": [
@@ -18892,6 +18932,11 @@
   "colorfulcampfires:magenta_bamboo_campfire": [
     255,
     0,
+    255
+  ],
+  "fairylights:flower_light": [
+    255,
+    255,
     255
   ],
   "colorfulcampfires:lime_warped_stem_dark_campfire": [
@@ -25044,6 +25089,11 @@
     255,
     255
   ],
+  "fairylights:spider_light": [
+    255,
+    255,
+    255
+  ],
   "minecraft:torchflower": [
     255,
     255,
@@ -25548,6 +25598,11 @@
     0,
     0,
     0
+  ],
+  "fairylights:oil_lantern_light": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:light_gray_stripped_jungle_dark_campfire": [
     136,
@@ -27794,6 +27849,11 @@
     255,
     255
   ],
+  "fairylights:incandescent_light": [
+    255,
+    255,
+    255
+  ],
   "outer_end:cobalt_crystal": [
     255,
     255,
@@ -28784,6 +28844,11 @@
     255,
     0
   ],
+  "fairylights:ghost_light": [
+    255,
+    255,
+    255
+  ],
   "xycraft_world:lamp_lantern_yellow": [
     255,
     255,
@@ -28941,6 +29006,11 @@
   ],
   "colorfulcampfires:cyan_stripped_crimson_stem_dark_campfire": [
     0,
+    255,
+    255
+  ],
+  "fairylights:witch_light": [
+    255,
     255,
     255
   ],
@@ -30979,6 +31049,11 @@
     255,
     0
   ],
+  "fairylights:paper_lantern": [
+    255,
+    255,
+    255
+  ],
   "thingamajigs:blue_jol": [
     0,
     0,
@@ -32977,6 +33052,11 @@
   "suppsquared:gold_candle_holder_light_blue": [
     0,
     0,
+    255
+  ],
+  "fairylights:oil_lantern": [
+    255,
+    255,
     255
   ],
   "bibliocraft:pink_fancy_gold_lamp": [
@@ -38814,6 +38894,11 @@
     255,
     255
   ],
+  "fairylights:snowflake_light": [
+    255,
+    255,
+    255
+  ],
   "truedarkness:measky_tree": [
     255,
     255,
@@ -39103,6 +39188,11 @@
     187,
     255,
     0
+  ],
+  "fairylights:icicle_lights": [
+    255,
+    255,
+    255
   ],
   "moglowstone:light_blue_glowstone_block": [
     0,
@@ -40878,6 +40968,11 @@
     136,
     136,
     136
+  ],
+  "fairylights:jack_o_lantern": [
+    255,
+    255,
+    255
   ],
   "musings:circle_purple_ring_gray_bg": [
     136,
@@ -42760,6 +42855,11 @@
     0
   ],
   "fcb:fcbg16083305": [
+    255,
+    255,
+    255
+  ],
+  "fairylights:heart_light": [
     255,
     255,
     255

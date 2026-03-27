@@ -16,7 +16,7 @@
   "save_excluded_slots": false,
   "show_button_shortcuts": true,
   "include_hotbar": true,
-  "armor_status": "ON_CHANGE",
+  "armor_status": "OFF",
   "item_count": "STACKS",
   "display_on_throw": true,
   "display_on_pickup": true,
