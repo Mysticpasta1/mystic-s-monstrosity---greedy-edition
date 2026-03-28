@@ -1,7 +1,7 @@
 [
   {
-    "version": "36.1.0",
-    "created_at": "2026-03-27T21:11:46.3635094Z",
+    "version": "37.0.0",
+    "created_at": "2026-03-28T12:20:58.9817763Z",
     "notes": null,
     "mod_snapshot": [
       {
@@ -59,11 +59,11 @@
         "modrinth_id": "6uNpi7nI"
       },
       {
-        "file_name": "skinlayers3d-forge-1.10.2-mc1.20.1.jar",
+        "file_name": "skinlayers3d-forge-1.11.0-mc1.20.1.jar",
         "name": "3d-Skin-Layers",
         "version": null,
         "mod_id": null,
-        "file_size": 2157046,
+        "file_size": 2163516,
         "curseforge_id": 521480,
         "modrinth_id": "zV5r3pPn"
       },
@@ -1850,11 +1850,11 @@
         "modrinth_id": "dvjhO4Gh"
       },
       {
-        "file_name": "BetterAdvancements-Forge-1.20.1-0.4.2.10.jar",
+        "file_name": "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar",
         "name": "Better Advancements",
         "version": null,
         "mod_id": null,
-        "file_size": 98273,
+        "file_size": 98124,
         "curseforge_id": 272515,
         "modrinth_id": "Q2OqKxDG"
       },
@@ -2484,7 +2484,7 @@
         "name": "Botany Pots: Cultivating Dreams",
         "version": null,
         "mod_id": null,
-        "file_size": 434379,
+        "file_size": 235966,
         "curseforge_id": 1190719,
         "modrinth_id": null
       },
@@ -2954,7 +2954,7 @@
         "mod_id": null,
         "file_size": 902756,
         "curseforge_id": 250617,
-        "modrinth_id": null
+        "modrinth_id": "MtA86qNV"
       },
       {
         "file_name": "BetterBeacons-Forge-1.20.1-2.0.0.jar",
@@ -3659,15 +3659,6 @@
         "modrinth_id": null
       },
       {
-        "file_name": "Connector-1.0.0-beta.48\u002B1.20.1.jar",
-        "name": "Connector-1.0.0-beta.48\u002B1.20.1",
-        "version": null,
-        "mod_id": null,
-        "file_size": 5043906,
-        "curseforge_id": 890127,
-        "modrinth_id": null
-      },
-      {
         "file_name": "constructionwand-1.20.1-2.11.jar",
         "name": "Construction Wand",
         "version": null,
@@ -3879,7 +3870,7 @@
         "name": "Crash Assistant",
         "version": null,
         "mod_id": null,
-        "file_size": 3022834,
+        "file_size": 3046687,
         "curseforge_id": 1154099,
         "modrinth_id": "ix1qq8Ux"
       },
@@ -4086,7 +4077,7 @@
         "name": "Create Low-Heated",
         "version": null,
         "mod_id": null,
-        "file_size": 164132,
+        "file_size": 171909,
         "curseforge_id": 873945,
         "modrinth_id": "hd0gHVlC"
       },
@@ -4098,6 +4089,15 @@
         "file_size": 513561,
         "curseforge_id": 686100,
         "modrinth_id": "hGAlcCDJ"
+      },
+      {
+        "file_name": "cmparallelpipes-forge-2.0.3.jar",
+        "name": "Create More: Parallel Pipes",
+        "version": null,
+        "mod_id": null,
+        "file_size": 30815,
+        "curseforge_id": 1283321,
+        "modrinth_id": "5jfUeix5"
       },
       {
         "file_name": "create-otbwg-compat-1.0.jar",
@@ -4320,7 +4320,7 @@
         "name": "Create: Enchantable Machinery",
         "version": null,
         "mod_id": null,
-        "file_size": 579833,
+        "file_size": 585417,
         "curseforge_id": 1061749,
         "modrinth_id": "eqrvp4NK"
       },
@@ -4514,13 +4514,22 @@
         "modrinth_id": "ae2lDuIP"
       },
       {
-        "file_name": "ctl-forge-1.1.1-C6.jar",
+        "file_name": "ctl-forge-1.1.0-C6.jar",
         "name": "Create: Train Lights",
         "version": null,
         "mod_id": null,
         "file_size": 661888,
         "curseforge_id": 1318080,
         "modrinth_id": "nRC3whhL"
+      },
+      {
+        "file_name": "createtransmission-1.1.0\u002Bforge-create6-1.20.1.jar",
+        "name": "Create: Transmission!",
+        "version": null,
+        "mod_id": null,
+        "file_size": 874009,
+        "curseforge_id": 1354280,
+        "modrinth_id": "QFCkBuIh"
       },
       {
         "file_name": "create_tweaked_controllers-1.20.1-1.2.5.jar",
@@ -4554,7 +4563,7 @@
         "name": "Create: Vintage",
         "version": null,
         "mod_id": null,
-        "file_size": 1231685,
+        "file_size": 1236813,
         "curseforge_id": 1240780,
         "modrinth_id": "qVZh767G"
       },
@@ -4788,7 +4797,7 @@
         "name": "Curvy Pipes",
         "version": null,
         "mod_id": null,
-        "file_size": 2629267,
+        "file_size": 2629245,
         "curseforge_id": 1151126,
         "modrinth_id": "Ns4fCzXQ"
       },
@@ -5702,15 +5711,6 @@
         "modrinth_id": "aZNuXAkp"
       },
       {
-        "file_name": "DynamicTrees-1.20.1-1.4.9.jar",
-        "name": "Dynamic Trees - Au Naturel Edit",
-        "version": null,
-        "mod_id": null,
-        "file_size": 3754109,
-        "curseforge_id": 1406388,
-        "modrinth_id": null
-      },
-      {
         "file_name": "DynamicTreesAutumnity-1.20.1-1.3.2.jar",
         "name": "Dynamic Trees - Autumnity",
         "version": null,
@@ -5907,15 +5907,6 @@
         "file_size": 1335172,
         "curseforge_id": 1404692,
         "modrinth_id": "ju42L8G7"
-      },
-      {
-        "file_name": "dynamictrees_createcompat-1.0.1.jar",
-        "name": "Dynamic Trees Create Compat",
-        "version": null,
-        "mod_id": null,
-        "file_size": 11811,
-        "curseforge_id": 980611,
-        "modrinth_id": null
       },
       {
         "file_name": "dtnatures_spirit-1.20.1-forge-1.3-all.jar",
@@ -6359,15 +6350,6 @@
         "modrinth_id": "MbejSZ2E"
       },
       {
-        "file_name": "enhancedblockentities-0.9\u002B1.20.jar",
-        "name": "Enhanced Block Entities",
-        "version": null,
-        "mod_id": null,
-        "file_size": 490690,
-        "curseforge_id": 452046,
-        "modrinth_id": "OVuFYfre"
-      },
-      {
         "file_name": "aether_enhanced_extinguishing-1.20.1-1.0.0-neoforge.jar",
         "name": "Enhanced Extinguishing",
         "version": null,
@@ -6408,7 +6390,7 @@
         "name": "Entangled",
         "version": null,
         "mod_id": null,
-        "file_size": 122627,
+        "file_size": 123549,
         "curseforge_id": 301034,
         "modrinth_id": "rylMOguI"
       },
@@ -6651,7 +6633,7 @@
         "name": "Extended Crafting",
         "version": null,
         "mod_id": null,
-        "file_size": 656891,
+        "file_size": 657943,
         "curseforge_id": 268387,
         "modrinth_id": "5JMG1gql"
       },
@@ -7182,7 +7164,7 @@
         "name": "Floating Islands",
         "version": null,
         "mod_id": null,
-        "file_size": 326047,
+        "file_size": 358297,
         "curseforge_id": 1216244,
         "modrinth_id": "Ii9sVXDo"
       },
@@ -7266,15 +7248,6 @@
         "file_size": 234433,
         "curseforge_id": 597669,
         "modrinth_id": null
-      },
-      {
-        "file_name": "fluidvoidfading-1.1.3.jar",
-        "name": "Fluid Void Fading",
-        "version": null,
-        "mod_id": null,
-        "file_size": 120312,
-        "curseforge_id": 821771,
-        "modrinth_id": "HO64QSJp"
       },
       {
         "file_name": "fluidlogged-2.0.1-beta.2-forge-mc1.20.1.jar",
@@ -8672,15 +8645,6 @@
         "modrinth_id": null
       },
       {
-        "file_name": "Iglee\u0027s Library-1.20.1-1.2.7.jar",
-        "name": "Iglee\u0027s Library",
-        "version": null,
-        "mod_id": null,
-        "file_size": 238626,
-        "curseforge_id": 541199,
-        "modrinth_id": "6n6toXVb"
-      },
-      {
         "file_name": "illageandspillagerespillaged-1.2.8.jar",
         "name": "Illage and Spillage: Respillaged",
         "version": null,
@@ -8874,7 +8838,7 @@
         "name": "Immersive Technology",
         "version": null,
         "mod_id": null,
-        "file_size": 10714374,
+        "file_size": 10719383,
         "curseforge_id": 359407,
         "modrinth_id": "DvaEUke2"
       },
@@ -9245,7 +9209,7 @@
         "mod_id": null,
         "file_size": 15187252,
         "curseforge_id": 855414,
-        "modrinth_id": null
+        "modrinth_id": "s4OWxYQQ"
       },
       {
         "file_name": "takesapillage-1.0.3-1.20.1.jar",
@@ -9543,15 +9507,6 @@
         "file_size": 12666,
         "curseforge_id": 848098,
         "modrinth_id": null
-      },
-      {
-        "file_name": "justhammers-forge-2.0.3\u002Bmc1.20.1.jar",
-        "name": "Just Hammers",
-        "version": null,
-        "mod_id": null,
-        "file_size": 98430,
-        "curseforge_id": 681606,
-        "modrinth_id": "edU0NbZZ"
       },
       {
         "file_name": "Kaleidoscopic-forge-1.20.1-1.0.0.jar",
@@ -9914,11 +9869,11 @@
         "modrinth_id": "DOB2l4oJ"
       },
       {
-        "file_name": "LibX-1.20.1-5.0.12.jar",
+        "file_name": "LibX-1.20.1-5.0.14.jar",
         "name": "LibX",
         "version": null,
         "mod_id": null,
-        "file_size": 1253011,
+        "file_size": 1258082,
         "curseforge_id": 412525,
         "modrinth_id": "qEH6GYul"
       },
@@ -9929,7 +9884,7 @@
         "mod_id": null,
         "file_size": 635743,
         "curseforge_id": 1480175,
-        "modrinth_id": null
+        "modrinth_id": "od6kjTXM"
       },
       {
         "file_name": "lim_lib-1.20.1-0.2.0.jar",
@@ -10746,7 +10701,7 @@
         "name": "Mermod",
         "version": null,
         "mod_id": null,
-        "file_size": 318302,
+        "file_size": 324900,
         "curseforge_id": 709092,
         "modrinth_id": "ORiydwz3"
       },
@@ -10904,6 +10859,15 @@
         "modrinth_id": "Nw0MStSd"
       },
       {
+        "file_name": "mixin-booster-0.1.3\u002B1.20.1.jar",
+        "name": "Mixin Booster - \uD83E\uDD80 Sp\uD83E\uDDFDnge Mixin Ultimate \u26A1 Exterminator \u2620\uFE0F MK2 \u002B\u002B (strong effect) \uD83E\uDD80",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1312078,
+        "curseforge_id": 980731,
+        "modrinth_id": "bxn6Iwdo"
+      },
+      {
         "file_name": "mixinextrasneoonforgefix-1.0.0.jar",
         "name": "Mixin Extras NeoForge on Forge Fix",
         "version": null,
@@ -10929,6 +10893,15 @@
         "file_size": 363044,
         "curseforge_id": 225738,
         "modrinth_id": "Adega8YN"
+      },
+      {
+        "file_name": "MoogsMissingVillages-1.20-2.0.0.jar",
+        "name": "MMV - Moog\u0027s Missing Villages",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1582567,
+        "curseforge_id": 1153951,
+        "modrinth_id": "spZb29SD"
       },
       {
         "file_name": "mo_concretes-1.0.jar",
@@ -11082,15 +11055,6 @@
         "file_size": 2459075,
         "curseforge_id": 1473444,
         "modrinth_id": "Ot1fLPew"
-      },
-      {
-        "file_name": "mob-ai-tweaks-1.10.1-1.20.1.jar",
-        "name": "Mob AI Tweaks",
-        "version": null,
-        "mod_id": null,
-        "file_size": 575748,
-        "curseforge_id": 1077291,
-        "modrinth_id": "egIM2bKK"
       },
       {
         "file_name": "MobCrossing-1.20-1.0.1.jar",
@@ -11309,7 +11273,7 @@
         "modrinth_id": "OQAgZMH1"
       },
       {
-        "file_name": "MoogsNetherStructures-1.20-2.0.2.jar",
+        "file_name": "MoogsNetherStructures-1.20-2.0.3.jar",
         "name": "MoogsNetherStructures",
         "version": null,
         "mod_id": null,
@@ -11520,7 +11484,7 @@
         "name": "More Vanilla Shields",
         "version": null,
         "mod_id": null,
-        "file_size": 345209,
+        "file_size": 366254,
         "curseforge_id": 940758,
         "modrinth_id": "qYO6TImU"
       },
@@ -11660,6 +11624,15 @@
         "modrinth_id": null
       },
       {
+        "file_name": "mss-1.2.7-1.20.jar",
+        "name": "MSS - Moog\u0027s Soaring Structures",
+        "version": null,
+        "mod_id": null,
+        "file_size": 3141173,
+        "curseforge_id": 1040210,
+        "modrinth_id": "RJCLIx7k"
+      },
+      {
         "file_name": "muid-3.0.1-1.20.1-forge.jar",
         "name": "MUID - Most Used IDs",
         "version": null,
@@ -11709,7 +11682,7 @@
         "name": "mutil",
         "version": null,
         "mod_id": null,
-        "file_size": 100060,
+        "file_size": 100449,
         "curseforge_id": 351914,
         "modrinth_id": "HWHl8Evb"
       },
@@ -12024,7 +11997,7 @@
         "name": "Nirvana",
         "version": null,
         "mod_id": null,
-        "file_size": 2772166,
+        "file_size": 2771950,
         "curseforge_id": 1278909,
         "modrinth_id": "7vLeZs9H"
       },
@@ -12132,7 +12105,7 @@
         "name": "Nuclearcraft Neoteric",
         "version": null,
         "mod_id": null,
-        "file_size": 17214705,
+        "file_size": 19759770,
         "curseforge_id": 840010,
         "modrinth_id": "Qvd8pl5G"
       },
@@ -12258,7 +12231,7 @@
         "name": "Oh The Biomes We\u0027ve Gone",
         "version": null,
         "mod_id": null,
-        "file_size": 19293756,
+        "file_size": 19308698,
         "curseforge_id": 1070751,
         "modrinth_id": "NTi7d3Xc"
       },
@@ -12897,7 +12870,7 @@
         "name": "Polished Planks",
         "version": null,
         "mod_id": null,
-        "file_size": 483455,
+        "file_size": 484913,
         "curseforge_id": 1398210,
         "modrinth_id": "pwyQpn79"
       },
@@ -13415,7 +13388,7 @@
         "modrinth_id": "pCWLDHSQ"
       },
       {
-        "file_name": "rainbowoaks-forge-1.20-1.0.0.jar",
+        "file_name": "rainbowoaks-forge-1.20-1.0.1.jar",
         "name": "Rainbow Oaks",
         "version": null,
         "mod_id": null,
@@ -13906,7 +13879,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 136923,
-        "curseforge_id": null,
+        "curseforge_id": 714059,
         "modrinth_id": "M1953qlQ"
       },
       {
@@ -13950,7 +13923,7 @@
         "name": "Reworked Phantoms",
         "version": null,
         "mod_id": null,
-        "file_size": 12120,
+        "file_size": 27150,
         "curseforge_id": 1272418,
         "modrinth_id": "WvfzCeKX"
       },
@@ -14176,7 +14149,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 66932,
-        "curseforge_id": null,
+        "curseforge_id": 897173,
         "modrinth_id": "60kmgb0W"
       },
       {
@@ -14508,7 +14481,7 @@
         "name": "Shield Expansion",
         "version": null,
         "mod_id": null,
-        "file_size": 419731,
+        "file_size": 419824,
         "curseforge_id": 583318,
         "modrinth_id": "sjxWxSao"
       },
@@ -14616,7 +14589,7 @@
         "name": "ShutterUp",
         "version": null,
         "mod_id": null,
-        "file_size": 233920,
+        "file_size": 240093,
         "curseforge_id": 1420451,
         "modrinth_id": "xaH4PQRj"
       },
@@ -15616,7 +15589,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 9068792,
-        "curseforge_id": null,
+        "curseforge_id": 386534,
         "modrinth_id": "vOm0vWW8"
       },
       {
@@ -15651,7 +15624,7 @@
         "name": "SuperFancyClouds: Refabricated",
         "version": null,
         "mod_id": null,
-        "file_size": 179018,
+        "file_size": 754206,
         "curseforge_id": 820317,
         "modrinth_id": "Hoop89kN"
       },
@@ -15669,7 +15642,7 @@
         "name": "SuperMartijn642\u0027s Core Lib",
         "version": null,
         "mod_id": null,
-        "file_size": 555116,
+        "file_size": 554977,
         "curseforge_id": 454372,
         "modrinth_id": "rOUBggPv"
       },
@@ -15957,7 +15930,7 @@
         "name": "Tetra",
         "version": null,
         "mod_id": null,
-        "file_size": 3981699,
+        "file_size": 4022276,
         "curseforge_id": 289712,
         "modrinth_id": "YP9DjOvN"
       },
@@ -16021,7 +15994,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 69240172,
-        "curseforge_id": null,
+        "curseforge_id": 362479,
         "modrinth_id": "38tpSycf"
       },
       {
@@ -16228,7 +16201,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 516121,
-        "curseforge_id": null,
+        "curseforge_id": 1187792,
         "modrinth_id": "XyQq0PB2"
       },
       {
@@ -16237,7 +16210,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 16306915,
-        "curseforge_id": null,
+        "curseforge_id": 404380,
         "modrinth_id": "riypeXAj"
       },
       {
@@ -16255,7 +16228,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 52426062,
-        "curseforge_id": null,
+        "curseforge_id": 1028108,
         "modrinth_id": "SzzJttH8"
       },
       {
@@ -16462,7 +16435,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 26639,
-        "curseforge_id": null,
+        "curseforge_id": 344219,
         "modrinth_id": "eU2O6Xp1"
       },
       {
@@ -16588,7 +16561,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 119348,
-        "curseforge_id": null,
+        "curseforge_id": 254268,
         "modrinth_id": "Tl8ESrhX"
       },
       {
@@ -17127,7 +17100,7 @@
         "name": "Uranus",
         "version": null,
         "mod_id": null,
-        "file_size": 1046574,
+        "file_size": 823386,
         "curseforge_id": 1010827,
         "modrinth_id": "3Acxy864"
       },
@@ -17211,15 +17184,6 @@
         "file_size": 589670,
         "curseforge_id": 1082807,
         "modrinth_id": "emQ94xri"
-      },
-      {
-        "file_name": "vcc-0.1.0-Alpha.3.jar",
-        "name": "Vesper\u0027s Compatibility Compendium",
-        "version": null,
-        "mod_id": null,
-        "file_size": 315712,
-        "curseforge_id": 1281402,
-        "modrinth_id": "TwGzXNhG"
       },
       {
         "file_name": "villager_archer_camp-1.0.0-forge-1.20.1.jar",
@@ -17416,7 +17380,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 18820,
-        "curseforge_id": null,
+        "curseforge_id": 1214860,
         "modrinth_id": "rd22zerp"
       },
       {
@@ -17515,7 +17479,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 5251386,
-        "curseforge_id": null,
+        "curseforge_id": 1368607,
         "modrinth_id": "zuARv1N7"
       },
       {
@@ -17659,8 +17623,17 @@
         "version": null,
         "mod_id": null,
         "file_size": 179378119,
-        "curseforge_id": null,
+        "curseforge_id": 1029438,
         "modrinth_id": "4997XcoK"
+      },
+      {
+        "file_name": "watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+        "name": "WATERViSION: Videoplayer",
+        "version": null,
+        "mod_id": null,
+        "file_size": 82079,
+        "curseforge_id": 1167473,
+        "modrinth_id": "dGGbEGoV"
       },
       {
         "file_name": "waveycapes-forge-1.8.2-mc1.20.1.jar",
@@ -17695,7 +17668,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 119264,
-        "curseforge_id": null,
+        "curseforge_id": 908310,
         "modrinth_id": "VaCl9OtG"
       },
       {
@@ -17731,7 +17704,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 830523,
-        "curseforge_id": null,
+        "curseforge_id": 853161,
         "modrinth_id": "vvH4SR2B"
       },
       {
@@ -17939,15 +17912,6 @@
         "mod_id": null,
         "file_size": 53821,
         "curseforge_id": 1078119,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "shellfish-1.3.1.jar",
-        "name": "Womp\u0027s Shellfish Mod",
-        "version": null,
-        "mod_id": null,
-        "file_size": 1472801,
-        "curseforge_id": 897290,
         "modrinth_id": null
       },
       {
@@ -18226,7 +18190,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 13014967,
-        "curseforge_id": null,
+        "curseforge_id": 1111586,
         "modrinth_id": "cs7iGVq1"
       },
       {
@@ -18235,7 +18199,7 @@
         "version": null,
         "mod_id": null,
         "file_size": 200341,
-        "curseforge_id": null,
+        "curseforge_id": 480006,
         "modrinth_id": "ZYgyPyfq"
       },
       {
@@ -18275,80 +18239,7 @@
         "modrinth_id": "tIjpvPBH"
       }
     ],
-    "resourcepack_snapshot": [
-      {
-        "file_name": "A Good Place Sample Pack.zip",
-        "name": "A Good Place Sample Pack",
-        "version": null,
-        "mod_id": null,
-        "file_size": 14945,
-        "curseforge_id": null,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "Basic Nether Ores 32x.zip",
-        "name": "Basic Nether Ores 32x",
-        "version": null,
-        "mod_id": null,
-        "file_size": 228559,
-        "curseforge_id": null,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DWBushyLeaves.zip",
-        "name": "DWBushyLeaves",
-        "version": null,
-        "mod_id": null,
-        "file_size": 666201,
-        "curseforge_id": null,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DWBushyLeaves-DENSE-No-AO.zip",
-        "name": "DWBushyLeaves-DENSE-No-AO",
-        "version": null,
-        "mod_id": null,
-        "file_size": 685505,
-        "curseforge_id": null,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "Furnish Door Knock Silencer.zip",
-        "name": "Furnish Door Knock Silencer",
-        "version": null,
-        "mod_id": null,
-        "file_size": 13589,
-        "curseforge_id": null,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "Quark Programmer Art.zip",
-        "name": "Quark Programmer Art",
-        "version": null,
-        "mod_id": null,
-        "file_size": 266434,
-        "curseforge_id": null,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "SE Vanilla Consistency 1.20.1.zip",
-        "name": "SE Vanilla Consistency 1.20.1",
-        "version": null,
-        "mod_id": null,
-        "file_size": 85743,
-        "curseforge_id": null,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "tconjeidark.zip",
-        "name": "tconjeidark",
-        "version": null,
-        "mod_id": null,
-        "file_size": 897,
-        "curseforge_id": null,
-        "modrinth_id": null
-      }
-    ],
+    "resourcepack_snapshot": [],
     "datapack_snapshot": [],
     "shaderpack_snapshot": [
       {
