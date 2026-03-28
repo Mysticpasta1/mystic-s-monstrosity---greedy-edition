@@ -751,7 +751,7 @@
     "ModrinthId": "SI5mk2b6",
     "ModrinthVersionId": "K7llFADq",
     "Author": "alexander9892",
-    "Slug": "mo-glass",
+    "Slug": null,
     "ProjectName": "Mo Glass",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -771,13 +771,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      2,
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "MoreMekanismProcessing-1.20.1-4.5.jar",
@@ -2578,37 +2573,6 @@
     "SupportedLoaders": []
   },
   {
-    "FileName": "mysticmonstrosityfixes-19.0.0.jar",
-    "IconUrl": "https://media.forgecdn.net/avatars/1150/774/638718446152658562.png",
-    "CurseForgeId": 1173580,
-    "CurseForgeFileId": 7415512,
-    "ModrinthId": null,
-    "ModrinthVersionId": null,
-    "Author": "Mysticpasta1",
-    "Slug": null,
-    "ProjectName": "Mystics Monstrosity Fixes",
-    "IsDeleted": false,
-    "IsUnavailable": false,
-    "AllowModDistribution": true,
-    "DownloadUrl": null,
-    "Enabled": true,
-    "IsLocked": false,
-    "PreferredReleaseChannel": 1,
-    "SideType": 0,
-    "DateAdded": "2026-03-07T19:08:23.4827943Z",
-    "HasUpdate": false,
-    "LatestVersion": null,
-    "LatestFileName": null,
-    "LatestDownloadUrl": null,
-    "LatestCurseForgeFileId": null,
-    "LatestModrinthVersionId": null,
-    "LastUpdateCheck": null,
-    "DownloadSource": null,
-    "FolderId": null,
-    "SupportedGameVersions": [],
-    "SupportedLoaders": []
-  },
-  {
     "FileName": "MysticalExpansion-1.20.1-1.0.0.jar",
     "IconUrl": "https://media.forgecdn.net/avatars/1029/987/638552210100413507.png",
     "CurseForgeId": 1052566,
@@ -2833,7 +2797,7 @@
     "ModrinthId": "fPetb5Kh",
     "ModrinthVersionId": "Og40jCNX",
     "Author": "Chaosyr",
-    "Slug": "natures-compass",
+    "Slug": null,
     "ProjectName": "Nature\u0027s Compass",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -2853,12 +2817,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "natures_spirit-2.2.5-1.20.1.jar",
@@ -3333,7 +3293,7 @@
     "ModrinthId": "qQyHxfxd",
     "ModrinthVersionId": "ksEG6N5E",
     "Author": "Aizistral",
-    "Slug": "no-chat-reports",
+    "Slug": null,
     "ProjectName": "No Chat Reports",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -3353,13 +3313,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1",
-      "1.20"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "no-report-button-forge-1.5.0.jar",
@@ -6004,7 +5959,7 @@
     "ModrinthId": "6lvkzFFj",
     "ModrinthVersionId": "boXcy1fH",
     "Author": "Official_CreeperHost",
-    "Slug": "polylib",
+    "Slug": null,
     "ProjectName": "PolyLib",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -6024,14 +5979,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1",
-      "1.20"
-    ],
-    "SupportedLoaders": [
-      2,
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "polymorph-forge-0.49.10\u002B1.20.1.jar",
@@ -6568,7 +6517,7 @@
     "ModrinthId": "M1953qlQ",
     "ModrinthVersionId": "DERs8u7v",
     "Author": "epic_oreo, ThatGravyBoat",
-    "Slug": "resourceful-config",
+    "Slug": null,
     "ProjectName": "Resourcefulconfig",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -6588,12 +6537,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "rsinsertexportupgrade-1.20.1-1.4.0.jar",
@@ -6603,7 +6548,7 @@
     "ModrinthId": "60kmgb0W",
     "ModrinthVersionId": "aKncGrVU",
     "Author": "Ultramega",
-    "Slug": "rs-insert-export-upgrade",
+    "Slug": null,
     "ProjectName": "RS Insert Export Upgrade",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -6623,12 +6568,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "sullysmod-3.2.1-beta-all.jar",
@@ -6638,7 +6579,7 @@
     "ModrinthId": "vOm0vWW8",
     "ModrinthVersionId": "B9yOFBhf",
     "Author": "Uraneptus, MiteBeMana, KekeCreations",
-    "Slug": "sullys-mod",
+    "Slug": null,
     "ProjectName": "Sully\u0027s Mod",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -6658,12 +6599,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "the_bumblezone-7.10.0\u002B1.20.1-forge.jar",
@@ -6673,7 +6610,7 @@
     "ModrinthId": "38tpSycf",
     "ModrinthVersionId": "Kdvsrwt7",
     "Author": "TelepathicGrunt",
-    "Slug": "the-bumblezone-forge",
+    "Slug": null,
     "ProjectName": "The Bumblezone",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -6693,13 +6630,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1,
-      2
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "thicket-1.2.4-1.20.1.jar",
@@ -6709,7 +6641,7 @@
     "ModrinthId": "XyQq0PB2",
     "ModrinthVersionId": "S0SI2xqA",
     "Author": "Somfunambulist",
-    "Slug": "thicket",
+    "Slug": null,
     "ProjectName": "Thicket",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -6729,12 +6661,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "thingamajigs-1.20.1-1.8.4.jar",
@@ -6744,7 +6672,7 @@
     "ModrinthId": "riypeXAj",
     "ModrinthVersionId": "W4lcnMx3",
     "Author": "CreativeMasterBonin",
-    "Slug": "blueys-thingamajigs",
+    "Slug": null,
     "ProjectName": "Thingamajigs",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -6764,12 +6692,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "tntbreaksbedrock-1.20.1-3.5.jar",
@@ -6779,7 +6703,7 @@
     "ModrinthId": "eU2O6Xp1",
     "ModrinthVersionId": "2loAM9df",
     "Author": "Rick South",
-    "Slug": "tnt-breaks-bedrock",
+    "Slug": null,
     "ProjectName": "TNT Breaks Bedrock",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -6799,15 +6723,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      3,
-      2,
-      1,
-      4
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "torchmaster-20.1.9.jar",
@@ -6817,7 +6734,7 @@
     "ModrinthId": "Tl8ESrhX",
     "ModrinthVersionId": "OTbqpyC8",
     "Author": "Xalcon",
-    "Slug": "torchmaster",
+    "Slug": null,
     "ProjectName": "Torchmaster",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -6837,13 +6754,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      2,
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "villager_tannery-1.0.1-forge-1.20.1.jar",
@@ -6853,7 +6765,7 @@
     "ModrinthId": "rd22zerp",
     "ModrinthVersionId": "Ujyd4BN3",
     "Author": "Wario",
-    "Slug": "villager-tannery-house",
+    "Slug": null,
     "ProjectName": "Villager Tannery",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -6873,12 +6785,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "wm_binaries-3.0.0-rc.1.jar",
@@ -6888,7 +6796,7 @@
     "ModrinthId": "4997XcoK",
     "ModrinthVersionId": "YPnd5nbu",
     "Author": "SrRapero720",
-    "Slug": "watermedia-binaries",
+    "Slug": null,
     "ProjectName": "WaterMedia: Binaries",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -6919,7 +6827,7 @@
     "ModrinthId": "vvH4SR2B",
     "ModrinthVersionId": "18O1b5qu",
     "Author": "Numerosity, MCreator",
-    "Slug": "what-is-stone-colorful-caves",
+    "Slug": null,
     "ProjectName": "What is \u0027Stone\u0027? (Colorful Caves)",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -6939,13 +6847,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1",
-      "1.20"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "WaystonesTeleportPets-1.20-1.20.1--1.2.jar",
@@ -6955,7 +6858,7 @@
     "ModrinthId": "VaCl9OtG",
     "ModrinthVersionId": "Yh4b40rs",
     "Author": "precisemodpacker",
-    "Slug": "waystones-teleport-pets",
+    "Slug": null,
     "ProjectName": "Waystones Teleport Pets",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -6975,13 +6878,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1",
-      "1.20"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
@@ -6991,7 +6889,7 @@
     "ModrinthId": "cs7iGVq1",
     "ModrinthVersionId": "UzIwhtOp",
     "Author": "YUNGNICKYOUNG, HellionGames, Sully, LudoCrypt, Jasmine, K.jpg, Neko, Frenderman, Refresh Studios",
-    "Slug": "yungs-cave-biomes",
+    "Slug": null,
     "ProjectName": "YUNG\u0027s Cave Biomes",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -7011,12 +6909,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "YungsExtras-1.20-Forge-4.0.3.jar",
@@ -7026,7 +6920,7 @@
     "ModrinthId": "ZYgyPyfq",
     "ModrinthVersionId": "h4m8J7w8",
     "Author": "YUNGNICKYOUNG, Acarii",
-    "Slug": "yungs-extras",
+    "Slug": null,
     "ProjectName": "YUNG\u0027s Extras",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -7046,13 +6940,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1",
-      "1.20"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "DustrialDecor-1.3.5-1.20.jar",
@@ -10503,7 +10392,7 @@
     "ModrinthId": "lhGA9TYQ",
     "ModrinthVersionId": "1MKTLiiG",
     "Author": "shedaniel",
-    "Slug": "architectury-api",
+    "Slug": null,
     "ProjectName": "Architectury",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -10523,13 +10412,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1",
-      "1.20"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "Arda\u0027s Uncrafting Table 1.1 [FORGE] [1.20.1].jar",
@@ -15375,7 +15259,7 @@
     "ModrinthId": "UsLNxQgK",
     "ModrinthVersionId": "i99hKWi2",
     "Author": "Ultramega",
-    "Slug": "cable-tiers",
+    "Slug": null,
     "ProjectName": "Cable Tiers",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -15395,12 +15279,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "caelus-forge-3.2.0\u002B1.20.1.jar",
@@ -15565,7 +15445,7 @@
     "ModrinthId": "joEfVgkn",
     "ModrinthVersionId": "edGQD16r",
     "Author": "Tschipp, Purplicious_Cow, cy4n",
-    "Slug": "carry-on",
+    "Slug": null,
     "ProjectName": "Carry On",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -15585,14 +15465,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1",
-      "1.20"
-    ],
-    "SupportedLoaders": [
-      2,
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "CarryOnExtend-1.4.2-1.20.1-Forge.jar",
@@ -17214,7 +17088,7 @@
     "ModrinthId": "dQcfqGbl",
     "ModrinthVersionId": "6tcgyNkq",
     "Author": "Crystal Spider, Moonstone Webber, Noir",
-    "Slug": "cobweb",
+    "Slug": null,
     "ProjectName": "Cobweb",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -17234,12 +17108,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
@@ -17497,7 +17367,7 @@
     "ModrinthId": "URKqRflb",
     "ModrinthVersionId": "qhsqT9Vc",
     "Author": "Cozary",
-    "Slug": "colored_water",
+    "Slug": null,
     "ProjectName": "Colored Water",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -18148,7 +18018,7 @@
     "ModrinthId": "3WjjSM5O",
     "ModrinthVersionId": "h7CBg2Oe",
     "Author": "Toma",
-    "Slug": "configuration",
+    "Slug": null,
     "ProjectName": "Configuration",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -18168,13 +18038,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      2,
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "connected_signs-1.0.1.jar",
@@ -21408,7 +21273,7 @@
     "ModrinthId": "yezTvOQg",
     "ModrinthVersionId": "ojd27NmC",
     "Author": "TheMasterGeneral",
-    "Slug": "ctd-core",
+    "Slug": null,
     "ProjectName": "CTD Core",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -21428,13 +21293,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1,
-      2
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "ctrl-q-1.9.1-forge.jar",
@@ -25846,7 +25706,7 @@
     "ModrinthId": "s4OWxYQQ",
     "ModrinthVersionId": "jvt8eUvx",
     "Author": "Iron431",
-    "Slug": "irons-spells-n-spellbooks",
+    "Slug": null,
     "ProjectName": "Iron\u0027s Spells \u0027n Spellbooks",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -25866,12 +25726,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "takesapillage-1.0.3-1.20.1.jar",
@@ -26656,7 +26512,7 @@
     "ModrinthId": "onSQdWhM",
     "ModrinthVersionId": "pdAXmKcS",
     "Author": "blackd/mirinimi",
-    "Slug": "libipn",
+    "Slug": null,
     "ProjectName": "libIPN",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -26676,13 +26532,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1",
-      "1.20"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "libnonymous-1.20.1-2.3.1.jar",
@@ -26816,7 +26667,7 @@
     "ModrinthId": "XaDC71GB",
     "ModrinthVersionId": "srPoHKt8",
     "Author": "Apollo",
-    "Slug": "lithostitched",
+    "Slug": null,
     "ProjectName": "Lithostitched",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -26836,12 +26687,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "lmft-1.0.4\u002B1.20.1-forge.jar",
@@ -28897,7 +28744,7 @@
     "ModrinthId": "6pY6oEMg",
     "ModrinthVersionId": "FmgBJqgF",
     "Author": "Fuzs",
-    "Slug": "metal-bundles",
+    "Slug": null,
     "ProjectName": "Metal Bundles",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -28917,12 +28764,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "metal_works-1.2.0BETA2.jar",
@@ -29056,7 +28899,7 @@
     "ModrinthId": "SNVQ2c0g",
     "ModrinthVersionId": "nKL4LKzM",
     "Author": "IMB11",
-    "Slug": "mru",
+    "Slug": null,
     "ProjectName": "Mineblock\u0027s Repeated Utilities",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -29076,13 +28919,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1",
-      "1.20"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "dummmmmmy-1.20-2.0.9.jar",
@@ -29681,7 +29519,7 @@
     "ModrinthId": "QAGBst4M",
     "ModrinthVersionId": "mIyVGf3d",
     "Author": "Fuzs",
-    "Slug": "puzzles-lib",
+    "Slug": null,
     "ProjectName": "Puzzles Lib",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -29701,12 +29539,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "pyrite-0.15.10\u002B1.20.1.jar",
@@ -34195,7 +34029,7 @@
     "LatestVersion": "1.20.1",
     "LatestFileName": "voicechat-forge-1.20.1-2.6.14.jar",
     "LatestDownloadUrl": "https://edge.forgecdn.net/files/7827/729/voicechat-forge-1.20.1-2.6.14.jar",
-    "LatestCurseForgeFileId": 7827729,
+    "LatestCurseForgeFileId": null,
     "LatestModrinthVersionId": null,
     "LastUpdateCheck": "2026-03-28T11:16:04.239238Z",
     "DownloadSource": null,
@@ -35451,7 +35285,7 @@
     "ModrinthId": "ZouiUX7t",
     "ModrinthVersionId": "6vE02T1J",
     "Author": "IMB11",
-    "Slug": "sound",
+    "Slug": null,
     "ProjectName": "Sounds",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -35471,13 +35305,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1",
-      "1.20"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "stblock-1.20.1-0.2.1.jar",
@@ -36200,7 +36029,7 @@
     "ModrinthId": "Q4Ryr1WL",
     "ModrinthVersionId": "7lx0Usvu",
     "Author": "FTB_lag",
-    "Slug": "stone-chest",
+    "Slug": null,
     "ProjectName": "Stone Chest",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -36220,12 +36049,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "underground_village-1.5.7.jar",
@@ -44636,7 +44461,7 @@
     "ModrinthId": "1eAoo2KR",
     "ModrinthVersionId": "sCWgXDYQ",
     "Author": "isXander",
-    "Slug": "yacl",
+    "Slug": null,
     "ProjectName": "YetAnotherConfigLib",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -44656,13 +44481,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1",
-      "1.20"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "YungsApi-1.20-Forge-4.0.6.jar",
@@ -47028,7 +46848,7 @@
     "ModrinthId": "RV1qfVQ8",
     "ModrinthVersionId": "JS0ehUbr",
     "Author": "ChaosTheDude",
-    "Slug": "explorers-compass",
+    "Slug": null,
     "ProjectName": "Explorer\u0027s Compass",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -47048,12 +46868,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "Explorify v1.6.4 f15-88.mod.jar",
@@ -54286,7 +54102,7 @@
     "ModrinthId": "ufaxN0Ay",
     "ModrinthVersionId": "ZPkbHxUq",
     "Author": "Jusey1",
-    "Slug": "kobolds",
+    "Slug": null,
     "ProjectName": "Kobolds",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -54306,12 +54122,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "l2backpack-2.5.8.jar",
@@ -54352,7 +54164,7 @@
     "ModrinthId": "nuqNKAFn",
     "ModrinthVersionId": "WFbisGmJ",
     "Author": "CrystalSpider",
-    "Slug": "leathered-boots",
+    "Slug": null,
     "ProjectName": "Leathered Boots",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -54372,12 +54184,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "LeavesBeGone-v8.0.0-1.20.1-Forge.jar",
@@ -56216,7 +56024,7 @@
     "ModrinthId": "zuARv1N7",
     "ModrinthVersionId": "RuK9v2Wg",
     "Author": "MehVahdJukaar, Plantkillable",
-    "Slug": "vista",
+    "Slug": null,
     "ProjectName": "Vista",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -56236,12 +56044,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "furnitury-3.0203-forge-1.20.1.jar",
@@ -57646,7 +57450,7 @@
     "ModrinthId": "Q2OqKxDG",
     "ModrinthVersionId": "U17TRk9r",
     "Author": "way2muchnoise",
-    "Slug": "better-advancements",
+    "Slug": null,
     "ProjectName": "Better Advancements",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -57666,12 +57470,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      2
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "ExtendedCrafting-1.20.1-6.0.10.jar",
@@ -57774,7 +57574,7 @@
     "ModrinthId": "edU0NbZZ",
     "ModrinthVersionId": "aitXzNNT",
     "Author": "ErrorMikey",
-    "Slug": "justhammers",
+    "Slug": null,
     "ProjectName": "Just Hammers",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -57794,12 +57594,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      2
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "manatrashcan-0.2.0.jar",
@@ -58026,7 +57822,7 @@
     "ModrinthId": "SzzJttH8",
     "ModrinthVersionId": "3NpuJ7TJ",
     "Author": "Serene Wave Studio | Timeless Squad",
-    "Slug": "timeless-and-classics-zero",
+    "Slug": null,
     "ProjectName": "Timeless \u0026 Classics Guns: Zero",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -58046,12 +57842,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "UnEarthed-2.3.0-1.20.1-forge-all.jar",
@@ -62928,7 +62720,7 @@
     "ModrinthId": null,
     "ModrinthVersionId": null,
     "Author": "thecech12",
-    "Slug": "ceramic-shears",
+    "Slug": null,
     "ProjectName": "Ceramic Shears",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -62959,7 +62751,7 @@
     "ModrinthId": "od6kjTXM",
     "ModrinthVersionId": "XjxSBKwJ",
     "Author": "oiivu",
-    "Slug": "light-mobs",
+    "Slug": null,
     "ProjectName": "Light Mobs",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -62979,12 +62771,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "xphealth-1.20-0.1.1.jar",
@@ -62994,7 +62782,7 @@
     "ModrinthId": null,
     "ModrinthVersionId": null,
     "Author": "boterop",
-    "Slug": "xp-health",
+    "Slug": null,
     "ProjectName": "XP Health",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -63025,7 +62813,7 @@
     "ModrinthId": "MtA86qNV",
     "ModrinthVersionId": "LI5YJqEb",
     "Author": "KnightMiner",
-    "Slug": "ceramics",
+    "Slug": null,
     "ProjectName": "Ceramics",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -63045,13 +62833,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1,
-      2
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "FireSticks\u002BV.1.5\u002B[1.20.1][FORGE].jar",
@@ -63061,7 +62844,7 @@
     "ModrinthId": null,
     "ModrinthVersionId": null,
     "Author": "LBM0915",
-    "Slug": "survival-firestick-wooden-flint-and-steel",
+    "Slug": null,
     "ProjectName": "Survival Fire Sticks (Wooden Flint and Steel)",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -63092,7 +62875,7 @@
     "ModrinthId": null,
     "ModrinthVersionId": null,
     "Author": "Iron431",
-    "Slug": "irons-patreon-library",
+    "Slug": null,
     "ProjectName": "Iron\u0027s Patreon Library",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -63123,7 +62906,7 @@
     "ModrinthId": "5jfUeix5",
     "ModrinthVersionId": "vscPvRj6",
     "Author": "Kreiii",
-    "Slug": "create-more-parallel-pipes",
+    "Slug": null,
     "ProjectName": "Create More: Parallel Pipes",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -63143,12 +62926,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar",
@@ -63158,7 +62937,7 @@
     "ModrinthId": "Q2OqKxDG",
     "ModrinthVersionId": "U17TRk9r",
     "Author": "way2muchnoise",
-    "Slug": "better-advancements",
+    "Slug": null,
     "ProjectName": "Better Advancements",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -63178,12 +62957,8 @@
     "LastUpdateCheck": "2026-03-28T11:43:54.9056182Z",
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "LibX-1.20.1-5.0.14.jar",
@@ -63224,7 +62999,7 @@
     "ModrinthId": "spZb29SD",
     "ModrinthVersionId": "6E2UxyB1",
     "Author": "finndog_123",
-    "Slug": "mmv-moogs-missing-villages",
+    "Slug": null,
     "ProjectName": "MMV - Moog\u0027s Missing Villages",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -63244,20 +63019,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20",
-      "1.20.1",
-      "1.20.2",
-      "1.20.3",
-      "1.20.4",
-      "1.20.5",
-      "1.20.6"
-    ],
-    "SupportedLoaders": [
-      3,
-      1,
-      2
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "MoogsSoaringStructures-1.20-2.0.2.jar",
@@ -63267,7 +63030,7 @@
     "ModrinthId": "RJCLIx7k",
     "ModrinthVersionId": "WNRZbckE",
     "Author": "finndog_123",
-    "Slug": "mss-moogs-soaring-structures",
+    "Slug": null,
     "ProjectName": "MSS - Moog\u0027s Soaring Structures",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -63287,19 +63050,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20",
-      "1.20.1",
-      "1.20.2",
-      "1.20.3",
-      "1.20.4",
-      "1.20.5",
-      "1.20.6"
-    ],
-    "SupportedLoaders": [
-      3,
-      2
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "ancientstructures-forge-1.20.1-0.0.13.jar",
@@ -63371,7 +63123,7 @@
     "ModrinthId": "QFCkBuIh",
     "ModrinthVersionId": "i1G7VoXP",
     "Author": "SerpensSolida",
-    "Slug": "create-transmission",
+    "Slug": null,
     "ProjectName": "Create: Transmission!",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -63391,12 +63143,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "mixin-booster-0.1.3\u002B1.20.1.jar",
@@ -63406,7 +63154,7 @@
     "ModrinthId": "bxn6Iwdo",
     "ModrinthVersionId": "rOaAYvPZ",
     "Author": "Su5eD",
-    "Slug": "mixinbooster",
+    "Slug": null,
     "ProjectName": "Mixin Booster - \uD83E\uDD80 Sp\uD83E\uDDFDnge Mixin Ultimate \u26A1 Exterminator \u2620\uFE0F MK2 \u002B\u002B (strong effect) \uD83E\uDD80",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -63426,12 +63174,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "morevanillashields-1.1.5-1.20.1-beta.jar",
@@ -63472,7 +63216,7 @@
     "ModrinthId": "RJCLIx7k",
     "ModrinthVersionId": "Jnoe6jQy",
     "Author": "finndog_123",
-    "Slug": "mss-moogs-soaring-structures",
+    "Slug": null,
     "ProjectName": "MSS - Moog\u0027s Soaring Structures",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -63492,17 +63236,8 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20",
-      "1.20.1",
-      "1.20.2",
-      "1.20.3",
-      "1.20.4"
-    ],
-    "SupportedLoaders": [
-      1,
-      2
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   },
   {
     "FileName": "notenoughanimations-forge-1.11.3-mc1.20.1.jar",
@@ -63698,7 +63433,7 @@
     "ModrinthId": "dGGbEGoV",
     "ModrinthVersionId": "yE93Q2Ed",
     "Author": "SrRapero720",
-    "Slug": "watervision",
+    "Slug": null,
     "ProjectName": "WATERViSION: Videoplayer",
     "IsDeleted": false,
     "IsUnavailable": false,
@@ -63718,11 +63453,38 @@
     "LastUpdateCheck": null,
     "DownloadSource": null,
     "FolderId": null,
-    "SupportedGameVersions": [
-      "1.20.1"
-    ],
-    "SupportedLoaders": [
-      1
-    ]
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
+  },
+  {
+    "FileName": "mysticmonstrosityfixes-19.0.0.jar",
+    "IconUrl": "https://media.forgecdn.net/avatars/thumbnails/1150/774/256/256/638718446152658562.png",
+    "CurseForgeId": 1173580,
+    "CurseForgeFileId": 7415512,
+    "ModrinthId": null,
+    "ModrinthVersionId": null,
+    "Author": "Mysticpasta1",
+    "Slug": "mystics-monstrosity-fixes",
+    "ProjectName": "Mystic\u0027s Monstrosity Fixes",
+    "IsDeleted": false,
+    "IsUnavailable": false,
+    "AllowModDistribution": true,
+    "DownloadUrl": null,
+    "Enabled": true,
+    "IsLocked": false,
+    "PreferredReleaseChannel": 1,
+    "SideType": 0,
+    "DateAdded": "2026-03-28T18:28:13.2792408Z",
+    "HasUpdate": false,
+    "LatestVersion": null,
+    "LatestFileName": null,
+    "LatestDownloadUrl": null,
+    "LatestCurseForgeFileId": null,
+    "LatestModrinthVersionId": null,
+    "LastUpdateCheck": null,
+    "DownloadSource": 1,
+    "FolderId": null,
+    "SupportedGameVersions": [],
+    "SupportedLoaders": []
   }
 ]

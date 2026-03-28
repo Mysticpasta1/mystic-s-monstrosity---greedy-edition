@@ -1,7 +1,7 @@
 [
   {
-    "version": "37.0.0",
-    "created_at": "2026-03-28T12:20:58.9817763Z",
+    "version": "37.0.0-1",
+    "created_at": "2026-03-28T12:47:09.7834974Z",
     "notes": null,
     "mod_snapshot": [
       {
@@ -18239,7 +18239,80 @@
         "modrinth_id": "tIjpvPBH"
       }
     ],
-    "resourcepack_snapshot": [],
+    "resourcepack_snapshot": [
+      {
+        "file_name": "A Good Place Sample Pack.zip",
+        "name": "A Good Place Sample Pack",
+        "version": null,
+        "mod_id": null,
+        "file_size": 14945,
+        "curseforge_id": null,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "Basic Nether Ores 32x.zip",
+        "name": "Basic Nether Ores 32x",
+        "version": null,
+        "mod_id": null,
+        "file_size": 228559,
+        "curseforge_id": null,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DWBushyLeaves.zip",
+        "name": "DWBushyLeaves",
+        "version": null,
+        "mod_id": null,
+        "file_size": 666201,
+        "curseforge_id": null,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "DWBushyLeaves-DENSE-No-AO.zip",
+        "name": "DWBushyLeaves-DENSE-No-AO",
+        "version": null,
+        "mod_id": null,
+        "file_size": 685505,
+        "curseforge_id": null,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "Furnish Door Knock Silencer.zip",
+        "name": "Furnish Door Knock Silencer",
+        "version": null,
+        "mod_id": null,
+        "file_size": 13589,
+        "curseforge_id": null,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "Quark Programmer Art.zip",
+        "name": "Quark Programmer Art",
+        "version": null,
+        "mod_id": null,
+        "file_size": 266434,
+        "curseforge_id": null,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "SE Vanilla Consistency 1.20.1.zip",
+        "name": "SE Vanilla Consistency 1.20.1",
+        "version": null,
+        "mod_id": null,
+        "file_size": 85743,
+        "curseforge_id": null,
+        "modrinth_id": null
+      },
+      {
+        "file_name": "tconjeidark.zip",
+        "name": "tconjeidark",
+        "version": null,
+        "mod_id": null,
+        "file_size": 897,
+        "curseforge_id": null,
+        "modrinth_id": null
+      }
+    ],
     "datapack_snapshot": [],
     "shaderpack_snapshot": [
       {
