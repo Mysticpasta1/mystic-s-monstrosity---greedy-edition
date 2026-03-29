@@ -639,6 +639,16 @@
     102,
     17
   ],
+  "betterblockz:zeon_magenta_blockz_8": [
+    255,
+    0,
+    255
+  ],
+  "betterblockz:zeon_magenta_blockz_9": [
+    255,
+    0,
+    255
+  ],
   "aether_redux:lightroots": [
     255,
     255,
@@ -1453,6 +1463,11 @@
     136,
     136,
     136
+  ],
+  "betterblockz:zeon_brown_blockz_10": [
+    136,
+    68,
+    17
   ],
   "colorfulcampfires:red_stripped_birch_dark_campfire": [
     255,
@@ -3279,10 +3294,20 @@
     255,
     255
   ],
+  "betterblockz:zeon_gray_blockz_8": [
+    136,
+    136,
+    136
+  ],
   "musings:circle_magenta_ring_white_bg": [
     255,
     255,
     255
+  ],
+  "betterblockz:zeon_gray_blockz_9": [
+    136,
+    136,
+    136
   ],
   "hexalia:rustic_oven": [
     255,
@@ -5729,10 +5754,20 @@
     255,
     0
   ],
+  "betterblockz:zeon_pink_blockz_9": [
+    255,
+    102,
+    187
+  ],
   "luminax:purple_luminax_wall": [
     170,
     34,
     255
+  ],
+  "betterblockz:zeon_pink_blockz_8": [
+    255,
+    102,
+    187
   ],
   "betterblockz:zeon_pink_blockz_7": [
     255,
@@ -7119,6 +7154,11 @@
     255,
     255
   ],
+  "betterblockz:zeon_green_blockz_10": [
+    0,
+    255,
+    0
+  ],
   "hexcasting:conjured_block": [
     255,
     0,
@@ -7573,6 +7613,11 @@
     0,
     255,
     0
+  ],
+  "betterblockz:zeon_light_blue_blockz_10": [
+    0,
+    0,
+    255
   ],
   "valhelsia_structures:soul_brazier": [
     0,
@@ -9159,6 +9204,11 @@
     255,
     255
   ],
+  "betterblockz:zeon_light_gray_blockz_9": [
+    136,
+    136,
+    136
+  ],
   "betterblockz:zeon_light_gray_blockz_7": [
     136,
     136,
@@ -9168,6 +9218,11 @@
     255,
     0,
     255
+  ],
+  "betterblockz:zeon_light_gray_blockz_8": [
+    136,
+    136,
+    136
   ],
   "sonicraft:vision_gold_ring": [
     255,
@@ -10794,6 +10849,11 @@
     255,
     255
   ],
+  "betterblockz:zeon_orange_blockz_9": [
+    255,
+    102,
+    17
+  ],
   "chipped:ornate_shroomlight_lantern": [
     255,
     255,
@@ -10873,6 +10933,11 @@
     0,
     0,
     0
+  ],
+  "betterblockz:zeon_orange_blockz_8": [
+    255,
+    102,
+    17
   ],
   "betterblockz:zeon_orange_blockz_7": [
     255,
@@ -11744,6 +11809,11 @@
     0,
     0
   ],
+  "betterblockz:zeon_red_blockz_10": [
+    255,
+    0,
+    0
+  ],
   "skinnedlanterns:ornament_green_lantern_block": [
     0,
     255,
@@ -12129,10 +12199,20 @@
     255,
     0
   ],
+  "betterblockz:zeon_green_blockz_9": [
+    0,
+    255,
+    0
+  ],
   "nightlights:octopus_orange": [
     255,
     102,
     17
+  ],
+  "betterblockz:zeon_green_blockz_8": [
+    0,
+    255,
+    0
   ],
   "betterblockz:zeon_green_blockz_7": [
     0,
@@ -12399,6 +12479,16 @@
     255,
     255
   ],
+  "betterblockz:zeon_cyan_blockz_8": [
+    0,
+    255,
+    255
+  ],
+  "betterblockz:zeon_cyan_blockz_9": [
+    0,
+    255,
+    255
+  ],
   "nightlights:octopus_blue": [
     0,
     0,
@@ -12504,10 +12594,20 @@
     255,
     255
   ],
+  "betterblockz:zeon_lime_blockz_8": [
+    187,
+    255,
+    0
+  ],
   "fcb:fcbg4650450": [
     255,
     255,
     255
+  ],
+  "betterblockz:zeon_lime_blockz_9": [
+    187,
+    255,
+    0
   ],
   "nightlights:frog_cyan": [
     0,
@@ -13934,6 +14034,11 @@
     255,
     0
   ],
+  "betterblockz:zeon_white_blockz_10": [
+    255,
+    255,
+    255
+  ],
   "cyclic:gold_lantern": [
     255,
     255,
@@ -15009,6 +15114,16 @@
     0,
     255
   ],
+  "betterblockz:zeon_black_blockz_9": [
+    0,
+    0,
+    0
+  ],
+  "betterblockz:zeon_black_blockz_8": [
+    0,
+    0,
+    0
+  ],
   "pyrite:glow_bricks": [
     255,
     255,
@@ -15314,6 +15429,11 @@
     68,
     17
   ],
+  "betterblockz:zeon_brown_blockz_8": [
+    136,
+    68,
+    17
+  ],
   "create:blue_nixie_tube": [
     0,
     0,
@@ -15343,6 +15463,11 @@
     255,
     255,
     255
+  ],
+  "betterblockz:zeon_brown_blockz_9": [
+    136,
+    68,
+    17
   ],
   "fcb:fcbg9205": [
     255,
@@ -16307,6 +16432,16 @@
   "mysticsbiomes:strawberry_candle_cake_yellow": [
     255,
     255,
+    0
+  ],
+  "betterblockz:zeon_red_blockz_9": [
+    255,
+    0,
+    0
+  ],
+  "betterblockz:zeon_red_blockz_8": [
+    255,
+    0,
     0
   ],
   "fcb:fcbg11504710": [
@@ -17818,6 +17953,11 @@
     187,
     255,
     0
+  ],
+  "betterblockz:zeon_purple_blockz_10": [
+    170,
+    34,
+    255
   ],
   "architects_palette:lit_withered_osseous_skull": [
     255,
@@ -20544,6 +20684,11 @@
     0,
     255
   ],
+  "betterblockz:zeon_blue_blockz_8": [
+    0,
+    0,
+    255
+  ],
   "betterblockz:zeon_blue_blockz_5": [
     0,
     0,
@@ -20558,6 +20703,11 @@
     136,
     136,
     136
+  ],
+  "betterblockz:zeon_blue_blockz_9": [
+    0,
+    0,
+    255
   ],
   "pyrite:glow_terracotta": [
     255,
@@ -21159,10 +21309,20 @@
     0,
     0
   ],
+  "betterblockz:zeon_white_blockz_9": [
+    255,
+    255,
+    255
+  ],
   "botania:potted_brown_mushroom": [
     136,
     68,
     17
+  ],
+  "betterblockz:zeon_white_blockz_8": [
+    255,
+    255,
+    255
   ],
   "systeams:gourmand_boiler": [
     255,
@@ -21658,6 +21818,11 @@
     0,
     255,
     0
+  ],
+  "betterblockz:zeon_orange_blockz_10": [
+    255,
+    102,
+    17
   ],
   "bloodyhell:cracked_blasphemous_sandstone": [
     255,
@@ -22764,6 +22929,11 @@
     255,
     255
   ],
+  "betterblockz:zeon_purple_blockz_9": [
+    170,
+    34,
+    255
+  ],
   "colorfulcampfires:light_blue_cherry_campfire": [
     0,
     0,
@@ -22780,6 +22950,11 @@
     255
   ],
   "betterblockz:zeon_purple_blockz_7": [
+    170,
+    34,
+    255
+  ],
+  "betterblockz:zeon_purple_blockz_8": [
     170,
     34,
     255
@@ -24794,6 +24969,11 @@
     102,
     17
   ],
+  "betterblockz:zeon_gray_blockz_10": [
+    136,
+    136,
+    136
+  ],
   "allthecompressed:glowstone_8x": [
     255,
     255,
@@ -25494,6 +25674,11 @@
     34,
     255
   ],
+  "betterblockz:zeon_cyan_blockz_10": [
+    0,
+    255,
+    255
+  ],
   "domum_ornamentum:framed_light": [
     255,
     255,
@@ -25883,6 +26068,11 @@
     136,
     136,
     136
+  ],
+  "betterblockz:zeon_lime_blockz_10": [
+    187,
+    255,
+    0
   ],
   "pyrite:lit_redstone_lamp": [
     255,
@@ -26880,6 +27070,11 @@
     255
   ],
   "colorfulcampfires:light_gray_acacia_dark_campfire": [
+    136,
+    136,
+    136
+  ],
+  "betterblockz:zeon_light_gray_blockz_10": [
     136,
     136,
     136
@@ -27982,6 +28177,11 @@
   "tconstruct:molten_nickel_fluid": [
     255,
     255,
+    255
+  ],
+  "betterblockz:zeon_magenta_blockz_10": [
+    255,
+    0,
     255
   ],
   "mechanicalbotania:spinerette_floating": [
@@ -29462,6 +29662,11 @@
   "nightlights:mushroom_black": [
     0,
     0,
+    0
+  ],
+  "betterblockz:zeon_yellow_blockz_10": [
+    255,
+    255,
     0
   ],
   "mcwlights:garden_light": [
@@ -31244,6 +31449,11 @@
     0,
     0
   ],
+  "betterblockz:zeon_pink_blockz_10": [
+    255,
+    102,
+    187
+  ],
   "additional_lights:al_wall_torch_smooth_stone": [
     255,
     255,
@@ -31633,6 +31843,16 @@
     255,
     255,
     255
+  ],
+  "betterblockz:zeon_yellow_blockz_9": [
+    255,
+    255,
+    0
+  ],
+  "betterblockz:zeon_yellow_blockz_8": [
+    255,
+    255,
+    0
   ],
   "betterblockz:zeon_yellow_blockz_7": [
     255,
@@ -36114,6 +36334,11 @@
     255,
     255
   ],
+  "betterblockz:zeon_black_blockz_10": [
+    0,
+    0,
+    0
+  ],
   "ad_astra:black_industrial_lamp": [
     0,
     0,
@@ -39319,6 +39544,11 @@
     0,
     255
   ],
+  "betterblockz:zeon_blue_blockz_10": [
+    0,
+    0,
+    255
+  ],
   "colorfulcampfires:gray_jungle_campfire": [
     136,
     136,
@@ -39514,9 +39744,19 @@
     0,
     255
   ],
+  "betterblockz:zeon_light_blue_blockz_8": [
+    0,
+    0,
+    255
+  ],
   "arts_and_crafts:cyan_chalk_dust": [
     0,
     255,
+    255
+  ],
+  "betterblockz:zeon_light_blue_blockz_9": [
+    0,
+    0,
     255
   ],
   "braziliandelight:carrot_cake_with_chocolate_with_purple_candle": [

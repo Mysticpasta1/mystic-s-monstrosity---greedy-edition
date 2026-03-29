@@ -3199,6 +3199,11 @@
     0,
     0
   ],
+  "shutter:interaction_shutter_glass": [
+    255,
+    255,
+    255
+  ],
   "sundries:green_wrought_iron_glass_pane": [
     0,
     255,

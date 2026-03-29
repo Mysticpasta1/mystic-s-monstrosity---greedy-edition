@@ -1,7 +1,7 @@
 [
   {
-    "version": "37.0.0-1",
-    "created_at": "2026-03-28T12:47:09.7834974Z",
+    "version": "38.1.0",
+    "created_at": "2026-03-29T17:06:16.1705612Z",
     "notes": null,
     "mod_snapshot": [
       {
@@ -2048,13 +2048,13 @@
         "modrinth_id": null
       },
       {
-        "file_name": "betterblockz-0.2.7-1.20.1-forge.jar",
+        "file_name": "betterblockz-0.2.8-1.20.1-forge.jar",
         "name": "BetterBlockZ",
         "version": null,
         "mod_id": null,
-        "file_size": 6388719,
+        "file_size": 6783549,
         "curseforge_id": 1361873,
-        "modrinth_id": "oPU4euBQ"
+        "modrinth_id": null
       },
       {
         "file_name": "BetterBurning-Forge-1.20.1-9.0.3.jar",
@@ -3233,7 +3233,7 @@
         "mod_id": null,
         "file_size": 24435,
         "curseforge_id": 286098,
-        "modrinth_id": "485Cv9lY"
+        "modrinth_id": null
       },
       {
         "file_name": "ClearLagPlus-1.0.2.jar",
@@ -3791,7 +3791,7 @@
         "mod_id": null,
         "file_size": 8183,
         "curseforge_id": 998996,
-        "modrinth_id": "6yfqatHv"
+        "modrinth_id": null
       },
       {
         "file_name": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
@@ -3866,11 +3866,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "CrashAssistant-forge-1.19-1.20.1-1.11.3.jar",
+        "file_name": "CrashAssistant-forge-1.19-1.20.1-1.11.6.jar",
         "name": "Crash Assistant",
         "version": null,
         "mod_id": null,
-        "file_size": 3046687,
+        "file_size": 3131684,
         "curseforge_id": 1154099,
         "modrinth_id": "ix1qq8Ux"
       },
@@ -3909,6 +3909,15 @@
         "file_size": 258421,
         "curseforge_id": 1166929,
         "modrinth_id": "W6Xlp26Z"
+      },
+      {
+        "file_name": "CraterLib-Forge-1.20-3.1.0.jar",
+        "name": "CraterLib-Forge-1.20-3.1.0",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1353699,
+        "curseforge_id": null,
+        "modrinth_id": null
       },
       {
         "file_name": "create-1.20.1-6.0.8.jar",
@@ -4514,11 +4523,11 @@
         "modrinth_id": "ae2lDuIP"
       },
       {
-        "file_name": "ctl-forge-1.1.0-C6.jar",
+        "file_name": "ctl-forge-1.1.1-C6.jar",
         "name": "Create: Train Lights",
         "version": null,
         "mod_id": null,
-        "file_size": 661888,
+        "file_size": 663075,
         "curseforge_id": 1318080,
         "modrinth_id": "nRC3whhL"
       },
@@ -5297,11 +5306,11 @@
         "modrinth_id": "k4oyWt9f"
       },
       {
-        "file_name": "difficultraids-1.20.1-2.0-beta20.jar",
+        "file_name": "difficultraids-1.20.1-2.0-beta22.jar",
         "name": "Difficult Raids",
         "version": null,
         "mod_id": null,
-        "file_size": 861272,
+        "file_size": 876006,
         "curseforge_id": 1105005,
         "modrinth_id": "8rQoODDc"
       },
@@ -5681,258 +5690,6 @@
         "mod_id": null,
         "file_size": 141149,
         "curseforge_id": 650016,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTrees-1.20.1-1.4.10.jar",
-        "name": "Dynamic Trees",
-        "version": null,
-        "mod_id": null,
-        "file_size": 3754640,
-        "curseforge_id": 252818,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesArsNouveau-1.20.1-1.2.0.jar",
-        "name": "Dynamic Trees - Ars Nouveau",
-        "version": null,
-        "mod_id": null,
-        "file_size": 284593,
-        "curseforge_id": 874028,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesArtsandCrafts-1.20.1-1.0.2.jar",
-        "name": "Dynamic Trees - Arts and Crafts",
-        "version": null,
-        "mod_id": null,
-        "file_size": 4776814,
-        "curseforge_id": 1212761,
-        "modrinth_id": "aZNuXAkp"
-      },
-      {
-        "file_name": "DynamicTreesAutumnity-1.20.1-1.3.2.jar",
-        "name": "Dynamic Trees - Autumnity",
-        "version": null,
-        "mod_id": null,
-        "file_size": 55984,
-        "curseforge_id": 602692,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesBOP-1.20.1-3.3.4.jar",
-        "name": "Dynamic Trees - Biomes O\u0027 Plenty",
-        "version": null,
-        "mod_id": null,
-        "file_size": 419954,
-        "curseforge_id": 289529,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesCroptopia-1.20.1-1.0.0.jar",
-        "name": "Dynamic Trees - Croptopia ",
-        "version": null,
-        "mod_id": null,
-        "file_size": 1150058,
-        "curseforge_id": 1168636,
-        "modrinth_id": "TIF8EckY"
-      },
-      {
-        "file_name": "DynamicTreesEcologics-1.20.1-1.1.0.jar",
-        "name": "Dynamic Trees - Ecologics",
-        "version": null,
-        "mod_id": null,
-        "file_size": 98104,
-        "curseforge_id": 871323,
-        "modrinth_id": "2H9XSQjq"
-      },
-      {
-        "file_name": "DynamicTreesEnhancedMushrooms-1.20.1-1.0.0.jar",
-        "name": "Dynamic Trees - Enhanced Mushrooms",
-        "version": null,
-        "mod_id": null,
-        "file_size": 1891353,
-        "curseforge_id": 1215278,
-        "modrinth_id": "5oJoOjwU"
-      },
-      {
-        "file_name": "dthexcasting-1.0.2.jar",
-        "name": "Dynamic Trees - Hexcasting",
-        "version": null,
-        "mod_id": null,
-        "file_size": 73986,
-        "curseforge_id": 1206773,
-        "modrinth_id": "gQRjFWM9"
-      },
-      {
-        "file_name": "DynamicTreesInventoryPets-1.20.1-1.0.0.jar",
-        "name": "Dynamic Trees - Inventory Pets",
-        "version": null,
-        "mod_id": null,
-        "file_size": 1281698,
-        "curseforge_id": 1215295,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesNaturesAura-1.20.1-1.4.0.jar",
-        "name": "Dynamic Trees - Nature\u2019s Aura",
-        "version": null,
-        "mod_id": null,
-        "file_size": 353068,
-        "curseforge_id": 403135,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesNeapolitan-1.20.1-1.3.2.jar",
-        "name": "Dynamic Trees - Neapolitan",
-        "version": null,
-        "mod_id": null,
-        "file_size": 139462,
-        "curseforge_id": 508225,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "Dynamic Trees BWG-1.20.1-1.0.9.jar",
-        "name": "Dynamic Trees - Oh The Biomes We\u0027ve Gone",
-        "version": null,
-        "mod_id": null,
-        "file_size": 1222166,
-        "curseforge_id": 1269211,
-        "modrinth_id": "z5yJOJnS"
-      },
-      {
-        "file_name": "DynamicTreesPrimalMagick-1.20.1-1.0.3.jar",
-        "name": "Dynamic Trees - Primal Magick",
-        "version": null,
-        "mod_id": null,
-        "file_size": 120912,
-        "curseforge_id": 1081250,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesQuark-1.20.1-2.5.3.jar",
-        "name": "Dynamic Trees - Quark",
-        "version": null,
-        "mod_id": null,
-        "file_size": 464224,
-        "curseforge_id": 386753,
-        "modrinth_id": "9paueCZy"
-      },
-      {
-        "file_name": "DynamicTreesRainbowOaks-1.20.1-1.0.0.jar",
-        "name": "Dynamic Trees - Rainbow Oaks Renewed",
-        "version": null,
-        "mod_id": null,
-        "file_size": 4443078,
-        "curseforge_id": 1214165,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesRU-1.20.1-1.0.1.jar",
-        "name": "Dynamic Trees - Regions Unexplored",
-        "version": null,
-        "mod_id": null,
-        "file_size": 763194,
-        "curseforge_id": 1157051,
-        "modrinth_id": "IOcN8dvy"
-      },
-      {
-        "file_name": "DynamicTrees-Soils-Compat-1.20.1-1.1.0.jar",
-        "name": "Dynamic Trees - Soils Compat - Immersive Weathering/Grounded/Unearthed Soils",
-        "version": null,
-        "mod_id": null,
-        "file_size": 808673,
-        "curseforge_id": 1185895,
-        "modrinth_id": "oZn5qAQl"
-      },
-      {
-        "file_name": "DynamicTreesSoniCraft-1.20.1-1.2.0.jar",
-        "name": "Dynamic Trees - SoniCraft",
-        "version": null,
-        "mod_id": null,
-        "file_size": 918211,
-        "curseforge_id": 1215282,
-        "modrinth_id": "XxG8TlRF"
-      },
-      {
-        "file_name": "DynamicTreesTerralith-1.20.1-1.2.6.jar",
-        "name": "Dynamic Trees - Terralith",
-        "version": null,
-        "mod_id": null,
-        "file_size": 514225,
-        "curseforge_id": 852886,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesAether-1.20.1-1.3.3.jar",
-        "name": "Dynamic Trees - The Aether",
-        "version": null,
-        "mod_id": null,
-        "file_size": 538364,
-        "curseforge_id": 387443,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesTheTwilightForest-1.20.1-2.2.0.jar",
-        "name": "Dynamic Trees - The Twilight Forest",
-        "version": null,
-        "mod_id": null,
-        "file_size": 295107,
-        "curseforge_id": 391986,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesTinkersConstruct-1.20.1-1.5.0.jar",
-        "name": "Dynamic Trees - Tinker\u0027s Construct",
-        "version": null,
-        "mod_id": null,
-        "file_size": 134470,
-        "curseforge_id": 386747,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesUpgradeAquatic-1.20.1-1.2.0.jar",
-        "name": "Dynamic Trees - Upgrade Aquatic",
-        "version": null,
-        "mod_id": null,
-        "file_size": 35342,
-        "curseforge_id": 570119,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesAddonLib-1.20.1-0.1.0-BETA4.jar",
-        "name": "Dynamic Trees Addon Lib",
-        "version": null,
-        "mod_id": null,
-        "file_size": 1335172,
-        "curseforge_id": 1404692,
-        "modrinth_id": "ju42L8G7"
-      },
-      {
-        "file_name": "dtnatures_spirit-1.20.1-forge-1.3-all.jar",
-        "name": "Dynamic Trees for Nature\u0027s Spirit",
-        "version": null,
-        "mod_id": null,
-        "file_size": 582710,
-        "curseforge_id": 1049917,
-        "modrinth_id": "RenmoBVn"
-      },
-      {
-        "file_name": "DynamicTreesPHC2-1.20.1-1.3.2.jar",
-        "name": "Dynamic Trees Pam\u0027s Harvestcraft 2: Trees",
-        "version": null,
-        "mod_id": null,
-        "file_size": 748946,
-        "curseforge_id": 839090,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "DynamicTreesPlus-1.20.1-1.2.2.jar",
-        "name": "Dynamic Trees Plus",
-        "version": null,
-        "mod_id": null,
-        "file_size": 534711,
-        "curseforge_id": 478155,
         "modrinth_id": null
       },
       {
@@ -8987,11 +8744,11 @@
         "modrinth_id": "USZyvOJq"
       },
       {
-        "file_name": "integrated_api-1.5.3\u002B1.20.1-forge.jar",
+        "file_name": "integrated_api-1.7.1\u002B1.20.1-forge.jar",
         "name": "Integrated API",
         "version": null,
         "mod_id": null,
-        "file_size": 689843,
+        "file_size": 715171,
         "curseforge_id": 817709,
         "modrinth_id": null
       },
@@ -9023,11 +8780,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "integrated_villages-1.3.0\u002B1.20.1-forge.jar",
+        "file_name": "integrated_villages-1.3.2\u002B1.20.1-forge.jar",
         "name": "Integrated Villages",
         "version": null,
         "mod_id": null,
-        "file_size": 4664420,
+        "file_size": 4665121,
         "curseforge_id": 661376,
         "modrinth_id": "o1qh5qIF"
       },
@@ -9041,11 +8798,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "IntegratedDynamics-1.20.1-1.30.1.jar",
+        "file_name": "IntegratedDynamics-1.20.1-1.30.2.jar",
         "name": "IntegratedDynamics",
         "version": null,
         "mod_id": null,
-        "file_size": 4176128,
+        "file_size": 4176635,
         "curseforge_id": 236307,
         "modrinth_id": null
       },
@@ -9185,11 +8942,11 @@
         "modrinth_id": "fxaE37Sf"
       },
       {
-        "file_name": "irons_patreon_lib-1.20.1-1.0.0.jar",
+        "file_name": "irons_patreon_lib-1.20.1-1.0.1.jar",
         "name": "Iron\u0027s Patreon Library",
         "version": null,
         "mod_id": null,
-        "file_size": 374062,
+        "file_size": 374464,
         "curseforge_id": 1492763,
         "modrinth_id": null
       },
@@ -9473,11 +9230,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "JustEnoughMekanismMultiblocks-1.20.1-4.16.jar",
+        "file_name": "JustEnoughMekanismMultiblocks-1.20.1-4.17.jar",
         "name": "Just Enough Mekanism Multiblocks",
         "version": null,
         "mod_id": null,
-        "file_size": 168365,
+        "file_size": 186162,
         "curseforge_id": 898746,
         "modrinth_id": null
       },
@@ -9968,11 +9725,11 @@
         "modrinth_id": "sisHxweW"
       },
       {
-        "file_name": "logisticsnetworks-1.20.1-1.1.1.jar",
+        "file_name": "logisticsnetworks-1.20.1-1.1.2.jar",
         "name": "Logistics Network",
         "version": null,
         "mod_id": null,
-        "file_size": 636432,
+        "file_size": 635523,
         "curseforge_id": 1448257,
         "modrinth_id": null
       },
@@ -11732,6 +11489,15 @@
         "modrinth_id": "kUpOjknA"
       },
       {
+        "file_name": "mysticmonstrosityfixes-19.0.0.jar",
+        "name": "Mystic\u0027s Monstrosity Fixes",
+        "version": null,
+        "mod_id": null,
+        "file_size": 15424,
+        "curseforge_id": 1173580,
+        "modrinth_id": null
+      },
+      {
         "file_name": "MysticalAdaptations-1.20.1-1.0.1.jar",
         "name": "Mystical Adaptations",
         "version": null,
@@ -11801,15 +11567,6 @@
         "mod_id": null,
         "file_size": 276214,
         "curseforge_id": 1484031,
-        "modrinth_id": null
-      },
-      {
-        "file_name": "mysticmonstrosityfixes-19.0.0.jar",
-        "name": "Mystics Monstrosity Fixes",
-        "version": null,
-        "mod_id": null,
-        "file_size": 15424,
-        "curseforge_id": 1173580,
         "modrinth_id": null
       },
       {
@@ -12875,15 +12632,6 @@
         "modrinth_id": "pwyQpn79"
       },
       {
-        "file_name": "PolishedLib-1.12.2-1.1.1.jar",
-        "name": "PolishedLib",
-        "version": null,
-        "mod_id": null,
-        "file_size": 127465,
-        "curseforge_id": 364847,
-        "modrinth_id": null
-      },
-      {
         "file_name": "polylib-forge-2000.0.3-build.143.jar",
         "name": "PolyLib",
         "version": null,
@@ -13692,6 +13440,15 @@
         "file_size": 223156,
         "curseforge_id": 1145263,
         "modrinth_id": "Aw21NLwC"
+      },
+      {
+        "file_name": "reefredux-1.3.0.jar",
+        "name": "Reef Redux",
+        "version": null,
+        "mod_id": null,
+        "file_size": 61428,
+        "curseforge_id": 926538,
+        "modrinth_id": null
       },
       {
         "file_name": "refinedcooking-4.0.0.jar",
@@ -14576,15 +14333,6 @@
         "modrinth_id": "houIxdGF"
       },
       {
-        "file_name": "shutter-2.2.0-1.20.1.jar",
-        "name": "Shutter",
-        "version": null,
-        "mod_id": null,
-        "file_size": 1121338,
-        "curseforge_id": 714019,
-        "modrinth_id": "NjHNA0vG"
-      },
-      {
         "file_name": "shutterup-forge-1.20.1-1.0.6.jar",
         "name": "ShutterUp",
         "version": null,
@@ -14675,11 +14423,11 @@
         "modrinth_id": null
       },
       {
-        "file_name": "voicechat-forge-1.20.1-2.6.13.jar",
+        "file_name": "voicechat-forge-1.20.1-2.6.14.jar",
         "name": "Simple Voice Chat",
         "version": null,
         "mod_id": null,
-        "file_size": 4894936,
+        "file_size": 4895899,
         "curseforge_id": 416089,
         "modrinth_id": null
       },
@@ -15222,15 +14970,6 @@
         "file_size": 7017,
         "curseforge_id": 857141,
         "modrinth_id": null
-      },
-      {
-        "file_name": "splash_milk-2.1.0.jar",
-        "name": "Splash Milk",
-        "version": null,
-        "mod_id": null,
-        "file_size": 80905,
-        "curseforge_id": 564244,
-        "modrinth_id": "ELrdP6OH"
       },
       {
         "file_name": "Split Shulker Boxes-forge-1.20.1-1.0.1.jar",
@@ -16043,6 +15782,15 @@
         "modrinth_id": null
       },
       {
+        "file_name": "shutter-2.4.0-1.20.1.jar",
+        "name": "The New Shutters",
+        "version": null,
+        "mod_id": null,
+        "file_size": 1448245,
+        "curseforge_id": 714019,
+        "modrinth_id": null
+      },
+      {
         "file_name": "theoldaddition-1.0-SNAPSHOT.jar",
         "name": "The Old Additions",
         "version": null,
@@ -16059,6 +15807,15 @@
         "file_size": 14375300,
         "curseforge_id": 430404,
         "modrinth_id": "X8s97ySO"
+      },
+      {
+        "file_name": "splash_milk-2.1.0.jar",
+        "name": "The Splash Milk",
+        "version": null,
+        "mod_id": null,
+        "file_size": 80905,
+        "curseforge_id": 564244,
+        "modrinth_id": null
       },
       {
         "file_name": "twilightforest-1.20.1-4.3.2508-universal.jar",
@@ -17489,7 +17246,7 @@
         "mod_id": null,
         "file_size": 215750,
         "curseforge_id": 704256,
-        "modrinth_id": "z13R7Et1"
+        "modrinth_id": null
       },
       {
         "file_name": "voidminers-1.20.1-1.9.25.3.jar",
@@ -17636,13 +17393,13 @@
         "modrinth_id": "dGGbEGoV"
       },
       {
-        "file_name": "waveycapes-forge-1.8.2-mc1.20.1.jar",
-        "name": "WaveyCapes",
+        "file_name": "waveycapes-forge-1.9.0-mc1.20.1.jar",
+        "name": "Wavey Capes",
         "version": null,
         "mod_id": null,
-        "file_size": 1840298,
+        "file_size": 1847385,
         "curseforge_id": 521594,
-        "modrinth_id": "kYuIpRLv"
+        "modrinth_id": null
       },
       {
         "file_name": "waystone_crypts-1.20.1-FORGE-1.1.0.jar",

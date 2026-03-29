@@ -1,5 +1,6 @@
 
 ["Wave Amounts"]
+	#Going higher than 7 without adding raiders via a datapack will result in a crash. This is a known issue.
 	#Number of waves in a Raid on Easy difficulty.
 	#Range: > 1
 	waveCountEasy = 3
@@ -34,11 +35,13 @@
 	#Range: > 0
 	highlightThreshold = 3
 	#Toggles whether Boss Bars for Elite Raiders/Bosses will show up during Raids.
+	#Disabling this will disable every boss bars added by Difficult Raids.
 	#Enabling this will create Boss Event Bars for:
 	#DifficultRaids: Nuaos, Xydrax, Voldon, Modur
 	#Illage & Spillage: Freakager, Magispeller, Spiritcaller
 	#Dungeons Mobs: Redstone Golem
 	#Leo's Illagers: Lightningcaller, Clownager
+	#You can customize each boss bars below.
 	bossBarsEnabled = true
 	#Determines if wave information will show up in the Raid Event title.
 	showWaveInformation = true
@@ -181,6 +184,7 @@
 		#If you enable Redstone Golem and Redstone Monstrosity, make sure to enable them in Goety config
 		enableRedstoneGolemGoety = false
 		enableRedstoneMonstrosity = false
+		enableCrone = false
 
 	["Enabled Raiders"."Requires The Summoner Illager Port"]
 		enableSummoner = true
@@ -489,4 +493,105 @@
 		enableRager = true
 		enablePatrolCaptain = true
 		enableRaiderRandomizer = true
+
+	["Enabled Raiders"."Requires Goety Awaken"]
+		enableVindicatorChef = false
+		enableHostileRoyalGuard = false
+		enableTowerWitch = false
+
+	["Enabled Raiders"."Requires Simple Musket"]
+		enableMusketPillager = true
+
+	["Enabled Raiders"."Requires Leos Bosses"]
+		enableAncientSorcerer = false
+
+	["Enabled Raiders"."Requires Flame Forge"]
+		enableChrimsonveil = true
+
+	["Enabled Raiders"."Requires Sieging of the Illagers"]
+		enableWarlord = true
+		enableWizard = true
+		enablePileDriver = true
+		enableWarlordRavager = false
+		enableDestructor = true
+		enableGiantsager = true
+
+	["Enabled Raiders"."Requires Invade"]
+		enableFollower = false
+
+	["Enabled Raiders"."Requires Illage Art"]
+		enablePioneer = false
+		enableSpitter = false
+		enableIllagerTactician = false
+		enableKeyHolder = true
+		enableTheFireKing = true
+		enableSpiderSummoner = true
+		enableFloatingElder = true
+		enableCalamityNurse = true
+		enableGrandArchmage = true
+		enableChurchWizard = true
+
+	["Enabled Raiders"."Requires Fathomless Crimson"]
+		enableBishop = true
+
+	["Enabled Raiders"."Requires Wan Ancient Beasts"]
+		enableTamer = true
+
+	["Enabled Raiders"."Requires Better Raiders"]
+		enableBower = true
+		enableDogger = true
+		enableRaider = true
+		enableSupport = true
+		enablePhantom = true
+
+	["Enabled Raiders"."Requires Canibalism"]
+		enableButcher = true
+
+	["Enabled Raiders"."Requires HuaCheng's More Illagers"]
+		enableCapitalist = true
+		enableCrasher = true
+		enableHugeCrasher = true
+		enableMiniOrganGuard = true
+		enableOrganGuard = true
+		enableHcRedstoneGolem = true
+		enableAbyssologer = false
+
+	["Enabled Raiders"."Requires Goety Hostility"]
+		enableGHVindicatorChef = true
+		enableGHGeomancer = true
+		enableGHIceologer = true
+		enableGHSquallGolem = true
+		enableGHWindCaller = true
+		enableGH_Mountaineer = true
+
+	["Enabled Raiders"."Requires Raids:Enhanced"]
+		enableRaiderBlimp = true
+		enableGolemOfLastResort = true
+		enableRaiderDrill = true
+		enableZapper = true
+
+	["Enabled Raiders"."Requires Chill Thrill"]
+		enableCTIceologer = true
+
+["BOSS BARS"]
+	#Enabling this will create Boss Event Bars for Modur
+	ModurBossBars = true
+	#Enabling this will create Boss Event Bars for Nuaos
+	NuaosBossBar = true
+	#Enabling this will create Boss Event Bars for Voldon
+	VoldonBossBar = true
+	#Enabling this will create Boss Event Bars for Xydrax
+	XydraxBossBar = true
+	#Enabling this will create Boss Event Bars for Clownager
+	ClownagerBossBar = true
+	#Enabling this will create Boss Event Bars for Freakager
+	FreakagerBossBar = true
+	#Enabling this will create Boss Event Bars for Lightning Caller
+	LightningCallerBossBar = true
+	#Enabling this will create Boss Event Bars for Magispeller
+	MagispellerBossBar = true
+	#Enabling this will create Boss Event Bars for Dungeon Mobs Redstone Golem
+	DMRedstoneGolemBossBar = true
+	#Enabling this will create Boss Event Bars for Spiritcaller
+	SpiritcallerBossBar = true
 

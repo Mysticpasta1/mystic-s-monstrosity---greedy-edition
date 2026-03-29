@@ -3183,6 +3183,7 @@
 
 	[shutter.blocks]
 		glass_shutter = "[255,255,255]"
+		interaction_shutter_glass = "[255,255,255]"
 
 [chimes]
 
