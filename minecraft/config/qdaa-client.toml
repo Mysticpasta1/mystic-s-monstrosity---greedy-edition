@@ -1,0 +1,9 @@
+#Scale Factor for the super-sampled resolution.
+#OFF:    1.0x
+#LOW:    1.25x
+#MEDIUM: 1.5x
+#HIGH:   1.75x
+#ULTRA:  2.0x
+#Allowed Values: OFF, LOW, MEDIUM, HIGH, ULTRA
+scaleFactor = "MEDIUM"
+
