@@ -19,25 +19,6 @@
     "FolderId": null
   },
   {
-    "FileName": "ComplementaryReimagined_r5.7.1.zip",
-    "IconUrl": "https://cdn.modrinth.com/data/HVnmMxH1/79cb7c8123bbc54945305b2ebad6b8881efdf5f8_96.webp",
-    "CurseForgeId": null,
-    "CurseForgeFileId": null,
-    "ModrinthId": "HVnmMxH1",
-    "ModrinthVersionId": "836bPNGo",
-    "Author": "EminGT",
-    "ProjectName": "Complementary Shaders - Reimagined",
-    "PreferredReleaseChannel": null,
-    "DateAdded": "2026-03-28T08:29:01.1060713Z",
-    "HasUpdate": false,
-    "LatestVersion": null,
-    "LatestFileName": null,
-    "LatestDownloadUrl": null,
-    "LastUpdateCheck": null,
-    "DownloadSource": null,
-    "FolderId": null
-  },
-  {
     "FileName": "ComplementaryUnbound_r5.7.1.zip",
     "IconUrl": "https://media.forgecdn.net/avatars/875/480/638298072228596362.png",
     "CurseForgeId": 385587,
@@ -149,6 +130,25 @@
     "LatestDownloadUrl": null,
     "LastUpdateCheck": null,
     "DownloadSource": null,
+    "FolderId": null
+  },
+  {
+    "FileName": "ComplementaryReimagined_r5.7.1.zip",
+    "IconUrl": "https://media.forgecdn.net/avatars/thumbnails/875/481/256/256/638298072734336144.png",
+    "CurseForgeId": 627557,
+    "CurseForgeFileId": 7574259,
+    "ModrinthId": null,
+    "ModrinthVersionId": null,
+    "Author": "EminGT",
+    "ProjectName": "Complementary Shaders - Reimagined",
+    "PreferredReleaseChannel": null,
+    "DateAdded": "2026-03-31T02:05:26.6116944Z",
+    "HasUpdate": false,
+    "LatestVersion": null,
+    "LatestFileName": null,
+    "LatestDownloadUrl": null,
+    "LastUpdateCheck": null,
+    "DownloadSource": 1,
     "FolderId": null
   }
 ]

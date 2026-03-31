@@ -2135,12 +2135,6 @@
 		soulfire_stain = "[0,0,255]"
 		soul_lamp = "[0,0,255]"
 
-[goodending]
-
-	[goodending.blocks]
-		birch_mushroom = "[255,255,255]"
-		firefly_lantern = "[255,255,255]"
-
 [darkerdepths]
 
 	[darkerdepths.blocks]
