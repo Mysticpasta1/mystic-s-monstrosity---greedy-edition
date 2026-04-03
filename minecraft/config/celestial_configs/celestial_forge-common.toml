@@ -28,6 +28,8 @@ enableToolForging = true
 enableCurioForging = true
 #Enable modifier to be upgraded
 enableModifierUpgrades = true
+#Modifier book reinforcement material
+bookReinforcementMate = "minecraft:nether_star"
 
 [reinforce]
 	#Echo Shard Reinforce: pick  exp bonus

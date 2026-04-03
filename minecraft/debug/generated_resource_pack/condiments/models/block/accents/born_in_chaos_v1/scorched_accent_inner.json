@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/inner_accent",
+  "textures": {
+    "texture": "condiments:block/born_in_chaos_v1/scorched_accent"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "condiments:block/pasterdream/polished_shadow_stem",
+    "side": "condiments:block/pasterdream/polished_shadow_stem"
+  }
+}

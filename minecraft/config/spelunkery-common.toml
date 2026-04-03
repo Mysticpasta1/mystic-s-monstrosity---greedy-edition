@@ -36,8 +36,8 @@
 	piglins_give_crying_obsidian = true
 	dimensional_tears_from_crying_obsidian = false
 	dimensional_tears_from_respawn_anchor = true
-	portal_fluid_ocean = true
-	end_ocean_bucketable = false
+	portal_fluid_ocean = false
+	end_ocean_bucketable = true
 
 [slimes]
 	slimes_spawn_in_all_caves = true

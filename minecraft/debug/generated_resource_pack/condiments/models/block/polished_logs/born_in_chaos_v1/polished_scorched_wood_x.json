@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_x",
+  "textures": {
+    "end": "condiments:block/born_in_chaos_v1/polished_scorched_log",
+    "side": "condiments:block/born_in_chaos_v1/polished_scorched_log"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_post_inflate",
+  "textures": {
+    "wall": "pasterdream:block/yin_ying_jun_bing_"
+  }
+}

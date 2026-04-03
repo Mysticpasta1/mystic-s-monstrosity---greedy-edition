@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_y",
+  "textures": {
+    "end": "condiments:block/pasterdream/polished_shadow_stem_top",
+    "side": "condiments:block/pasterdream/polished_shadow_stem"
+  }
+}

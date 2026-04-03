@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/pasterdream/polished_shadow_hyphae_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/pasterdream/polished_shadow_hyphae_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/pasterdream/polished_shadow_hyphae_z"
+    }
+  }
+}

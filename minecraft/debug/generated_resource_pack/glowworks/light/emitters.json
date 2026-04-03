@@ -29,6 +29,11 @@
     0,
     255
   ],
+  "ba_bt:core_matter_block": [
+    255,
+    255,
+    255
+  ],
   "wallpapercraft:auralampblue-14": [
     0,
     0,
@@ -209,11 +214,6 @@
     255,
     255
   ],
-  "bibliocraft:blue_fancy_gold_lantern": [
-    0,
-    0,
-    255
-  ],
   "dazzle:light_blue_shroomlight": [
     0,
     0,
@@ -279,15 +279,15 @@
     255,
     255
   ],
-  "colorfulcampfires:lime_crimson_stem_campfire": [
-    187,
-    255,
-    0
-  ],
   "mekanism:ultimate_purifying_factory": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:lime_crimson_stem_campfire": [
+    187,
+    255,
+    0
   ],
   "the_bumblezone:luminescent_wax_node_blue": [
     0,
@@ -839,11 +839,6 @@
     34,
     255
   ],
-  "bibliocraft:fancy_gold_lantern": [
-    255,
-    255,
-    255
-  ],
   "betternether:lucis_spore": [
     255,
     255,
@@ -1180,6 +1175,11 @@
     0
   ],
   "securitycraft:keypad_blast_furnace": [
+    255,
+    255,
+    255
+  ],
+  "enigmaticdelicacy:potted_astral_sapling": [
     255,
     255,
     255
@@ -1699,6 +1699,11 @@
     255,
     255
   ],
+  "aspen:medium_honey_mushroom": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:cyan_stripped_jungle_dark_campfire": [
     0,
     255,
@@ -1759,6 +1764,11 @@
     255,
     0
   ],
+  "caverns_and_chasms:sparkler": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg62860": [
     255,
     255,
@@ -1801,11 +1811,6 @@
   ],
   "sonicraft:crisis_city_portal": [
     255,
-    255,
-    255
-  ],
-  "bibliocraft:cyan_fancy_iron_lantern": [
-    0,
     255,
     255
   ],
@@ -1899,11 +1904,6 @@
     255,
     255
   ],
-  "bibliocraft:light_gray_fancy_gold_lamp": [
-    136,
-    136,
-    136
-  ],
   "productivetrees:black_ember_leaves": [
     0,
     0,
@@ -1939,6 +1939,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:yellow_sparkler": [
+    255,
+    255,
+    0
+  ],
   "musings:circle_magenta_ring_gray_bg_flipping": [
     136,
     136,
@@ -1965,6 +1970,11 @@
     255
   ],
   "betterblockz:cyberlight_bar_vertical_9": [
+    255,
+    255,
+    255
+  ],
+  "aspen:jack_o_melon": [
     255,
     255,
     255
@@ -2099,11 +2109,6 @@
     255,
     255
   ],
-  "bibliocraft:magenta_fancy_gold_lamp": [
-    255,
-    0,
-    255
-  ],
   "spelunkery:magenta_glowstick": [
     255,
     0,
@@ -2169,6 +2174,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:cyan_sparkler": [
+    0,
+    255,
+    255
+  ],
   "psi:lit_black_psimetal_plate": [
     0,
     0,
@@ -2214,11 +2224,6 @@
     255,
     255
   ],
-  "bibliocraft:blue_fancy_gold_lamp": [
-    0,
-    0,
-    255
-  ],
   "fcb:fcbg16092335": [
     255,
     255,
@@ -2245,6 +2250,11 @@
     255
   ],
   "deep_aether:treasure_doorway_light_nimbus_pillar": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:exposed_copper_bulb": [
     255,
     255,
     255
@@ -2414,6 +2424,11 @@
     255,
     255
   ],
+  "aspen:parrot_mushroom": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_white_ring_blue_bg": [
     0,
     0,
@@ -2458,11 +2473,6 @@
     0,
     0,
     255
-  ],
-  "bibliocraft:light_gray_fancy_iron_lantern": [
-    136,
-    136,
-    136
   ],
   "chipped:simple_crying_obsidian_pillar": [
     255,
@@ -2589,6 +2599,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:lime_sparkler": [
+    187,
+    255,
+    0
+  ],
   "fcb:fcbg6899375": [
     255,
     255,
@@ -2613,6 +2628,11 @@
     0,
     0,
     255
+  ],
+  "caverns_and_chasms:brown_wall_sparkler": [
+    136,
+    68,
+    17
   ],
   "fcb:fcbg2302720": [
     255,
@@ -2839,11 +2859,6 @@
     255,
     255
   ],
-  "bibliocraft:gold_lantern": [
-    255,
-    255,
-    255
-  ],
   "betterend:cave_pumpkin": [
     255,
     255,
@@ -2975,6 +2990,11 @@
     255
   ],
   "chemlib:krypton_lamp_block": [
+    255,
+    255,
+    255
+  ],
+  "animus:rune_unleashed_nature": [
     255,
     255,
     255
@@ -3204,6 +3224,11 @@
     255,
     255
   ],
+  "animus:arcane_rune": [
+    255,
+    255,
+    255
+  ],
   "mekanism_extras:infinite_compressing_factory": [
     255,
     255,
@@ -3260,11 +3285,6 @@
     255
   ],
   "vanilladelight:end_stone_bricks_stove": [
-    255,
-    255,
-    255
-  ],
-  "bibliocraft:fancy_iron_lamp": [
     255,
     255,
     255
@@ -3374,15 +3394,15 @@
     0,
     255
   ],
-  "colorfulcampfires:black_stripped_mangrove_dark_campfire": [
-    0,
-    0,
-    0
-  ],
   "mekanism:basic_combining_factory": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:black_stripped_mangrove_dark_campfire": [
+    0,
+    0,
+    0
   ],
   "collectorsreap:light_blue_candle_lime_cake": [
     187,
@@ -3578,11 +3598,6 @@
     153,
     204,
     204
-  ],
-  "bibliocraft:white_fancy_gold_lantern": [
-    255,
-    255,
-    255
   ],
   "fcb:fcbg13816320": [
     255,
@@ -3859,6 +3874,11 @@
     102,
     187
   ],
+  "caverns_and_chasms:light_blue_wall_sparkler": [
+    0,
+    0,
+    255
+  ],
   "pyrite:light_blue_torch": [
     0,
     0,
@@ -3899,7 +3919,17 @@
     136,
     136
   ],
+  "caverns_and_chasms:magmatic_rhyolite_brick_wall": [
+    255,
+    255,
+    255
+  ],
   "chipped:glowing_lodestone_side": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:waxed_copper_bulb": [
     255,
     255,
     255
@@ -4194,11 +4224,6 @@
     204,
     204
   ],
-  "bibliocraft:magenta_fancy_iron_lamp": [
-    255,
-    0,
-    255
-  ],
   "mekanismadditions:black_plastic_glow": [
     0,
     0,
@@ -4324,6 +4349,11 @@
     255,
     255
   ],
+  "aspen:honey_mushroom_block": [
+    255,
+    255,
+    255
+  ],
   "productivetrees:cave_dweller_pressure_plate": [
     255,
     255,
@@ -4424,11 +4454,6 @@
     0,
     0
   ],
-  "bibliocraft:blue_fancy_iron_lamp": [
-    0,
-    0,
-    255
-  ],
   "fairylights:moon_light": [
     255,
     255,
@@ -4518,6 +4543,11 @@
     255,
     0,
     0
+  ],
+  "caverns_and_chasms:copper_bulb": [
+    255,
+    255,
+    255
   ],
   "productivetrees:sparkle_cherry_fence_gate": [
     255,
@@ -4712,11 +4742,6 @@
   "dazzle:blue_pulsating_analog_lamp": [
     0,
     0,
-    255
-  ],
-  "bibliocraft:fancy_gold_lamp": [
-    255,
-    255,
     255
   ],
   "musings:circle_green_ring_black_bg_flipping": [
@@ -5109,11 +5134,6 @@
     255,
     255
   ],
-  "bibliocraft:black_fancy_gold_lamp": [
-    0,
-    0,
-    0
-  ],
   "outer_end:rose_crystal_bud": [
     255,
     255,
@@ -5215,6 +5235,11 @@
     0
   ],
   "pyrite:locked_chest": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:potted_false_hope": [
     255,
     255,
     255
@@ -5489,6 +5514,11 @@
     136,
     136
   ],
+  "exoticbirds:fire_phoenix_egg": [
+    255,
+    255,
+    255
+  ],
   "mcwholidays:lit_screaming_pumpkin": [
     255,
     255,
@@ -5589,14 +5619,14 @@
     255,
     255
   ],
-  "colorfulcampfires:light_blue_stripped_oak_campfire": [
-    0,
-    0,
-    255
-  ],
   "mekanism:basic_enriching_factory": [
     255,
     255,
+    255
+  ],
+  "colorfulcampfires:light_blue_stripped_oak_campfire": [
+    0,
+    0,
     255
   ],
   "skinnedlanterns:paper_gray_soul_lantern_block": [
@@ -5640,6 +5670,11 @@
     187
   ],
   "autumnity:large_cupric_jack_o_lantern_slice": [
+    255,
+    255,
+    255
+  ],
+  "ba_bt:active_corrite_block": [
     255,
     255,
     255
@@ -5705,6 +5740,11 @@
     255
   ],
   "thermal_extra:lubricant": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:magmatic_rhyolite_stairs": [
     255,
     255,
     255
@@ -6194,6 +6234,11 @@
     255,
     0
   ],
+  "caverns_and_chasms:magenta_sparkler": [
+    255,
+    0,
+    255
+  ],
   "doom_and_gloom:green_vigil_candle": [
     0,
     255,
@@ -6409,6 +6454,11 @@
     255,
     255
   ],
+  "ba_bt:corrite_slab": [
+    255,
+    255,
+    255
+  ],
   "mekanism:advanced_enriching_factory": [
     255,
     255,
@@ -6443,6 +6493,11 @@
     136,
     68,
     17
+  ],
+  "aspen:parrot_mushroom_block": [
+    255,
+    255,
+    255
   ],
   "mysticsbiomes:cyan_frosted_candle_cake_magenta": [
     255,
@@ -6494,6 +6549,11 @@
     34,
     255
   ],
+  "caverns_and_chasms:waxed_exposed_copper_lantern": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_pink_ring_white_bg_flipping": [
     255,
     255,
@@ -6513,6 +6573,11 @@
     255,
     0,
     0
+  ],
+  "exoticbirds:twilight_phoenix_egg": [
+    255,
+    255,
+    255
   ],
   "musings:circle_magenta_ring_light_blue_bg_flipping": [
     0,
@@ -6844,11 +6909,6 @@
     255,
     255
   ],
-  "bibliocraft:brown_fancy_iron_lantern": [
-    136,
-    68,
-    17
-  ],
   "colorfulcampfires:brown_stripped_mangrove_campfire": [
     136,
     68,
@@ -7034,6 +7094,11 @@
     255,
     255
   ],
+  "generatorgalore:gold_generator": [
+    255,
+    255,
+    255
+  ],
   "vintagevibes:garnet_stand": [
     255,
     255,
@@ -7083,6 +7148,11 @@
     0,
     255,
     0
+  ],
+  "caverns_and_chasms:waxed_oxidized_copper_bulb": [
+    255,
+    255,
+    255
   ],
   "dazzle:orange_end_rod": [
     255,
@@ -7544,11 +7614,6 @@
     255,
     255
   ],
-  "bibliocraft:gray_fancy_gold_lantern": [
-    136,
-    136,
-    136
-  ],
   "furnish:wither_skull_torch": [
     255,
     255,
@@ -7558,11 +7623,6 @@
     255,
     255,
     255
-  ],
-  "bibliocraft:black_fancy_iron_lamp": [
-    0,
-    0,
-    0
   ],
   "colorfulcampfires:white_mangrove_campfire": [
     255,
@@ -7909,11 +7969,6 @@
     255,
     255
   ],
-  "bibliocraft:orange_fancy_iron_lantern": [
-    255,
-    102,
-    17
-  ],
   "luminax:green_luminax_wall": [
     0,
     255,
@@ -7933,6 +7988,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:black_sparkler": [
+    0,
+    0,
+    0
   ],
   "enchantableblocks:enchanted_beacon": [
     255,
@@ -7998,6 +8058,11 @@
     136,
     136,
     136
+  ],
+  "caverns_and_chasms:chiseled_magmatic_rhyolite_bricks": [
+    255,
+    255,
+    255
   ],
   "enigmaticlegacy:big_shroomlamp": [
     255,
@@ -8245,6 +8310,11 @@
     0
   ],
   "truedarkness:lapis_lazuli_swamp_ore": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:oxidized_copper_lantern": [
     255,
     255,
     255
@@ -8509,6 +8579,11 @@
     255,
     0
   ],
+  "caverns_and_chasms:purple_wall_sparkler": [
+    170,
+    34,
+    255
+  ],
   "upgradedechests:spatial_ender_chest": [
     255,
     255,
@@ -8565,6 +8640,11 @@
     255
   ],
   "betterend:azure_jadestone_pedestal": [
+    255,
+    255,
+    255
+  ],
+  "exoticbirds:phoenix_egg": [
     255,
     255,
     255
@@ -8634,11 +8714,6 @@
     102,
     17
   ],
-  "bibliocraft:purple_fancy_iron_lantern": [
-    170,
-    34,
-    255
-  ],
   "truedarkness:swamp_kelp": [
     255,
     255,
@@ -8662,11 +8737,6 @@
   "betterend:thallasium_bulb_lantern_lime": [
     187,
     255,
-    0
-  ],
-  "bibliocraft:black_fancy_iron_lantern": [
-    0,
-    0,
     0
   ],
   "dazzle:red_modern_analog_lamp": [
@@ -8698,6 +8768,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:brown_sparkler": [
+    136,
+    68,
+    17
   ],
   "productivetrees:purple_spiral_stairs": [
     170,
@@ -8858,6 +8933,11 @@
     255,
     255,
     0
+  ],
+  "aspen:suspicious_spores_parrot": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:white_oak_dark_campfire": [
     255,
@@ -9289,6 +9369,11 @@
     255,
     0
   ],
+  "ba_bt:active_corrite_stair": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:red_mangrove_dark_campfire": [
     255,
     0,
@@ -9479,11 +9564,6 @@
     255,
     255
   ],
-  "bibliocraft:light_gray_fancy_iron_lamp": [
-    136,
-    136,
-    136
-  ],
   "tanukidecor:sweets_wall_lamp": [
     255,
     255,
@@ -9515,6 +9595,11 @@
     0
   ],
   "tconstruct:scorched_lamp": [
+    255,
+    255,
+    255
+  ],
+  "ba_bt:core_matter_stair": [
     255,
     255,
     255
@@ -10334,11 +10419,6 @@
     0,
     255
   ],
-  "bibliocraft:red_fancy_gold_lantern": [
-    255,
-    0,
-    0
-  ],
   "fcb:fcbg2356480": [
     255,
     255,
@@ -10849,6 +10929,11 @@
     102,
     17
   ],
+  "exoticbirds:water_phoenix_egg": [
+    255,
+    255,
+    255
+  ],
   "chipped:ornate_shroomlight_lantern": [
     255,
     255,
@@ -11069,6 +11154,11 @@
     0,
     0
   ],
+  "caverns_and_chasms:waxed_weathered_copper_bulb": [
+    255,
+    0,
+    0
+  ],
   "nightlights:octopus_magenta": [
     255,
     0,
@@ -11088,11 +11178,6 @@
     255,
     255,
     0
-  ],
-  "bibliocraft:gray_fancy_iron_lantern": [
-    136,
-    136,
-    136
   ],
   "architects_palette:nether_brass_torch": [
     255,
@@ -11599,6 +11684,11 @@
     0,
     255
   ],
+  "caverns_and_chasms:weathered_copper_lantern": [
+    255,
+    0,
+    0
+  ],
   "pyrite:star_stained_wall_sign": [
     255,
     255,
@@ -11898,11 +11988,6 @@
     255,
     255,
     255
-  ],
-  "bibliocraft:orange_fancy_gold_lamp": [
-    255,
-    102,
-    17
   ],
   "xycraft_world:lamp_pillar_light_blue": [
     0,
@@ -12829,11 +12914,6 @@
     255,
     255
   ],
-  "bibliocraft:black_fancy_gold_lantern": [
-    0,
-    0,
-    0
-  ],
   "mysticsbiomes:yellow_frosted_candle_cake_purple": [
     170,
     34,
@@ -12988,6 +13068,11 @@
     255,
     255,
     0
+  ],
+  "animus:diabolical_fungi": [
+    255,
+    255,
+    255
   ],
   "moglowstone:magenta_glowstone_block": [
     255,
@@ -13284,11 +13369,6 @@
     255,
     255
   ],
-  "bibliocraft:purple_fancy_gold_lamp": [
-    170,
-    34,
-    255
-  ],
   "galosphere:lumiere_cluster": [
     255,
     255,
@@ -13404,6 +13484,11 @@
     255,
     255
   ],
+  "exoticbirds:snowy_phoenix_egg": [
+    255,
+    255,
+    255
+  ],
   "chipped:cut_crying_obsidian_column": [
     255,
     255,
@@ -13435,6 +13520,11 @@
     17
   ],
   "rechiseled:glowstone_tiles_slab_connecting": [
+    255,
+    255,
+    255
+  ],
+  "aspen:suspicious_spores": [
     255,
     255,
     255
@@ -13700,6 +13790,11 @@
     255
   ],
   "chisel:tiles_medium/glowstone": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:magmatic_rhyolite_brick_stairs": [
     255,
     255,
     255
@@ -14108,6 +14203,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:black_wall_sparkler": [
+    0,
+    0,
+    0
   ],
   "moglowstone:gray_glowstone_block": [
     136,
@@ -14554,6 +14654,11 @@
     255,
     255
   ],
+  "enigmaticdelicacy:stripped_astral_log": [
+    255,
+    255,
+    255
+  ],
   "colored_water:luminous_black_fluid_block": [
     0,
     0,
@@ -14799,11 +14904,6 @@
     0,
     255
   ],
-  "bibliocraft:green_fancy_iron_lamp": [
-    0,
-    255,
-    0
-  ],
   "colorfulcampfires:light_blue_warped_stem_dark_campfire": [
     0,
     0,
@@ -14860,6 +14960,11 @@
     255
   ],
   "toms_storage:ts.crafting_terminal": [
+    255,
+    255,
+    255
+  ],
+  "exoticbirds:desert_phoenix_egg": [
     255,
     255,
     255
@@ -15074,6 +15179,11 @@
     0,
     255
   ],
+  "caverns_and_chasms:magmatic_rhyolite_slab": [
+    255,
+    255,
+    255
+  ],
   "wallpapercraft:stonelampblue-2": [
     0,
     0,
@@ -15190,6 +15300,11 @@
     255
   ],
   "upgrade_aquatic:elder_prismarine_coral_wall_fan": [
+    255,
+    255,
+    255
+  ],
+  "exoticbirds:ender_phoenix_egg": [
     255,
     255,
     255
@@ -15524,6 +15639,11 @@
     255,
     255
   ],
+  "exoticbirds:nether_phoenix_egg": [
+    255,
+    255,
+    255
+  ],
   "botania:light_blue_mushroom": [
     0,
     0,
@@ -15568,6 +15688,11 @@
     0,
     0,
     255
+  ],
+  "caverns_and_chasms:gray_sparkler": [
+    136,
+    136,
+    136
   ],
   "buildersdelight:lantern_6": [
     255,
@@ -15773,11 +15898,6 @@
     255,
     0,
     0
-  ],
-  "bibliocraft:pink_fancy_iron_lamp": [
-    255,
-    102,
-    187
   ],
   "xycraft_world:lamp_lantern_red": [
     255,
@@ -16089,6 +16209,11 @@
     34,
     255
   ],
+  "generatorgalore:potion_generator": [
+    255,
+    255,
+    255
+  ],
   "chipped:hived_white_redstone_lamp": [
     255,
     0,
@@ -16098,6 +16223,11 @@
     187,
     255,
     0
+  ],
+  "caverns_and_chasms:amethyst_lamp": [
+    170,
+    34,
+    255
   ],
   "primalmagick:artificial_font_void": [
     255,
@@ -16904,6 +17034,11 @@
     0,
     255
   ],
+  "caverns_and_chasms:light_gray_wall_sparkler": [
+    136,
+    136,
+    136
+  ],
   "luminax:lime_luminax_stairs": [
     187,
     255,
@@ -16913,6 +17048,11 @@
     0,
     255,
     0
+  ],
+  "caverns_and_chasms:white_sparkler": [
+    255,
+    255,
+    255
   ],
   "musings:circle_red_ring_white_bg_flipping": [
     255,
@@ -17114,6 +17254,11 @@
     0,
     255
   ],
+  "caverns_and_chasms:atoning_table": [
+    255,
+    255,
+    255
+  ],
   "mysticsbiomes:purple_frosted_candle_cake_magenta": [
     255,
     0,
@@ -17248,6 +17393,11 @@
     255,
     102,
     187
+  ],
+  "aspen:suspicious_spores_red": [
+    255,
+    0,
+    0
   ],
   "fcb:fcbg2311925": [
     255,
@@ -17704,6 +17854,11 @@
     255,
     255
   ],
+  "enigmaticdelicacy:astral_fruit": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg11486755": [
     255,
     255,
@@ -17753,6 +17908,11 @@
     255,
     0,
     0
+  ],
+  "caverns_and_chasms:quartz_lamp": [
+    255,
+    255,
+    255
   ],
   "pyrite:honey_lamp": [
     255,
@@ -17879,11 +18039,6 @@
     255,
     255
   ],
-  "bibliocraft:fancy_iron_lantern": [
-    255,
-    255,
-    255
-  ],
   "colorfulcampfires:stripped_cherry_campfire": [
     255,
     255,
@@ -17965,6 +18120,11 @@
     0
   ],
   "avaritia:nether_crafting_table": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:polished_magmatic_rhyolite_slab": [
     255,
     255,
     255
@@ -18644,11 +18804,6 @@
     0,
     255
   ],
-  "bibliocraft:cyan_fancy_gold_lantern": [
-    0,
-    255,
-    255
-  ],
   "suppsquared:gold_candle_holder_lime": [
     187,
     255,
@@ -19304,11 +19459,6 @@
     255,
     255
   ],
-  "bibliocraft:light_gray_fancy_gold_lantern": [
-    136,
-    136,
-    136
-  ],
   "fcb:fcbg11504815": [
     255,
     255,
@@ -19395,6 +19545,11 @@
     255
   ],
   "chipped:tiny_crying_obsidian_bricks": [
+    255,
+    255,
+    255
+  ],
+  "generatorgalore:halitosis_generator": [
     255,
     255,
     255
@@ -19503,6 +19658,11 @@
     0,
     255,
     0
+  ],
+  "caverns_and_chasms:waxed_exposed_copper_bulb": [
+    255,
+    255,
+    255
   ],
   "rainbowreef:green_puffer_lantern": [
     0,
@@ -19838,11 +19998,6 @@
     255,
     0,
     255
-  ],
-  "bibliocraft:gray_fancy_gold_lamp": [
-    136,
-    136,
-    136
   ],
   "colorfulcampfires:red_cherry_campfire": [
     255,
@@ -20409,6 +20564,11 @@
     136,
     136
   ],
+  "caverns_and_chasms:magmatic_rhyolite": [
+    255,
+    255,
+    255
+  ],
   "botania:floating_rosa_arcana": [
     255,
     255,
@@ -20698,6 +20858,11 @@
     0,
     0,
     255
+  ],
+  "caverns_and_chasms:green_sparkler": [
+    0,
+    255,
+    0
   ],
   "mekanism:basic_compressing_factory": [
     255,
@@ -21209,11 +21374,6 @@
     102,
     187
   ],
-  "bibliocraft:red_fancy_gold_lamp": [
-    255,
-    0,
-    0
-  ],
   "framedblocks:framed_wall_torch": [
     255,
     255,
@@ -21224,15 +21384,15 @@
     255,
     255
   ],
-  "colorfulcampfires:green_crimson_stem_campfire": [
-    0,
-    255,
-    0
-  ],
   "mekanism:ultimate_bin": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:green_crimson_stem_campfire": [
+    0,
+    255,
+    0
   ],
   "betterblockz:zeon_white_blockz_5": [
     255,
@@ -21424,11 +21584,6 @@
     68,
     17
   ],
-  "bibliocraft:gold_soul_lantern": [
-    0,
-    0,
-    255
-  ],
   "silentgems:rose_quartz_lamp_inverted_on": [
     255,
     255,
@@ -21560,6 +21715,11 @@
     0
   ],
   "ror:toxic_sludge_tank": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:false_hope": [
     255,
     255,
     255
@@ -21894,6 +22054,11 @@
     0,
     0
   ],
+  "ba_bt:core_matter_wall": [
+    255,
+    255,
+    255
+  ],
   "tanukidecor:green_rocket_lamp": [
     0,
     255,
@@ -21999,6 +22164,11 @@
     255,
     0
   ],
+  "caverns_and_chasms:green_wall_sparkler": [
+    0,
+    255,
+    0
+  ],
   "betternether:nether_brewing_stand": [
     255,
     255,
@@ -22053,11 +22223,6 @@
     255,
     0,
     0
-  ],
-  "bibliocraft:light_blue_fancy_iron_lamp": [
-    0,
-    0,
-    255
   ],
   "musings:circle_cyan_ring_light_gray_bg": [
     136,
@@ -22249,13 +22414,13 @@
     68,
     17
   ],
-  "colorfulcampfires:black_stripped_bamboo_campfire": [
-    0,
+  "mekanismadditions:red_plastic_glow_stairs": [
+    255,
     0,
     0
   ],
-  "mekanismadditions:red_plastic_glow_stairs": [
-    255,
+  "colorfulcampfires:black_stripped_bamboo_campfire": [
+    0,
     0,
     0
   ],
@@ -22299,10 +22464,10 @@
     255,
     0
   ],
-  "bibliocraft:yellow_fancy_gold_lantern": [
+  "enigmaticdelicacy:stripped_astral_wood": [
     255,
     255,
-    0
+    255
   ],
   "productivetrees:night_fuchsia_planks": [
     255,
@@ -22353,11 +22518,6 @@
     255,
     255,
     0
-  ],
-  "bibliocraft:white_fancy_gold_lamp": [
-    255,
-    255,
-    255
   ],
   "enderite:ender_crystal_cluster": [
     255,
@@ -22669,11 +22829,6 @@
     136,
     136
   ],
-  "bibliocraft:brown_fancy_gold_lamp": [
-    136,
-    68,
-    17
-  ],
   "chipped:creeper_magma_block_carving": [
     255,
     255,
@@ -22693,6 +22848,11 @@
     255,
     102,
     187
+  ],
+  "generatorgalore:emerald_generator": [
+    255,
+    255,
+    255
   ],
   "chisel:circular/glowstone": [
     255,
@@ -22779,6 +22939,11 @@
     68,
     17
   ],
+  "aspen:suspicious_spores_brown": [
+    136,
+    68,
+    17
+  ],
   "fcb:fcbg13807500": [
     255,
     255,
@@ -22860,6 +23025,11 @@
     187
   ],
   "betterend:flavolite_lantern": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:magmatic_rhyolite_bricks": [
     255,
     255,
     255
@@ -22964,6 +23134,11 @@
     34,
     255
   ],
+  "ba_bt:corrite_block": [
+    255,
+    255,
+    255
+  ],
   "betterblockz:zeon_purple_blockz_3": [
     170,
     34,
@@ -23002,6 +23177,11 @@
   "betterblockz:zeon_purple_blockz_0": [
     170,
     34,
+    255
+  ],
+  "caverns_and_chasms:zirconia_lamp": [
+    255,
+    255,
     255
   ],
   "wallpapercraft:auralampyellow-14": [
@@ -23113,6 +23293,11 @@
     255,
     102,
     17
+  ],
+  "ba_bt:corrite_stair": [
+    255,
+    255,
+    255
   ],
   "quark:yellow_corundum_pane": [
     255,
@@ -23288,6 +23473,11 @@
     187,
     255,
     0
+  ],
+  "caverns_and_chasms:light_blue_sparkler": [
+    0,
+    0,
+    255
   ],
   "colorfulcampfires:lime_stripped_cherry_campfire": [
     187,
@@ -23644,6 +23834,11 @@
     255,
     0
   ],
+  "enigmaticdelicacy:etherium_ore": [
+    255,
+    255,
+    255
+  ],
   "mekanismadditions:orange_plastic_glow_stairs": [
     255,
     102,
@@ -23653,6 +23848,11 @@
     0,
     0,
     255
+  ],
+  "caverns_and_chasms:gray_wall_sparkler": [
+    136,
+    136,
+    136
   ],
   "create:light_blue_nixie_tube": [
     0,
@@ -24074,10 +24274,20 @@
     255,
     255
   ],
+  "caverns_and_chasms:polished_magmatic_rhyolite_stairs": [
+    255,
+    255,
+    255
+  ],
   "colored_water:luminous_condense_lime_fluid_block": [
     187,
     255,
     0
+  ],
+  "caverns_and_chasms:exposed_copper_lantern": [
+    255,
+    255,
+    255
   ],
   "dustrial_decor:redstone_lantern": [
     255,
@@ -24098,6 +24308,11 @@
     255,
     0,
     0
+  ],
+  "caverns_and_chasms:diamond_lamp": [
+    255,
+    255,
+    255
   ],
   "biomesoplenty:glowshroom": [
     255,
@@ -24334,6 +24549,11 @@
     34,
     255
   ],
+  "caverns_and_chasms:copper_lantern": [
+    255,
+    255,
+    255
+  ],
   "silentgems:potted_kyanite_glowrose": [
     255,
     255,
@@ -24368,11 +24588,6 @@
     255,
     255,
     255
-  ],
-  "bibliocraft:brown_fancy_gold_lantern": [
-    136,
-    68,
-    17
   ],
   "wallpapercraft:auralamppurple-8": [
     170,
@@ -24496,6 +24711,11 @@
   ],
   "colorfulcampfires:cyan_stripped_mangrove_dark_campfire": [
     0,
+    255,
+    255
+  ],
+  "generatorgalore:netherstar_generator": [
+    255,
     255,
     255
   ],
@@ -25314,6 +25534,11 @@
     0,
     255
   ],
+  "caverns_and_chasms:oxidized_copper_bulb": [
+    255,
+    255,
+    255
+  ],
   "missingwilds:green_stained_firefly_jar": [
     0,
     255,
@@ -25609,6 +25834,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:emerald_lamp": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:yellow_spruce_campfire": [
     255,
     255,
@@ -25679,6 +25909,11 @@
     255,
     0
   ],
+  "generatorgalore:magmatic_generator": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_blue_ring_magenta_bg_flipping": [
     255,
     0,
@@ -25743,6 +25978,11 @@
     0,
     0,
     0
+  ],
+  "exoticbirds:skeleton_phoenix_egg": [
+    255,
+    255,
+    255
   ],
   "fairylights:oil_lantern_light": [
     255,
@@ -25818,6 +26058,11 @@
     0,
     255,
     0
+  ],
+  "caverns_and_chasms:waxed_oxidized_copper_lantern": [
+    255,
+    255,
+    255
   ],
   "wallpapercraft:auralampgreen-8": [
     0,
@@ -26054,6 +26299,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:magenta_wall_sparkler": [
+    255,
+    0,
+    255
+  ],
   "chipped:upside_down_jack_o_lantern": [
     255,
     255,
@@ -26223,6 +26473,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:orange_wall_sparkler": [
+    255,
+    102,
+    17
   ],
   "framedblocks:framed_redstone_wall_torch": [
     255,
@@ -26415,6 +26670,11 @@
     255
   ],
   "aetherworks:aether_gas_painful_block": [
+    255,
+    255,
+    255
+  ],
+  "exoticbirds:egg_identifier": [
     255,
     255,
     255
@@ -26634,6 +26894,11 @@
     255,
     255
   ],
+  "generatorgalore:diamond_generator": [
+    255,
+    255,
+    255
+  ],
   "productivetrees:expansion_box_flickering_sun": [
     255,
     255,
@@ -26763,6 +27028,11 @@
     255,
     0,
     0
+  ],
+  "ba_bt:corrite_wall": [
+    255,
+    255,
+    255
   ],
   "bosses_of_mass_destruction:monolith_block": [
     255,
@@ -27269,6 +27539,11 @@
     255,
     0
   ],
+  "ba_bt:active_corrite_slab": [
+    255,
+    255,
+    255
+  ],
   "productivetrees:time_traveller_leaves": [
     255,
     255,
@@ -27589,11 +27864,6 @@
     34,
     255
   ],
-  "bibliocraft:lime_fancy_gold_lamp": [
-    187,
-    255,
-    0
-  ],
   "fcb:fcbg2329600": [
     255,
     255,
@@ -27894,6 +28164,11 @@
     68,
     17
   ],
+  "caverns_and_chasms:wall_sparkler": [
+    255,
+    255,
+    255
+  ],
   "xycraft_world:lamp_cube_brown": [
     136,
     68,
@@ -28042,6 +28317,11 @@
   "integrateddynamics:menril_torch_stone_wall": [
     255,
     255,
+    0
+  ],
+  "caverns_and_chasms:red_sparkler": [
+    255,
+    0,
     0
   ],
   "fcb:fcbg16110080": [
@@ -28864,11 +29144,6 @@
     255,
     0
   ],
-  "bibliocraft:cyan_fancy_iron_lamp": [
-    0,
-    255,
-    255
-  ],
   "productivetrees:black_ember_log": [
     0,
     0,
@@ -28903,11 +29178,6 @@
     0,
     0,
     255
-  ],
-  "bibliocraft:yellow_fancy_iron_lamp": [
-    255,
-    255,
-    0
   ],
   "ars_nouveau:relay_deposit": [
     255,
@@ -29208,11 +29478,6 @@
     255,
     102,
     187
-  ],
-  "bibliocraft:purple_fancy_gold_lantern": [
-    170,
-    34,
-    255
   ],
   "tconstruct:blazewood": [
     255,
@@ -29542,6 +29807,11 @@
   "colorfulcampfires:purple_stripped_bamboo_campfire": [
     170,
     34,
+    255
+  ],
+  "enigmaticdelicacy:infinisoil_farmland": [
+    255,
+    255,
     255
   ],
   "mekanism:chemical_infuser": [
@@ -30064,6 +30334,11 @@
     255,
     255
   ],
+  "generatorgalore:copper_generator": [
+    255,
+    255,
+    255
+  ],
   "furnish:pink_paper_lamp": [
     255,
     102,
@@ -30153,6 +30428,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:orange_sparkler": [
+    255,
+    102,
+    17
   ],
   "caverns_and_chasms:cupric_campfire": [
     255,
@@ -30269,11 +30549,6 @@
     255,
     255
   ],
-  "bibliocraft:red_fancy_iron_lantern": [
-    255,
-    0,
-    0
-  ],
   "productivetrees:cave_dweller_slab": [
     255,
     255,
@@ -30355,6 +30630,11 @@
     255
   ],
   "chemlib:helium_lamp_block": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:white_wall_sparkler": [
     255,
     255,
     255
@@ -30559,11 +30839,6 @@
     255,
     0
   ],
-  "bibliocraft:lime_fancy_iron_lamp": [
-    187,
-    255,
-    0
-  ],
   "colorfulcampfires:light_blue_stripped_jungle_dark_campfire": [
     0,
     0,
@@ -30613,6 +30888,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:weathered_copper_bulb": [
+    255,
+    0,
+    0
   ],
   "vanilladelight:nether_bricks_stove": [
     255,
@@ -30879,11 +31159,6 @@
     255,
     255
   ],
-  "bibliocraft:orange_fancy_iron_lamp": [
-    255,
-    102,
-    17
-  ],
   "composite_material:sculk_infuser": [
     255,
     255,
@@ -30968,6 +31243,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:pink_wall_sparkler": [
+    255,
+    102,
+    187
   ],
   "rubinated_nether:bleeding_obsidian": [
     255,
@@ -31224,11 +31504,6 @@
     34,
     255
   ],
-  "bibliocraft:brown_fancy_iron_lamp": [
-    136,
-    68,
-    17
-  ],
   "luminousworld:phoenix_egg": [
     255,
     255,
@@ -31238,6 +31513,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:yellow_wall_sparkler": [
+    255,
+    255,
+    0
   ],
   "environmental:dwarf_spruce_plant_redstone_torch": [
     255,
@@ -31379,6 +31659,11 @@
     255,
     255
   ],
+  "exoticbirds:egg_incubator": [
+    255,
+    255,
+    255
+  ],
   "ribbits:swamp_lantern": [
     255,
     255,
@@ -31408,11 +31693,6 @@
     0,
     0,
     255
-  ],
-  "bibliocraft:yellow_fancy_gold_lamp": [
-    255,
-    255,
-    0
   ],
   "fcb:fcbg17955": [
     255,
@@ -31476,11 +31756,6 @@
   ],
   "chipped:vertical_cut_crying_obsidian": [
     255,
-    255,
-    255
-  ],
-  "bibliocraft:cyan_fancy_gold_lamp": [
-    0,
     255,
     255
   ],
@@ -31713,6 +31988,11 @@
     255,
     255,
     0
+  ],
+  "caverns_and_chasms:coal": [
+    255,
+    255,
+    255
   ],
   "moglowstoneplus:black_glowstone_brick": [
     0,
@@ -31965,11 +32245,6 @@
     255
   ],
   "colorfulcampfires:light_blue_crimson_stem_campfire": [
-    0,
-    0,
-    255
-  ],
-  "bibliocraft:blue_fancy_iron_lantern": [
     0,
     0,
     255
@@ -32259,6 +32534,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:magmatic_rhyolite_brick_slab": [
+    255,
+    255,
+    255
+  ],
   "xycraft_world:aurey_block_matte_glowing_lime": [
     187,
     255,
@@ -32519,6 +32799,11 @@
     255,
     255
   ],
+  "enigmaticdelicacy:astral_wood": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:lime_cherry_dark_campfire": [
     187,
     255,
@@ -32613,6 +32898,11 @@
     255,
     102,
     187
+  ],
+  "caverns_and_chasms:red_wall_sparkler": [
+    255,
+    0,
+    0
   ],
   "xycraft_world:aurey_block_matte_glowing_blue": [
     0,
@@ -32774,15 +33064,15 @@
     255,
     255
   ],
-  "colorfulcampfires:black_stripped_warped_stem_campfire": [
-    0,
-    0,
-    0
-  ],
   "mekanism:chemical_injection_chamber": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:black_stripped_warped_stem_campfire": [
+    0,
+    0,
+    0
   ],
   "ror:red_neon_block": [
     255,
@@ -32808,11 +33098,6 @@
     255,
     0,
     0
-  ],
-  "bibliocraft:purple_fancy_iron_lamp": [
-    170,
-    34,
-    255
   ],
   "musings:circle_lime_ring_yellow_bg_flipping": [
     255,
@@ -33229,11 +33514,6 @@
     255,
     255
   ],
-  "bibliocraft:pink_fancy_gold_lamp": [
-    255,
-    102,
-    187
-  ],
   "mcwholidays:purple_decorated_christmas_tree_base": [
     170,
     34,
@@ -33364,11 +33644,6 @@
     0,
     255
   ],
-  "bibliocraft:magenta_fancy_iron_lantern": [
-    255,
-    0,
-    255
-  ],
   "thingamajigs:popcorn_machine": [
     255,
     255,
@@ -33419,11 +33694,6 @@
     255,
     255
   ],
-  "bibliocraft:green_fancy_gold_lamp": [
-    0,
-    255,
-    0
-  ],
   "musings:circle_cyan_ring_light_blue_bg_flipping": [
     0,
     0,
@@ -33438,6 +33708,11 @@
     255,
     102,
     187
+  ],
+  "caverns_and_chasms:cyan_wall_sparkler": [
+    0,
+    255,
+    255
   ],
   "colorfulcampfires:gray_stripped_crimson_stem_campfire": [
     136,
@@ -33664,6 +33939,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:waxed_weathered_copper_lantern": [
+    255,
+    0,
+    0
+  ],
   "chipped:inlayed_white_redstone_lamp": [
     255,
     0,
@@ -33675,6 +33955,11 @@
     255
   ],
   "productivetrees:time_traveller_fence": [
+    255,
+    255,
+    255
+  ],
+  "enigmaticdelicacy:astral_log": [
     255,
     255,
     255
@@ -33848,11 +34133,6 @@
     255,
     255,
     255
-  ],
-  "bibliocraft:orange_fancy_gold_lantern": [
-    255,
-    102,
-    17
   ],
   "fcb:fcbg8995": [
     255,
@@ -34090,6 +34370,11 @@
     0
   ],
   "truedarkness:glow_pressure_plate": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:turquoise_lamp": [
     255,
     255,
     255
@@ -34424,15 +34709,15 @@
     255,
     0
   ],
-  "colorfulcampfires:purple_birch_campfire": [
-    170,
-    34,
-    255
-  ],
   "mekanismadditions:lime_plastic_glow": [
     187,
     255,
     0
+  ],
+  "colorfulcampfires:purple_birch_campfire": [
+    170,
+    34,
+    255
   ],
   "musings:circle_cyan_ring_magenta_bg": [
     255,
@@ -34864,6 +35149,11 @@
     255,
     255
   ],
+  "aspen:golden_jack_o_lantern": [
+    255,
+    255,
+    255
+  ],
   "bc_core:tinted_water_block_114": [
     255,
     255,
@@ -34949,19 +35239,9 @@
     255,
     0
   ],
-  "bibliocraft:lime_fancy_gold_lantern": [
-    187,
-    255,
-    0
-  ],
   "tconstruct:molten_porcelain_fluid": [
     255,
     255,
-    255
-  ],
-  "bibliocraft:light_blue_fancy_gold_lantern": [
-    0,
-    0,
     255
   ],
   "luminous_nether:fungirracklamporange": [
@@ -35038,6 +35318,11 @@
     136,
     136,
     136
+  ],
+  "generatorgalore:culinary_generator": [
+    255,
+    255,
+    255
   ],
   "bc_core:tinted_water_block_135": [
     255,
@@ -35205,6 +35490,11 @@
     255
   ],
   "geosmelt:starcinium_lantern": [
+    255,
+    255,
+    255
+  ],
+  "aspen:medium_parrot_mushroom": [
     255,
     255,
     255
@@ -35699,6 +35989,11 @@
     255,
     0
   ],
+  "aspen:glistering_jack_o_melon": [
+    255,
+    255,
+    255
+  ],
   "primalmagick:forbidden_font_earth": [
     255,
     255,
@@ -35713,6 +36008,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:pink_sparkler": [
+    255,
+    102,
+    187
   ],
   "sonicraft:level_select_aquatic_ruin_zone_portal": [
     255,
@@ -35799,6 +36099,16 @@
     255,
     255
   ],
+  "caverns_and_chasms:purple_sparkler": [
+    170,
+    34,
+    255
+  ],
+  "caverns_and_chasms:light_gray_sparkler": [
+    136,
+    136,
+    136
+  ],
   "skinnedlanterns:creeper_lantern_block": [
     255,
     255,
@@ -35811,11 +36121,6 @@
   ],
   "mysticsbiomes:purple_frosted_candle_cake_lime": [
     187,
-    255,
-    0
-  ],
-  "bibliocraft:green_fancy_gold_lantern": [
-    0,
     255,
     0
   ],
@@ -35999,11 +36304,6 @@
     102,
     187
   ],
-  "bibliocraft:green_fancy_iron_lantern": [
-    0,
-    255,
-    0
-  ],
   "chipped:trodden_crying_obsidian": [
     255,
     255,
@@ -36015,6 +36315,11 @@
     17
   ],
   "productivetrees:water_wonder_leaves": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:polished_magmatic_rhyolite_wall": [
     255,
     255,
     255
@@ -36110,6 +36415,11 @@
     255
   ],
   "pigsteel:waxed_pigsteel_lantern": [
+    255,
+    255,
+    255
+  ],
+  "ba_bt:corrite_ladder": [
     255,
     255,
     255
@@ -36448,6 +36758,11 @@
     255,
     0,
     0
+  ],
+  "aspen:medium_brown_mushroom": [
+    136,
+    68,
+    17
   ],
   "caverns_and_chasms:cupric_lantern": [
     255,
@@ -36934,6 +37249,11 @@
     0,
     255
   ],
+  "generatorgalore:honey_generator": [
+    255,
+    255,
+    255
+  ],
   "rockyminerals:olivine_lamp_button": [
     255,
     255,
@@ -37243,6 +37563,11 @@
     136,
     136,
     136
+  ],
+  "caverns_and_chasms:polished_magmatic_rhyolite": [
+    255,
+    255,
+    255
   ],
   "tconstruct:molten_electrum_fluid": [
     255,
@@ -37559,6 +37884,11 @@
     255,
     0
   ],
+  "enigmaticdelicacy:blossoming_astral_leaves": [
+    255,
+    255,
+    255
+  ],
   "thermal:device_xp_condenser": [
     255,
     255,
@@ -37688,6 +38018,11 @@
     0,
     255,
     0
+  ],
+  "generatorgalore:enchantment_generator": [
+    255,
+    255,
+    255
   ],
   "regions_unexplored:potted_green_bioshroom": [
     0,
@@ -37884,6 +38219,11 @@
     255,
     0
   ],
+  "generatorgalore:ender_generator": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:light_gray_stripped_warped_stem_dark_campfire": [
     136,
     136,
@@ -37953,6 +38293,11 @@
     255,
     255,
     0
+  ],
+  "enigmaticdelicacy:infinisoil": [
+    255,
+    255,
+    255
   ],
   "productivebees:inactive_dragon_egg": [
     255,
@@ -38384,11 +38729,6 @@
     255,
     255
   ],
-  "bibliocraft:pink_fancy_iron_lantern": [
-    255,
-    102,
-    187
-  ],
   "musings:circle_red_ring_magenta_bg_flipping": [
     255,
     0,
@@ -38438,11 +38778,6 @@
     255,
     0,
     0
-  ],
-  "bibliocraft:gray_fancy_iron_lamp": [
-    136,
-    136,
-    136
   ],
   "dustrial_decor:large_ender_lantern": [
     255,
@@ -38654,6 +38989,11 @@
     0,
     255
   ],
+  "exoticbirds:cloud_phoenix_egg": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg6908230": [
     255,
     255,
@@ -38679,6 +39019,11 @@
     0,
     0
   ],
+  "caverns_and_chasms:charcoal": [
+    255,
+    255,
+    255
+  ],
   "redeco:yellow_paper_lantern": [
     255,
     255,
@@ -38699,6 +39044,11 @@
     255,
     0
   ],
+  "enigmaticdelicacy:etherium_stove": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg2320885": [
     255,
     255,
@@ -38708,11 +39058,6 @@
     255,
     255,
     255
-  ],
-  "bibliocraft:yellow_fancy_iron_lantern": [
-    255,
-    255,
-    0
   ],
   "quark:white_corundum_pane": [
     255,
@@ -38884,6 +39229,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:blue_sparkler": [
+    0,
+    0,
+    255
+  ],
   "moglowstoneplus:white_glowstone_slab": [
     255,
     255,
@@ -38938,6 +39288,11 @@
     0,
     0,
     0
+  ],
+  "ba_bt:core_matter_slab": [
+    255,
+    255,
+    255
   ],
   "mysticsbiomes:lime_frosted_candle_cake_yellow": [
     255,
@@ -39369,11 +39724,6 @@
     0,
     255
   ],
-  "bibliocraft:light_blue_fancy_iron_lantern": [
-    0,
-    0,
-    255
-  ],
   "fcb:fcbg4605685": [
     255,
     255,
@@ -39397,11 +39747,6 @@
   "dazzle:black_icy_analog_lamp": [
     0,
     0,
-    0
-  ],
-  "bibliocraft:lime_fancy_iron_lantern": [
-    187,
-    255,
     0
   ],
   "autumnity:redstone_jack_o_lantern": [
@@ -39774,6 +40119,11 @@
     0,
     0
   ],
+  "generatorgalore:obsidian_generator": [
+    255,
+    255,
+    255
+  ],
   "pyrite:pink_torch": [
     255,
     102,
@@ -39800,6 +40150,11 @@
     0
   ],
   "fcb:fcbg16083270": [
+    255,
+    255,
+    255
+  ],
+  "generatorgalore:iron_generator": [
     255,
     255,
     255
@@ -39896,11 +40251,6 @@
   ],
   "musings:circle_cyan_ring_black_bg_flipping": [
     0,
-    0,
-    0
-  ],
-  "bibliocraft:red_fancy_iron_lamp": [
-    255,
     0,
     0
   ],
@@ -40063,11 +40413,6 @@
     136,
     136,
     136
-  ],
-  "bibliocraft:magenta_fancy_gold_lantern": [
-    255,
-    0,
-    255
   ],
   "hauntedharvest:jack_o_lantern": [
     255,
@@ -40349,6 +40694,16 @@
     255,
     255
   ],
+  "generatorgalore:netherite_generator": [
+    255,
+    255,
+    255
+  ],
+  "ba_bt:corrite_chiseled_bookshelf": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_cyan_ring_light_blue_bg": [
     0,
     0,
@@ -40447,6 +40802,11 @@
   "betterblockz:cyberlight_bar_14": [
     255,
     255,
+    255
+  ],
+  "caverns_and_chasms:blue_wall_sparkler": [
+    0,
+    0,
     255
   ],
   "primalmagick:ancient_font_sea": [
@@ -41084,6 +41444,11 @@
     255,
     0
   ],
+  "enigmaticdelicacy:astral_sapling": [
+    255,
+    255,
+    255
+  ],
   "chisel:soft_bricks/glowstone": [
     255,
     255,
@@ -41093,11 +41458,6 @@
     187,
     255,
     0
-  ],
-  "bibliocraft:white_fancy_iron_lamp": [
-    255,
-    255,
-    255
   ],
   "fcb:fcbg4623570": [
     255,
@@ -41115,11 +41475,6 @@
     255
   ],
   "productivetrees:expansion_box_water_wonder": [
-    255,
-    255,
-    255
-  ],
-  "bibliocraft:white_fancy_iron_lantern": [
     255,
     255,
     255
@@ -41229,11 +41584,6 @@
     0,
     255
   ],
-  "bibliocraft:light_blue_fancy_gold_lamp": [
-    0,
-    0,
-    255
-  ],
   "mysticsbiomes:pink_frosted_candle_cake_orange": [
     255,
     102,
@@ -41292,11 +41642,6 @@
   "architects_palette:abyssaline_brick_vertical_slab": [
     255,
     255,
-    255
-  ],
-  "bibliocraft:soul_fancy_gold_lantern": [
-    0,
-    0,
     255
   ],
   "fcb:fcbg4623500": [
@@ -41383,6 +41728,11 @@
     255,
     102,
     187
+  ],
+  "caverns_and_chasms:waxed_copper_lantern": [
+    255,
+    255,
+    255
   ],
   "chipped:cracked_disordered_crying_obsidian_bricks": [
     255,
@@ -41698,6 +42048,11 @@
     255,
     255,
     255
+  ],
+  "aspen:medium_red_mushroom": [
+    255,
+    0,
+    0
   ],
   "thaumon:amberglass_pane": [
     255,
@@ -42294,6 +42649,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:lime_wall_sparkler": [
+    187,
+    255,
+    0
+  ],
   "fcb:fcbg9193030": [
     255,
     255,
@@ -42362,11 +42722,6 @@
   "silentgems:moldavite_lamp_inverted_on": [
     255,
     255,
-    255
-  ],
-  "bibliocraft:soul_fancy_iron_lantern": [
-    0,
-    0,
     255
   ],
   "dazzle:black_classic_analog_lamp": [
@@ -42929,11 +43284,6 @@
     255,
     255
   ],
-  "bibliocraft:pink_fancy_gold_lantern": [
-    255,
-    102,
-    187
-  ],
   "colorfulcampfires:green_stripped_jungle_campfire": [
     0,
     255,
@@ -43099,6 +43449,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:magmatic_rhyolite_wall": [
+    255,
+    255,
+    255
+  ],
   "sonicraft:light_blue_scrap_brain_crystal": [
     0,
     0,
@@ -43250,6 +43605,11 @@
     255
   ],
   "truedarkness:glownite_grid_lantern": [
+    255,
+    255,
+    255
+  ],
+  "aspen:honey_mushroom": [
     255,
     255,
     255
