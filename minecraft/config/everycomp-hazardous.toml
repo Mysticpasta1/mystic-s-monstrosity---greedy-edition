@@ -73,5 +73,5 @@
 	#Blacklist all of EveryCompat's supported blocks that may have similar block to Framed Blocks.
 	#This will be applied to all mods, EveryCompat, StoneZone, & GemsRealm.
 	#WARNING: If the config between CLIENT & SERVER are not the same, then you won't able to join a server
-	enable_framed_blocks_blacklist = false
+	enable_framed_blocks_blacklist = true
 

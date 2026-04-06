@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "theabyss:block/rena_nightgrove_log",
+    "post": "theabyss:block/rena_log_side"
+  }
+}

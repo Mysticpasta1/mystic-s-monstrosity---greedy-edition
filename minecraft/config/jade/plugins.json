@@ -18,10 +18,6 @@
   "underlay": {
     "overlay": true
   },
-  "dtphc2": {
-    "maple_spile": true,
-    "passion_fruit_vine": true
-  },
   "melter": {
     "melter_data": true
   },
@@ -90,6 +86,10 @@
   },
   "waystones": {
     "waystone": true
+  },
+  "appliedcreate": {
+    "grid_node_state": true,
+    "power_storage": true
   },
   "cookingforblockheads": {
     "fridge": true,
@@ -263,6 +263,11 @@
   "entangled": {
     "entangled_block_component": true
   },
+  "minecolonies_compatibility": {
+    "crop.age": true,
+    "postbox.requested": true,
+    "stash.requested": true
+  },
   "avaritia": {
     "extreme_smithing": true,
     "crafting_table": true,
@@ -325,9 +330,6 @@
   "l2hostility": {
     "mob": true
   },
-  "dtaddon_lib": {
-    "maple_spile": true
-  },
   "tombstone": {
     "decorative_graves": true,
     "player_graves": true
@@ -369,12 +371,12 @@
     "pie_icons": true,
     "mushroom_colony": true
   },
-  "dynamictrees": {
-    "rooty_water": true,
-    "pod": true,
-    "fruit": true,
-    "rooty": true,
-    "branch": true
+  "jadecolonies": {
+    "colony.citizens": true,
+    "colony.colonist": true,
+    "colony.visitor_cost": true,
+    "colony.pack": true,
+    "domum.materials": true
   },
   "ultramarine": {
     "brick_kiln": true,

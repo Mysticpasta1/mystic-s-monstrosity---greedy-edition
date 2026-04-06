@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "theabyss:block/stripped_blaru_log",
+    "post": "theabyss:block/blaru_log"
+  }
+}

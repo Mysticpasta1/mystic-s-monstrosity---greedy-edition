@@ -4,7 +4,7 @@
 	"Source of Blessing" = true
 	#是否启用诅咒之源附魔。
 	"Source of Curses" = true
-	#祝福之源触发概率，超过100%的部分会再次判断。(可用变量：Enchantlevel)
+	#祝福之源触发概率，超过100%的部分会再次判断。(可用变量：EnchantLevel)
 	"Source of Blessing Probability" = "EnchantLevel * 0.2"
 	#诅咒之源触发概率，超过100%的部分会再次判断。(可用变量：EnchantLevel)
 	"Source of Curses Probability" = "EnchantLevel * 0.2"
@@ -101,8 +101,24 @@
 	"Side Effect Limit" = 0.0
 	#有副作用效果时每次获得新正面效果产生几个负面效果。(可用变量：SideEffectLevel、NewEffectLevel)
 	"Number of Side Effects" = "SideEffectLevel"
+	#[白名单]同伴效果触发时施加给玩家的随机效果的列表（留空为完全随机）。
+	"Companion Effects List" = []
 
-[EntitySpwan]
+[Special]
+	#禁用的药水效果
+	"Ban List" = []
+	#能被强行添加到生物的效果。
+	"Force effects" = []
+	#强行使列表中的生物能被添加药水效果。
+	"Entity list" = []
+	#不会被移除的药水效果，除了持续时间结束或/force_effect
+	"NON-Removable Effects" = []
+
+[Immune]
+	#免疫效果所能免疫的效果
+	"Immune Effects" = ["more_potion_effects:virus, minecraft:unluck, minecraft:hunger, minecraft:slowness, minecraft:blindness, minecraft:poison, minecraft:nausea", "minecraft:wither, minecraft:mining_fatigue, minecraft:weakness, minecraft:darkness, more_potion_effects:highly_toxic, more_potion_effects:injury_accumulation, more_potion_effects:fear, more_potion_effects:combustion, more_potion_effects:spatial_anchor, more_potion_effects:slot_lock", "more_potion_effects:corrosion, more_potion_effects:wane, more_potion_effects:armor_broken, more_potion_effects:broken_magic_shield, more_potion_effects:magic_inhibition, more_potion_effects:weakening_recovery, more_potion_effects:bleeding, more_potion_effects:aggro, more_potion_effects:deflagration", "more_potion_effects:dispel, more_potion_effects:injury_outburst, more_potion_effects:potion_antagonism, more_potion_effects:death"]
+
+[EntitySpawn]
 	#生成的生物带有位格效果的最大等级，设为0以禁用。
 	"Max Rank Level" = 0.0
 	#最大位格权重，每个有位格效果的生物占3^效果等级的权重。
@@ -117,26 +133,4 @@
 	"Rank Entity" = []
 	#生成时生物带有位格的概率。eg'1:0.1',   // 10% 概率生成1级位格     '2:0.05',  // 5% 概率生成2级位格     '3:0.01',  // 1% 概率生成3级位格     '4:0.001', // 0.1% 概率生成4级位格
 	"Rank Spawn Possibility" = []
-
-[Special]
-	#禁用的药水效果
-	"Ban List" = []
-	#能被强行添加到生物的效果。
-	"Force effects" = []
-	#强行使列表中的生物能被添加药水效果。
-	"Entity list" = []
-	#不会被移除的药水效果，除了持续时间结束或/feffect
-	"NON-Removable Effects" = []
-
-[Immune]
-	#免疫I免疫的效果种类
-	"Level 1 List" = ["more_potion_effects:virus", "minecraft:unluck", "minecraft:hunger", "minecraft:slowness", "minecraft:blindness", "minecraft:poison", "minecraft:nausea"]
-	#免疫II免疫的效果种类
-	"Level 2 List" = ["minecraft:wither", "minecraft:mining_fatigue", "minecraft:weakness", "minecraft:darkness", "more_potion_effects:highly_toxic", "more_potion_effects:injury_accumulation", "more_potion_effects:fear", "more_potion_effects:combustion", "more_potion_effects:spatial_anchor", "more_potion_effects:slot_lock"]
-	#免疫III免疫的效果种类
-	"Level 3 List" = ["more_potion_effects:corrosion", "more_potion_effects:wane", "more_potion_effects:armor_broken", "more_potion_effects:broken_magic_shield", "more_potion_effects:magic_inhibition", "more_potion_effects:weakenning_recovery", "more_potion_effects:bleeding", "more_potion_effects:aggro", "more_potion_effects:deflagration"]
-	#免疫IV免疫的效果种类
-	"Level 4 List" = ["more_potion_effects:dispel", "more_potion_effects:injury_outburst", "more_potion_effects:potion_antagonism", "more_potion_effects:death"]
-	#需比免疫的等级低才会被免疫的效果
-	"Level Judgment Effects" = []
 

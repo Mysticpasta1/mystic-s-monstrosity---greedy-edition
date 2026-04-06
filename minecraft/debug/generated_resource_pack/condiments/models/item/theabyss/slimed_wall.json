@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "theabyss:block/stripped_slimed_log",
+    "post": "theabyss:block/slimed_log"
+  }
+}

@@ -29,6 +29,11 @@
     0,
     255
   ],
+  "foolish:timewood_leaves": [
+    255,
+    255,
+    255
+  ],
   "ba_bt:core_matter_block": [
     255,
     255,
@@ -88,6 +93,11 @@
     0,
     255,
     0
+  ],
+  "foolish:dragons_tail": [
+    255,
+    255,
+    255
   ],
   "enchantableblocks:enchanted_furnace": [
     255,
@@ -338,6 +348,11 @@
     187,
     255,
     0
+  ],
+  "foolish:glacial_altar": [
+    255,
+    255,
+    255
   ],
   "luminax:blue_luminax_pressure_plate": [
     0,
@@ -864,6 +879,11 @@
     68,
     17
   ],
+  "foolish:active_hollowstone_bricks": [
+    255,
+    255,
+    255
+  ],
   "aether_redux:sentry_pillar": [
     255,
     255,
@@ -915,6 +935,11 @@
     0
   ],
   "primalmagick:small_synthetic_quartz_bud": [
+    255,
+    255,
+    255
+  ],
+  "rats:pirat_hanging_sign": [
     255,
     255,
     255
@@ -975,6 +1000,11 @@
     136
   ],
   "betterend:terminite_bulb_lantern": [
+    255,
+    255,
+    255
+  ],
+  "rats:pirat_sign": [
     255,
     255,
     255
@@ -1459,6 +1489,11 @@
     136,
     136
   ],
+  "rats:ratlantis_portal": [
+    255,
+    255,
+    255
+  ],
   "wallpapercraft:stonelampgray-14": [
     136,
     136,
@@ -1764,11 +1799,6 @@
     255,
     0
   ],
-  "caverns_and_chasms:sparkler": [
-    255,
-    255,
-    255
-  ],
   "fcb:fcbg62860": [
     255,
     255,
@@ -1939,17 +1969,17 @@
     255,
     255
   ],
-  "caverns_and_chasms:yellow_sparkler": [
-    255,
-    255,
-    0
-  ],
   "musings:circle_magenta_ring_gray_bg_flipping": [
     136,
     136,
     136
   ],
   "botania:floating_bellethorn_chibi": [
+    255,
+    255,
+    255
+  ],
+  "foolish:flickerwood_leaves": [
     255,
     255,
     255
@@ -2174,11 +2204,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:cyan_sparkler": [
-    0,
-    255,
-    255
-  ],
   "psi:lit_black_psimetal_plate": [
     0,
     0,
@@ -2250,11 +2275,6 @@
     255
   ],
   "deep_aether:treasure_doorway_light_nimbus_pillar": [
-    255,
-    255,
-    255
-  ],
-  "caverns_and_chasms:exposed_copper_bulb": [
     255,
     255,
     255
@@ -2392,6 +2412,11 @@
   "spelunkery:mushgloom_block": [
     255,
     255,
+    255
+  ],
+  "theabyss:vigilant_blue_grass": [
+    0,
+    0,
     255
   ],
   "simplylight:illuminant_orange_block": [
@@ -2599,11 +2624,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:lime_sparkler": [
-    187,
-    255,
-    0
-  ],
   "fcb:fcbg6899375": [
     255,
     255,
@@ -2628,11 +2648,6 @@
     0,
     0,
     255
-  ],
-  "caverns_and_chasms:brown_wall_sparkler": [
-    136,
-    68,
-    17
   ],
   "fcb:fcbg2302720": [
     255,
@@ -3174,6 +3189,11 @@
     0,
     255
   ],
+  "foolish:mystic_moss": [
+    255,
+    255,
+    255
+  ],
   "createmetalwork:molten_electrum": [
     255,
     255,
@@ -3408,6 +3428,11 @@
     187,
     255,
     0
+  ],
+  "theabyss:glow_shroom": [
+    255,
+    255,
+    255
   ],
   "xkdeco:screen_list": [
     255,
@@ -3644,6 +3669,11 @@
     255,
     255
   ],
+  "foolish:sacilic_grass": [
+    255,
+    255,
+    255
+  ],
   "pigsteel:infected_pigsteel_soul_lantern": [
     0,
     0,
@@ -3739,6 +3769,11 @@
     255,
     255
   ],
+  "theabyss:purple_shroomlight": [
+    170,
+    34,
+    255
+  ],
   "pneumaticcraft:wall_lamp_inverted_black": [
     0,
     0,
@@ -3824,6 +3859,11 @@
     0,
     255
   ],
+  "foolish:mystic_moss_carpet": [
+    255,
+    255,
+    255
+  ],
   "braziliandelight:carrot_cake_with_chocolate_with__candle": [
     255,
     255,
@@ -3864,6 +3904,11 @@
     255,
     255
   ],
+  "foolish:firesprout": [
+    255,
+    255,
+    255
+  ],
   "pyrite:star_terracotta_brick_stairs": [
     255,
     255,
@@ -3874,17 +3919,17 @@
     102,
     187
   ],
-  "caverns_and_chasms:light_blue_wall_sparkler": [
-    0,
-    0,
-    255
-  ],
   "pyrite:light_blue_torch": [
     0,
     0,
     255
   ],
   "chipped:unamused_crying_obsidian": [
+    255,
+    255,
+    255
+  ],
+  "foolish:archaic_clock": [
     255,
     255,
     255
@@ -3919,17 +3964,7 @@
     136,
     136
   ],
-  "caverns_and_chasms:magmatic_rhyolite_brick_wall": [
-    255,
-    255,
-    255
-  ],
   "chipped:glowing_lodestone_side": [
-    255,
-    255,
-    255
-  ],
-  "caverns_and_chasms:waxed_copper_bulb": [
     255,
     255,
     255
@@ -4544,11 +4579,6 @@
     0,
     0
   ],
-  "caverns_and_chasms:copper_bulb": [
-    255,
-    255,
-    255
-  ],
   "productivetrees:sparkle_cherry_fence_gate": [
     255,
     255,
@@ -4588,6 +4618,11 @@
     0,
     255,
     0
+  ],
+  "rats:marbled_cheese_rat_head": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:light_gray_birch_campfire": [
     136,
@@ -4824,6 +4859,11 @@
     102,
     17
   ],
+  "foolish:chrono_cactus": [
+    255,
+    255,
+    255
+  ],
   "simplylight:illuminant_slab": [
     255,
     255,
@@ -4995,6 +5035,11 @@
     17
   ],
   "mekanism:chemical_crystallizer": [
+    255,
+    255,
+    255
+  ],
+  "foolish:flickerwood_shrub": [
     255,
     255,
     255
@@ -5239,11 +5284,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:potted_false_hope": [
-    255,
-    255,
-    255
-  ],
   "pyrite:star_terracotta_bricks": [
     255,
     255,
@@ -5370,6 +5410,11 @@
     255
   ],
   "betterend:amaranita_fur": [
+    255,
+    255,
+    255
+  ],
+  "rats:pirat_planks": [
     255,
     255,
     255
@@ -5503,6 +5548,11 @@
     136,
     68,
     17
+  ],
+  "rats:stripped_pirat_log": [
+    255,
+    255,
+    255
   ],
   "furnish:white_paper_lamp": [
     255,
@@ -5734,17 +5784,17 @@
     255,
     255
   ],
+  "foolish:flickerwood_sapling": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:purple_stripped_crimson_stem_dark_campfire": [
     170,
     34,
     255
   ],
   "thermal_extra:lubricant": [
-    255,
-    255,
-    255
-  ],
-  "caverns_and_chasms:magmatic_rhyolite_stairs": [
     255,
     255,
     255
@@ -6234,11 +6284,6 @@
     255,
     0
   ],
-  "caverns_and_chasms:magenta_sparkler": [
-    255,
-    0,
-    255
-  ],
   "doom_and_gloom:green_vigil_candle": [
     0,
     255,
@@ -6549,11 +6594,6 @@
     34,
     255
   ],
-  "caverns_and_chasms:waxed_exposed_copper_lantern": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_pink_ring_white_bg_flipping": [
     255,
     255,
@@ -6814,6 +6854,11 @@
     0,
     255
   ],
+  "foolish:sacilight_torch": [
+    255,
+    255,
+    0
+  ],
   "skinnedlanterns:paper_light_blue_lantern_block": [
     0,
     0,
@@ -6913,6 +6958,11 @@
     136,
     68,
     17
+  ],
+  "theabyss:unstable_obsidian": [
+    255,
+    255,
+    255
   ],
   "luminax:red_luminax_wall": [
     255,
@@ -7149,11 +7199,6 @@
     255,
     0
   ],
-  "caverns_and_chasms:waxed_oxidized_copper_bulb": [
-    255,
-    255,
-    255
-  ],
   "dazzle:orange_end_rod": [
     255,
     102,
@@ -7210,6 +7255,11 @@
     0
   ],
   "architects_palette:abyssaline_bricks": [
+    255,
+    255,
+    255
+  ],
+  "rats:pirat_slab": [
     255,
     255,
     255
@@ -7579,6 +7629,11 @@
     255,
     255
   ],
+  "foolish:icy_strands": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:brown_stripped_mangrove_dark_campfire": [
     136,
     68,
@@ -7755,6 +7810,11 @@
     255
   ],
   "productivetrees:cave_dweller_fence_gate": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:icela_rank": [
     255,
     255,
     255
@@ -7989,11 +8049,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:black_sparkler": [
-    0,
-    0,
-    0
-  ],
   "enchantableblocks:enchanted_beacon": [
     255,
     255,
@@ -8058,11 +8113,6 @@
     136,
     136,
     136
-  ],
-  "caverns_and_chasms:chiseled_magmatic_rhyolite_bricks": [
-    255,
-    255,
-    255
   ],
   "enigmaticlegacy:big_shroomlamp": [
     255,
@@ -8310,11 +8360,6 @@
     0
   ],
   "truedarkness:lapis_lazuli_swamp_ore": [
-    255,
-    255,
-    255
-  ],
-  "caverns_and_chasms:oxidized_copper_lantern": [
     255,
     255,
     255
@@ -8579,11 +8624,6 @@
     255,
     0
   ],
-  "caverns_and_chasms:purple_wall_sparkler": [
-    170,
-    34,
-    255
-  ],
   "upgradedechests:spatial_ender_chest": [
     255,
     255,
@@ -8672,6 +8712,11 @@
   "colored_water:luminous_condense_blue_fluid_block": [
     0,
     0,
+    255
+  ],
+  "foolish:toxic_mushroom_cap": [
+    255,
+    255,
     255
   ],
   "colorfulcampfires:blue_stripped_bamboo_dark_campfire": [
@@ -8769,11 +8814,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:brown_sparkler": [
-    136,
-    68,
-    17
-  ],
   "productivetrees:purple_spiral_stairs": [
     170,
     34,
@@ -8825,6 +8865,11 @@
     255
   ],
   "rockyminerals:saltstone_lamp_wall": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:heal_camp_fire": [
     255,
     255,
     255
@@ -8982,6 +9027,11 @@
   "wallpapercraft:auralamppurple-14": [
     170,
     34,
+    255
+  ],
+  "foolish:radiant_wood": [
+    255,
+    255,
     255
   ],
   "dazzle:gray_classic_analog_lamp": [
@@ -9429,6 +9479,11 @@
     255,
     0
   ],
+  "theabyss:phantom_lantern": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:pink_birch_dark_campfire": [
     255,
     102,
@@ -9639,6 +9694,11 @@
     255,
     255
   ],
+  "morecandles:scented_candle/cornflower": [
+    255,
+    255,
+    255
+  ],
   "ars_elemental:yellow_archwood_leaves": [
     255,
     255,
@@ -9712,6 +9772,11 @@
   "ror:purple_neon_onyx_block": [
     170,
     34,
+    255
+  ],
+  "rats:ratlantis_reactor": [
+    255,
+    255,
     255
   ],
   "libraryferret:unbreakable_diamond_beacon": [
@@ -9830,6 +9895,11 @@
     0
   ],
   "twilight_construct:molten_phantom_fluid": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:luna_shroom_leave": [
     255,
     255,
     255
@@ -10104,6 +10174,11 @@
     102,
     17
   ],
+  "foolish:scarlant_spawn": [
+    255,
+    255,
+    255
+  ],
   "securitycraft:motion_activated_light": [
     255,
     255,
@@ -10269,6 +10344,11 @@
     255,
     255
   ],
+  "rats:pirat_door": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg13771555": [
     255,
     255,
@@ -10308,6 +10388,11 @@
     187,
     255,
     0
+  ],
+  "foolish:ignited_sacilic_soil": [
+    255,
+    255,
+    255
   ],
   "tconstruct:seared_heater": [
     255,
@@ -10417,6 +10502,11 @@
   "upgrade_aquatic:blue_jelly_torch": [
     0,
     0,
+    255
+  ],
+  "foolish:ember_mushroom_block": [
+    255,
+    255,
     255
   ],
   "fcb:fcbg2356480": [
@@ -11154,11 +11244,6 @@
     0,
     0
   ],
-  "caverns_and_chasms:waxed_weathered_copper_bulb": [
-    255,
-    0,
-    0
-  ],
   "nightlights:octopus_magenta": [
     255,
     0,
@@ -11218,6 +11303,11 @@
     255,
     0,
     0
+  ],
+  "theabyss:arcane_workbench": [
+    255,
+    255,
+    255
   ],
   "skinnedlanterns:paper_blue_soul_lantern_block": [
     0,
@@ -11684,10 +11774,10 @@
     0,
     255
   ],
-  "caverns_and_chasms:weathered_copper_lantern": [
+  "foolish:chartreuse_glowbell": [
     255,
-    0,
-    0
+    255,
+    255
   ],
   "pyrite:star_stained_wall_sign": [
     255,
@@ -11713,6 +11803,11 @@
     255,
     255,
     0
+  ],
+  "theabyss:shield_camp_fire": [
+    255,
+    255,
+    255
   ],
   "simplylight:illuminant_purple_block": [
     170,
@@ -11770,6 +11865,11 @@
     0
   ],
   "absentbydesign:stairs_ochre_froglight": [
+    255,
+    255,
+    255
+  ],
+  "rats:pirat_button": [
     255,
     255,
     255
@@ -12049,6 +12149,11 @@
     255,
     255
   ],
+  "foolish:strange_statue": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_cycle_red": [
     255,
     0,
@@ -12093,6 +12198,11 @@
     136,
     136,
     136
+  ],
+  "theabyss:hoglin_hanging_lantern": [
+    255,
+    255,
+    255
   ],
   "ror:titania_altar": [
     255,
@@ -12679,6 +12789,11 @@
     255,
     0
   ],
+  "theabyss:young_exolius_plant": [
+    255,
+    255,
+    255
+  ],
   "nightlights:frog_cyan": [
     0,
     255,
@@ -12812,6 +12927,11 @@
   "twigs:blue_orchid_paper_lantern": [
     0,
     0,
+    255
+  ],
+  "foolish:stripped_radiant_wood": [
+    255,
+    255,
     255
   ],
   "fcb:fcbg11486965": [
@@ -13044,6 +13164,11 @@
     204,
     204
   ],
+  "foolish:rotary_core": [
+    255,
+    255,
+    255
+  ],
   "natures_spirit:light_blue_paper_lantern": [
     0,
     0,
@@ -13185,6 +13310,11 @@
     0
   ],
   "betternether:giant_lucis": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:bog_log_fungi": [
     255,
     255,
     255
@@ -13794,11 +13924,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:magmatic_rhyolite_brick_stairs": [
-    255,
-    255,
-    255
-  ],
   "betterblockz:cyberlight_secret_blockz_4": [
     255,
     255,
@@ -14014,6 +14139,11 @@
     255,
     255
   ],
+  "theabyss:anima_fire": [
+    255,
+    255,
+    255
+  ],
   "aether_redux:lumina": [
     255,
     255,
@@ -14203,11 +14333,6 @@
     255,
     255,
     255
-  ],
-  "caverns_and_chasms:black_wall_sparkler": [
-    0,
-    0,
-    0
   ],
   "moglowstone:gray_glowstone_block": [
     136,
@@ -14734,6 +14859,11 @@
     255,
     255
   ],
+  "foolish:ashen_leaves": [
+    255,
+    255,
+    255
+  ],
   "wider_ender_chests:lapis_ender_chest": [
     255,
     255,
@@ -14853,6 +14983,11 @@
     187,
     255,
     0
+  ],
+  "theabyss:night_altar_activated": [
+    255,
+    255,
+    255
   ],
   "redeco:deepslate_lantern": [
     255,
@@ -14985,6 +15120,11 @@
     0
   ],
   "malum:spirit_mote": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:srala_shroom": [
     255,
     255,
     255
@@ -15179,11 +15319,6 @@
     0,
     255
   ],
-  "caverns_and_chasms:magmatic_rhyolite_slab": [
-    255,
-    255,
-    255
-  ],
   "wallpapercraft:stonelampblue-2": [
     0,
     0,
@@ -15299,6 +15434,11 @@
     255,
     255
   ],
+  "foolish:sporecap": [
+    255,
+    255,
+    255
+  ],
   "upgrade_aquatic:elder_prismarine_coral_wall_fan": [
     255,
     255,
@@ -15330,6 +15470,11 @@
     255
   ],
   "chipped:smooth_ringed_crying_obsidian": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:lungo_rank": [
     255,
     255,
     255
@@ -15493,6 +15638,11 @@
     136,
     136,
     136
+  ],
+  "theabyss:glowing_blaru_moss": [
+    255,
+    255,
+    255
   ],
   "exquisito:overworld_elmond_fruit": [
     255,
@@ -15669,6 +15819,11 @@
     255,
     255
   ],
+  "rats:pirat_fence": [
+    255,
+    255,
+    255
+  ],
   "botania:floating_jiyuulia": [
     255,
     255,
@@ -15688,11 +15843,6 @@
     0,
     0,
     255
-  ],
-  "caverns_and_chasms:gray_sparkler": [
-    136,
-    136,
-    136
   ],
   "buildersdelight:lantern_6": [
     255,
@@ -15935,6 +16085,11 @@
     136
   ],
   "enchantableblocks:enchanted_campfire": [
+    255,
+    255,
+    255
+  ],
+  "foolish:firefly_bush": [
     255,
     255,
     255
@@ -16223,11 +16378,6 @@
     187,
     255,
     0
-  ],
-  "caverns_and_chasms:amethyst_lamp": [
-    170,
-    34,
-    255
   ],
   "primalmagick:artificial_font_void": [
     255,
@@ -16624,6 +16774,11 @@
     102,
     17
   ],
+  "foolish:radiant_vine": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg9184070": [
     255,
     255,
@@ -16939,6 +17094,11 @@
     0,
     0
   ],
+  "foolish:flickerwood_outer_leaves": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:light_gray_warped_stem_campfire": [
     136,
     136,
@@ -17034,11 +17194,6 @@
     0,
     255
   ],
-  "caverns_and_chasms:light_gray_wall_sparkler": [
-    136,
-    136,
-    136
-  ],
   "luminax:lime_luminax_stairs": [
     187,
     255,
@@ -17048,11 +17203,6 @@
     0,
     255,
     0
-  ],
-  "caverns_and_chasms:white_sparkler": [
-    255,
-    255,
-    255
   ],
   "musings:circle_red_ring_white_bg_flipping": [
     255,
@@ -17254,11 +17404,6 @@
     0,
     255
   ],
-  "caverns_and_chasms:atoning_table": [
-    255,
-    255,
-    255
-  ],
   "mysticsbiomes:purple_frosted_candle_cake_magenta": [
     255,
     0,
@@ -17389,6 +17534,11 @@
     68,
     17
   ],
+  "foolish:lightning_reed": [
+    255,
+    255,
+    255
+  ],
   "moglowstoneplus:pink_glowstone_slab": [
     255,
     102,
@@ -17425,6 +17575,11 @@
     255
   ],
   "the_bumblezone:crystalline_flower": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:tall_rub_shroom": [
     255,
     255,
     255
@@ -17674,6 +17829,11 @@
     0,
     255
   ],
+  "theabyss:hollow_crystal_ore": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg13789440": [
     255,
     255,
@@ -17784,6 +17944,11 @@
     255,
     255
   ],
+  "foolish:liquid_radium": [
+    255,
+    255,
+    255
+  ],
   "skinnedlanterns:pufferfish_lantern_block": [
     255,
     255,
@@ -17805,6 +17970,11 @@
     136
   ],
   "enderio:cold_fire": [
+    255,
+    255,
+    255
+  ],
+  "foolish:ashen_branch": [
     255,
     255,
     255
@@ -17908,11 +18078,6 @@
     255,
     0,
     0
-  ],
-  "caverns_and_chasms:quartz_lamp": [
-    255,
-    255,
-    255
   ],
   "pyrite:honey_lamp": [
     255,
@@ -18120,11 +18285,6 @@
     0
   ],
   "avaritia:nether_crafting_table": [
-    255,
-    255,
-    255
-  ],
-  "caverns_and_chasms:polished_magmatic_rhyolite_slab": [
     255,
     255,
     255
@@ -18729,6 +18889,11 @@
     255,
     255
   ],
+  "theabyss:phantom_hanging_lantern": [
+    255,
+    255,
+    255
+  ],
   "productivetrees:rippling_willow_fence_gate": [
     255,
     255,
@@ -18795,6 +18960,11 @@
     255
   ],
   "pyrite:star_carpet": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:exolius_plant": [
     255,
     255,
     255
@@ -19049,6 +19219,11 @@
     255,
     255
   ],
+  "theabyss:the_abyss_portal": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg16092160": [
     255,
     255,
@@ -19290,6 +19465,11 @@
     255
   ],
   "braziliandelight:carrot_cake_with__candle": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:vigilant_bush": [
     255,
     255,
     255
@@ -19659,11 +19839,6 @@
     255,
     0
   ],
-  "caverns_and_chasms:waxed_exposed_copper_bulb": [
-    255,
-    255,
-    255
-  ],
   "rainbowreef:green_puffer_lantern": [
     0,
     255,
@@ -19785,6 +19960,11 @@
     255
   ],
   "arts_and_crafts:lotus_flower": [
+    255,
+    255,
+    255
+  ],
+  "foolish:thunderlight": [
     255,
     255,
     255
@@ -20074,6 +20254,11 @@
     255,
     255
   ],
+  "foolish:radiant_leaves": [
+    255,
+    255,
+    255
+  ],
   "xkdeco:screen_message": [
     255,
     255,
@@ -20090,6 +20275,11 @@
     0
   ],
   "fcb:fcbg16074380": [
+    255,
+    255,
+    255
+  ],
+  "foolish:fiery_grass": [
     255,
     255,
     255
@@ -20198,6 +20388,11 @@
     255,
     0,
     0
+  ],
+  "theabyss:abyss_crystal_ore": [
+    255,
+    255,
+    255
   ],
   "mysticsbiomes:yellow_frosted_candle_cake_green": [
     0,
@@ -20564,11 +20759,6 @@
     136,
     136
   ],
-  "caverns_and_chasms:magmatic_rhyolite": [
-    255,
-    255,
-    255
-  ],
   "botania:floating_rosa_arcana": [
     255,
     255,
@@ -20678,6 +20868,11 @@
     255,
     0,
     0
+  ],
+  "theabyss:blue_cave_shroom": [
+    0,
+    0,
+    255
   ],
   "redeco:white_paper_lantern": [
     255,
@@ -20858,11 +21053,6 @@
     0,
     0,
     255
-  ],
-  "caverns_and_chasms:green_sparkler": [
-    0,
-    255,
-    0
   ],
   "mekanism:basic_compressing_factory": [
     255,
@@ -21259,6 +21449,11 @@
     255,
     255
   ],
+  "theabyss:sal_log_fungi": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg6935180": [
     255,
     255,
@@ -21479,9 +21674,19 @@
     0,
     0
   ],
+  "foolish:warplight": [
+    255,
+    255,
+    255
+  ],
   "xycraft_world:lamp_lantern_purple": [
     170,
     34,
+    255
+  ],
+  "rats:pirat_pressure_plate": [
+    255,
+    255,
     255
   ],
   "fcb:fcbg16092230": [
@@ -21715,11 +21920,6 @@
     0
   ],
   "ror:toxic_sludge_tank": [
-    255,
-    255,
-    255
-  ],
-  "caverns_and_chasms:false_hope": [
     255,
     255,
     255
@@ -22079,6 +22279,11 @@
     255,
     255
   ],
+  "theabyss:aurel_crystal_ore": [
+    255,
+    255,
+    255
+  ],
   "vanilladelight:red_sandstone_stove": [
     255,
     0,
@@ -22164,11 +22369,6 @@
     255,
     0
   ],
-  "caverns_and_chasms:green_wall_sparkler": [
-    0,
-    255,
-    0
-  ],
   "betternether:nether_brewing_stand": [
     255,
     255,
@@ -22198,6 +22398,11 @@
     255,
     102,
     17
+  ],
+  "foolish:infernal_glowbell": [
+    255,
+    255,
+    255
   ],
   "redeco:purple_paper_lantern": [
     170,
@@ -22504,6 +22709,11 @@
     136,
     136
   ],
+  "rats:pirat_leaves": [
+    255,
+    255,
+    255
+  ],
   "primalmagick:ritual_candle_orange": [
     255,
     102,
@@ -22604,6 +22814,11 @@
     255,
     255
   ],
+  "foolish:sacilite_bud": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_orange_ring_light_blue_bg_flipping": [
     0,
     0,
@@ -22658,6 +22873,11 @@
     136,
     136,
     136
+  ],
+  "theabyss:glowing_sun_shroom": [
+    255,
+    255,
+    255
   ],
   "wallpapercraft:stonelampgray-1": [
     136,
@@ -22834,6 +23054,11 @@
     255,
     255
   ],
+  "foolish:radium_ore": [
+    255,
+    255,
+    255
+  ],
   "industrialupgrade:blockbasalts/basalt_magma": [
     255,
     255,
@@ -22850,6 +23075,11 @@
     187
   ],
   "generatorgalore:emerald_generator": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:loran_flower": [
     255,
     255,
     255
@@ -22873,6 +23103,11 @@
     153,
     204,
     204
+  ],
+  "rats:pirat_sapling": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:pink_stripped_bamboo_dark_campfire": [
     255,
@@ -22924,6 +23159,11 @@
     0,
     255
   ],
+  "theabyss:tall_glow_shroom": [
+    255,
+    255,
+    255
+  ],
   "the_bumblezone:luminescent_wax_channel_yellow": [
     255,
     255,
@@ -22950,6 +23190,11 @@
     255
   ],
   "creategbd:advanced_laser_turret": [
+    255,
+    255,
+    255
+  ],
+  "foolish:enderslate_brick_vein": [
     255,
     255,
     255
@@ -23025,11 +23270,6 @@
     187
   ],
   "betterend:flavolite_lantern": [
-    255,
-    255,
-    255
-  ],
-  "caverns_and_chasms:magmatic_rhyolite_bricks": [
     255,
     255,
     255
@@ -23174,14 +23414,14 @@
     255,
     255
   ],
+  "foolish:enderweb": [
+    255,
+    255,
+    255
+  ],
   "betterblockz:zeon_purple_blockz_0": [
     170,
     34,
-    255
-  ],
-  "caverns_and_chasms:zirconia_lamp": [
-    255,
-    255,
     255
   ],
   "wallpapercraft:auralampyellow-14": [
@@ -23389,6 +23629,11 @@
     102,
     187
   ],
+  "theabyss:caecus_versa": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg9219840": [
     255,
     255,
@@ -23474,11 +23719,6 @@
     255,
     0
   ],
-  "caverns_and_chasms:light_blue_sparkler": [
-    0,
-    0,
-    255
-  ],
   "colorfulcampfires:lime_stripped_cherry_campfire": [
     187,
     255,
@@ -23510,6 +23750,11 @@
     255
   ],
   "immersiveposts:uraniumpost_truss": [
+    255,
+    255,
+    255
+  ],
+  "foolish:scarlet_glow_fungus_block": [
     255,
     255,
     255
@@ -23849,14 +24094,14 @@
     0,
     255
   ],
-  "caverns_and_chasms:gray_wall_sparkler": [
-    136,
-    136,
-    136
-  ],
   "create:light_blue_nixie_tube": [
     0,
     0,
+    255
+  ],
+  "foolish:waste_bulb": [
+    255,
+    255,
     255
   ],
   "regions_unexplored:pink_bioshroom": [
@@ -23909,6 +24154,11 @@
     255,
     255
   ],
+  "foolish:anchor_lantern": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg53935": [
     255,
     255,
@@ -23948,6 +24198,11 @@
     255,
     255,
     0
+  ],
+  "foolish:shining_sacilite_cluster": [
+    255,
+    255,
+    255
   ],
   "quark:paper_lantern_sakura": [
     255,
@@ -24274,20 +24529,10 @@
     255,
     255
   ],
-  "caverns_and_chasms:polished_magmatic_rhyolite_stairs": [
-    255,
-    255,
-    255
-  ],
   "colored_water:luminous_condense_lime_fluid_block": [
     187,
     255,
     0
-  ],
-  "caverns_and_chasms:exposed_copper_lantern": [
-    255,
-    255,
-    255
   ],
   "dustrial_decor:redstone_lantern": [
     255,
@@ -24308,11 +24553,6 @@
     255,
     0,
     0
-  ],
-  "caverns_and_chasms:diamond_lamp": [
-    255,
-    255,
-    255
   ],
   "biomesoplenty:glowshroom": [
     255,
@@ -24499,6 +24739,11 @@
     255,
     255
   ],
+  "theabyss:hoglin_lantern": [
+    255,
+    255,
+    255
+  ],
   "pigsteel:waxed_infected_pigsteel_soul_lantern": [
     0,
     0,
@@ -24549,11 +24794,6 @@
     34,
     255
   ],
-  "caverns_and_chasms:copper_lantern": [
-    255,
-    255,
-    255
-  ],
   "silentgems:potted_kyanite_glowrose": [
     255,
     255,
@@ -24577,6 +24817,11 @@
   "wallpapercraft:auralamppurple-2": [
     170,
     34,
+    255
+  ],
+  "rats:upgrade_combiner": [
+    255,
+    255,
     255
   ],
   "wallpapercraft:auralamppurple-3": [
@@ -25359,6 +25604,11 @@
     255,
     255
   ],
+  "foolish:sacilite_flowers": [
+    255,
+    255,
+    255
+  ],
   "silentgems:citrine_lamp_on": [
     255,
     255,
@@ -25408,6 +25658,11 @@
     136,
     68,
     17
+  ],
+  "rats:pirat_log": [
+    255,
+    255,
+    255
   ],
   "musings:circle_purple_ring_black_bg": [
     0,
@@ -25532,11 +25787,6 @@
   "musings:circle_cycle_magenta": [
     255,
     0,
-    255
-  ],
-  "caverns_and_chasms:oxidized_copper_bulb": [
-    255,
-    255,
     255
   ],
   "missingwilds:green_stained_firefly_jar": [
@@ -25834,11 +26084,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:emerald_lamp": [
-    255,
-    255,
-    255
-  ],
   "colorfulcampfires:yellow_spruce_campfire": [
     255,
     255,
@@ -26059,11 +26304,6 @@
     255,
     0
   ],
-  "caverns_and_chasms:waxed_oxidized_copper_lantern": [
-    255,
-    255,
-    255
-  ],
   "wallpapercraft:auralampgreen-8": [
     0,
     255,
@@ -26088,6 +26328,11 @@
     0,
     255,
     0
+  ],
+  "rats:jack_o_ratern": [
+    255,
+    255,
+    255
   ],
   "wallpapercraft:auralampgreen-4": [
     0,
@@ -26299,11 +26544,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:magenta_wall_sparkler": [
-    255,
-    0,
-    255
-  ],
   "chipped:upside_down_jack_o_lantern": [
     255,
     255,
@@ -26474,11 +26714,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:orange_wall_sparkler": [
-    255,
-    102,
-    17
-  ],
   "framedblocks:framed_redstone_wall_torch": [
     255,
     0,
@@ -26569,6 +26804,11 @@
     255,
     255
   ],
+  "theabyss:fortis_ultima": [
+    255,
+    255,
+    255
+  ],
   "chipped:edged_crying_obsidian_bricks": [
     255,
     255,
@@ -26628,6 +26868,11 @@
     255,
     255,
     255
+  ],
+  "theabyss:slimed_log_crystal": [
+    187,
+    255,
+    0
   ],
   "hauntedharvest:soul_jack_o_lantern": [
     0,
@@ -26824,6 +27069,11 @@
     255,
     255
   ],
+  "foolish:sacilight": [
+    255,
+    255,
+    255
+  ],
   "productivetrees:soul_tree_hanging_sign": [
     0,
     0,
@@ -26877,6 +27127,11 @@
   "ad_astra:magenta_industrial_lamp": [
     255,
     0,
+    255
+  ],
+  "theabyss:jungle_melon": [
+    255,
+    255,
     255
   ],
   "tconstruct:molten_nicrosil_fluid": [
@@ -27039,6 +27294,11 @@
     255,
     255
   ],
+  "theabyss:ice_rank": [
+    255,
+    255,
+    255
+  ],
   "truedarkness:lighted_vine_active": [
     255,
     255,
@@ -27050,6 +27310,11 @@
     255
   ],
   "productivetrees:firecracker_sign": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:tesla_rank": [
     255,
     255,
     255
@@ -27414,6 +27679,11 @@
     255,
     255
   ],
+  "foolish:glacial_chandelier": [
+    255,
+    255,
+    255
+  ],
   "productivetrees:purple_spiral_planks": [
     170,
     34,
@@ -27454,6 +27724,11 @@
     102,
     17
   ],
+  "theabyss:somnium_infuser": [
+    255,
+    255,
+    255
+  ],
   "chisel:road/glowstone": [
     255,
     255,
@@ -27465,6 +27740,11 @@
     255
   ],
   "fcb:fcbg9175040": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:infused_lava": [
     255,
     255,
     255
@@ -27500,6 +27780,11 @@
     255
   ],
   "mysticsbiomes:lime_frosted_candle_cake_white": [
+    255,
+    255,
+    255
+  ],
+  "foolish:stellar_ore": [
     255,
     255,
     255
@@ -27818,6 +28103,11 @@
     255,
     102,
     187
+  ],
+  "rats:pirat_wood": [
+    255,
+    255,
+    255
   ],
   "chipped:wither_engraved_glowstone": [
     255,
@@ -28164,11 +28454,6 @@
     68,
     17
   ],
-  "caverns_and_chasms:wall_sparkler": [
-    255,
-    255,
-    255
-  ],
   "xycraft_world:lamp_cube_brown": [
     136,
     68,
@@ -28319,11 +28604,6 @@
     255,
     0
   ],
-  "caverns_and_chasms:red_sparkler": [
-    255,
-    0,
-    0
-  ],
   "fcb:fcbg16110080": [
     255,
     255,
@@ -28344,6 +28624,11 @@
     34,
     255
   ],
+  "theabyss:frost_crystal_ore": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_pink_ring_gray_bg": [
     136,
     136,
@@ -28360,6 +28645,11 @@
     255
   ],
   "rechiseled:glowstone_brick_paving_connecting": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:rena_shroom_leave": [
     255,
     255,
     255
@@ -28603,6 +28893,11 @@
     255,
     255,
     0
+  ],
+  "theabyss:ender_crystal_ore": [
+    255,
+    255,
+    255
   ],
   "farmersrespite:magenta_candle_coffee_cake": [
     255,
@@ -28997,6 +29292,11 @@
   "productivetrees:soul_tree_door": [
     0,
     0,
+    255
+  ],
+  "rats:upgrade_separator": [
+    255,
+    255,
     255
   ],
   "born_in_chaos_v1:argillite_lamp": [
@@ -29404,6 +29704,11 @@
     0,
     255
   ],
+  "foolish:dreamcap": [
+    255,
+    255,
+    255
+  ],
   "geosmelt:starcinium_lamp": [
     255,
     255,
@@ -29433,6 +29738,11 @@
     0,
     255,
     255
+  ],
+  "theabyss:slimed_log_fungi": [
+    187,
+    255,
+    0
   ],
   "fairylights:witch_light": [
     255,
@@ -29584,12 +29894,22 @@
     255,
     255
   ],
+  "theabyss:rena_shroom": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:magenta_stripped_crimson_stem_campfire": [
     255,
     0,
     255
   ],
   "betterend:end_portal_block": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:old_exolius_plant": [
     255,
     255,
     255
@@ -29608,6 +29928,11 @@
     136,
     68,
     17
+  ],
+  "foolish:ashen_sapling": [
+    255,
+    255,
+    255
   ],
   "pyrite:glow_concrete": [
     255,
@@ -29984,6 +30309,16 @@
     0,
     0
   ],
+  "foolish:primed_radium_bomb": [
+    255,
+    255,
+    255
+  ],
+  "foolish:thunderstone_coil": [
+    255,
+    255,
+    255
+  ],
   "mekanism:industrial_alarm": [
     255,
     255,
@@ -30239,6 +30574,11 @@
     255,
     255
   ],
+  "foolish:scarlet_glow_fungus": [
+    255,
+    255,
+    255
+  ],
   "ars_additions:warp_nexus": [
     255,
     255,
@@ -30429,11 +30769,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:orange_sparkler": [
-    255,
-    102,
-    17
-  ],
   "caverns_and_chasms:cupric_campfire": [
     255,
     255,
@@ -30574,6 +30909,11 @@
     255,
     255
   ],
+  "theabyss:ender_hanging_lantern": [
+    255,
+    255,
+    255
+  ],
   "tconstruct:molten_iron_fluid": [
     255,
     255,
@@ -30630,11 +30970,6 @@
     255
   ],
   "chemlib:helium_lamp_block": [
-    255,
-    255,
-    255
-  ],
-  "caverns_and_chasms:white_wall_sparkler": [
     255,
     255,
     255
@@ -30701,6 +31036,11 @@
   ],
   "dazzle:green_end_rod": [
     0,
+    255,
+    0
+  ],
+  "theabyss:slimed_vitae": [
+    187,
     255,
     0
   ],
@@ -30889,11 +31229,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:weathered_copper_bulb": [
-    255,
-    0,
-    0
-  ],
   "vanilladelight:nether_bricks_stove": [
     255,
     255,
@@ -31065,6 +31400,11 @@
     187
   ],
   "primalmagick:heavenly_font_sun": [
+    255,
+    255,
+    255
+  ],
+  "foolish:emberbulb": [
     255,
     255,
     255
@@ -31243,11 +31583,6 @@
     255,
     255,
     255
-  ],
-  "caverns_and_chasms:pink_wall_sparkler": [
-    255,
-    102,
-    187
   ],
   "rubinated_nether:bleeding_obsidian": [
     255,
@@ -31514,11 +31849,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:yellow_wall_sparkler": [
-    255,
-    255,
-    0
-  ],
   "environmental:dwarf_spruce_plant_redstone_torch": [
     255,
     0,
@@ -31665,6 +31995,11 @@
     255
   ],
   "ribbits:swamp_lantern": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:saturnia_versa": [
     255,
     255,
     255
@@ -31988,11 +32323,6 @@
     255,
     255,
     0
-  ],
-  "caverns_and_chasms:coal": [
-    255,
-    255,
-    255
   ],
   "moglowstoneplus:black_glowstone_brick": [
     0,
@@ -32319,6 +32649,11 @@
     255,
     255
   ],
+  "theabyss:stone_brick_pillar_ignited": [
+    255,
+    255,
+    255
+  ],
   "productivetrees:water_wonder_stairs": [
     255,
     255,
@@ -32534,11 +32869,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:magmatic_rhyolite_brick_slab": [
-    255,
-    255,
-    255
-  ],
   "xycraft_world:aurey_block_matte_glowing_lime": [
     187,
     255,
@@ -32699,6 +33029,11 @@
     255,
     255
   ],
+  "foolish:glowing_ember_tallgrass": [
+    255,
+    255,
+    255
+  ],
   "pneumaticcraft:wall_lamp_magenta": [
     255,
     0,
@@ -32712,6 +33047,11 @@
   "moglowstoneplus:magenta_glowstone_slab": [
     255,
     0,
+    255
+  ],
+  "rats:pirat_fence_gate": [
+    255,
+    255,
     255
   ],
   "spelunkery:polished_rock_salt_slab": [
@@ -32864,6 +33204,11 @@
     255,
     255
   ],
+  "foolish:radiant_log": [
+    255,
+    255,
+    255
+  ],
   "xycraft_world:lamp_flush_pink": [
     255,
     102,
@@ -32898,11 +33243,6 @@
     255,
     102,
     187
-  ],
-  "caverns_and_chasms:red_wall_sparkler": [
-    255,
-    0,
-    0
   ],
   "xycraft_world:aurey_block_matte_glowing_blue": [
     0,
@@ -32974,6 +33314,11 @@
     0,
     0
   ],
+  "theabyss:rub_shroom": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:light_gray_cherry_dark_campfire": [
     136,
     136,
@@ -33031,6 +33376,11 @@
   ],
   "skinnedlanterns:ornament_cyan_lantern_block": [
     0,
+    255,
+    255
+  ],
+  "foolish:stripped_radiant_log": [
+    255,
     255,
     255
   ],
@@ -33158,6 +33508,11 @@
     255,
     0,
     0
+  ],
+  "foolish:azure_sacilite_bud": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:blue_birch_dark_campfire": [
     0,
@@ -33439,6 +33794,11 @@
     0,
     255
   ],
+  "foolish:timewood_pulse": [
+    255,
+    255,
+    255
+  ],
   "bc_core:tinted_water_block_223": [
     255,
     255,
@@ -33709,11 +34069,6 @@
     102,
     187
   ],
-  "caverns_and_chasms:cyan_wall_sparkler": [
-    0,
-    255,
-    255
-  ],
   "colorfulcampfires:gray_stripped_crimson_stem_campfire": [
     136,
     136,
@@ -33803,6 +34158,11 @@
     255,
     0,
     0
+  ],
+  "foolish:flickerwood_vines": [
+    255,
+    255,
+    255
   ],
   "additional_lights:al_lamp_oak_planks": [
     255,
@@ -33939,11 +34299,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:waxed_weathered_copper_lantern": [
-    255,
-    0,
-    0
-  ],
   "chipped:inlayed_white_redstone_lamp": [
     255,
     0,
@@ -33993,6 +34348,11 @@
     255,
     0,
     0
+  ],
+  "rats:pirat_stairs": [
+    255,
+    255,
+    255
   ],
   "fcb:fcbg4641490": [
     255,
@@ -34349,6 +34709,11 @@
     102,
     17
   ],
+  "foolish:hanglight": [
+    255,
+    255,
+    255
+  ],
   "primalmagick:ritual_candle_brown": [
     136,
     68,
@@ -34370,11 +34735,6 @@
     0
   ],
   "truedarkness:glow_pressure_plate": [
-    255,
-    255,
-    255
-  ],
-  "caverns_and_chasms:turquoise_lamp": [
     255,
     255,
     255
@@ -34552,6 +34912,11 @@
   "colorfulcampfires:blue_acacia_dark_campfire": [
     0,
     0,
+    255
+  ],
+  "theabyss:vigilant_hanging_fruit": [
+    255,
+    255,
     255
   ],
   "colored_water:luminous_condense_white_fluid_block": [
@@ -34894,6 +35259,11 @@
     102,
     187
   ],
+  "foolish:infernal_alloy_lamp": [
+    255,
+    255,
+    255
+  ],
   "torchslabmod:pad_candle_light_gray": [
     136,
     136,
@@ -34912,6 +35282,11 @@
   "nightlights:hanging_lights_magenta": [
     255,
     0,
+    255
+  ],
+  "foolish:ember_mushroom_stem": [
+    255,
+    255,
     255
   ],
   "wetland_whimsy:aria_mushroom_block": [
@@ -35179,6 +35554,11 @@
     34,
     255
   ],
+  "foolish:star_block": [
+    255,
+    255,
+    255
+  ],
   "botania:floating_bellethorn": [
     255,
     255,
@@ -35259,6 +35639,11 @@
     255,
     255
   ],
+  "foolish:sunset_reeds": [
+    255,
+    255,
+    255
+  ],
   "bc_core:tinted_water_block_143": [
     255,
     255,
@@ -35285,6 +35670,11 @@
     255
   ],
   "primalmagick:ancient_font_earth": [
+    255,
+    255,
+    255
+  ],
+  "foolish:carpeted_basalt": [
     255,
     255,
     255
@@ -35524,6 +35914,11 @@
     255,
     0
   ],
+  "theabyss:ralom_plant": [
+    255,
+    255,
+    255
+  ],
   "chipped:lightstick_redstone_wall_torch": [
     255,
     0,
@@ -35575,6 +35970,11 @@
     255
   ],
   "colorfulcampfires:oak_campfire": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:vigilant_grass": [
     255,
     255,
     255
@@ -35824,6 +36224,11 @@
     255,
     0
   ],
+  "foolish:glowing_cascade_vine": [
+    255,
+    255,
+    255
+  ],
   "luminax:white_luminax_button": [
     255,
     255,
@@ -35954,6 +36359,11 @@
     102,
     17
   ],
+  "theabyss:ender_lantern": [
+    255,
+    255,
+    255
+  ],
   "mekanism_extras:absolute_bin": [
     255,
     255,
@@ -36008,11 +36418,6 @@
     255,
     255,
     255
-  ],
-  "caverns_and_chasms:pink_sparkler": [
-    255,
-    102,
-    187
   ],
   "sonicraft:level_select_aquatic_ruin_zone_portal": [
     255,
@@ -36098,16 +36503,6 @@
     255,
     255,
     255
-  ],
-  "caverns_and_chasms:purple_sparkler": [
-    170,
-    34,
-    255
-  ],
-  "caverns_and_chasms:light_gray_sparkler": [
-    136,
-    136,
-    136
   ],
   "skinnedlanterns:creeper_lantern_block": [
     255,
@@ -36315,11 +36710,6 @@
     17
   ],
   "productivetrees:water_wonder_leaves": [
-    255,
-    255,
-    255
-  ],
-  "caverns_and_chasms:polished_magmatic_rhyolite_wall": [
     255,
     255,
     255
@@ -36534,6 +36924,11 @@
     255,
     255
   ],
+  "foolish:block_of_radium": [
+    255,
+    255,
+    255
+  ],
   "reliquary:interdiction_torch": [
     255,
     255,
@@ -36552,6 +36947,11 @@
   "mysticsbiomes:orange_frosted_candle_cake_purple": [
     170,
     34,
+    255
+  ],
+  "theabyss:luna_shroom": [
+    255,
+    255,
     255
   ],
   "xycraft_world:glass_viewer_glowing": [
@@ -36679,6 +37079,11 @@
     255,
     255
   ],
+  "foolish:lava_spill": [
+    255,
+    255,
+    255
+  ],
   "bigreactors:blutonium_fluid": [
     255,
     255,
@@ -36730,6 +37135,11 @@
     255
   ],
   "chipped:polished_crying_obsidian": [
+    255,
+    255,
+    255
+  ],
+  "foolish:starforge": [
     255,
     255,
     255
@@ -37039,6 +37449,11 @@
     136,
     136
   ],
+  "foolish:emberwhisp": [
+    255,
+    255,
+    255
+  ],
   "botania:floating_marimorphosis_chibi": [
     255,
     255,
@@ -37195,6 +37610,11 @@
     255
   ],
   "luminous_nether:ritual_table": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:crimson_crystal_ore": [
     255,
     255,
     255
@@ -37404,6 +37824,11 @@
     0,
     255
   ],
+  "theabyss:rycilian_mushroom": [
+    255,
+    255,
+    255
+  ],
   "neapolitan:yellow_strawberry_candle_cake": [
     255,
     255,
@@ -37564,7 +37989,12 @@
     136,
     136
   ],
-  "caverns_and_chasms:polished_magmatic_rhyolite": [
+  "theabyss:icora_flower": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:caverna_crystal_ore": [
     255,
     255,
     255
@@ -37654,6 +38084,11 @@
     255,
     255
   ],
+  "foolish:sacilite_bomb": [
+    255,
+    255,
+    255
+  ],
   "ror:glowing_light_blue_stained_glass": [
     0,
     0,
@@ -37724,6 +38159,11 @@
     255,
     255
   ],
+  "foolish:shining_sacilite": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg11495750": [
     255,
     255,
@@ -37775,6 +38215,11 @@
     255
   ],
   "betterblockz:cyberlight_thin_alt_14": [
+    255,
+    255,
+    255
+  ],
+  "foolish:toxic_strands": [
     255,
     255,
     255
@@ -37974,6 +38419,11 @@
     255,
     255
   ],
+  "foolish:scarlet_core": [
+    255,
+    255,
+    255
+  ],
   "ae2:medium_quartz_bud": [
     255,
     255,
@@ -38032,6 +38482,11 @@
   "colorfulcampfires:magenta_stripped_warped_stem_dark_campfire": [
     255,
     0,
+    255
+  ],
+  "theabyss:warped_crystal_ore": [
+    255,
+    255,
     255
   ],
   "natures_spirit:purple_paper_lantern": [
@@ -38234,6 +38689,11 @@
     255,
     0
   ],
+  "foolish:hanging_sacilite_crystal": [
+    255,
+    255,
+    255
+  ],
   "moglowstoneplus:white_glowstone_brick": [
     255,
     255,
@@ -38263,6 +38723,11 @@
     255,
     255,
     0
+  ],
+  "rats:pirat_wall_sign": [
+    255,
+    255,
+    255
   ],
   "bosses_of_mass_destruction:levitation_block": [
     255,
@@ -38475,6 +38940,11 @@
     255
   ],
   "fcb:fcbg9175110": [
+    255,
+    255,
+    255
+  ],
+  "foolish:surge_sapling": [
     255,
     255,
     255
@@ -38809,6 +39279,11 @@
     0,
     255
   ],
+  "foolish:rose_sacilite_bud": [
+    255,
+    255,
+    255
+  ],
   "productivetrees:cave_dweller_wall_sign": [
     255,
     255,
@@ -39019,11 +39494,6 @@
     0,
     0
   ],
-  "caverns_and_chasms:charcoal": [
-    255,
-    255,
-    255
-  ],
   "redeco:yellow_paper_lantern": [
     255,
     255,
@@ -39227,11 +39697,6 @@
   "minecraft:glow_lichen": [
     255,
     255,
-    255
-  ],
-  "caverns_and_chasms:blue_sparkler": [
-    0,
-    0,
     255
   ],
   "moglowstoneplus:white_glowstone_slab": [
@@ -39533,6 +39998,11 @@
     187,
     255,
     0
+  ],
+  "foolish:corroded_lamp": [
+    255,
+    255,
+    255
   ],
   "xycraft_world:glass_viewer_rgb_glowing_light_blue": [
     0,
@@ -39913,6 +40383,11 @@
     255,
     255,
     0
+  ],
+  "rats:pirat_trapdoor": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:white_stripped_spruce_dark_campfire": [
     255,
@@ -40479,6 +40954,16 @@
     136,
     136
   ],
+  "foolish:enderbulb": [
+    255,
+    255,
+    255
+  ],
+  "foolish:crystalline_retainer": [
+    255,
+    255,
+    255
+  ],
   "embers:molten_silver_block": [
     255,
     255,
@@ -40644,6 +41129,11 @@
     255,
     255
   ],
+  "rats:pirat_wall_hanging_sign": [
+    255,
+    255,
+    255
+  ],
   "gemsnjewels:ornament_citrine_block": [
     255,
     255,
@@ -40681,6 +41171,11 @@
   ],
   "ror:glowing_cyan_stained_glass": [
     0,
+    255,
+    255
+  ],
+  "rats:marbled_cheese_golem_core": [
+    255,
     255,
     255
   ],
@@ -40802,11 +41297,6 @@
   "betterblockz:cyberlight_bar_14": [
     255,
     255,
-    255
-  ],
-  "caverns_and_chasms:blue_wall_sparkler": [
-    0,
-    0,
     255
   ],
   "primalmagick:ancient_font_sea": [
@@ -41013,6 +41503,11 @@
     136,
     136,
     136
+  ],
+  "foolish:stellar_hollow_portal": [
+    255,
+    255,
+    255
   ],
   "mysticsbiomes:orange_frosted_candle_cake_brown": [
     136,
@@ -41248,6 +41743,11 @@
     255,
     0,
     0
+  ],
+  "rats:potted_pirat_sapling": [
+    255,
+    255,
+    255
   ],
   "fcb:fcbg9175250": [
     255,
@@ -41569,6 +42069,11 @@
     255,
     255
   ],
+  "rats:stripped_pirat_wood": [
+    255,
+    255,
+    255
+  ],
   "skinnedlanterns:guardian_soul_lantern_block": [
     0,
     0,
@@ -41588,6 +42093,11 @@
     255,
     102,
     17
+  ],
+  "foolish:golden_glowbell": [
+    255,
+    255,
+    255
   ],
   "thingamajigs:red_vending_machine": [
     255,
@@ -41729,11 +42239,6 @@
     102,
     187
   ],
-  "caverns_and_chasms:waxed_copper_lantern": [
-    255,
-    255,
-    255
-  ],
   "chipped:cracked_disordered_crying_obsidian_bricks": [
     255,
     0,
@@ -41755,6 +42260,11 @@
     255
   ],
   "abstoneedition:smooth_glowstone_wall": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:areno": [
     255,
     255,
     255
@@ -42254,6 +42764,11 @@
     255,
     255
   ],
+  "foolish:charged_surge_log": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:blue_bamboo_campfire": [
     0,
     0,
@@ -42479,6 +42994,11 @@
     255,
     255
   ],
+  "foolish:ashen_lantern": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg4641420": [
     255,
     255,
@@ -42649,11 +43169,6 @@
     255,
     255
   ],
-  "caverns_and_chasms:lime_wall_sparkler": [
-    187,
-    255,
-    0
-  ],
   "fcb:fcbg9193030": [
     255,
     255,
@@ -42673,6 +43188,11 @@
     0,
     0,
     0
+  ],
+  "foolish:flickerwood_accent": [
+    255,
+    255,
+    255
   ],
   "swampier_swamps:magenta_froglight": [
     255,
@@ -42762,6 +43282,11 @@
   "colorfulcampfires:blue_stripped_dark_oak_campfire": [
     0,
     0,
+    255
+  ],
+  "foolish:block_of_luminosity": [
+    255,
+    255,
     255
   ],
   "projectred_illumination:brown_illumar_lamp": [
@@ -42959,6 +43484,11 @@
     255,
     0
   ],
+  "foolish:golden_warplight": [
+    255,
+    255,
+    255
+  ],
   "colored_water:luminous_light_gray_water_cauldron": [
     136,
     136,
@@ -43100,6 +43630,11 @@
     255
   ],
   "colorfulcampfires:stripped_jungle_campfire": [
+    255,
+    255,
+    255
+  ],
+  "theabyss:thunder_flower": [
     255,
     255,
     255
@@ -43304,6 +43839,11 @@
     255,
     255
   ],
+  "etheria:enigma_seal": [
+    153,
+    204,
+    204
+  ],
   "mysticsbiomes:lime_frosted_candle_cake_magenta": [
     255,
     0,
@@ -43449,7 +43989,7 @@
     255,
     255
   ],
-  "caverns_and_chasms:magmatic_rhyolite_wall": [
+  "foolish:sacilite_clump": [
     255,
     255,
     255

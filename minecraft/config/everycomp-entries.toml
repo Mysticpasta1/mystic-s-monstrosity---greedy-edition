@@ -1387,9 +1387,6 @@
 		[types.glass_type.atmospheric]
 			block_type = true
 
-		[types.glass_type.caverns_and_chasms]
-			block_type = true
-
 		[types.glass_type.clearfluidglass]
 			block_type = true
 

@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_rotated_side_z",
+  "textures": {
+    "wall": "theabyss:block/luna_nightgrove_log"
+  }
+}

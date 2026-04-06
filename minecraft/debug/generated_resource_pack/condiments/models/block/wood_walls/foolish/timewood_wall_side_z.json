@@ -1,0 +1,6 @@
+{
+  "parent": "condiments:block/bases/template_wall_rotated_side_z",
+  "textures": {
+    "wall": "foolish:block/foolishwoodtypes-129.png_2"
+  }
+}
