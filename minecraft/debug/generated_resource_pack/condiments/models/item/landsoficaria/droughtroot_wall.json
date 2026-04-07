@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "landsoficaria:block/stripped_droughtroot_log_end",
+    "post": "landsoficaria:block/droughtroot_log_side"
+  }
+}

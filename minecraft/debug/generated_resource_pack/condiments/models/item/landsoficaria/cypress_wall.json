@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "landsoficaria:block/stripped_cypress_log_side",
+    "post": "landsoficaria:block/cypress_log_end"
+  }
+}

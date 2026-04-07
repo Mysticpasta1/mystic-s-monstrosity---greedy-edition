@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "landsoficaria:block/stripped_laurel_log_side",
+    "post": "landsoficaria:block/laurel_log_end"
+  }
+}
