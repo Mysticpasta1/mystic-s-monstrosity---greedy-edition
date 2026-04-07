@@ -159,13 +159,13 @@
     255,
     255
   ],
-  "wallpapercraft:stonelampcyan-0": [
-    0,
+  "musings:circle_magenta_ring_white_bg_flipping": [
+    255,
     255,
     255
   ],
-  "musings:circle_magenta_ring_white_bg_flipping": [
-    255,
+  "wallpapercraft:stonelampcyan-0": [
+    0,
     255,
     255
   ],
@@ -299,15 +299,15 @@
     255,
     255
   ],
-  "colorfulcampfires:lime_crimson_stem_campfire": [
-    187,
-    255,
-    0
-  ],
   "mekanism:ultimate_purifying_factory": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:lime_crimson_stem_campfire": [
+    187,
+    255,
+    0
   ],
   "the_bumblezone:luminescent_wax_node_blue": [
     0,
@@ -894,15 +894,15 @@
     255,
     255
   ],
-  "wallpapercraft:auralampbrown-12": [
-    136,
-    68,
-    17
-  ],
   "fcb:fcbg2320640": [
     255,
     255,
     255
+  ],
+  "wallpapercraft:auralampbrown-12": [
+    136,
+    68,
+    17
   ],
   "wallpapercraft:auralampbrown-11": [
     136,
@@ -1219,15 +1219,15 @@
     255,
     0
   ],
-  "colorfulcampfires:lime_stripped_warped_stem_campfire": [
-    187,
-    255,
-    0
-  ],
   "mcwholidays:white_garland_purple_lights": [
     170,
     34,
     255
+  ],
+  "colorfulcampfires:lime_stripped_warped_stem_campfire": [
+    187,
+    255,
+    0
   ],
   "neapolitan:orange_banana_candle_cake": [
     255,
@@ -1284,15 +1284,15 @@
     255,
     255
   ],
-  "mekanismadditions:cyan_plastic_glow": [
-    0,
-    255,
-    255
-  ],
   "snowyspirit:glow_lights_yellow": [
     255,
     255,
     0
+  ],
+  "mekanismadditions:cyan_plastic_glow": [
+    0,
+    255,
+    255
   ],
   "xkdeco:covered_lamp": [
     255,
@@ -1534,17 +1534,12 @@
     136,
     136
   ],
-  "wallpapercraft:stonelampgray-11": [
-    136,
-    136,
-    136
-  ],
   "bambooeverything:dry_bamboo_wall_torch": [
     255,
     255,
     0
   ],
-  "wallpapercraft:stonelampgray-14": [
+  "wallpapercraft:stonelampgray-11": [
     136,
     136,
     136
@@ -1553,6 +1548,11 @@
     255,
     255,
     255
+  ],
+  "wallpapercraft:stonelampgray-14": [
+    136,
+    136,
+    136
   ],
   "betterblockz:zeon_brown_blockz_10": [
     136,
@@ -1859,6 +1859,11 @@
     255,
     0
   ],
+  "caverns_and_chasms:sparkler": [
+    255,
+    255,
+    255
+  ],
   "fcb:fcbg62860": [
     255,
     255,
@@ -2033,6 +2038,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:yellow_sparkler": [
+    255,
+    255,
+    0
   ],
   "musings:circle_magenta_ring_gray_bg_flipping": [
     136,
@@ -2274,6 +2284,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:cyan_sparkler": [
+    0,
+    255,
+    255
+  ],
   "psi:lit_black_psimetal_plate": [
     0,
     0,
@@ -2345,6 +2360,11 @@
     255
   ],
   "deep_aether:treasure_doorway_light_nimbus_pillar": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:exposed_copper_bulb": [
     255,
     255,
     255
@@ -2534,11 +2554,6 @@
     255,
     255
   ],
-  "colorfulcampfires:brown_stripped_cherry_campfire": [
-    136,
-    68,
-    17
-  ],
   "additionalplacements:luminax.green_luminax_slab": [
     0,
     255,
@@ -2548,6 +2563,11 @@
     0,
     0,
     255
+  ],
+  "colorfulcampfires:brown_stripped_cherry_campfire": [
+    136,
+    68,
+    17
   ],
   "moglowstone:purple_glowstone_block": [
     170,
@@ -2654,15 +2674,15 @@
     255,
     255
   ],
-  "colorfulcampfires:blue_acacia_campfire": [
-    0,
-    0,
-    255
-  ],
   "mcwholidays:red_decorated_christmas_tree_top": [
     255,
     0,
     0
+  ],
+  "colorfulcampfires:blue_acacia_campfire": [
+    0,
+    0,
+    255
   ],
   "thermal_extra:shellite": [
     255,
@@ -2714,6 +2734,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:lime_sparkler": [
+    187,
+    255,
+    0
+  ],
   "additionalplacements:luminax.black_luminax_stairs": [
     0,
     0,
@@ -2743,6 +2768,11 @@
     0,
     0,
     255
+  ],
+  "caverns_and_chasms:brown_wall_sparkler": [
+    136,
+    68,
+    17
   ],
   "fcb:fcbg2302720": [
     255,
@@ -3519,15 +3549,15 @@
     0,
     255
   ],
-  "colorfulcampfires:black_stripped_mangrove_dark_campfire": [
-    0,
-    0,
-    0
-  ],
   "mekanism:basic_combining_factory": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:black_stripped_mangrove_dark_campfire": [
+    0,
+    0,
+    0
   ],
   "collectorsreap:light_blue_candle_lime_cake": [
     187,
@@ -3854,15 +3884,15 @@
     0,
     255
   ],
-  "mekanism:advanced_crushing_factory": [
-    255,
-    255,
-    255
-  ],
   "additionalplacements:absentbydesign.slab_sea_lantern": [
     153,
     204,
     204
+  ],
+  "mekanism:advanced_crushing_factory": [
+    255,
+    255,
+    255
   ],
   "refurbished_furniture:light_range_hood": [
     255,
@@ -4019,14 +4049,14 @@
     102,
     187
   ],
-  "colorfulcampfires:purple_stripped_warped_stem_dark_campfire": [
-    170,
-    34,
-    255
-  ],
   "ad_extendra:glowing_radium_pillar": [
     255,
     255,
+    255
+  ],
+  "colorfulcampfires:purple_stripped_warped_stem_dark_campfire": [
+    170,
+    34,
     255
   ],
   "musings:circle_lime_ring_cyan_bg": [
@@ -4053,6 +4083,11 @@
     255,
     102,
     187
+  ],
+  "caverns_and_chasms:light_blue_wall_sparkler": [
+    0,
+    0,
+    255
   ],
   "pyrite:light_blue_torch": [
     0,
@@ -4104,7 +4139,17 @@
     136,
     136
   ],
+  "caverns_and_chasms:magmatic_rhyolite_brick_wall": [
+    255,
+    255,
+    255
+  ],
   "chipped:glowing_lodestone_side": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:waxed_copper_bulb": [
     255,
     255,
     255
@@ -4139,12 +4184,12 @@
     255,
     255
   ],
-  "colorfulcampfires:white_stripped_cherry_dark_campfire": [
+  "immersiveengineering:lantern": [
     255,
     255,
     255
   ],
-  "immersiveengineering:lantern": [
+  "colorfulcampfires:white_stripped_cherry_dark_campfire": [
     255,
     255,
     255
@@ -4169,15 +4214,15 @@
     34,
     255
   ],
-  "colorfulcampfires:green_warped_stem_campfire": [
-    0,
-    255,
-    0
-  ],
   "fcb:fcbg6908195": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:green_warped_stem_campfire": [
+    0,
+    255,
+    0
   ],
   "chipped:ancient_pearlescent_froglight": [
     255,
@@ -4429,15 +4474,15 @@
     0,
     255
   ],
-  "colorfulcampfires:black_cherry_campfire": [
-    0,
-    0,
-    0
-  ],
   "skinnedlanterns:jack_o_lantern_soul_lantern_block": [
     0,
     0,
     255
+  ],
+  "colorfulcampfires:black_cherry_campfire": [
+    0,
+    0,
+    0
   ],
   "musings:circle_magenta_ring_black_bg_flipping": [
     0,
@@ -4664,15 +4709,15 @@
     255,
     0
   ],
-  "colorfulcampfires:orange_bamboo_dark_campfire": [
-    255,
-    102,
-    17
-  ],
   "fcb:fcbg2356620": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:orange_bamboo_dark_campfire": [
+    255,
+    102,
+    17
   ],
   "glow_up:glow_paste": [
     255,
@@ -4744,6 +4789,11 @@
     0,
     0
   ],
+  "caverns_and_chasms:copper_bulb": [
+    255,
+    255,
+    255
+  ],
   "productivetrees:sparkle_cherry_fence_gate": [
     255,
     255,
@@ -4789,15 +4839,15 @@
     255,
     0
   ],
-  "colorfulcampfires:light_gray_birch_campfire": [
-    136,
-    136,
-    136
-  ],
   "rats:marbled_cheese_rat_head": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:light_gray_birch_campfire": [
+    136,
+    136,
+    136
   ],
   "additionalplacements:pyrite.star_stained_slab": [
     255,
@@ -5064,12 +5114,12 @@
     0,
     255
   ],
-  "colorfulcampfires:light_blue_stripped_birch_campfire": [
+  "skinnedlanterns:skeleton_soul_lantern_block": [
     0,
     0,
     255
   ],
-  "skinnedlanterns:skeleton_soul_lantern_block": [
+  "colorfulcampfires:light_blue_stripped_birch_campfire": [
     0,
     0,
     255
@@ -5159,15 +5209,15 @@
     255,
     255
   ],
-  "colorfulcampfires:lime_stripped_crimson_stem_campfire": [
-    187,
-    255,
-    0
-  ],
   "fcb:fcbg9228800": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:lime_stripped_crimson_stem_campfire": [
+    187,
+    255,
+    0
   ],
   "xycraft_override:magma_dark": [
     255,
@@ -5484,6 +5534,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:potted_false_hope": [
+    255,
+    255,
+    255
+  ],
   "pyrite:star_terracotta_bricks": [
     255,
     255,
@@ -5549,14 +5604,14 @@
     255,
     0
   ],
-  "colorfulcampfires:magenta_stripped_dark_oak_campfire": [
-    255,
-    0,
-    255
-  ],
   "additionalplacements:rechiseled.glowstone_brick_pattern_slab_connecting": [
     255,
     255,
+    255
+  ],
+  "colorfulcampfires:magenta_stripped_dark_oak_campfire": [
+    255,
+    0,
     255
   ],
   "opalescence:opal_crystal_cluster": [
@@ -5659,17 +5714,12 @@
     255,
     255
   ],
-  "wallpapercraft:stonelampgreen-5": [
-    0,
-    255,
-    0
-  ],
   "fcb:fcbg2338560": [
     255,
     255,
     255
   ],
-  "wallpapercraft:stonelampgreen-6": [
+  "wallpapercraft:stonelampgreen-5": [
     0,
     255,
     0
@@ -5678,6 +5728,11 @@
     0,
     0,
     255
+  ],
+  "wallpapercraft:stonelampgreen-6": [
+    0,
+    255,
+    0
   ],
   "colorfulcampfires:yellow_stripped_birch_dark_campfire": [
     255,
@@ -5904,14 +5959,14 @@
     255,
     255
   ],
-  "colorfulcampfires:light_blue_stripped_oak_campfire": [
-    0,
-    0,
-    255
-  ],
   "mekanism:basic_enriching_factory": [
     255,
     255,
+    255
+  ],
+  "colorfulcampfires:light_blue_stripped_oak_campfire": [
+    0,
+    0,
     255
   ],
   "skinnedlanterns:paper_gray_soul_lantern_block": [
@@ -6035,6 +6090,11 @@
     255
   ],
   "thermal_extra:lubricant": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:magmatic_rhyolite_stairs": [
     255,
     255,
     255
@@ -6174,14 +6234,14 @@
     136,
     136
   ],
-  "wallpapercraft:auralampblue-0": [
-    0,
-    0,
-    255
-  ],
   "malum:twisted_ether_brazier": [
     255,
     255,
+    255
+  ],
+  "wallpapercraft:auralampblue-0": [
+    0,
+    0,
     255
   ],
   "pyrite:glow_terracotta_brick_wall": [
@@ -6499,15 +6559,15 @@
     255,
     255
   ],
-  "colorfulcampfires:lime_acacia_dark_campfire": [
-    187,
-    255,
-    0
-  ],
   "fcb:fcbg6881490": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:lime_acacia_dark_campfire": [
+    187,
+    255,
+    0
   ],
   "productivetrees:blue_yonder_door": [
     0,
@@ -6533,6 +6593,11 @@
     255,
     255,
     0
+  ],
+  "caverns_and_chasms:magenta_sparkler": [
+    255,
+    0,
+    255
   ],
   "doom_and_gloom:green_vigil_candle": [
     0,
@@ -6714,15 +6779,15 @@
     68,
     17
   ],
-  "colorfulcampfires:yellow_stripped_warped_stem_campfire": [
-    255,
-    255,
-    0
-  ],
   "fcb:fcbg26985": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:yellow_stripped_warped_stem_campfire": [
+    255,
+    255,
+    0
   ],
   "botania:black_mushroom": [
     0,
@@ -6740,6 +6805,11 @@
     255
   ],
   "enderio:light": [
+    255,
+    255,
+    255
+  ],
+  "additionalplacements:caverns_and_chasms.magmatic_rhyolite_stairs": [
     255,
     255,
     255
@@ -6847,6 +6917,11 @@
   "colorfulcampfires:purple_jungle_campfire": [
     170,
     34,
+    255
+  ],
+  "caverns_and_chasms:waxed_exposed_copper_lantern": [
+    255,
+    255,
     255
   ],
   "musings:circle_pink_ring_white_bg_flipping": [
@@ -6974,12 +7049,12 @@
     255,
     255
   ],
-  "mekanism:basic_sawing_factory": [
+  "fcb:fcbg2293970": [
     255,
     255,
     255
   ],
-  "fcb:fcbg2293970": [
+  "mekanism:basic_sawing_factory": [
     255,
     255,
     255
@@ -7289,15 +7364,15 @@
     255,
     255
   ],
-  "colorfulcampfires:pink_stripped_acacia_dark_campfire": [
-    255,
-    102,
-    187
-  ],
   "musings:circle_white_ring_red_bg_flipping": [
     255,
     0,
     0
+  ],
+  "colorfulcampfires:pink_stripped_acacia_dark_campfire": [
+    255,
+    102,
+    187
   ],
   "quark:deepslate_furnace": [
     255,
@@ -7314,15 +7389,15 @@
     0,
     0
   ],
-  "colorfulcampfires:gray_dark_oak_dark_campfire": [
-    136,
-    136,
-    136
-  ],
   "musings:circle_lime_ring_cyan_bg_flipping": [
     0,
     255,
     255
+  ],
+  "colorfulcampfires:gray_dark_oak_dark_campfire": [
+    136,
+    136,
+    136
   ],
   "regions_unexplored:glowing_pink_bioshroom_block": [
     255,
@@ -7424,15 +7499,15 @@
     255,
     255
   ],
-  "colorfulcampfires:light_blue_jungle_campfire": [
-    0,
-    0,
-    255
-  ],
   "musings:circle_brown_ring_light_gray_bg": [
     136,
     136,
     136
+  ],
+  "colorfulcampfires:light_blue_jungle_campfire": [
+    0,
+    0,
+    255
   ],
   "fcb:fcbg6881420": [
     255,
@@ -7468,6 +7543,11 @@
     0,
     255,
     0
+  ],
+  "caverns_and_chasms:waxed_oxidized_copper_bulb": [
+    255,
+    255,
+    255
   ],
   "dazzle:orange_end_rod": [
     255,
@@ -7634,15 +7714,15 @@
     102,
     187
   ],
-  "colorfulcampfires:lime_oak_campfire": [
-    187,
-    255,
-    0
-  ],
   "musings:circle_yellow_ring_orange_bg_flipping": [
     255,
     102,
     17
+  ],
+  "colorfulcampfires:lime_oak_campfire": [
+    187,
+    255,
+    0
   ],
   "mekanismadditions:light_blue_glow_panel": [
     0,
@@ -7844,13 +7924,13 @@
     255,
     255
   ],
-  "colorfulcampfires:magenta_stripped_mangrove_dark_campfire": [
-    255,
+  "additionalplacements:productivetrees.blue_yonder_slab": [
+    0,
     0,
     255
   ],
-  "additionalplacements:productivetrees.blue_yonder_slab": [
-    0,
+  "colorfulcampfires:magenta_stripped_mangrove_dark_campfire": [
+    255,
     0,
     255
   ],
@@ -8169,15 +8249,15 @@
     255,
     0
   ],
-  "wallpapercraft:auralampred-9": [
-    255,
-    0,
-    0
-  ],
   "additionalplacements:rockyminerals.halite_lamp_pressure_plate": [
     255,
     255,
     255
+  ],
+  "wallpapercraft:auralampred-9": [
+    255,
+    0,
+    0
   ],
   "wallpapercraft:auralampred-7": [
     255,
@@ -8239,15 +8319,15 @@
     255,
     255
   ],
-  "colorfulcampfires:magenta_stripped_birch_campfire": [
-    255,
-    0,
-    255
-  ],
   "musings:circle_yellow_ring_pink_bg_flipping": [
     255,
     102,
     187
+  ],
+  "colorfulcampfires:magenta_stripped_birch_campfire": [
+    255,
+    0,
+    255
   ],
   "mcwlights:golden_triple_candle_holder": [
     255,
@@ -8364,6 +8444,11 @@
     136,
     136
   ],
+  "caverns_and_chasms:black_sparkler": [
+    0,
+    0,
+    0
+  ],
   "enchantableblocks:enchanted_beacon": [
     255,
     255,
@@ -8428,6 +8513,11 @@
     136,
     136,
     136
+  ],
+  "caverns_and_chasms:chiseled_magmatic_rhyolite_bricks": [
+    255,
+    255,
+    255
   ],
   "enigmaticlegacy:big_shroomlamp": [
     255,
@@ -8689,6 +8779,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:oxidized_copper_lantern": [
+    255,
+    255,
+    255
+  ],
   "quark:red_corundum_cluster": [
     255,
     0,
@@ -8794,12 +8889,12 @@
     136,
     136
   ],
-  "colorfulcampfires:black_stripped_crimson_stem_dark_campfire": [
+  "musings:circle_pink_ring_black_bg_flipping": [
     0,
     0,
     0
   ],
-  "musings:circle_pink_ring_black_bg_flipping": [
+  "colorfulcampfires:black_stripped_crimson_stem_dark_campfire": [
     0,
     0,
     0
@@ -8977,6 +9072,11 @@
   "additionalplacements:rockyminerals.opal_lamp_stairs": [
     255,
     255,
+    255
+  ],
+  "caverns_and_chasms:purple_wall_sparkler": [
+    170,
+    34,
     255
   ],
   "upgradedechests:spatial_ender_chest": [
@@ -9184,6 +9284,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:brown_sparkler": [
+    136,
+    68,
+    17
+  ],
   "productivetrees:purple_spiral_stairs": [
     170,
     34,
@@ -9339,15 +9444,15 @@
     255,
     255
   ],
-  "colorfulcampfires:yellow_stripped_spruce_dark_campfire": [
-    255,
-    255,
-    0
-  ],
   "castle_in_the_sky:fake_beacon": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:yellow_stripped_spruce_dark_campfire": [
+    255,
+    255,
+    0
   ],
   "environmental:dwarf_spruce_plant_soul_torch": [
     255,
@@ -9434,12 +9539,12 @@
     136,
     136
   ],
-  "wallpapercraft:auralampgray-6": [
+  "musings:circle_lime_ring_gray_bg": [
     136,
     136,
     136
   ],
-  "musings:circle_lime_ring_gray_bg": [
+  "wallpapercraft:auralampgray-6": [
     136,
     136,
     136
@@ -9449,15 +9554,15 @@
     255,
     255
   ],
-  "wallpapercraft:auralampgray-7": [
-    136,
-    136,
-    136
-  ],
   "additionalplacements:mekanismadditions.light_blue_plastic_glow_stairs": [
     0,
     0,
     255
+  ],
+  "wallpapercraft:auralampgray-7": [
+    136,
+    136,
+    136
   ],
   "wallpapercraft:auralampgray-8": [
     136,
@@ -9469,15 +9574,15 @@
     136,
     136
   ],
-  "colorfulcampfires:purple_dark_oak_campfire": [
-    170,
-    34,
-    255
-  ],
   "musings:circle_yellow_ring_brown_bg": [
     136,
     68,
     17
+  ],
+  "colorfulcampfires:purple_dark_oak_campfire": [
+    170,
+    34,
+    255
   ],
   "metal_works:tin_lantern": [
     255,
@@ -10279,12 +10384,12 @@
     255,
     255
   ],
-  "colorfulcampfires:white_acacia_dark_campfire": [
+  "projectexpansion:dark_relay": [
     255,
     255,
     255
   ],
-  "projectexpansion:dark_relay": [
+  "colorfulcampfires:white_acacia_dark_campfire": [
     255,
     255,
     255
@@ -11159,14 +11264,14 @@
     68,
     17
   ],
-  "colorfulcampfires:light_blue_stripped_birch_dark_campfire": [
-    0,
-    0,
-    255
-  ],
   "musings:circle_blue_ring_purple_bg_flipping": [
     170,
     34,
+    255
+  ],
+  "colorfulcampfires:light_blue_stripped_birch_dark_campfire": [
+    0,
+    0,
     255
   ],
   "integrateddynamics:menril_torch": [
@@ -11239,15 +11344,15 @@
     255,
     255
   ],
-  "colorfulcampfires:light_gray_stripped_cherry_dark_campfire": [
-    136,
-    136,
-    136
-  ],
   "musings:circle_light_blue_ring_red_bg": [
     255,
     0,
     0
+  ],
+  "colorfulcampfires:light_gray_stripped_cherry_dark_campfire": [
+    136,
+    136,
+    136
   ],
   "botania:floating_tangleberrie_chibi": [
     255,
@@ -11769,6 +11874,11 @@
     0,
     0
   ],
+  "caverns_and_chasms:waxed_weathered_copper_bulb": [
+    255,
+    0,
+    0
+  ],
   "nightlights:octopus_magenta": [
     255,
     0,
@@ -12004,15 +12114,15 @@
     255,
     255
   ],
-  "colorfulcampfires:light_gray_stripped_jungle_campfire": [
-    136,
-    136,
-    136
-  ],
   "musings:circle_light_gray_ring_cyan_bg_flipping": [
     0,
     255,
     255
+  ],
+  "colorfulcampfires:light_gray_stripped_jungle_campfire": [
+    136,
+    136,
+    136
   ],
   "colorfulcampfires:purple_stripped_acacia_dark_campfire": [
     170,
@@ -12333,6 +12443,11 @@
     255,
     0,
     255
+  ],
+  "caverns_and_chasms:weathered_copper_lantern": [
+    255,
+    0,
+    0
   ],
   "foolish:chartreuse_glowbell": [
     255,
@@ -12699,14 +12814,14 @@
     255,
     255
   ],
-  "mekanism_extras:absolute_combining_factory": [
-    255,
-    255,
-    255
-  ],
   "tanukidecor:blue_lamp": [
     0,
     0,
+    255
+  ],
+  "mekanism_extras:absolute_combining_factory": [
+    255,
+    255,
     255
   ],
   "occultism:spirit_fire": [
@@ -13454,14 +13569,14 @@
     255,
     0
   ],
-  "wallpapercraft:stonelamppurple-14": [
-    170,
-    34,
-    255
-  ],
   "malum:iridescent_ether": [
     255,
     255,
+    255
+  ],
+  "wallpapercraft:stonelamppurple-14": [
+    170,
+    34,
     255
   ],
   "mcwlights:square_wall_lamp": [
@@ -13474,14 +13589,14 @@
     255,
     255
   ],
-  "wallpapercraft:stonelamppurple-11": [
-    170,
-    34,
-    255
-  ],
   "ad_extendra:glowing_plutonium_pillar": [
     255,
     255,
+    255
+  ],
+  "wallpapercraft:stonelamppurple-11": [
+    170,
+    34,
     255
   ],
   "wallpapercraft:stonelamppurple-12": [
@@ -13604,15 +13719,15 @@
     255,
     255
   ],
-  "colorfulcampfires:light_blue_stripped_spruce_dark_campfire": [
-    0,
-    0,
-    255
-  ],
   "glow_up:glow_torch": [
     255,
     255,
     0
+  ],
+  "colorfulcampfires:light_blue_stripped_spruce_dark_campfire": [
+    0,
+    0,
+    255
   ],
   "productivetrees:time_traveller_log": [
     255,
@@ -13714,15 +13829,15 @@
     255,
     255
   ],
-  "colorfulcampfires:pink_stripped_crimson_stem_campfire": [
-    255,
-    102,
-    187
-  ],
   "projectexpansion:green_collector": [
     0,
     255,
     0
+  ],
+  "colorfulcampfires:pink_stripped_crimson_stem_campfire": [
+    255,
+    102,
+    187
   ],
   "regions_unexplored:hanging_earlight": [
     255,
@@ -14584,6 +14699,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:magmatic_rhyolite_brick_stairs": [
+    255,
+    255,
+    255
+  ],
   "betterblockz:cyberlight_secret_blockz_4": [
     255,
     255,
@@ -15018,6 +15138,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:black_wall_sparkler": [
+    0,
+    0,
+    0
   ],
   "moglowstone:gray_glowstone_block": [
     136,
@@ -16024,14 +16149,19 @@
     255,
     255
   ],
+  "additionalplacements:moglowstoneplus.blue_glowstone_slab": [
+    0,
+    0,
+    255
+  ],
   "wallpapercraft:stonelampblue-3": [
     0,
     0,
     255
   ],
-  "additionalplacements:moglowstoneplus.blue_glowstone_slab": [
-    0,
-    0,
+  "caverns_and_chasms:magmatic_rhyolite_slab": [
+    255,
+    255,
     255
   ],
   "wallpapercraft:stonelampblue-2": [
@@ -16594,6 +16724,11 @@
     0,
     255
   ],
+  "caverns_and_chasms:gray_sparkler": [
+    136,
+    136,
+    136
+  ],
   "buildersdelight:lantern_6": [
     255,
     255,
@@ -16849,14 +16984,14 @@
     255,
     255
   ],
-  "colorfulcampfires:light_blue_dark_oak_dark_campfire": [
-    0,
-    0,
-    255
-  ],
   "mcwholidays:lit_evil_pumpkin": [
     255,
     255,
+    255
+  ],
+  "colorfulcampfires:light_blue_dark_oak_dark_campfire": [
+    0,
+    0,
     255
   ],
   "rockyminerals:anhydrite_lamp_button": [
@@ -17134,6 +17269,11 @@
     255,
     0
   ],
+  "caverns_and_chasms:amethyst_lamp": [
+    170,
+    34,
+    255
+  ],
   "primalmagick:artificial_font_void": [
     255,
     255,
@@ -17309,15 +17449,15 @@
     0,
     255
   ],
-  "colorfulcampfires:green_mangrove_campfire": [
-    0,
-    255,
-    0
-  ],
   "musings:circle_purple_ring_pink_bg": [
     255,
     102,
     187
+  ],
+  "colorfulcampfires:green_mangrove_campfire": [
+    0,
+    255,
+    0
   ],
   "mekanism:dimensional_stabilizer": [
     255,
@@ -17679,15 +17819,15 @@
     0,
     0
   ],
-  "colorfulcampfires:red_spruce_campfire": [
-    255,
-    0,
-    0
-  ],
   "skinnedlanterns:paper_lantern_block": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:red_spruce_campfire": [
+    255,
+    0,
+    0
   ],
   "additional_lights:al_torch_iron_block": [
     255,
@@ -17974,6 +18114,11 @@
     0,
     255
   ],
+  "caverns_and_chasms:light_gray_wall_sparkler": [
+    136,
+    136,
+    136
+  ],
   "luminax:lime_luminax_stairs": [
     187,
     255,
@@ -17983,6 +18128,11 @@
     0,
     255,
     0
+  ],
+  "caverns_and_chasms:white_sparkler": [
+    255,
+    255,
+    255
   ],
   "musings:circle_red_ring_white_bg_flipping": [
     255,
@@ -18187,6 +18337,11 @@
   "mekanismadditions:blue_glow_panel": [
     0,
     0,
+    255
+  ],
+  "caverns_and_chasms:atoning_table": [
+    255,
+    255,
     255
   ],
   "mysticsbiomes:purple_frosted_candle_cake_magenta": [
@@ -18899,6 +19054,11 @@
     0,
     0
   ],
+  "caverns_and_chasms:quartz_lamp": [
+    255,
+    255,
+    255
+  ],
   "additionalplacements:productivetrees.sparkle_cherry_slab": [
     255,
     255,
@@ -18984,13 +19144,13 @@
     255,
     255
   ],
-  "colorfulcampfires:cyan_stripped_crimson_stem_campfire": [
-    0,
+  "immersiveengineering:balloon": [
+    255,
     255,
     255
   ],
-  "immersiveengineering:balloon": [
-    255,
+  "colorfulcampfires:cyan_stripped_crimson_stem_campfire": [
+    0,
     255,
     255
   ],
@@ -19120,6 +19280,11 @@
     0
   ],
   "avaritia:nether_crafting_table": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:polished_magmatic_rhyolite_slab": [
     255,
     255,
     255
@@ -19649,12 +19814,12 @@
     102,
     17
   ],
-  "mekanism_extras:cosmic_sawing_factory": [
+  "fcb:fcbg16056495": [
     255,
     255,
     255
   ],
-  "fcb:fcbg16056495": [
+  "mekanism_extras:cosmic_sawing_factory": [
     255,
     255,
     255
@@ -20254,11 +20419,6 @@
     0,
     255
   ],
-  "colorfulcampfires:lime_warped_stem_dark_campfire": [
-    187,
-    255,
-    0
-  ],
   "additionalplacements:rechiseled.glowstone_brick_paving_slab": [
     255,
     255,
@@ -20268,6 +20428,11 @@
     255,
     255,
     255
+  ],
+  "colorfulcampfires:lime_warped_stem_dark_campfire": [
+    187,
+    255,
+    0
   ],
   "productivetrees:flickering_sun_wall_sign": [
     255,
@@ -20444,15 +20609,15 @@
     255,
     0
   ],
-  "colorfulcampfires:pink_acacia_dark_campfire": [
-    255,
-    102,
-    187
-  ],
   "musings:circle_light_blue_ring_light_gray_bg": [
     136,
     136,
     136
+  ],
+  "colorfulcampfires:pink_acacia_dark_campfire": [
+    255,
+    102,
+    187
   ],
   "xycraft_world:glass_viewer_rgb_glowing_cyan": [
     0,
@@ -20474,15 +20639,15 @@
     102,
     17
   ],
-  "colorfulcampfires:gray_stripped_jungle_dark_campfire": [
-    136,
-    136,
-    136
-  ],
   "fcb:fcbg6917260": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:gray_stripped_jungle_dark_campfire": [
+    136,
+    136,
+    136
   ],
   "bloodyhell:eroded_blasphemous_sandstone": [
     255,
@@ -20614,15 +20779,15 @@
     255,
     0
   ],
-  "colorfulcampfires:brown_jungle_campfire": [
-    136,
-    68,
-    17
-  ],
   "additionalplacements:upgrade_aquatic.luminous_prismarine_stairs": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:brown_jungle_campfire": [
+    136,
+    68,
+    17
   ],
   "ror:bluescreened_monitor_corner_4": [
     0,
@@ -20754,7 +20919,7 @@
     255,
     0
   ],
-  "colorfulcampfires:white_oak_campfire": [
+  "caverns_and_chasms:waxed_exposed_copper_bulb": [
     255,
     255,
     255
@@ -20763,6 +20928,11 @@
     0,
     255,
     0
+  ],
+  "colorfulcampfires:white_oak_campfire": [
+    255,
+    255,
+    255
   ],
   "supplementaries:blackstone_lamp": [
     0,
@@ -21269,15 +21439,15 @@
     255,
     255
   ],
-  "colorfulcampfires:purple_stripped_acacia_campfire": [
-    170,
-    34,
-    255
-  ],
   "additionalplacements:moglowstoneplus.orange_glowstone_slab": [
     255,
     102,
     17
+  ],
+  "colorfulcampfires:purple_stripped_acacia_campfire": [
+    170,
+    34,
+    255
   ],
   "somemoreblocks:redstone_sea_lantern": [
     255,
@@ -21719,6 +21889,11 @@
     136,
     136
   ],
+  "caverns_and_chasms:magmatic_rhyolite": [
+    255,
+    255,
+    255
+  ],
   "botania:floating_rosa_arcana": [
     255,
     255,
@@ -22013,6 +22188,11 @@
     0,
     0,
     255
+  ],
+  "caverns_and_chasms:green_sparkler": [
+    0,
+    255,
+    0
   ],
   "mekanism:basic_compressing_factory": [
     255,
@@ -22409,12 +22589,12 @@
     255,
     255
   ],
-  "mekanism_extras:cosmic_purifying_factory": [
+  "ad_extendra:glowing_uranium_pillar": [
     255,
     255,
     255
   ],
-  "ad_extendra:glowing_uranium_pillar": [
+  "mekanism_extras:cosmic_purifying_factory": [
     255,
     255,
     255
@@ -22559,15 +22739,15 @@
     255,
     255
   ],
-  "colorfulcampfires:green_crimson_stem_campfire": [
-    0,
-    255,
-    0
-  ],
   "mekanism:ultimate_bin": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:green_crimson_stem_campfire": [
+    0,
+    255,
+    0
   ],
   "betterblockz:zeon_white_blockz_5": [
     255,
@@ -22915,6 +23095,11 @@
     0
   ],
   "ror:toxic_sludge_tank": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:false_hope": [
     255,
     255,
     255
@@ -23334,15 +23519,15 @@
     34,
     255
   ],
-  "colorfulcampfires:black_stripped_dark_oak_campfire": [
-    0,
-    0,
-    0
-  ],
   "musings:circle_brown_ring_purple_bg": [
     170,
     34,
     255
+  ],
+  "colorfulcampfires:black_stripped_dark_oak_campfire": [
+    0,
+    0,
+    0
   ],
   "projectred_illumination:magenta_inverted_illumar_lamp": [
     255,
@@ -23396,6 +23581,11 @@
   ],
   "redeco:yellow_lamp": [
     255,
+    255,
+    0
+  ],
+  "caverns_and_chasms:green_wall_sparkler": [
+    0,
     255,
     0
   ],
@@ -23664,13 +23854,13 @@
     255,
     255
   ],
-  "colorfulcampfires:black_stripped_bamboo_campfire": [
-    0,
+  "mekanismadditions:red_plastic_glow_stairs": [
+    255,
     0,
     0
   ],
-  "mekanismadditions:red_plastic_glow_stairs": [
-    255,
+  "colorfulcampfires:black_stripped_bamboo_campfire": [
+    0,
     0,
     0
   ],
@@ -23794,14 +23984,14 @@
     0,
     0
   ],
-  "colorfulcampfires:light_blue_jungle_dark_campfire": [
-    0,
-    0,
-    255
-  ],
   "fcb:fcbg2347695": [
     255,
     255,
+    255
+  ],
+  "colorfulcampfires:light_blue_jungle_dark_campfire": [
+    0,
+    0,
     255
   ],
   "silentgems:potted_ammolite_glowrose": [
@@ -23869,15 +24059,15 @@
     255,
     255
   ],
-  "colorfulcampfires:pink_stripped_dark_oak_dark_campfire": [
-    255,
-    102,
-    187
-  ],
   "musings:circle_orange_ring_light_blue_bg_flipping": [
     0,
     0,
     255
+  ],
+  "colorfulcampfires:pink_stripped_dark_oak_dark_campfire": [
+    255,
+    102,
+    187
   ],
   "dazzle:yellow_icy_analog_lamp": [
     255,
@@ -24154,15 +24344,15 @@
     204,
     204
   ],
-  "colorfulcampfires:pink_stripped_bamboo_dark_campfire": [
-    255,
-    102,
-    187
-  ],
   "rats:pirat_sapling": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:pink_stripped_bamboo_dark_campfire": [
+    255,
+    102,
+    187
   ],
   "xycraft_world:aluminum_torch": [
     255,
@@ -24329,6 +24519,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:magmatic_rhyolite_bricks": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_purple_ring_cyan_bg_flipping": [
     0,
     255,
@@ -24384,15 +24579,15 @@
     34,
     255
   ],
-  "mekanismadditions:green_glow_panel": [
-    0,
-    255,
-    0
-  ],
   "snowyspirit:glow_lights_cyan": [
     0,
     255,
     255
+  ],
+  "mekanismadditions:green_glow_panel": [
+    0,
+    255,
+    0
   ],
   "skinnedlanterns:slime_soul_lantern_block": [
     187,
@@ -24477,6 +24672,11 @@
   "betterblockz:zeon_purple_blockz_0": [
     170,
     34,
+    255
+  ],
+  "caverns_and_chasms:zirconia_lamp": [
+    255,
+    255,
     255
   ],
   "wallpapercraft:auralampyellow-14": [
@@ -24794,6 +24994,11 @@
     255,
     0
   ],
+  "caverns_and_chasms:light_blue_sparkler": [
+    0,
+    0,
+    255
+  ],
   "colorfulcampfires:lime_stripped_cherry_campfire": [
     187,
     255,
@@ -25064,15 +25269,15 @@
     255,
     255
   ],
-  "colorfulcampfires:blue_spruce_dark_campfire": [
-    0,
-    0,
-    255
-  ],
   "additionalplacements:mekanismadditions.black_plastic_glow_slab": [
     0,
     0,
     0
+  ],
+  "colorfulcampfires:blue_spruce_dark_campfire": [
+    0,
+    0,
+    255
   ],
   "braziliandelight:carrot_cake_with_chocolate_with_red_candle": [
     255,
@@ -25208,6 +25413,11 @@
     0,
     0,
     255
+  ],
+  "caverns_and_chasms:gray_wall_sparkler": [
+    136,
+    136,
+    136
   ],
   "create:light_blue_nixie_tube": [
     0,
@@ -25389,15 +25599,15 @@
     68,
     17
   ],
-  "wallpapercraft:auralampbrown-5": [
-    136,
-    68,
-    17
-  ],
   "cyclic:beacon_redstone": [
     255,
     0,
     0
+  ],
+  "wallpapercraft:auralampbrown-5": [
+    136,
+    68,
+    17
   ],
   "thaumon:amber_brick_slab": [
     255,
@@ -25469,6 +25679,11 @@
     0,
     255
   ],
+  "musings:circle_black_ring_lime_bg_flipping": [
+    187,
+    255,
+    0
+  ],
   "colorfulcampfires:gray_stripped_birch_campfire": [
     136,
     136,
@@ -25478,11 +25693,6 @@
     136,
     68,
     17
-  ],
-  "musings:circle_black_ring_lime_bg_flipping": [
-    187,
-    255,
-    0
   ],
   "ctl:quarter_htlb": [
     255,
@@ -25654,6 +25864,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:polished_magmatic_rhyolite_stairs": [
+    255,
+    255,
+    255
+  ],
   "projectexpansion:violet_relay": [
     255,
     255,
@@ -25663,6 +25878,11 @@
     187,
     255,
     0
+  ],
+  "caverns_and_chasms:exposed_copper_lantern": [
+    255,
+    255,
+    255
   ],
   "dustrial_decor:redstone_lantern": [
     255,
@@ -25688,6 +25908,11 @@
     255,
     0,
     0
+  ],
+  "caverns_and_chasms:diamond_lamp": [
+    255,
+    255,
+    255
   ],
   "biomesoplenty:glowshroom": [
     255,
@@ -25914,11 +26139,6 @@
     136,
     136
   ],
-  "wallpapercraft:auralamppurple-0": [
-    170,
-    34,
-    255
-  ],
   "chisel:layer/glowstone": [
     255,
     255,
@@ -25929,12 +26149,22 @@
     255,
     255
   ],
-  "wallpapercraft:auralamppurple-1": [
+  "wallpapercraft:auralamppurple-0": [
     170,
     34,
     255
   ],
   "fcb:fcbg2311680": [
+    255,
+    255,
+    255
+  ],
+  "wallpapercraft:auralamppurple-1": [
+    170,
+    34,
+    255
+  ],
+  "caverns_and_chasms:copper_lantern": [
     255,
     255,
     255
@@ -25969,14 +26199,14 @@
     34,
     255
   ],
-  "wallpapercraft:auralamppurple-3": [
-    170,
-    34,
-    255
-  ],
   "rats:upgrade_combiner": [
     255,
     255,
+    255
+  ],
+  "wallpapercraft:auralamppurple-3": [
+    170,
+    34,
     255
   ],
   "refurbished_furniture:acacia_light_ceiling_fan": [
@@ -26029,14 +26259,14 @@
     0,
     255
   ],
-  "colorfulcampfires:cyan_mangrove_campfire": [
-    0,
-    255,
-    255
-  ],
   "musings:circle_lime_ring_purple_bg_flipping": [
     170,
     34,
+    255
+  ],
+  "colorfulcampfires:cyan_mangrove_campfire": [
+    0,
+    255,
     255
   ],
   "colorfulcampfires:purple_cherry_campfire": [
@@ -26449,15 +26679,15 @@
     0,
     0
   ],
-  "wallpapercraft:auralampyellow-1": [
-    255,
-    255,
-    0
-  ],
   "mcwholidays:colorful_string_lights": [
     255,
     255,
     255
+  ],
+  "wallpapercraft:auralampyellow-1": [
+    255,
+    255,
+    0
   ],
   "wallpapercraft:auralampyellow-0": [
     255,
@@ -26784,12 +27014,12 @@
     0,
     0
   ],
-  "mekanism:elite_smelting_factory": [
+  "fcb:fcbg9237865": [
     255,
     255,
     255
   ],
-  "fcb:fcbg9237865": [
+  "mekanism:elite_smelting_factory": [
     255,
     255,
     255
@@ -26898,6 +27128,11 @@
     255,
     0,
     0
+  ],
+  "additionalplacements:caverns_and_chasms.polished_magmatic_rhyolite_slab": [
+    255,
+    255,
+    255
   ],
   "mysticsbiomes:chocolate_candle_cake_light_blue": [
     0,
@@ -27014,6 +27249,11 @@
     0,
     255
   ],
+  "caverns_and_chasms:oxidized_copper_bulb": [
+    255,
+    255,
+    255
+  ],
   "missingwilds:green_stained_firefly_jar": [
     0,
     255,
@@ -27074,14 +27314,14 @@
     255,
     255
   ],
-  "colorfulcampfires:white_stripped_jungle_campfire": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_pink_ring_magenta_bg": [
     255,
     0,
+    255
+  ],
+  "colorfulcampfires:white_stripped_jungle_campfire": [
+    255,
+    255,
     255
   ],
   "truedarkness:neasky_leaves": [
@@ -27129,15 +27369,15 @@
     255,
     255
   ],
-  "colorfulcampfires:lime_mangrove_campfire": [
-    187,
-    255,
-    0
-  ],
   "musings:circle_black_ring_magenta_bg_flipping": [
     255,
     0,
     255
+  ],
+  "colorfulcampfires:lime_mangrove_campfire": [
+    187,
+    255,
+    0
   ],
   "skinnedlanterns:paper_orange_soul_lantern_block": [
     255,
@@ -27329,6 +27569,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:emerald_lamp": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:yellow_spruce_campfire": [
     255,
     255,
@@ -27484,15 +27729,15 @@
     255,
     255
   ],
-  "colorfulcampfires:light_gray_stripped_jungle_dark_campfire": [
-    136,
-    136,
-    136
-  ],
   "fairylights:oil_lantern_light": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:light_gray_stripped_jungle_dark_campfire": [
+    136,
+    136,
+    136
   ],
   "projectexpansion:purple_power_flower": [
     170,
@@ -27564,6 +27809,11 @@
     255,
     0
   ],
+  "caverns_and_chasms:waxed_oxidized_copper_lantern": [
+    255,
+    255,
+    255
+  ],
   "wallpapercraft:auralampgreen-8": [
     0,
     255,
@@ -27589,17 +27839,12 @@
     255,
     0
   ],
-  "wallpapercraft:auralampgreen-4": [
-    0,
-    255,
-    0
-  ],
   "rats:jack_o_ratern": [
     255,
     255,
     255
   ],
-  "wallpapercraft:auralampgreen-1": [
+  "wallpapercraft:auralampgreen-4": [
     0,
     255,
     0
@@ -27608,6 +27853,11 @@
     255,
     255,
     255
+  ],
+  "wallpapercraft:auralampgreen-1": [
+    0,
+    255,
+    0
   ],
   "wallpapercraft:auralampgreen-2": [
     0,
@@ -27814,6 +28064,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:magenta_wall_sparkler": [
+    255,
+    0,
+    255
+  ],
   "chipped:upside_down_jack_o_lantern": [
     255,
     255,
@@ -27993,6 +28248,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:orange_wall_sparkler": [
+    255,
+    102,
+    17
   ],
   "framedblocks:framed_redstone_wall_torch": [
     255,
@@ -28354,15 +28614,15 @@
     0,
     0
   ],
-  "colorfulcampfires:brown_cherry_campfire": [
-    136,
-    68,
-    17
-  ],
   "skinnedlanterns:jack_o_lantern_lantern_block": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:brown_cherry_campfire": [
+    136,
+    68,
+    17
   ],
   "torchslabmod:pad_candle_purple": [
     170,
@@ -29214,12 +29474,12 @@
     255,
     255
   ],
-  "mekanism_extras:cosmic_infusing_factory": [
+  "fcb:fcbg4623360": [
     255,
     255,
     255
   ],
-  "fcb:fcbg4623360": [
+  "mekanism_extras:cosmic_infusing_factory": [
     255,
     255,
     255
@@ -29289,15 +29549,15 @@
     0,
     0
   ],
-  "wallpapercraft:stonelampred-3": [
-    255,
-    0,
-    0
-  ],
   "musings:circle_cyan_ring_brown_bg_flipping": [
     136,
     68,
     17
+  ],
+  "wallpapercraft:stonelampred-3": [
+    255,
+    0,
+    0
   ],
   "wallpapercraft:stonelampred-4": [
     255,
@@ -29329,15 +29589,15 @@
     0,
     0
   ],
-  "wallpapercraft:stonelampred-8": [
-    255,
-    0,
-    0
-  ],
   "ctl:vertical_step_htlb": [
     255,
     255,
     255
+  ],
+  "wallpapercraft:stonelampred-8": [
+    255,
+    0,
+    0
   ],
   "wallpapercraft:stonelampred-9": [
     255,
@@ -29794,6 +30054,11 @@
     68,
     17
   ],
+  "caverns_and_chasms:wall_sparkler": [
+    255,
+    255,
+    255
+  ],
   "xycraft_world:lamp_cube_brown": [
     136,
     68,
@@ -29869,13 +30134,13 @@
     255,
     255
   ],
-  "colorfulcampfires:cyan_crimson_stem_campfire": [
-    0,
+  "additionalplacements:luminax.white_luminax_stairs": [
+    255,
     255,
     255
   ],
-  "additionalplacements:luminax.white_luminax_stairs": [
-    255,
+  "colorfulcampfires:cyan_crimson_stem_campfire": [
+    0,
     255,
     255
   ],
@@ -29952,6 +30217,11 @@
   "integrateddynamics:menril_torch_stone_wall": [
     255,
     255,
+    0
+  ],
+  "caverns_and_chasms:red_sparkler": [
+    255,
+    0,
     0
   ],
   "fcb:fcbg16110080": [
@@ -30044,15 +30314,15 @@
     102,
     17
   ],
-  "colorfulcampfires:green_cherry_dark_campfire": [
-    0,
-    255,
-    0
-  ],
   "bbb:brazier": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:green_cherry_dark_campfire": [
+    0,
+    255,
+    0
   ],
   "chipped:fine_magma_block_pillar": [
     255,
@@ -30064,14 +30334,14 @@
     255,
     255
   ],
-  "colorfulcampfires:blue_stripped_birch_dark_campfire": [
-    0,
-    0,
-    255
-  ],
   "fcb:fcbg2329670": [
     255,
     255,
+    255
+  ],
+  "colorfulcampfires:blue_stripped_birch_dark_campfire": [
+    0,
+    0,
     255
   ],
   "tconstruct:molten_nickel_fluid": [
@@ -30309,15 +30579,15 @@
     255,
     255
   ],
-  "colorfulcampfires:stripped_mangrove_campfire": [
-    255,
-    255,
-    255
-  ],
   "additionalplacements:moglowstoneplus.gray_glowstone_slab": [
     136,
     136,
     136
+  ],
+  "colorfulcampfires:stripped_mangrove_campfire": [
+    255,
+    255,
+    255
   ],
   "betterend:iron_bulb_lantern_white": [
     255,
@@ -30489,14 +30759,14 @@
     102,
     187
   ],
-  "colorfulcampfires:magenta_acacia_campfire": [
-    255,
-    0,
-    255
-  ],
   "fcb:fcbg6890345": [
     255,
     255,
+    255
+  ],
+  "colorfulcampfires:magenta_acacia_campfire": [
+    255,
+    0,
     255
   ],
   "natures_spirit:lime_paper_lantern": [
@@ -30644,11 +30914,6 @@
     102,
     187
   ],
-  "colorfulcampfires:black_stripped_bamboo_dark_campfire": [
-    0,
-    0,
-    0
-  ],
   "musings:circle_white_ring_gray_bg_flipping": [
     136,
     136,
@@ -30657,6 +30922,11 @@
   "musings:circle_magenta_ring_lime_bg": [
     187,
     255,
+    0
+  ],
+  "colorfulcampfires:black_stripped_bamboo_dark_campfire": [
+    0,
+    0,
     0
   ],
   "betterend:iron_bulb_lantern_blue": [
@@ -30719,15 +30989,15 @@
     255,
     0
   ],
-  "colorfulcampfires:black_stripped_acacia_campfire": [
-    0,
-    0,
-    0
-  ],
   "fcb:fcbg13780550": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:black_stripped_acacia_campfire": [
+    0,
+    0,
+    0
   ],
   "diamethysts:diamethyst_glass": [
     170,
@@ -30924,14 +31194,14 @@
     255,
     255
   ],
-  "colorfulcampfires:magenta_birch_dark_campfire": [
-    255,
-    0,
-    255
-  ],
   "cyclic:sponge_lava": [
     255,
     255,
+    255
+  ],
+  "colorfulcampfires:magenta_birch_dark_campfire": [
+    255,
+    0,
     255
   ],
   "fcb:fcbg4596690": [
@@ -31154,12 +31424,12 @@
     255,
     255
   ],
-  "colorfulcampfires:white_stripped_birch_dark_campfire": [
+  "fcb:fcbg4596655": [
     255,
     255,
     255
   ],
-  "fcb:fcbg4596655": [
+  "colorfulcampfires:white_stripped_birch_dark_campfire": [
     255,
     255,
     255
@@ -31274,14 +31544,14 @@
     255,
     0
   ],
-  "colorfulcampfires:purple_birch_dark_campfire": [
-    170,
-    34,
-    255
-  ],
   "fcb:fcbg6890380": [
     255,
     255,
+    255
+  ],
+  "colorfulcampfires:purple_birch_dark_campfire": [
+    170,
+    34,
     255
   ],
   "fcb:fcbg53760": [
@@ -31489,12 +31759,12 @@
     255,
     0
   ],
-  "colorfulcampfires:green_stripped_acacia_dark_campfire": [
+  "musings:circle_brown_ring_green_bg_flipping": [
     0,
     255,
     0
   ],
-  "musings:circle_brown_ring_green_bg_flipping": [
+  "colorfulcampfires:green_stripped_acacia_dark_campfire": [
     0,
     255,
     0
@@ -31919,15 +32189,15 @@
     255,
     255
   ],
-  "colorfulcampfires:magenta_dark_oak_campfire": [
-    255,
-    0,
-    255
-  ],
   "projectexpansion:green_emc_link": [
     0,
     255,
     0
+  ],
+  "colorfulcampfires:magenta_dark_oak_campfire": [
+    255,
+    0,
+    255
   ],
   "chipped:tiny_layered_magma_block_bricks": [
     255,
@@ -32229,14 +32499,14 @@
     0,
     255
   ],
-  "colorfulcampfires:light_blue_stripped_oak_dark_campfire": [
-    0,
-    0,
-    255
-  ],
   "chisel:encased_bricks/glowstone": [
     255,
     255,
+    255
+  ],
+  "colorfulcampfires:light_blue_stripped_oak_dark_campfire": [
+    0,
+    0,
     255
   ],
   "pyrite:star_stained_glass_pane": [
@@ -32248,6 +32518,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:orange_sparkler": [
+    255,
+    102,
+    17
   ],
   "caverns_and_chasms:cupric_campfire": [
     255,
@@ -32460,6 +32735,11 @@
     255
   ],
   "chemlib:helium_lamp_block": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:white_wall_sparkler": [
     255,
     255,
     255
@@ -32679,14 +32959,14 @@
     255,
     0
   ],
-  "colorfulcampfires:yellow_warped_stem_campfire": [
-    255,
-    255,
-    0
-  ],
   "additionalplacements:mcwlights.redstone_lamp_slab": [
     255,
     0,
+    0
+  ],
+  "colorfulcampfires:yellow_warped_stem_campfire": [
+    255,
+    255,
     0
   ],
   "colorfulcampfires:light_blue_stripped_jungle_dark_campfire": [
@@ -32738,6 +33018,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:weathered_copper_bulb": [
+    255,
+    0,
+    0
   ],
   "vanilladelight:nether_bricks_stove": [
     255,
@@ -33039,24 +33324,24 @@
     255,
     0
   ],
-  "mekanism:block_refined_glowstone": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_green_ring_brown_bg": [
     136,
     68,
     17
   ],
-  "colorfulcampfires:light_blue_acacia_campfire": [
-    0,
-    0,
+  "mekanism:block_refined_glowstone": [
+    255,
+    255,
     255
   ],
   "glow_up:temporary_light": [
     255,
     255,
+    255
+  ],
+  "colorfulcampfires:light_blue_acacia_campfire": [
+    0,
+    0,
     255
   ],
   "musings:circle_cyan_ring_gray_bg_flipping": [
@@ -33103,6 +33388,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:pink_wall_sparkler": [
+    255,
+    102,
+    187
   ],
   "rubinated_nether:bleeding_obsidian": [
     255,
@@ -33194,15 +33484,15 @@
     255,
     255
   ],
-  "colorfulcampfires:orange_acacia_dark_campfire": [
-    255,
-    102,
-    17
-  ],
   "additionalplacements:thaumon.amber_slab": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:orange_acacia_dark_campfire": [
+    255,
+    102,
+    17
   ],
   "betterblockz:cyberlight_thin_alt_6": [
     255,
@@ -33373,6 +33663,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:yellow_wall_sparkler": [
+    255,
+    255,
+    0
   ],
   "environmental:dwarf_spruce_plant_redstone_torch": [
     255,
@@ -33829,15 +34124,15 @@
     0,
     255
   ],
-  "colorfulcampfires:green_stripped_bamboo_campfire": [
-    0,
-    255,
-    0
-  ],
   "fcb:fcbg17990": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:green_stripped_bamboo_campfire": [
+    0,
+    255,
+    0
   ],
   "rockyminerals:halite_lamp": [
     255,
@@ -33883,6 +34178,11 @@
     255,
     255,
     0
+  ],
+  "caverns_and_chasms:coal": [
+    255,
+    255,
+    255
   ],
   "additionalplacements:xkdeco.tech_lamp_slab": [
     255,
@@ -34179,15 +34479,15 @@
     255,
     255
   ],
-  "colorfulcampfires:red_acacia_dark_campfire": [
-    255,
-    0,
-    0
-  ],
   "musings:circle_light_blue_ring_cyan_bg": [
     0,
     255,
     255
+  ],
+  "colorfulcampfires:red_acacia_dark_campfire": [
+    255,
+    0,
+    0
   ],
   "braziliandelight:carrot_cake_with_light_gray_candle": [
     136,
@@ -34314,23 +34614,23 @@
     255,
     255
   ],
-  "colorfulcampfires:cyan_stripped_oak_dark_campfire": [
-    0,
-    255,
-    255
-  ],
   "moglowstonelamps:purple_lamp": [
     170,
     34,
     255
   ],
-  "colorfulcampfires:yellow_stripped_birch_campfire": [
+  "colorfulcampfires:cyan_stripped_oak_dark_campfire": [
+    0,
     255,
-    255,
-    0
+    255
   ],
   "musings:circle_orange_ring_green_bg": [
     0,
+    255,
+    0
+  ],
+  "colorfulcampfires:yellow_stripped_birch_campfire": [
+    255,
     255,
     0
   ],
@@ -34449,6 +34749,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:magmatic_rhyolite_brick_slab": [
+    255,
+    255,
+    255
+  ],
   "xycraft_world:aurey_block_matte_glowing_lime": [
     187,
     255,
@@ -34554,6 +34859,11 @@
     34,
     255
   ],
+  "moglowstonelamps:red_lamp": [
+    255,
+    0,
+    0
+  ],
   "mekanismadditions:pink_glow_panel": [
     255,
     102,
@@ -34564,15 +34874,15 @@
     34,
     255
   ],
-  "moglowstonelamps:red_lamp": [
-    255,
-    0,
-    0
-  ],
   "wallpapercraft:stonelamppurple-0": [
     170,
     34,
     255
+  ],
+  "additionalplacements:mekanismadditions.red_plastic_glow_slab": [
+    255,
+    0,
+    0
   ],
   "colorfulcampfires:pink_dark_oak_dark_campfire": [
     255,
@@ -34583,11 +34893,6 @@
     170,
     34,
     255
-  ],
-  "additionalplacements:mekanismadditions.red_plastic_glow_slab": [
-    255,
-    0,
-    0
   ],
   "wallpapercraft:stonelamppurple-2": [
     170,
@@ -34609,14 +34914,14 @@
     255,
     255
   ],
-  "wallpapercraft:stonelamppurple-8": [
-    170,
-    34,
-    255
-  ],
   "cyclic:peace_candle": [
     255,
     255,
+    255
+  ],
+  "wallpapercraft:stonelamppurple-8": [
+    170,
+    34,
     255
   ],
   "wallpapercraft:stonelamppurple-9": [
@@ -34854,6 +35159,11 @@
     102,
     187
   ],
+  "caverns_and_chasms:red_wall_sparkler": [
+    255,
+    0,
+    0
+  ],
   "xycraft_world:aurey_block_matte_glowing_blue": [
     0,
     0,
@@ -34929,15 +35239,15 @@
     255,
     255
   ],
-  "colorfulcampfires:light_gray_cherry_dark_campfire": [
-    136,
-    136,
-    136
-  ],
   "additionalplacements:rechiseled.glowstone_large_tiles_slab_connecting": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:light_gray_cherry_dark_campfire": [
+    136,
+    136,
+    136
   ],
   "avaritia_integration:fake_end_portal_frame": [
     255,
@@ -35039,15 +35349,15 @@
     255,
     255
   ],
-  "colorfulcampfires:black_stripped_warped_stem_campfire": [
-    0,
-    0,
-    0
-  ],
   "mekanism:chemical_injection_chamber": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:black_stripped_warped_stem_campfire": [
+    0,
+    0,
+    0
   ],
   "ror:red_neon_block": [
     255,
@@ -35719,6 +36029,11 @@
     102,
     187
   ],
+  "caverns_and_chasms:cyan_wall_sparkler": [
+    0,
+    255,
+    255
+  ],
   "colorfulcampfires:gray_stripped_crimson_stem_campfire": [
     136,
     136,
@@ -35754,15 +36069,15 @@
     255,
     255
   ],
-  "colorfulcampfires:pink_spruce_campfire": [
-    255,
-    102,
-    187
-  ],
   "snowyspirit:glow_lights_green": [
     0,
     255,
     0
+  ],
+  "colorfulcampfires:pink_spruce_campfire": [
+    255,
+    102,
+    187
   ],
   "mcwlights:soul_dark_oak_tiki_torch": [
     255,
@@ -35964,6 +36279,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:waxed_weathered_copper_lantern": [
+    255,
+    0,
+    0
+  ],
   "chipped:inlayed_white_redstone_lamp": [
     255,
     0,
@@ -36039,15 +36359,15 @@
     0,
     0
   ],
-  "mekanismadditions:brown_glow_panel": [
-    136,
-    68,
-    17
-  ],
   "mcwholidays:wavy_garland_purple_lights": [
     170,
     34,
     255
+  ],
+  "mekanismadditions:brown_glow_panel": [
+    136,
+    68,
+    17
   ],
   "additional_lights:al_lamp_iron_block": [
     255,
@@ -36189,15 +36509,15 @@
     255,
     255
   ],
-  "colorfulcampfires:yellow_stripped_bamboo_dark_campfire": [
-    255,
-    255,
-    0
-  ],
   "bbb:jungle_lantern": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:yellow_stripped_bamboo_dark_campfire": [
+    255,
+    255,
+    0
   ],
   "luminousworld:fire_flyjar_1": [
     255,
@@ -36304,14 +36624,14 @@
     255,
     0
   ],
-  "wallpapercraft:stonelampbrown-1": [
-    136,
-    68,
-    17
-  ],
   "musings:circle_light_gray_ring_orange_bg_flipping": [
     255,
     102,
+    17
+  ],
+  "wallpapercraft:stonelampbrown-1": [
+    136,
+    68,
     17
   ],
   "wallpapercraft:stonelampbrown-2": [
@@ -36419,6 +36739,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:turquoise_lamp": [
+    255,
+    255,
+    255
+  ],
   "botania:glimmering_stripped_livingwood_log": [
     255,
     255,
@@ -36454,15 +36779,15 @@
     255,
     255
   ],
-  "colorfulcampfires:light_blue_cherry_dark_campfire": [
-    0,
-    0,
-    255
-  ],
   "musings:circle_orange_ring_black_bg": [
     0,
     0,
     0
+  ],
+  "colorfulcampfires:light_blue_cherry_dark_campfire": [
+    0,
+    0,
+    255
   ],
   "musings:circle_gray_ring_light_gray_bg": [
     136,
@@ -36594,15 +36919,15 @@
     255,
     255
   ],
-  "colorfulcampfires:blue_acacia_dark_campfire": [
-    0,
-    0,
-    255
-  ],
   "musings:circle_orange_ring_lime_bg": [
     187,
     255,
     0
+  ],
+  "colorfulcampfires:blue_acacia_dark_campfire": [
+    0,
+    0,
+    255
   ],
   "theabyss:vigilant_hanging_fruit": [
     255,
@@ -36779,15 +37104,15 @@
     255,
     0
   ],
-  "colorfulcampfires:purple_birch_campfire": [
-    170,
-    34,
-    255
-  ],
   "mekanismadditions:lime_plastic_glow": [
     187,
     255,
     0
+  ],
+  "colorfulcampfires:purple_birch_campfire": [
+    170,
+    34,
+    255
   ],
   "musings:circle_cyan_ring_magenta_bg": [
     255,
@@ -36919,15 +37244,15 @@
     0,
     255
   ],
-  "colorfulcampfires:pink_oak_dark_campfire": [
-    255,
-    102,
-    187
-  ],
   "additionalplacements:ba_bt.active_corrite_slab": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:pink_oak_dark_campfire": [
+    255,
+    102,
+    187
   ],
   "colorfulcampfires:lime_stripped_dark_oak_dark_campfire": [
     187,
@@ -37175,6 +37500,11 @@
     255
   ],
   "bc_core:tinted_water_block_126": [
+    255,
+    255,
+    255
+  ],
+  "additionalplacements:caverns_and_chasms.magmatic_rhyolite_brick_stairs": [
     255,
     255,
     255
@@ -37679,12 +38009,12 @@
     0,
     0
   ],
-  "mekanism_extras:infinite_bin": [
+  "rftoolsbase:dimensionalshard_overworld": [
     255,
     255,
     255
   ],
-  "rftoolsbase:dimensionalshard_overworld": [
+  "mekanism_extras:infinite_bin": [
     255,
     255,
     255
@@ -38179,6 +38509,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:pink_sparkler": [
+    255,
+    102,
+    187
+  ],
   "sonicraft:level_select_aquatic_ruin_zone_portal": [
     255,
     255,
@@ -38274,6 +38609,16 @@
     255,
     255
   ],
+  "caverns_and_chasms:purple_sparkler": [
+    170,
+    34,
+    255
+  ],
+  "caverns_and_chasms:light_gray_sparkler": [
+    136,
+    136,
+    136
+  ],
   "skinnedlanterns:creeper_lantern_block": [
     255,
     255,
@@ -38304,12 +38649,12 @@
     255,
     255
   ],
-  "mekanism:elite_sawing_factory": [
+  "fcb:fcbg18165": [
     255,
     255,
     255
   ],
-  "fcb:fcbg18165": [
+  "mekanism:elite_sawing_factory": [
     255,
     255,
     255
@@ -38344,15 +38689,15 @@
     255,
     255
   ],
-  "colorfulcampfires:light_gray_jungle_campfire": [
-    136,
-    136,
-    136
-  ],
   "additionalplacements:luminax.magenta_luminax_stairs": [
     255,
     0,
     255
+  ],
+  "colorfulcampfires:light_gray_jungle_campfire": [
+    136,
+    136,
+    136
   ],
   "colorfulcampfires:yellow_birch_campfire": [
     255,
@@ -38499,6 +38844,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:polished_magmatic_rhyolite_wall": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:brown_crimson_stem_dark_campfire": [
     136,
     68,
@@ -38579,12 +38929,12 @@
     0,
     255
   ],
-  "colorfulcampfires:white_stripped_crimson_stem_campfire": [
+  "fcb:fcbg6944210": [
     255,
     255,
     255
   ],
-  "fcb:fcbg6944210": [
+  "colorfulcampfires:white_stripped_crimson_stem_campfire": [
     255,
     255,
     255
@@ -39864,6 +40214,11 @@
     136,
     136
   ],
+  "caverns_and_chasms:polished_magmatic_rhyolite": [
+    255,
+    255,
+    255
+  ],
   "theabyss:icora_flower": [
     255,
     255,
@@ -40444,6 +40799,11 @@
     255,
     255
   ],
+  "additionalplacements:caverns_and_chasms.magmatic_rhyolite_brick_slab": [
+    255,
+    255,
+    255
+  ],
   "projectexpansion:cyan_relay": [
     0,
     255,
@@ -40989,15 +41349,15 @@
     255,
     255
   ],
-  "mekanism_extras:infinite_crushing_factory": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_purple_ring_lime_bg": [
     187,
     255,
     0
+  ],
+  "mekanism_extras:infinite_crushing_factory": [
+    255,
+    255,
+    255
   ],
   "colorfulcampfires:purple_stripped_cherry_dark_campfire": [
     170,
@@ -41409,15 +41769,15 @@
     255,
     255
   ],
-  "colorfulcampfires:green_oak_dark_campfire": [
-    0,
-    255,
-    0
-  ],
   "bigreactors:cyanite_fluid": [
     0,
     255,
     255
+  ],
+  "colorfulcampfires:green_oak_dark_campfire": [
+    0,
+    255,
+    0
   ],
   "twilightforest:huge_mushgloom_stem": [
     255,
@@ -41428,6 +41788,11 @@
     255,
     0,
     0
+  ],
+  "caverns_and_chasms:charcoal": [
+    255,
+    255,
+    255
   ],
   "redeco:yellow_paper_lantern": [
     255,
@@ -41634,6 +41999,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:blue_sparkler": [
+    0,
+    0,
+    255
+  ],
   "moglowstoneplus:white_glowstone_slab": [
     255,
     255,
@@ -41744,17 +42114,17 @@
     255,
     255
   ],
-  "colorfulcampfires:white_spruce_campfire": [
-    255,
-    255,
-    255
-  ],
   "fcb:fcbg16065315": [
     255,
     255,
     255
   ],
   "betterfishtanks:translucent_lava_block": [
+    255,
+    255,
+    255
+  ],
+  "colorfulcampfires:white_spruce_campfire": [
     255,
     255,
     255
@@ -41789,15 +42159,15 @@
     255,
     255
   ],
-  "colorfulcampfires:green_stripped_oak_dark_campfire": [
-    0,
-    255,
-    0
-  ],
   "musings:circle_lime_ring_blue_bg_flipping": [
     0,
     0,
     255
+  ],
+  "colorfulcampfires:green_stripped_oak_dark_campfire": [
+    0,
+    255,
+    0
   ],
   "architects_palette:abyssaline": [
     255,
@@ -42049,11 +42419,6 @@
     255,
     255
   ],
-  "wallpapercraft:stonelampgreen-11": [
-    0,
-    255,
-    0
-  ],
   "additionalplacements:moglowstoneplus.black_glowstone_slab": [
     0,
     0,
@@ -42063,6 +42428,11 @@
     255,
     255,
     255
+  ],
+  "wallpapercraft:stonelampgreen-11": [
+    0,
+    255,
+    0
   ],
   "betterblockz:cyberlight_thin_11": [
     255,
@@ -42124,15 +42494,15 @@
     255,
     255
   ],
-  "colorfulcampfires:lime_jungle_campfire": [
-    187,
-    255,
-    0
-  ],
   "mcwholidays:white_wavy_garland_blue_lights": [
     0,
     0,
     255
+  ],
+  "colorfulcampfires:lime_jungle_campfire": [
+    187,
+    255,
+    0
   ],
   "fairylights:icicle_lights": [
     255,
@@ -42319,15 +42689,15 @@
     255,
     255
   ],
-  "colorfulcampfires:brown_acacia_dark_campfire": [
-    136,
-    68,
-    17
-  ],
   "additionalplacements:pyrite.glow_brick_stairs": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:brown_acacia_dark_campfire": [
+    136,
+    68,
+    17
   ],
   "productivetrees:purple_spiral_wall_hanging_sign": [
     170,
@@ -42359,12 +42729,12 @@
     255,
     0
   ],
-  "colorfulcampfires:white_stripped_spruce_dark_campfire": [
+  "rats:pirat_trapdoor": [
     255,
     255,
     255
   ],
-  "rats:pirat_trapdoor": [
+  "colorfulcampfires:white_stripped_spruce_dark_campfire": [
     255,
     255,
     255
@@ -42459,15 +42829,15 @@
     255,
     255
   ],
-  "colorfulcampfires:gray_stripped_spruce_campfire": [
-    136,
-    136,
-    136
-  ],
   "tanukidecor:gorgeous_lamp": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:gray_stripped_spruce_campfire": [
+    136,
+    136,
+    136
   ],
   "colorfulcampfires:magenta_birch_campfire": [
     255,
@@ -42719,15 +43089,15 @@
     0,
     0
   ],
-  "colorfulcampfires:yellow_stripped_acacia_dark_campfire": [
-    255,
-    255,
-    0
-  ],
   "additionalplacements:spelunkery.rock_salt_brick_stairs": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:yellow_stripped_acacia_dark_campfire": [
+    255,
+    255,
+    0
   ],
   "musings:circle_cyan_ring_black_bg_flipping": [
     0,
@@ -42859,15 +43229,15 @@
     0,
     255
   ],
-  "colorfulcampfires:gray_stripped_dark_oak_dark_campfire": [
-    136,
-    136,
-    136
-  ],
   "musings:circle_blue_ring_green_bg_flipping": [
     0,
     255,
     0
+  ],
+  "colorfulcampfires:gray_stripped_dark_oak_dark_campfire": [
+    136,
+    136,
+    136
   ],
   "colorfulcampfires:cyan_stripped_birch_campfire": [
     0,
@@ -43339,6 +43709,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:blue_wall_sparkler": [
+    0,
+    0,
+    255
+  ],
   "additionalplacements:mekanismadditions.black_plastic_glow_stairs": [
     0,
     0,
@@ -43394,13 +43769,13 @@
     255,
     255
   ],
-  "wallpapercraft:auralampcyan-3": [
-    0,
+  "fcb:fcbg9175180": [
+    255,
     255,
     255
   ],
-  "fcb:fcbg9175180": [
-    255,
+  "wallpapercraft:auralampcyan-3": [
+    0,
     255,
     255
   ],
@@ -43904,15 +44279,15 @@
     0,
     0
   ],
-  "colorfulcampfires:cyan_oak_dark_campfire": [
-    0,
-    255,
-    255
-  ],
   "mcwholidays:white_garland_green_lights": [
     0,
     255,
     0
+  ],
+  "colorfulcampfires:cyan_oak_dark_campfire": [
+    0,
+    255,
+    255
   ],
   "productivetrees:cave_dweller_stripped_wood": [
     255,
@@ -43949,25 +44324,30 @@
     68,
     17
   ],
+  "additionalplacements:thaumon.amber_stairs": [
+    255,
+    255,
+    255
+  ],
   "mekanismadditions:magenta_plastic_glow_stairs": [
     255,
     0,
     255
   ],
-  "additionalplacements:thaumon.amber_stairs": [
+  "additionalplacements:caverns_and_chasms.polished_magmatic_rhyolite_stairs": [
     255,
     255,
+    255
+  ],
+  "musings:circle_green_ring_light_blue_bg": [
+    0,
+    0,
     255
   ],
   "wallpapercraft:auralampgray-14": [
     136,
     136,
     136
-  ],
-  "musings:circle_green_ring_light_blue_bg": [
-    0,
-    0,
-    255
   ],
   "neonlamps:green_lamp": [
     0,
@@ -44013,6 +44393,11 @@
     255,
     255,
     0
+  ],
+  "additionalplacements:caverns_and_chasms.magmatic_rhyolite_slab": [
+    255,
+    255,
+    255
   ],
   "enigmaticdelicacy:astral_sapling": [
     255,
@@ -44124,14 +44509,14 @@
     136,
     136
   ],
-  "colorfulcampfires:purple_oak_campfire": [
-    170,
-    34,
-    255
-  ],
   "fcb:fcbg9175215": [
     255,
     255,
+    255
+  ],
+  "colorfulcampfires:purple_oak_campfire": [
+    170,
+    34,
     255
   ],
   "additional_lights:al_lamp_spruce_planks": [
@@ -44314,12 +44699,17 @@
     255,
     255
   ],
+  "fcb:fcbg4623535": [
+    255,
+    255,
+    255
+  ],
   "colorfulcampfires:pink_cherry_dark_campfire": [
     255,
     102,
     187
   ],
-  "fcb:fcbg4623535": [
+  "caverns_and_chasms:waxed_copper_lantern": [
     255,
     255,
     255
@@ -44429,13 +44819,13 @@
     255,
     255
   ],
-  "colorfulcampfires:yellow_jungle_dark_campfire": [
-    255,
+  "musings:circle_blue_ring_lime_bg": [
+    187,
     255,
     0
   ],
-  "musings:circle_blue_ring_lime_bg": [
-    187,
+  "colorfulcampfires:yellow_jungle_dark_campfire": [
+    255,
     255,
     0
   ],
@@ -44829,15 +45219,15 @@
     255,
     0
   ],
-  "colorfulcampfires:pink_stripped_bamboo_campfire": [
-    255,
-    102,
-    187
-  ],
   "mcwholidays:wavy_garland_red_lights": [
     255,
     0,
     0
+  ],
+  "colorfulcampfires:pink_stripped_bamboo_campfire": [
+    255,
+    102,
+    187
   ],
   "musings:circle_pink_ring_purple_bg": [
     170,
@@ -45284,12 +45674,12 @@
     255,
     0
   ],
-  "mekanism:ultimate_combining_factory": [
+  "fcb:fcbg6944070": [
     255,
     255,
     255
   ],
-  "fcb:fcbg6944070": [
+  "mekanism:ultimate_combining_factory": [
     255,
     255,
     255
@@ -45298,6 +45688,11 @@
     255,
     255,
     255
+  ],
+  "caverns_and_chasms:lime_wall_sparkler": [
+    187,
+    255,
+    0
   ],
   "fcb:fcbg9193030": [
     255,
@@ -45744,15 +46139,15 @@
     0,
     0
   ],
-  "colorfulcampfires:orange_mangrove_campfire": [
-    255,
-    102,
-    17
-  ],
   "fcb:fcbg6926220": [
     255,
     255,
     255
+  ],
+  "colorfulcampfires:orange_mangrove_campfire": [
+    255,
+    102,
+    17
   ],
   "chipped:creeper_crying_obsidian_carving": [
     255,
@@ -46150,6 +46545,11 @@
     255
   ],
   "fcb:fcbg9175285": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:magmatic_rhyolite_wall": [
     255,
     255,
     255

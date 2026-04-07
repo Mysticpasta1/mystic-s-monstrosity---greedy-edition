@@ -6,7 +6,7 @@
   "fpsDisplayVAlign": "TOP",
   "fpsDisplaySystemMode": "OFF",
   "fpsDisplayMargin": 12,
-  "fpsDisplayVMargin": 12,
+  "fpsDisplayVMargin": 40,
   "fpsDisplayShadow": false,
   "fog": true,
   "blueBand": true,

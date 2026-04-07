@@ -1,8 +1,8 @@
 {
   "serverAddress": "104.194.8.242:25054",
   "syncPort": 25054,
-  "lastSyncTimestamp": "2026-04-07T02:24:30.9797067Z",
-  "lastManifestHash": "0c99f43095c2b5269347369a90c8b228b9e6d2f032477e9cadb31adee2594557",
+  "lastSyncTimestamp": "2026-04-07T12:01:18.8544008Z",
+  "lastManifestHash": "fc3168a92e43b1310039a7ac8af3a3bdd5956d22c9e868e0b49c2fa59714fa14",
   "syncedFiles": {
     "mods/(1.20.1) copperworks-beta-1.5.1.jar": "1a41f98ee95539db7956206744d9a726310cb82ca3d3ef4b0a6ee880132e593d",
     "mods/1.20.1-forge-betteramethyst-1.0.4.jar": "ceb261dc19def4f7e98d28a685f6c50b4fc56ba98a0db8346081e75b4be46c3d",
@@ -1027,7 +1027,6 @@
     "mods/elytraslot-forge-6.4.4\u002B1.20.1.jar": "f96c26e7ac9e2dade0aa04f71b9f8708a2b7af92b9cc691103ae32c62764e6ab",
     "mods/embeddium-0.3.31\u002Bmc1.20.1.jar": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
     "mods/embersrekindled-1.20.1-1.4.7.jar": "d119455e74a8976ad3533a2c2b25fe942df8a27a57fcf35da1cd05177123477a",
-    "mods/emc-interface-1.20.1.1.jar": "3d07b97bc4482360c1898a04379cd058880af910f75b5dca724b8fa361c71257",
     "mods/enchantedcrystalarrow-1.20-1.0.2.jar": "8dedb9d89e2ea064ed830eee92fb404d9c9cc20c05d70be29235d67ccb90376c",
     "mods/enchanter_fix-1.8\u002Bmc1.20-1.21.11.jar": "fbf5eed72b801c2f859c918c76cd62be4650b22e3ee11d5e6e7f9829f2938cff",
     "mods/enchantlib-forge-1.4.1-1.20.jar": "c83c38cb2f159290ab24d07c2b9bc0ca934d7448e0edf5875c4de05fefa0cc69",
@@ -1619,7 +1618,6 @@
     "mods/projectile_damage-forge-3.2.2\u002B1.20.1.jar": "05d75229c1dfe096b74b1f756dbe92382979d409ad3a73b255f331ecae635978",
     "mods/projecttimemaster-0.1.0-1.20.1.jar": "601b98f0d774178761bff0fc5686bdba6e418ca8babe4ff7b327957e92ad6b3f",
     "mods/projectvibrantjourneys-1.20.1-6.2.1.jar": "2533832cbff26241b5a66338818f82a9528441bbc67697994995f73abeadecc4",
-    "mods/projex-1.3.jar": "0e9f10f8272f602f99a27dd401c20470b8d11e851094759e4405c4f50d7fb7a7",
     "mods/psionicutilities-1.20-1.4.jar": "9228530a7b0ea453b7aaac60f707d1e977e70bfb9d2beca5e0cbca3792900215",
     "mods/puffish_attributes-0.8.2-1.20-forge.jar": "6a7b6dad32da481891cde235ea8abd343733ccc5545b145de7bfa0670ae31d10",
     "mods/pumpkin_witch_house-1.0.0-forge-1.20.1.jar": "9d951317a5f588a4935ec436054057e2a3b014c7f1ed01ed7ee9d0f9a8a36b51",

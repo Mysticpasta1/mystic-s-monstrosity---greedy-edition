@@ -7749,6 +7749,11 @@
     0,
     255
   ],
+  "caverns_and_chasms:frosted_glass": [
+    255,
+    255,
+    255
+  ],
   "rechiseledcreate:dark_oak_window_slim": [
     255,
     255,
@@ -8250,6 +8255,11 @@
     255
   ],
   "rechiseledcreate:mangrove_window_bars": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:frosted_glass_pane": [
     255,
     255,
     255
@@ -9725,6 +9735,11 @@
     0
   ],
   "chipped:arched_white_stained_glass_pane_pillar": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:ornate_glass_pane": [
     255,
     255,
     255
@@ -14022,6 +14037,11 @@
   "somemoreblocks:blue_stained_tiled_glass_pane": [
     0,
     0,
+    255
+  ],
+  "caverns_and_chasms:float_glass_pane": [
+    255,
+    255,
     255
   ],
   "sonicraft:crisis_city_glass_broken": [
@@ -18454,6 +18474,11 @@
     255,
     255
   ],
+  "caverns_and_chasms:ornate_glass": [
+    255,
+    255,
+    255
+  ],
   "sundries:tan_stained_glass": [
     255,
     255,
@@ -19275,6 +19300,11 @@
     255
   ],
   "rechiseledcreate:mangrove_window_panes": [
+    255,
+    255,
+    255
+  ],
+  "caverns_and_chasms:float_glass": [
     255,
     255,
     255

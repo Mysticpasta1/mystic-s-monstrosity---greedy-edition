@@ -4721,3 +4721,13 @@
 		cleanroom_glass = "[255,255,255]"
 		borosilicate_glass_block = "[255,255,255]"
 
+[caverns_and_chasms]
+
+	[caverns_and_chasms.blocks]
+		float_glass = "[255,255,255]"
+		float_glass_pane = "[255,255,255]"
+		ornate_glass = "[255,255,255]"
+		ornate_glass_pane = "[255,255,255]"
+		frosted_glass = "[255,255,255]"
+		frosted_glass_pane = "[255,255,255]"
+
