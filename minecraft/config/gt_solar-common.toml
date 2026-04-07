@@ -1,0 +1,199 @@
+
+[solar_panel_lv]
+	#EU generated per tick when the panel is active.
+	#Range: 0 ~ 9223372036854775807
+	generation_per_tick = 32
+	#Maximum EU stored in the internal buffer.
+	#Range: 0 ~ 9223372036854775807
+	buffer = 12800
+	#Output voltage per packet.
+	#Range: 0 ~ 9223372036854775807
+	output_voltage = 32
+	#Maximum output amperage per tick.
+	#Range: 0 ~ 9223372036854775807
+	output_amperage = 1
+
+[solar_panel_mv]
+	#EU generated per tick when the panel is active.
+	#Range: 0 ~ 9223372036854775807
+	generation_per_tick = 128
+	#Maximum EU stored in the internal buffer.
+	#Range: 0 ~ 9223372036854775807
+	buffer = 51200
+	#Output voltage per packet.
+	#Range: 0 ~ 9223372036854775807
+	output_voltage = 128
+	#Maximum output amperage per tick.
+	#Range: 0 ~ 9223372036854775807
+	output_amperage = 1
+
+[solar_panel_hv]
+	#EU generated per tick when the panel is active.
+	#Range: 0 ~ 9223372036854775807
+	generation_per_tick = 512
+	#Maximum EU stored in the internal buffer.
+	#Range: 0 ~ 9223372036854775807
+	buffer = 204800
+	#Output voltage per packet.
+	#Range: 0 ~ 9223372036854775807
+	output_voltage = 512
+	#Maximum output amperage per tick.
+	#Range: 0 ~ 9223372036854775807
+	output_amperage = 1
+
+[solar_panel_ev]
+	#EU generated per tick when the panel is active.
+	#Range: 0 ~ 9223372036854775807
+	generation_per_tick = 2048
+	#Maximum EU stored in the internal buffer.
+	#Range: 0 ~ 9223372036854775807
+	buffer = 819200
+	#Output voltage per packet.
+	#Range: 0 ~ 9223372036854775807
+	output_voltage = 2048
+	#Maximum output amperage per tick.
+	#Range: 0 ~ 9223372036854775807
+	output_amperage = 1
+
+[solar_panel_iv]
+	#EU generated per tick when the panel is active.
+	#Range: 0 ~ 9223372036854775807
+	generation_per_tick = 8192
+	#Maximum EU stored in the internal buffer.
+	#Range: 0 ~ 9223372036854775807
+	buffer = 3276800
+	#Output voltage per packet.
+	#Range: 0 ~ 9223372036854775807
+	output_voltage = 8192
+	#Maximum output amperage per tick.
+	#Range: 0 ~ 9223372036854775807
+	output_amperage = 1
+
+[solar_panel_luv]
+	#EU generated per tick when the panel is active.
+	#Range: 0 ~ 9223372036854775807
+	generation_per_tick = 32768
+	#Maximum EU stored in the internal buffer.
+	#Range: 0 ~ 9223372036854775807
+	buffer = 13107200
+	#Output voltage per packet.
+	#Range: 0 ~ 9223372036854775807
+	output_voltage = 32768
+	#Maximum output amperage per tick.
+	#Range: 0 ~ 9223372036854775807
+	output_amperage = 1
+
+[solar_panel_zpm]
+	#EU generated per tick when the panel is active.
+	#Range: 0 ~ 9223372036854775807
+	generation_per_tick = 131072
+	#Maximum EU stored in the internal buffer.
+	#Range: 0 ~ 9223372036854775807
+	buffer = 52428800
+	#Output voltage per packet.
+	#Range: 0 ~ 9223372036854775807
+	output_voltage = 131072
+	#Maximum output amperage per tick.
+	#Range: 0 ~ 9223372036854775807
+	output_amperage = 1
+
+[multipliers]
+	#Generation multiplier if any transparent block is above the panel.
+	#Range: 0.0 ~ 1.0
+	glass = 0.6666666666666666
+	#Generation multiplier during rain.
+	#Range: 0.0 ~ 1.0
+	rain = 0.3333333333333333
+	#Generation multiplier during thunder.
+	#Range: 0.0 ~ 1.0
+	thunder = 0.0
+	#Generation multiplier in the morning for LV panels.
+	#Range: 0.0 ~ 10.0
+	lv_morning = 0.5
+	#Generation multiplier during the day for LV panels.
+	#Range: 0.0 ~ 10.0
+	lv_day = 1.0
+	#Generation multiplier in the evening for LV panels.
+	#Range: 0.0 ~ 10.0
+	lv_evening = 0.4
+	#Generation multiplier at night for LV panels.
+	#Range: 0.0 ~ 1.0
+	lv_night = 0.0
+	#Generation multiplier in the morning for MV panels.
+	#Range: 0.0 ~ 10.0
+	mv_morning = 0.57
+	#Generation multiplier during the day for MV panels.
+	#Range: 0.0 ~ 10.0
+	mv_day = 1.0
+	#Generation multiplier in the evening for MV panels.
+	#Range: 0.0 ~ 10.0
+	mv_evening = 0.47
+	#Generation multiplier at night for MV panels.
+	#Range: 0.0 ~ 1.0
+	mv_night = 0.03
+	#Generation multiplier in the morning for HV panels.
+	#Range: 0.0 ~ 10.0
+	hv_morning = 0.63
+	#Generation multiplier during the day for HV panels.
+	#Range: 0.0 ~ 10.0
+	hv_day = 1.0
+	#Generation multiplier in the evening for HV panels.
+	#Range: 0.0 ~ 10.0
+	hv_evening = 0.53
+	#Generation multiplier at night for HV panels.
+	#Range: 0.0 ~ 1.0
+	hv_night = 0.07
+	#Generation multiplier in the morning for EV panels.
+	#Range: 0.0 ~ 10.0
+	ev_morning = 0.7
+	#Generation multiplier during the day for EV panels.
+	#Range: 0.0 ~ 10.0
+	ev_day = 1.0
+	#Generation multiplier in the evening for EV panels.
+	#Range: 0.0 ~ 10.0
+	ev_evening = 0.6
+	#Generation multiplier at night for EV panels.
+	#Range: 0.0 ~ 1.0
+	ev_night = 0.1
+	#Generation multiplier in the morning for IV panels.
+	#Range: 0.0 ~ 10.0
+	iv_morning = 0.77
+	#Generation multiplier during the day for IV panels.
+	#Range: 0.0 ~ 10.0
+	iv_day = 1.0
+	#Generation multiplier in the evening for IV panels.
+	#Range: 0.0 ~ 10.0
+	iv_evening = 0.67
+	#Generation multiplier at night for IV panels.
+	#Range: 0.0 ~ 1.0
+	iv_night = 0.13
+	#Generation multiplier in the morning for LuV panels.
+	#Range: 0.0 ~ 10.0
+	luv_morning = 0.83
+	#Generation multiplier during the day for LuV panels.
+	#Range: 0.0 ~ 10.0
+	luv_day = 1.0
+	#Generation multiplier in the evening for LuV panels.
+	#Range: 0.0 ~ 10.0
+	luv_evening = 0.73
+	#Generation multiplier at night for LuV panels.
+	#Range: 0.0 ~ 1.0
+	luv_night = 0.17
+	#Generation multiplier in the morning for ZPM panels.
+	#Range: 0.0 ~ 10.0
+	zpm_morning = 0.9
+	#Generation multiplier during the day for ZPM panels.
+	#Range: 0.0 ~ 10.0
+	zpm_day = 1.0
+	#Generation multiplier in the evening for ZPM panels.
+	#Range: 0.0 ~ 10.0
+	zpm_evening = 0.8
+	#Generation multiplier at night for ZPM panels.
+	#Range: 0.0 ~ 1.0
+	zpm_night = 0.2
+	#Default generation multiplier for biomes (applied when no biome override is present).
+	#Range: 0.0 ~ 10.0
+	default_biome = 1.0
+	#Per-biome generation multipliers in format namespace:path=value, e.g. minecraft:plains=1.0
+	biome_multiplier_overrides = ["minecraft:desert=1.10", "minecraft:badlands=1.10", "minecraft:eroded_badlands=1.10", "minecraft:wooded_badlands=1.10", "minecraft:jungle=0.90", "minecraft:bamboo_jungle=0.90", "minecraft:sparse_jungle=0.95", "minecraft:dark_forest=0.90", "minecraft:swamp=0.85", "minecraft:mangrove_swamp=0.85", "minecraft:snowy_plains=0.80", "minecraft:snowy_taiga=0.80", "minecraft:ice_spikes=0.80", "minecraft:frozen_peaks=0.80", "minecraft:jagged_peaks=0.85", "minecraft:stony_peaks=0.90", "minecraft:mushroom_fields=1.05"]
+

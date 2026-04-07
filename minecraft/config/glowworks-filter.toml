@@ -4697,3 +4697,27 @@
 		decorative_glass_pane_4 = "[255,255,255]"
 		decorative_glass_pane_5 = "[255,255,255]"
 
+[growable_ores]
+
+	[growable_ores.blocks]
+		gtm_exquisite_glass_cane = "[255,255,255]"
+
+[landsoficaria]
+
+	[landsoficaria.blocks]
+		grainglass = "[255,255,255]"
+		grainglass_pane = "[255,255,255]"
+		horizontal_grainglass_pane = "[255,255,255]"
+		silkglass = "[255,255,255]"
+		silkglass_pane = "[255,255,255]"
+		horizontal_silkglass_pane = "[255,255,255]"
+
+[gtceu]
+
+	[gtceu.blocks]
+		tempered_glass = "[255,0,0]"
+		laminated_glass = "[255,255,255]"
+		fusion_glass = "[255,255,255]"
+		cleanroom_glass = "[255,255,255]"
+		borosilicate_glass_block = "[255,255,255]"
+

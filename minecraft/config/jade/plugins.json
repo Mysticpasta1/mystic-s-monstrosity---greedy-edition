@@ -1,4 +1,10 @@
 {
+  "gtmutils": {
+    "me_expanded_pattern_buffer_proxy_info": true,
+    "me_expanded_pattern_buffer_info": true,
+    "enlarged_me_stocking_bus_info": true,
+    "pterb_info": true
+  },
   "jadeaddons.mcjtylib": {
     "jadeaddons": true
   },
@@ -81,6 +87,12 @@
     "energy": true,
     "tooltip_renderer": true
   },
+  "projecte": {
+    "emc_provider": true
+  },
+  "projectexpansion": {
+    "provider": true
+  },
   "appliedcooking": {
     "kitchen_station": true
   },
@@ -147,6 +159,31 @@
   "logisticsnetworks": {
     "logistics_node_entity": true,
     "node_attached": true
+  },
+  "gtceu": {
+    "primitive_pump": true,
+    "auto_output_info": true,
+    "workable_provider": true,
+    "transformer": true,
+    "energy_converter_provider": true,
+    "controllable_provider": true,
+    "ldp_endpoint": true,
+    "me_pattern_buffer": true,
+    "exhaust_vent_info": true,
+    "me_pattern_buffer_proxy": true,
+    "multiblock_structure": true,
+    "recipe_logic_provider": true,
+    "maintenance_info": true,
+    "machine_mode": true,
+    "battery_info": true,
+    "electric_container_provider": true,
+    "steam_boiler_info": true,
+    "recipe_output_info": true,
+    "stained_color": true,
+    "hazard_cleaner_provider": true,
+    "cable_info": true,
+    "parallel_info": true,
+    "data_bank": true
   },
   "expatternprovider": {
     "jade_chamber": true,
@@ -263,11 +300,6 @@
   "entangled": {
     "entangled_block_component": true
   },
-  "minecolonies_compatibility": {
-    "crop.age": true,
-    "postbox.requested": true,
-    "stash.requested": true
-  },
   "avaritia": {
     "extreme_smithing": true,
     "crafting_table": true,
@@ -370,13 +402,6 @@
     "crop_progress": true,
     "pie_icons": true,
     "mushroom_colony": true
-  },
-  "jadecolonies": {
-    "colony.citizens": true,
-    "colony.colonist": true,
-    "colony.visitor_cost": true,
-    "colony.pack": true,
-    "domum.materials": true
   },
   "ultramarine": {
     "brick_kiln": true,
