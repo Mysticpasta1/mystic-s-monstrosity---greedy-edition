@@ -3190,6 +3190,85 @@
 	[chimes.blocks]
 		glass_bells = "[255,255,255]"
 
+[primalmagick]
+
+	[primalmagick.blocks]
+		skyglass = "[255,255,255]"
+		stained_skyglass_black = "[0,0,0]"
+		stained_skyglass_blue = "[0,0,255]"
+		stained_skyglass_brown = "[136,68,17]"
+		stained_skyglass_cyan = "[0,255,255]"
+		stained_skyglass_gray = "[136,136,136]"
+		stained_skyglass_green = "[0,255,0]"
+		stained_skyglass_light_blue = "[0,0,255]"
+		stained_skyglass_light_gray = "[136,136,136]"
+		stained_skyglass_lime = "[187,255,0]"
+		stained_skyglass_magenta = "[255,0,255]"
+		stained_skyglass_orange = "[255,102,17]"
+		stained_skyglass_pink = "[255,102,187]"
+		stained_skyglass_purple = "[170,34,255]"
+		stained_skyglass_red = "[255,0,0]"
+		stained_skyglass_white = "[255,255,255]"
+		stained_skyglass_yellow = "[255,255,0]"
+		skyglass_pane = "[255,255,255]"
+		stained_skyglass_pane_black = "[0,0,0]"
+		stained_skyglass_pane_blue = "[0,0,255]"
+		stained_skyglass_pane_brown = "[136,68,17]"
+		stained_skyglass_pane_cyan = "[0,255,255]"
+		stained_skyglass_pane_gray = "[136,136,136]"
+		stained_skyglass_pane_green = "[0,255,0]"
+		stained_skyglass_pane_light_blue = "[0,0,255]"
+		stained_skyglass_pane_light_gray = "[136,136,136]"
+		stained_skyglass_pane_lime = "[187,255,0]"
+		stained_skyglass_pane_magenta = "[255,0,255]"
+		stained_skyglass_pane_orange = "[255,102,17]"
+		stained_skyglass_pane_pink = "[255,102,187]"
+		stained_skyglass_pane_purple = "[170,34,255]"
+		stained_skyglass_pane_red = "[255,0,0]"
+		stained_skyglass_pane_white = "[255,255,255]"
+		stained_skyglass_pane_yellow = "[255,255,0]"
+
+[sonicraft]
+
+	[sonicraft.blocks]
+		capsule_glass = "[255,255,255]"
+		workshop_glass = "[255,255,255]"
+		scrap_brain_safety_glass = "[255,255,255]"
+		scrap_brain_glass = "[255,255,255]"
+		star_light_glass = "[255,255,255]"
+		blue_studiopolis_glass = "[0,0,255]"
+		pink_studiopolis_glass = "[255,102,187]"
+		crisis_city_glass = "[255,255,255]"
+		crisis_city_glass_broken = "[255,255,255]"
+		death_egg_arena_window = "[255,255,255]"
+		death_egg_arena_window_closed = "[255,255,255]"
+		death_egg_glass = "[255,255,255]"
+
+[luminousworld]
+
+	[luminousworld.blocks]
+		decorative_glass_block = "[255,255,255]"
+		decorative_glass_pane = "[255,255,255]"
+		decorative_glass_pane_2 = "[255,255,255]"
+		decorative_glass_pane_3 = "[255,255,255]"
+		decorative_glass_pane_4 = "[255,255,255]"
+		decorative_glass_pane_5 = "[255,255,255]"
+
+[growable_ores]
+
+	[growable_ores.blocks]
+		gtm_exquisite_glass_cane = "[255,255,255]"
+
+[landsoficaria]
+
+	[landsoficaria.blocks]
+		grainglass = "[255,255,255]"
+		grainglass_pane = "[255,255,255]"
+		horizontal_grainglass_pane = "[255,255,255]"
+		silkglass = "[255,255,255]"
+		silkglass_pane = "[255,255,255]"
+		horizontal_silkglass_pane = "[255,255,255]"
+
 [xkdeco]
 
 	[xkdeco.blocks]
@@ -4411,6 +4490,11 @@
 		glass_viewer_phantom_glowing = "[255,255,255]"
 		glass_viewer_phantom_dark = "[255,255,255]"
 
+[actuallyadditions]
+
+	[actuallyadditions.blocks]
+		greenhouse_glass = "[0,255,0]"
+
 [dawnoftimebuilder]
 
 	[dawnoftimebuilder.blocks]
@@ -4491,6 +4575,15 @@
 		industrial_iron_encased_glass_shaft = "[255,255,255]"
 		weathered_iron_encased_glass_shaft = "[255,0,0]"
 
+[gtceu]
+
+	[gtceu.blocks]
+		tempered_glass = "[255,0,0]"
+		laminated_glass = "[255,255,255]"
+		fusion_glass = "[255,255,255]"
+		cleanroom_glass = "[255,255,255]"
+		borosilicate_glass_block = "[255,255,255]"
+
 [upgrade_aquatic]
 
 	[upgrade_aquatic.blocks]
@@ -4539,10 +4632,35 @@
 		arid_glass = "[255,255,255]"
 		arid_glass_pane = "[255,255,255]"
 
+[caverns_and_chasms]
+
+	[caverns_and_chasms.blocks]
+		float_glass = "[255,255,255]"
+		float_glass_pane = "[255,255,255]"
+		ornate_glass = "[255,255,255]"
+		ornate_glass_pane = "[255,255,255]"
+		frosted_glass = "[255,255,255]"
+		frosted_glass_pane = "[255,255,255]"
+
 [clearfluidglass]
 
 	[clearfluidglass.blocks]
 		clear_fluid_glass = "[255,255,255]"
+
+[born_in_chaos_v1]
+
+	[born_in_chaos_v1.blocks]
+		scarlet_stained_glass = "[255,255,255]"
+		scarlet_stained_glass_panel = "[255,255,255]"
+		orange_stained_glass = "[255,102,17]"
+		orange_stained_glass_panel = "[255,102,17]"
+		green_stained_glass = "[0,255,0]"
+		green_stained_glass_panel = "[0,255,0]"
+		purple_stained_glass = "[170,34,255]"
+		purple_stained_glass_panel = "[170,34,255]"
+		dark_stained_glass = "[255,255,255]"
+		dark_stained_glass_panel = "[255,255,255]"
+		cursed_scarlet_ornate_glass_pane = "[255,255,255]"
 
 [ae2]
 
@@ -4612,122 +4730,4 @@
 		glass_7x = "[255,255,255]"
 		glass_8x = "[255,255,255]"
 		glass_9x = "[255,255,255]"
-
-[primalmagick]
-
-	[primalmagick.blocks]
-		skyglass = "[255,255,255]"
-		stained_skyglass_black = "[0,0,0]"
-		stained_skyglass_blue = "[0,0,255]"
-		stained_skyglass_brown = "[136,68,17]"
-		stained_skyglass_cyan = "[0,255,255]"
-		stained_skyglass_gray = "[136,136,136]"
-		stained_skyglass_green = "[0,255,0]"
-		stained_skyglass_light_blue = "[0,0,255]"
-		stained_skyglass_light_gray = "[136,136,136]"
-		stained_skyglass_lime = "[187,255,0]"
-		stained_skyglass_magenta = "[255,0,255]"
-		stained_skyglass_orange = "[255,102,17]"
-		stained_skyglass_pink = "[255,102,187]"
-		stained_skyglass_purple = "[170,34,255]"
-		stained_skyglass_red = "[255,0,0]"
-		stained_skyglass_white = "[255,255,255]"
-		stained_skyglass_yellow = "[255,255,0]"
-		skyglass_pane = "[255,255,255]"
-		stained_skyglass_pane_black = "[0,0,0]"
-		stained_skyglass_pane_blue = "[0,0,255]"
-		stained_skyglass_pane_brown = "[136,68,17]"
-		stained_skyglass_pane_cyan = "[0,255,255]"
-		stained_skyglass_pane_gray = "[136,136,136]"
-		stained_skyglass_pane_green = "[0,255,0]"
-		stained_skyglass_pane_light_blue = "[0,0,255]"
-		stained_skyglass_pane_light_gray = "[136,136,136]"
-		stained_skyglass_pane_lime = "[187,255,0]"
-		stained_skyglass_pane_magenta = "[255,0,255]"
-		stained_skyglass_pane_orange = "[255,102,17]"
-		stained_skyglass_pane_pink = "[255,102,187]"
-		stained_skyglass_pane_purple = "[170,34,255]"
-		stained_skyglass_pane_red = "[255,0,0]"
-		stained_skyglass_pane_white = "[255,255,255]"
-		stained_skyglass_pane_yellow = "[255,255,0]"
-
-[sonicraft]
-
-	[sonicraft.blocks]
-		capsule_glass = "[255,255,255]"
-		workshop_glass = "[255,255,255]"
-		scrap_brain_safety_glass = "[255,255,255]"
-		scrap_brain_glass = "[255,255,255]"
-		star_light_glass = "[255,255,255]"
-		blue_studiopolis_glass = "[0,0,255]"
-		pink_studiopolis_glass = "[255,102,187]"
-		crisis_city_glass = "[255,255,255]"
-		crisis_city_glass_broken = "[255,255,255]"
-		death_egg_arena_window = "[255,255,255]"
-		death_egg_arena_window_closed = "[255,255,255]"
-		death_egg_glass = "[255,255,255]"
-
-[actuallyadditions]
-
-	[actuallyadditions.blocks]
-		greenhouse_glass = "[0,255,0]"
-
-[born_in_chaos_v1]
-
-	[born_in_chaos_v1.blocks]
-		scarlet_stained_glass = "[255,255,255]"
-		scarlet_stained_glass_panel = "[255,255,255]"
-		orange_stained_glass = "[255,102,17]"
-		orange_stained_glass_panel = "[255,102,17]"
-		green_stained_glass = "[0,255,0]"
-		green_stained_glass_panel = "[0,255,0]"
-		purple_stained_glass = "[170,34,255]"
-		purple_stained_glass_panel = "[170,34,255]"
-		dark_stained_glass = "[255,255,255]"
-		dark_stained_glass_panel = "[255,255,255]"
-		cursed_scarlet_ornate_glass_pane = "[255,255,255]"
-
-[luminousworld]
-
-	[luminousworld.blocks]
-		decorative_glass_block = "[255,255,255]"
-		decorative_glass_pane = "[255,255,255]"
-		decorative_glass_pane_2 = "[255,255,255]"
-		decorative_glass_pane_3 = "[255,255,255]"
-		decorative_glass_pane_4 = "[255,255,255]"
-		decorative_glass_pane_5 = "[255,255,255]"
-
-[growable_ores]
-
-	[growable_ores.blocks]
-		gtm_exquisite_glass_cane = "[255,255,255]"
-
-[landsoficaria]
-
-	[landsoficaria.blocks]
-		grainglass = "[255,255,255]"
-		grainglass_pane = "[255,255,255]"
-		horizontal_grainglass_pane = "[255,255,255]"
-		silkglass = "[255,255,255]"
-		silkglass_pane = "[255,255,255]"
-		horizontal_silkglass_pane = "[255,255,255]"
-
-[gtceu]
-
-	[gtceu.blocks]
-		tempered_glass = "[255,0,0]"
-		laminated_glass = "[255,255,255]"
-		fusion_glass = "[255,255,255]"
-		cleanroom_glass = "[255,255,255]"
-		borosilicate_glass_block = "[255,255,255]"
-
-[caverns_and_chasms]
-
-	[caverns_and_chasms.blocks]
-		float_glass = "[255,255,255]"
-		float_glass_pane = "[255,255,255]"
-		ornate_glass = "[255,255,255]"
-		ornate_glass_pane = "[255,255,255]"
-		frosted_glass = "[255,255,255]"
-		frosted_glass_pane = "[255,255,255]"
 

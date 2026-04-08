@@ -1,8 +1,8 @@
 {
-  "enabled": true,
+  "enabled": false,
   "fastUpload": true,
   "cache": true,
-  "minCacheSize": 1024,
-  "maxCacheSize": 262144,
-  "bufferSize": 4194304
+  "minCacheSize": 32,
+  "maxCacheSize": 8192,
+  "bufferSize": 262144
 }

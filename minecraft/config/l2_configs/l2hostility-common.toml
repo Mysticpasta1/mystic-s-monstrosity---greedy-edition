@@ -26,7 +26,7 @@ enableEquipmentDatapack = true
 	#Note: use it only when Apotheosis is installed
 	#Otherwise too high enchantment level will yield no enchantment
 	#Range: 0.0 ~ 1000.0
-	enchantmentFactor = 0.0
+	enchantmentFactor = 0.01
 	#Difficulty bonus per level visited
 	#Range: 0 ~ 1000
 	dimensionFactor = 10
@@ -84,17 +84,17 @@ enableEquipmentDatapack = true
 	equipmentDropRate = 0.085
 	#Max number of traits on mobs
 	#Range: 1 ~ 100
-	maxTraitCount = 9
+	maxTraitCount = 100
 	#Allow player to increase difficulty by killing mobs
 	enableAdaptiveLeveling = true
 
 [difficulty]
 	#Max player adaptive level
 	#Range: 1 ~ 100000
-	maxPlayerLevel = 2000
+	maxPlayerLevel = 100000
 	#Max mob level
 	#Range: 1 ~ 100000
-	maxMobLevel = 3000
+	maxMobLevel = 100000
 	#Difficulty increment takes this many kills of same level mob
 	#Range: 1 ~ 100000
 	killsPerLevel = 30

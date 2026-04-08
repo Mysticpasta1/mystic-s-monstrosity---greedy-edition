@@ -3,11 +3,11 @@
 
 	[general.general]
 		#If the blood gui overlay should be rendered.
-		bloodGuiOverlay = true
+		bloodGuiOverlay = false
 		#The position to render the blood gui overlay at. (0=NE, 1=SE, 2=SW,3=NW)
 		bloodGuiOverlayPosition = 1
 		#If farting is enabled on this server; Client-side: If farting can be seen at your client.
-		farting = true
+		farting = false
 		#The X offset for the blood gui overlay.
 		bloodGuiOverlayPositionOffsetX = -5
 		#The amount of mB that can flow per tick out of machines and items.
@@ -33,9 +33,9 @@
 
 	[core.general]
 		#If an anonymous mod startup analytics request may be sent to our analytics service.
-		analytics = true
+		analytics = false
 		#If the version checker should be enabled.
-		versionChecker = true
+		versionChecker = false
 
 [block]
 
@@ -65,13 +65,13 @@
 
 	[machine.blood_chest]
 		#The amount of ticks required for repairing one damage value.
-		ticksPerDamage = 2
+		ticksPerDamage = 1
 		#Item names that can not be repaired. Regular expressions are allowed.
-		itemBlacklist = ["minecraft:stick"]
+		itemBlacklist = []
 		#The amount Blood mB required for repairing one damage value.
 		mBPerDamage = 5
 		#If the Blood Chest should add random bad enchants with a small chance to repairing items.
-		addRandomBadEnchants = true
+		addRandomBadEnchants = false
 
 	[machine.envir_acc]
 		#Sets the default amount of ticks the environmental accumulator takes to process an item.
@@ -85,7 +85,7 @@
 		#The duration limit in ticks for which potion effect can be collected. Set to a negative value to allow any duration.
 		maxPotionEffectDuration = 6000
 		#Item that can not be disenchanted. Regular expressions are allowed.
-		disenchantBlacklist = ["tetra:.*"]
+		disenchantBlacklist = []
 
 	[machine.spirit_furnace]
 		#How much mB per tick this furnace should consume.
@@ -111,7 +111,7 @@
 		#If the fluid should be rendered statically. Fluids won't be shown fluently, but more efficiently.
 		staticBlockRendering = false
 		#If creative versions for all fluids should be added to the creative tab.
-		creativeTabFluids = true
+		creativeTabFluids = false
 
 	[machine.spirit_reanimator]
 		#The required amount of ticks for each reanimation.
@@ -269,7 +269,7 @@
 
 	[item.primed_pendant]
 		#Usage multipliers. Potion ids are first, followed by floating numbers. A number smaller than one blacklists that potion.
-		potionMultipliers = ["minecraft:health_boost;-1", "minecraft:regeneration;10"]
+		potionMultipliers = []
 		#The amount of Blood to drain after one effect application.
 		usage = 10
 		#The capacity of the pendant.
@@ -281,7 +281,7 @@
 		#A list of biome names for which no Biome Extracts may be created.
 		craftingBlacklist = []
 		#If creative versions for all variants should be added to the creative tab.
-		creativeTabVariants = true
+		creativeTabVariants = false
 
 	[item.vengeance]
 		#The area of effect in blocks in which this tool could enable vengeance spirits.

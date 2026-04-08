@@ -9455,9 +9455,9 @@
     0
   ],
   "environmental:dwarf_spruce_plant_soul_torch": [
-    255,
-    255,
-    0
+    0,
+    0,
+    255
   ],
   "additionalplacements:luminax.purple_luminax_stairs": [
     170,
@@ -20630,9 +20630,9 @@
     255
   ],
   "framedblocks:framed_soul_wall_torch": [
-    255,
-    255,
-    0
+    0,
+    0,
+    255
   ],
   "quark:orange_corundum_pane": [
     255,
@@ -21810,9 +21810,9 @@
     255
   ],
   "environmental:dwarf_spruce_soul_torch": [
-    255,
-    255,
-    0
+    0,
+    0,
+    255
   ],
   "allthemodium:raw_allthemodium_block": [
     255,
@@ -23900,9 +23900,9 @@
     0
   ],
   "framedblocks:framed_soul_torch": [
-    255,
-    255,
-    0
+    0,
+    0,
+    255
   ],
   "enigmaticdelicacy:stripped_astral_wood": [
     255,
