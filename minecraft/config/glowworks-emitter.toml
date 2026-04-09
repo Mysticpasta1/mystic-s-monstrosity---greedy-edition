@@ -3120,6 +3120,7 @@
 		censer = "[255,255,255]"
 		candle_skull = "[255,255,255]"
 		wither_candle_skull = "[255,255,255]"
+		withered_celestial_bloom = "[255,0,0]"
 
 [luminax]
 
@@ -10806,4 +10807,13 @@
 		large_ender_crystal_bud = "[255,255,255]"
 		medium_ender_crystal_bud = "[255,255,255]"
 		small_ender_crystal_bud = "[255,255,255]"
+
+[ebwizardry]
+
+	[ebwizardry.blocks]
+		crystal_flower = "[255,255,255]"
+		potted_crystal_flower = "[255,255,255]"
+		receptacle = "[255,255,255]"
+		wall_receptacle = "[255,255,255]"
+		imbuement_altar = "[255,255,255]"
 

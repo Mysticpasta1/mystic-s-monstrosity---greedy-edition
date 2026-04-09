@@ -242,6 +242,17 @@
         "value": 1024
       }
     },
+    "ebwizardry:cast.cost": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "expanded_combat:dmg_no_weapon": {
       "enabled": false,
       "min": {
@@ -935,6 +946,17 @@
         "value": 2048
       }
     },
+    "ebwizardry:cast.cooldown": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "obscure_api:healing_power": {
       "enabled": false,
       "min": {
@@ -1529,6 +1551,17 @@
         "value": 1
       }
     },
+    "ebwizardry:cast.potency": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "animus:bonus_self_sacrifice": {
       "enabled": false,
       "min": {
@@ -1771,6 +1804,17 @@
         "value": 1000
       }
     },
+    "ebwizardry:cast.progression": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "caverns_and_chasms:magic_damage": {
       "enabled": false,
       "min": {
@@ -1848,6 +1892,17 @@
         "value": 1
       }
     },
+    "ebwizardry:cast.chargeup": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "malum:scythe_proficiency": {
       "enabled": false,
       "min": {
@@ -1857,6 +1912,17 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "ebwizardry:cast.duration": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "l2damagetracker:explosion_damage": {
@@ -1934,6 +2000,17 @@
       "max": {
         "default": 10000,
         "value": 10000
+      }
+    },
+    "ebwizardry:cast.range": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "minecraft:generic.attack_speed": {
@@ -2520,6 +2597,17 @@
       }
     },
     "irons_spellbooks:ice_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "ebwizardry:cast.blast": {
       "enabled": false,
       "min": {
         "default": -100,

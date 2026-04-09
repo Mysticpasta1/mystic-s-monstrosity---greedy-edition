@@ -1,3 +1,12 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "item": "minecraft:netherite_ingot",
+      "emc": 105600
+    },
+    {
+      "item": "minecraft:netherite_block",
+      "emc": 950400
+    }
+  ]
 }

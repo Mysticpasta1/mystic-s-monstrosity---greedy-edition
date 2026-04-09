@@ -8189,6 +8189,11 @@
     255,
     255
   ],
+  "ebwizardry:wall_receptacle": [
+    255,
+    255,
+    255
+  ],
   "additionalplacements:rechiseled.glowstone_bricks_stairs": [
     255,
     255,
@@ -15748,6 +15753,11 @@
     255,
     0,
     255
+  ],
+  "hexalia:withered_celestial_bloom": [
+    255,
+    0,
+    0
   ],
   "productivetrees:blue_yonder_leaves": [
     0,
@@ -28264,6 +28274,11 @@
     255,
     255
   ],
+  "ebwizardry:crystal_flower": [
+    255,
+    255,
+    255
+  ],
   "aether_redux:corrupted_vines": [
     255,
     255,
@@ -34594,6 +34609,11 @@
     255,
     255
   ],
+  "ebwizardry:imbuement_altar": [
+    255,
+    255,
+    255
+  ],
   "bbb:birch_lantern": [
     255,
     255,
@@ -36390,6 +36410,11 @@
     255
   ],
   "fcb:fcbg9193205": [
+    255,
+    255,
+    255
+  ],
+  "ebwizardry:potted_crystal_flower": [
     255,
     255,
     255
@@ -39328,6 +39353,11 @@
     0,
     255,
     0
+  ],
+  "ebwizardry:receptacle": [
+    255,
+    255,
+    255
   ],
   "the_bumblezone:essence_block_red": [
     255,
