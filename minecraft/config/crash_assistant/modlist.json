@@ -3049,14 +3049,6 @@
     "curseForgeHash": 2796304719,
     "modrinthHash": "0cd7d21b5e5e26328a140b96950f2317ad13c01b"
   },
-  "ClearLagPlus-1.0.2.jar": {
-    "jarName": "ClearLagPlus-1.0.2.jar",
-    "modId": "clearlagplus",
-    "name": "ClearLagPlus",
-    "version": "1.0.1",
-    "curseForgeHash": 1978658435,
-    "modrinthHash": "b85a61d18863da69bc8213d429178c4f48b3b5ec"
-  },
   "clickadv-1.20.1-3.9.jar": {
     "jarName": "clickadv-1.20.1-3.9.jar",
     "modId": "clickadv",
@@ -5256,6 +5248,22 @@
     "curseForgeHash": 2566112732,
     "modrinthHash": "f71f32238e9d08e71b95941d8f69740d245f2a6a"
   },
+  "electric_light-2.0-1.20.jar": {
+    "jarName": "electric_light-2.0-1.20.jar",
+    "modId": "electric_light",
+    "name": "Electric Light",
+    "version": "2.0",
+    "curseForgeHash": 2902634646,
+    "modrinthHash": "dbaf20d55f1608fe0344b1d79e796023134d1e94"
+  },
+  "electroblobs-wizardry-redux-0.8.1-forge.jar": {
+    "jarName": "electroblobs-wizardry-redux-0.8.1-forge.jar",
+    "modId": "ebwizardry",
+    "name": "Electroblob\u0027s Wizardry Redux",
+    "version": "0.8.1",
+    "curseForgeHash": 147770662,
+    "modrinthHash": "7fb6b28a7a759024048293ea61ab431606ff7064"
+  },
   "Electrodynamics-1.20.1-1.0.2.jar": {
     "jarName": "Electrodynamics-1.20.1-1.0.2.jar",
     "modId": "electrodynamics",
@@ -5303,6 +5311,14 @@
     "version": "1.20.1-1.4.7",
     "curseForgeHash": 1250291908,
     "modrinthHash": "e480919fd0645aebe9996b42ec65b41f16dcb6dd"
+  },
+  "Empty Air Bubbles 1.0.0-1.20.1.jar": {
+    "jarName": "Empty Air Bubbles 1.0.0-1.20.1.jar",
+    "modId": "empty_air_bubbles",
+    "name": "Empty Air Bubbles",
+    "version": "1.0.0-1.20.1",
+    "curseForgeHash": 2249297923,
+    "modrinthHash": "2f0660f92d993b95c0faf928835007782feaca77"
   },
   "EnchantableBlocks-1.20.1-0.0.7.jar": {
     "jarName": "EnchantableBlocks-1.20.1-0.0.7.jar",
@@ -7367,14 +7383,6 @@
     "curseForgeHash": 1531048014,
     "modrinthHash": "31af78af75d3d2a84582c204c083d225d4df9fcb"
   },
-  "gtmoldraw-3.2.0.jar": {
-    "jarName": "gtmoldraw-3.2.0.jar",
-    "modId": "moldraw",
-    "name": "GregTech Molecule Drawings",
-    "version": "3.2.0",
-    "curseForgeHash": 1856416503,
-    "modrinthHash": "f70703aed4baa682a987f788950135ade3d7c0a7"
-  },
   "gtmoreemc-1.0-SNAPSHOT.jar": {
     "jarName": "gtmoreemc-1.0-SNAPSHOT.jar",
     "modId": "gtmoreemc",
@@ -7559,13 +7567,13 @@
     "curseForgeHash": 2032602298,
     "modrinthHash": "9e63a1ac922c7e4f71429c50e5ca0d7a92e79e3a"
   },
-  "hexalia-1.2.82-1.20.1+forge.jar": {
-    "jarName": "hexalia-1.2.82-1.20.1+forge.jar",
+  "hexalia-1.3.0-1.20.1+forge.jar": {
+    "jarName": "hexalia-1.3.0-1.20.1+forge.jar",
     "modId": "hexalia",
     "name": "Hexalia",
     "version": "1.2.81-1.20.1+forge",
-    "curseForgeHash": 1616664341,
-    "modrinthHash": "b1bafe5aad47c2bd8e63e225360b812728739003"
+    "curseForgeHash": 3591443609,
+    "modrinthHash": "7fc6c196d7a86b052941eebb8962ab45fc6e8fea"
   },
   "hexcasting-forge-1.20.1-0.11.3.jar": {
     "jarName": "hexcasting-forge-1.20.1-0.11.3.jar",
@@ -10349,6 +10357,14 @@
     "version": "1.8.3",
     "curseForgeHash": 4137875087,
     "modrinthHash": "0ed634ff1b067b0f6aecc3cb5cc818973978f5f3"
+  },
+  "moreoffhandslots-forge-20.1.0.2.jar": {
+    "jarName": "moreoffhandslots-forge-20.1.0.2.jar",
+    "modId": "moreoffhandslots",
+    "name": "More Offhand Slots",
+    "version": "20.1.0.2",
+    "curseForgeHash": 2493029938,
+    "modrinthHash": "84625000d31262b2ab6adc3e056b457a9ab50bf4"
   },
   "morered-1.20.1-4.0.0.4.jar": {
     "jarName": "morered-1.20.1-4.0.0.4.jar",
@@ -13143,13 +13159,13 @@
     "curseForgeHash": 3527092934,
     "modrinthHash": "3cb29e62465cf78f39f1c21238ffd832a492e6d7"
   },
-  "shutterup-forge-1.20.1-1.1.0.jar": {
-    "jarName": "shutterup-forge-1.20.1-1.1.0.jar",
+  "shutterup-forge-1.20.1-1.1.1.jar": {
+    "jarName": "shutterup-forge-1.20.1-1.1.1.jar",
     "modId": "shutterup",
     "name": "ShutterUp",
-    "version": "1.1.0",
-    "curseForgeHash": 3789443112,
-    "modrinthHash": "4a9c6c50815c0a99c5414e53ad01f68fd3d88ee7"
+    "version": "1.1.1",
+    "curseForgeHash": 34909132,
+    "modrinthHash": "9053f316990dac3a49675ad673293ec3caf2ecb3"
   },
   "signpost-1.20.1-2.02.0.jar": {
     "jarName": "signpost-1.20.1-2.02.0.jar",
@@ -13543,13 +13559,13 @@
     "curseForgeHash": 2371828629,
     "modrinthHash": "5597cce58d4c3529574c12ef6d39932c600bcdc1"
   },
-  "sophisticatedcore-1.20.1-1.3.18.1647.jar": {
-    "jarName": "sophisticatedcore-1.20.1-1.3.18.1647.jar",
+  "sophisticatedcore-1.20.1-1.3.19.1659.jar": {
+    "jarName": "sophisticatedcore-1.20.1-1.3.19.1659.jar",
     "modId": "sophisticatedcore",
     "name": "Sophisticated Core",
-    "version": "1.3.18.1647",
-    "curseForgeHash": 1240207907,
-    "modrinthHash": "9f65188da07a18026f9e8f7e11651814d2b8392d"
+    "version": "1.3.19.1659",
+    "curseForgeHash": 359982349,
+    "modrinthHash": "b0f5301d7e9bd91ffdb0d6ac08290b5375b5f557"
   },
   "sophisticatedstorage-1.20.1-1.4.34.1598.jar": {
     "jarName": "sophisticatedstorage-1.20.1-1.4.34.1598.jar",
