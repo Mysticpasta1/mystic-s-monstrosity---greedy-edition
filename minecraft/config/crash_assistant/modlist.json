@@ -5312,14 +5312,6 @@
     "curseForgeHash": 1250291908,
     "modrinthHash": "e480919fd0645aebe9996b42ec65b41f16dcb6dd"
   },
-  "Empty Air Bubbles 1.0.0-1.20.1.jar": {
-    "jarName": "Empty Air Bubbles 1.0.0-1.20.1.jar",
-    "modId": "empty_air_bubbles",
-    "name": "Empty Air Bubbles",
-    "version": "1.0.0-1.20.1",
-    "curseForgeHash": 2249297923,
-    "modrinthHash": "2f0660f92d993b95c0faf928835007782feaca77"
-  },
   "EnchantableBlocks-1.20.1-0.0.7.jar": {
     "jarName": "EnchantableBlocks-1.20.1-0.0.7.jar",
     "modId": "enchantableblocks",

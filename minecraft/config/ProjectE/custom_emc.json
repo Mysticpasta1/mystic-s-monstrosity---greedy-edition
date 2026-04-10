@@ -1,12 +1,72 @@
 {
   "entries": [
     {
+      "item": "minecraft:ancient_debris",
+      "emc": 12288
+    },
+    {
       "item": "minecraft:netherite_ingot",
-      "emc": 105600
+      "emc": 57344
+    },
+    {
+      "item": "minecraft:diamond_block",
+      "emc": 73728
     },
     {
       "item": "minecraft:netherite_block",
-      "emc": 950400
+      "emc": 516096
+    },
+    {
+      "item": "minecraft:glowstone",
+      "emc": 1536
+    },
+    {
+      "item": "minecraft:honey_block",
+      "emc": 192
+    },
+    {
+      "item": "minecraft:packed_ice",
+      "emc": 9
+    },
+    {
+      "item": "minecraft:blue_ice",
+      "emc": 81
+    },
+    {
+      "item": "minecraft:clay",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:brick",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:paper",
+      "emc": 96
+    },
+    {
+      "item": "minecraft:book",
+      "emc": 315
+    },
+    {
+      "item": "minecraft:terracotta",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:charcoal",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:torch",
+      "emc": 9
+    },
+    {
+      "item": "minecraft:sugar",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:honeycomb",
+      "emc": 16
     }
   ]
 }

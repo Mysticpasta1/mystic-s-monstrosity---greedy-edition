@@ -160,8 +160,6 @@
 	[APICustomEMCMapper.priority]
 		#Priority for this mod
 		avaritia = 1
-		#Priority for this mod
-		gtmoreemc = 1
 
 [permissions]
 
@@ -169,11 +167,5 @@
 		#Allow mod 'avaritia' to set and or remove values for mod 'avaritia'. Options: [both, set, remove, none]
 		avaritia = "both"
 		#Allow mod 'avaritia' to set and or remove values for mod 'minecraft'. Options: [both, set, remove, none]
-		minecraft = "both"
-
-	[permissions.gtmoreemc]
-		#Allow mod 'gtmoreemc' to set and or remove values for mod 'gtceu'. Options: [both, set, remove, none]
-		gtceu = "both"
-		#Allow mod 'gtmoreemc' to set and or remove values for mod 'minecraft'. Options: [both, set, remove, none]
 		minecraft = "both"
 
