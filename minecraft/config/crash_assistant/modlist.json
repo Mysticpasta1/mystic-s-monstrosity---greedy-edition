@@ -7375,14 +7375,6 @@
     "curseForgeHash": 1531048014,
     "modrinthHash": "31af78af75d3d2a84582c204c083d225d4df9fcb"
   },
-  "gtmoreemc-1.0-SNAPSHOT.jar": {
-    "jarName": "gtmoreemc-1.0-SNAPSHOT.jar",
-    "modId": "gtmoreemc",
-    "name": "GTMoreEMC",
-    "version": "1.0-SNAPSHOT",
-    "curseForgeHash": 138502083,
-    "modrinthHash": "b61db831b5f87b54e2c702a3e46c388766487be8"
-  },
   "gtmutils-2.8.0.jar": {
     "jarName": "gtmutils-2.8.0.jar",
     "modId": "gtmutils",

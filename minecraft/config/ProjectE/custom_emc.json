@@ -42,11 +42,15 @@
     },
     {
       "item": "minecraft:paper",
-      "emc": 96
+      "emc": 32
+    },
+    {
+      "item": "minecraft:leather",
+      "emc": 64
     },
     {
       "item": "minecraft:book",
-      "emc": 315
+      "emc": 160
     },
     {
       "item": "minecraft:terracotta",
@@ -67,6 +71,14 @@
     {
       "item": "minecraft:honeycomb",
       "emc": 16
+    },
+    {
+      "item": "minecraft:bucket",
+      "emc": 768
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "emc": 1
     }
   ]
 }

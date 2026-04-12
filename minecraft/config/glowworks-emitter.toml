@@ -10817,3 +10817,8 @@
 		wall_receptacle = "[255,255,255]"
 		imbuement_altar = "[255,255,255]"
 
+[rechiseledae]
+
+	[rechiseledae.blocks]
+		chiseling_pattern_encoder = "[255,255,255]"
+
