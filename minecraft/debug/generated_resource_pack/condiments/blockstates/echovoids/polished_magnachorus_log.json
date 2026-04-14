@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "condiments:block/polished_logs/echovoids/polished_magnachorus_log_x"
+    },
+    "axis=y": {
+      "model": "condiments:block/polished_logs/echovoids/polished_magnachorus_log_y"
+    },
+    "axis=z": {
+      "model": "condiments:block/polished_logs/echovoids/polished_magnachorus_log_z"
+    }
+  }
+}

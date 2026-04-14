@@ -5,6 +5,32 @@
       "name": "Mysticpasta1",
       "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
     },
+    "time": 1776083919602,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/KzRFyAfQla"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
+    "time": 1776052926355,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/OWgOM6EOqD"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
     "time": 1775516813242,
     "type": "Profiler (live)",
     "data": {

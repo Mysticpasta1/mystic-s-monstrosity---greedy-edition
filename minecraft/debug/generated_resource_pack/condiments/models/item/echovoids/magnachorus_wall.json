@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "echovoids:block/stripped_magnachorus_wood",
+    "post": "echovoids:block/chorus_stem"
+  }
+}

@@ -1,0 +1,156 @@
+### Mods
+
+**Added**
+- Alltheimbaium
+- Chairway
+- Connected Glass
+- Cristel Lib
+- FastPipes
+- Hot Bath
+- Integrated  Seven Seas
+- Integrated Dungeons Arise
+- LittleTiles
+- When Dungeons Arise - Seven Seas
+- William Wythers' Expanded Ecosphere
+
+**Removed**
+-  [IU] Industrial Upgrade
+- 'Dustrial Decor
+- Absent by Design
+- Additional Blocks: Stone Edition
+- AE2 MEGA Things
+- Aesthetic Frames
+- Aesthetic Ladders
+- Aesthetic Seating
+- Aesthetic Stairs
+- Aesthetic Storage
+- Aesthetic Surfaces
+- Aesthetic Windows
+- Architect's Palette
+- Arts & Crafts
+- Arts & Crafts Compatibility
+- AtomicStryker's Infernal Mobs
+- BBlocks
+- Better Fluid Pipes
+- Block Dump
+- Bountiful Blocks
+- Builder's Delight (Forge)
+- Builder's Palette
+- Builders Companion: Biome Waters
+- Builders Companion: Dyed Waters
+- Builders Crafts & Additions
+- Built
+- Carpet Diem
+- Chipped
+- Chipped Express
+- Chips' World Types
+- Chisel Reborn [Forge/Fabric/NeoForge]
+- Chisels & Bits - For Forge
+- Chunk Loaders
+- Cobbled Stone & Mixed Blocks (Cobblestoney)
+- ColoredWater
+- Corail Pillar
+- Create Encased
+- Create: Reactive Stress (CRS)
+- Curvy Pipes
+- Cyclic
+- Decorative Bags
+- Decorative Blocks
+- Decorative Bottles
+- Decorative Concrete Lattices
+- Decorative Core
+- Decorative covers
+- Decorative Fences
+- Decorative Lattices
+- Decorative paths
+- Decorative Pavers
+- Decorative Railings
+- Decorative Storage
+- Decorative Wooden Lattices
+- Diamond Nuggets
+- Domum Ornamentum
+- Drawers Tooltip
+- Extra Carpets
+- Extra Mining World
+- FastWorkbench
+- Floral Enchantment
+- Fluid Drawers Legacy
+- Foolish
+- Foolish Unofficial Patch
+- Functional Aether
+- Functional Storage
+- Furnish
+- It Takes a Pillage
+- Kerria
+- Ksyxis
+- Lapidarist
+- Luminax
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Furniture
+- Macaw's Paintings
+- Macaw's Paths and Pavings
+- Macaw's Roofs
+- Macaw's Stairs
+- Macaw's Trapdoors
+- Macaw's Windows
+- Masonry
+- MEGA Cells
+- Mo' Concretes
+- Mo' Glowstone
+- Mo' Glowstone Lamps
+- Mo' Glowstone+
+- More Offhand Slots
+- Multi-Piston
+- Neon Lamps
+- Rainbow Oaks Renewed
+- Rainbow Webs
+- Rechiseled
+- Rechiseled: AE2
+- Rechiseled: Applied Energistics 2
+- Rechiseled: Chipped
+- Rechiseled: Create
+- Rechiseled: Fans
+- Reintegrated: Arts and Crafts
+- Reintegrated: Chipped
+- Some More Blocks
+- SookiCustomBlocks
+- Stonier Stones
+- Storage Drawers
+- Storage Drawers Extras
+- Storage Racks
+- Structurize
+- True Darkness [Forge] - Updated Fork
+- UnChipped
+- Villainous Fish AI
+- Water condenser
+- [IU]  MiningWorld Upgrade
+- [IU] Diamond Vein
+- [IU] Power Utilities 
+- [IU] Quantum Generators
+- [IU] Reactor Plus
+- [IU] Simply Quarries
+- 🌹 Floral Flair 🌹
+
+**Updated**
+- AzureLib
+- Better Fishtanks
+- Client Crafting
+- Crazy AE2 Addons
+- Darker Depths
+- Echovoids
+- Ender Source Jars
+- Fancy World Animations
+- GC-3D Renewed
+- GregTech CEu Modern
+- Integrated API
+- Json Things
+- Just Enough Mekanism Multiblocks
+- Lionfish API
+- ModernFix
+
+### Data Packs
+
+**Added**
+- additional_placements_generated_tags
+

@@ -1,0 +1,68 @@
+
+[General]
+	#Whether holding the F3 key should open a radial menu with debug actions.
+	f3RadialMenu = true
+	#The time in milliseconds a key must be held down to open the radial menu when in tap mode. If a key is pressed quickly (less than this time), it triggers the action.
+	#Range: 0 ~ 2000
+	holdTime = 200
+	#The maximum time in milliseconds between two taps to register as a double tap. In hold mode, the user must double tap the key and hold on the second tap to access the radial menu.
+	#Range: 50 ~ 1000
+	doubleTapTime = 300
+	#What should happen when a conflicted key is held down, but no master keybind is set for it. DO_NOTHING is recommended.
+	#Allowed Values: DO_NOTHING, TRIGGER_ALL
+	defaultHoldBehavior = "DO_NOTHING"
+	#Whether selecting an action on the radial menu should immediately trigger it once the menu closes.
+	triggerOnSelection = true
+
+["Filters & Defaults"]
+	#A list of keybind categories to ignore conflicts for. If ANY conflicting keybind belongs to one of these categories, the radial menu will NOT open and the game will handle the keys normally.
+	ignoredCategories = ["key.categories.movement"]
+	#A list of specific keybind names to ignore conflicts for. For example, 'key.attack' for left click, or 'key.use' for right click.
+	ignoredKeybinds = ["key.attack", "key.use"]
+	#A list of default selections for conflicting keybinds when the game loads. Format: 'trigger_key:mode:keybind_name'. Mode is either 'tap' or 'hold'. E.g., 'key.keyboard.1:tap:key.hotbar.1'
+	defaultSelections = []
+
+["Radial Menu"]
+	#The base radius (distance from the center) of the options in the radial menu.
+	#Range: 20 ~ 300
+	radius = 80
+	#The opacity/darkness of the background when the radial menu is open (0.0 = transparent, 1.0 = fully black).
+	#Range: 0.0 ~ 1.0
+	backgroundOpacity = 0.5
+	#Whether the radial menu should be allowed to open and overlay on top of other GUIs (like the Inventory).
+	allowGuiOverlay = true
+	#A list of screen class names where the radial menu is NOT allowed to open as an overlay. You can use simple names (e.g., 'TitleScreen') or fully qualified names.
+	guiOverlayBlacklist = ["TitleScreen", "OptionsScreen", "KeyBindsScreen", "PauseScreen"]
+	#Whether to paginate the radial menu if there are too many options. You can scroll with the mouse wheel to switch pages.
+	paginationEnabled = true
+	#The maximum number of actions to display per page on the radial menu.
+	#Range: 2 ~ 24
+	itemsPerPage = 8
+
+["Radial Menu Visuals"]
+	#The scale of the text for the options in the radial menu.
+	#Range: 0.5 ~ 3.0
+	textScale = 1.0
+	#Controls the speed of hover animations in the radial menu.
+	#Range: 1.0 ~ 20.0
+	animationSpeed = 7.0
+	#The color of the separator lines in the radial menu (ARGB hex format).
+	separatorColor = "44FFFFFF"
+	#The color for a regular (non-selected) item.
+	regularItemColor = "FFFFFFFF"
+	#The color for a regular item when hovered.
+	hoveredItemColor = "FFFFFF00"
+	#The color for a selected item.
+	selectedItemColor = "FF00AAAA"
+	#The color for a selected item when hovered.
+	selectedHoveredItemColor = "FF55FFFF"
+	#The color of the '(Hold)' text indicator.
+	holdIndicatorColor = "FF55FF55"
+
+["Radial Menu Audio"]
+	#Whether a sound should play when an item is selected or toggled.
+	toggleSound = true
+	#The volume of the toggle sound (0.0 = silent, 1.0 = full volume).
+	#Range: 0.0 ~ 1.0
+	toggleVolume = 0.5
+

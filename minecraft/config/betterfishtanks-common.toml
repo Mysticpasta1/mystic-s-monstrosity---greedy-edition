@@ -21,4 +21,8 @@
 	#Set to true to allow whales to be captured with the Fish Bag.
 	#WARNING: Large fish like whales may eat smaller fish in the same tank!
 	allowWhaleCapture = false
+	#Set to false to prevent fish from hunting or hurting each other inside the fishtank.
+	allowFishHunting = true
+	#Set to false to prevent pufferfish from blowing up while in a fishtank.
+	allowPufferfishPuffing = true
 

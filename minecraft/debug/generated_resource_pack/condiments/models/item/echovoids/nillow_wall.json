@@ -1,0 +1,7 @@
+{
+  "parent": "condiments:block/bases/special_wall_inventory",
+  "textures": {
+    "wall": "echovoids:block/stripped_nillow_log",
+    "post": "echovoids:block/image11"
+  }
+}

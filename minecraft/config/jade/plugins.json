@@ -17,10 +17,6 @@
   "mekanismcovers": {
     "cover_component": true
   },
-  "fluiddrawerslegacy": {
-    "controller": true,
-    "fluiddrawer": true
-  },
   "underlay": {
     "overlay": true
   },
@@ -350,12 +346,6 @@
     "info": true,
     "showcustomname": true
   },
-  "storagedrawers": {
-    "display.stacklimit": true,
-    "main": true,
-    "display.content": true,
-    "display.status": true
-  },
   "framedblocks": {
     "framed_item_frame": true
   },
@@ -375,9 +365,6 @@
   "refinedcooking": {
     "kitchen_access_point": true,
     "kitchen_station": true
-  },
-  "functionalstorage": {
-    "armory": true
   },
   "productivebees": {
     "solitary_nest": true,
@@ -402,6 +389,11 @@
     "crop_progress": true,
     "pie_icons": true,
     "mushroom_colony": true
+  },
+  "fastpipes": {
+    "fluid_pipe_info": true,
+    "energy_pipe_info": true,
+    "item_pipe_info": true
   },
   "ultramarine": {
     "brick_kiln": true,

@@ -110,6 +110,8 @@
 		diagnosticsWebServerPort = 3030
 		#The base energy usage for the machine reader.
 		machineReaderBaseConsumption = 1
+		#The base energy usage for the delayer.
+		delayerBaseConsumption = 2
 
 [machine]
 
