@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "missingtrees:block/stripped_swamp_oak_log",
-    "post": "missingtrees:block/swamp_oak_log"
-  }
-}

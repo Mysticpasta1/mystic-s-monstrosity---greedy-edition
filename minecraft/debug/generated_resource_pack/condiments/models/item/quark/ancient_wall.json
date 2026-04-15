@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "quark:block/stripped_ancient_log",
-    "post": "quark:block/ancient_log"
-  }
-}

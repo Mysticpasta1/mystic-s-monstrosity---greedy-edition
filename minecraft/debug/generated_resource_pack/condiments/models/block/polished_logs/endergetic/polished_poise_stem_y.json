@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column_uv_locked_y",
-  "textures": {
-    "end": "condiments:block/endergetic/polished_poise_stem_top",
-    "side": "condiments:block/endergetic/polished_poise_stem"
-  }
-}

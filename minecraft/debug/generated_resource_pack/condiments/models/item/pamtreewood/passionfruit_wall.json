@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "pamtreewood:block/stripped_passionfruit_log",
-    "post": "pamtreewood:block/passionfruit_log"
-  }
-}

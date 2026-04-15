@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "productivetrees:block/stripped/golden_delicious_apple",
-    "post": "productivetrees:block/log/golden_delicious_apple"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "condiments:block/bases/outer_accent",
-  "textures": {
-    "texture": "condiments:block/upgrade_aquatic/river_accent"
-  }
-}

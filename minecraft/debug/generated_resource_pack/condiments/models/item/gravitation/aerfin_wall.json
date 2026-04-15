@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "gravitation:block/natural/stripped_aerfin_log",
-    "post": "gravitation:block/natural/aerfin_log"
-  }
-}

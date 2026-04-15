@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "foolish:block/foolishwoodtypes-24.png_1",
-    "post": "foolish:block/foolishwoodtypes-36.png_2"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column_uv_locked_y",
-  "textures": {
-    "end": "condiments:block/aether_redux/polished_cloudcap_stem",
-    "side": "condiments:block/aether_redux/polished_cloudcap_stem"
-  }
-}

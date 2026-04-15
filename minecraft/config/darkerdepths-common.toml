@@ -24,102 +24,6 @@
 	#Range: 0 ~ 128
 	paranoia_altar_vertical_range = 8
 
-["Biome Parameters"]
-
-	["Biome Parameters".Terrablender]
-		#Darker Depths Terrablender region weight
-		#Range: > 0
-		weight = 4
-		#Biome parameters are set to much more lenient values for Terrablender due to regions. To disable the defaults and use the config parameters, set this to false.
-		use_default_biome_params_terrablender = true
-
-	#Climate parameters for the sandy_catacombs biome.
-	["Biome Parameters".sandy_catacombs]
-		#Range: -2.0 ~ 2.0
-		temperature_min = 0.5
-		#Range: -2.0 ~ 2.0
-		temperature_max = 0.9
-		#Range: -2.0 ~ 2.0
-		humidity_min = -0.8
-		#Range: -2.0 ~ 2.0
-		humidity_max = -0.1
-		#Range: -2.0 ~ 2.0
-		continentalness_min = 0.2
-		#Range: -2.0 ~ 2.0
-		continentalness_max = 0.3
-		#Range: -2.0 ~ 2.0
-		erosion_min = -0.2
-		#Range: -2.0 ~ 2.0
-		erosion_max = 0.7
-		#Range: -2.0 ~ 2.0
-		depth_min = 0.3
-		#Range: -2.0 ~ 2.0
-		depth_max = 1.5
-		#Range: -2.0 ~ 2.0
-		weirdness_min = -1.0
-		#Range: -2.0 ~ 2.0
-		weirdness_max = 1.0
-		#Range: -2.0 ~ 2.0
-		offset = 0.0
-
-	#Climate parameters for the glowshroom_forest biome.
-	["Biome Parameters".glowshroom_forest]
-		#Range: -2.0 ~ 2.0
-		temperature_min = 0.4
-		#Range: -2.0 ~ 2.0
-		temperature_max = 1.0
-		#Range: -2.0 ~ 2.0
-		humidity_min = 0.6
-		#Range: -2.0 ~ 2.0
-		humidity_max = 1.2
-		#Range: -2.0 ~ 2.0
-		continentalness_min = -0.5
-		#Range: -2.0 ~ 2.0
-		continentalness_max = 0.5
-		#Range: -2.0 ~ 2.0
-		erosion_min = 0.1
-		#Range: -2.0 ~ 2.0
-		erosion_max = 0.5
-		#Range: -2.0 ~ 2.0
-		depth_min = 0.3
-		#Range: -2.0 ~ 2.0
-		depth_max = 0.9
-		#Range: -2.0 ~ 2.0
-		weirdness_min = -1.0
-		#Range: -2.0 ~ 2.0
-		weirdness_max = 1.0
-		#Range: -2.0 ~ 2.0
-		offset = 0.0
-
-	#Climate parameters for the molten_cavern biome.
-	["Biome Parameters".molten_cavern]
-		#Range: -2.0 ~ 2.0
-		temperature_min = -1.0
-		#Range: -2.0 ~ 2.0
-		temperature_max = 0.7
-		#Range: -2.0 ~ 2.0
-		humidity_min = -0.3
-		#Range: -2.0 ~ 2.0
-		humidity_max = 1.0
-		#Range: -2.0 ~ 2.0
-		continentalness_min = 0.55
-		#Range: -2.0 ~ 2.0
-		continentalness_max = 0.7
-		#Range: -2.0 ~ 2.0
-		erosion_min = -0.4
-		#Range: -2.0 ~ 2.0
-		erosion_max = 0.4
-		#Range: -2.0 ~ 2.0
-		depth_min = 0.7
-		#Range: -2.0 ~ 2.0
-		depth_max = 2.0
-		#Range: -2.0 ~ 2.0
-		weirdness_min = -1.0
-		#Range: -2.0 ~ 2.0
-		weirdness_max = 1.0
-		#Range: -2.0 ~ 2.0
-		offset = 0.0
-
 ["Biome Fog"]
 	#Enable/disable Darker Depths biome fog adjustments:
 	biome_fog = true
@@ -160,4 +64,102 @@
 	#Blocks such as Darkslate will not generate with the correct stages and will not be updated to be correct heat values upon generation if true.
 	#Baking does require additional resources, so disabling should improve world gen performance.
 	disable_heatable_block_baking = false
+
+[Biomes]
+	#Darker Depths biome & surfacerule injection
+	biome_injection = true
+
+	[Biomes.Terrablender]
+		#Darker Depths Terrablender region weight
+		#Range: > 0
+		weight = 4
+		#Biome parameters are set to much more lenient values for Terrablender due to regions. To disable the defaults and use the config parameters, set this to false.
+		use_default_biome_params_terrablender = true
+
+	#Climate parameters for the sandy_catacombs biome.
+	[Biomes.sandy_catacombs]
+		#Range: -2.0 ~ 2.0
+		temperature_min = 0.5
+		#Range: -2.0 ~ 2.0
+		temperature_max = 0.9
+		#Range: -2.0 ~ 2.0
+		humidity_min = -0.8
+		#Range: -2.0 ~ 2.0
+		humidity_max = -0.1
+		#Range: -2.0 ~ 2.0
+		continentalness_min = 0.2
+		#Range: -2.0 ~ 2.0
+		continentalness_max = 0.3
+		#Range: -2.0 ~ 2.0
+		erosion_min = -0.2
+		#Range: -2.0 ~ 2.0
+		erosion_max = 0.7
+		#Range: -2.0 ~ 2.0
+		depth_min = 0.3
+		#Range: -2.0 ~ 2.0
+		depth_max = 1.5
+		#Range: -2.0 ~ 2.0
+		weirdness_min = -1.0
+		#Range: -2.0 ~ 2.0
+		weirdness_max = 1.0
+		#Range: -2.0 ~ 2.0
+		offset = 0.0
+
+	#Climate parameters for the glowshroom_forest biome.
+	[Biomes.glowshroom_forest]
+		#Range: -2.0 ~ 2.0
+		temperature_min = 0.4
+		#Range: -2.0 ~ 2.0
+		temperature_max = 1.0
+		#Range: -2.0 ~ 2.0
+		humidity_min = 0.6
+		#Range: -2.0 ~ 2.0
+		humidity_max = 1.2
+		#Range: -2.0 ~ 2.0
+		continentalness_min = -0.5
+		#Range: -2.0 ~ 2.0
+		continentalness_max = 0.5
+		#Range: -2.0 ~ 2.0
+		erosion_min = 0.1
+		#Range: -2.0 ~ 2.0
+		erosion_max = 0.5
+		#Range: -2.0 ~ 2.0
+		depth_min = 0.3
+		#Range: -2.0 ~ 2.0
+		depth_max = 0.9
+		#Range: -2.0 ~ 2.0
+		weirdness_min = -1.0
+		#Range: -2.0 ~ 2.0
+		weirdness_max = 1.0
+		#Range: -2.0 ~ 2.0
+		offset = 0.0
+
+	#Climate parameters for the molten_cavern biome.
+	[Biomes.molten_cavern]
+		#Range: -2.0 ~ 2.0
+		temperature_min = -1.0
+		#Range: -2.0 ~ 2.0
+		temperature_max = 0.7
+		#Range: -2.0 ~ 2.0
+		humidity_min = -0.3
+		#Range: -2.0 ~ 2.0
+		humidity_max = 1.0
+		#Range: -2.0 ~ 2.0
+		continentalness_min = 0.55
+		#Range: -2.0 ~ 2.0
+		continentalness_max = 0.7
+		#Range: -2.0 ~ 2.0
+		erosion_min = -0.4
+		#Range: -2.0 ~ 2.0
+		erosion_max = 0.4
+		#Range: -2.0 ~ 2.0
+		depth_min = 0.7
+		#Range: -2.0 ~ 2.0
+		depth_max = 2.0
+		#Range: -2.0 ~ 2.0
+		weirdness_min = -1.0
+		#Range: -2.0 ~ 2.0
+		weirdness_max = 1.0
+		#Range: -2.0 ~ 2.0
+		offset = 0.0
 

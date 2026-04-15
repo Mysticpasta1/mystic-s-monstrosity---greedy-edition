@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "architects_palette:block/stripped_twisted_log",
-    "post": "architects_palette:block/twisted_log"
-  }
-}

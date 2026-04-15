@@ -1,6 +1,0 @@
-{
-  "parent": "condiments:block/bases/accent",
-  "textures": {
-    "texture": "condiments:block/aether_redux/blightwillow_accent"
-  }
-}

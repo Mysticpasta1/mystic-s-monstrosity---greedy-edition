@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "dreamwoods:block/stripped_bald_cypress_log",
-    "post": "dreamwoods:block/bald_cypress_log"
-  }
-}

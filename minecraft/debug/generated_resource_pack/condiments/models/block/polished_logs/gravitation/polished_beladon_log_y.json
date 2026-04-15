@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column_uv_locked_y",
-  "textures": {
-    "end": "condiments:block/gravitation/polished_beladon_log_top",
-    "side": "condiments:block/gravitation/polished_beladon_log"
-  }
-}

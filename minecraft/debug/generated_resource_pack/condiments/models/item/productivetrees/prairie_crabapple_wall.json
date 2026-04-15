@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "productivetrees:block/stripped/prairie_crabapple",
-    "post": "productivetrees:block/log/prairie_crabapple"
-  }
-}

@@ -56,4 +56,8 @@ Difficulty = "NORM"
 #The categories for these items are healing, gear, and loot.
 #Range: 0 ~ 9
 "Common Chest C2" = 1
+# If true dungeons will remove some spanwers from smaller dungeons.
+#This will try to give all dungeons a spawner density no greater than that typical 
+#of a size Large dungeon.  This mostly effects Small and Tiny dungeons.)
+"Cull Spawners" = true
 

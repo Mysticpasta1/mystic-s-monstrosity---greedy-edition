@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "malum:block/soulwood/stripped_soulwood_log",
-    "post": "malum:block/soulwood/soulwood_log"
-  }
-}

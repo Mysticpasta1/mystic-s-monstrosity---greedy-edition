@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "wildfields:block/stripped_western_serviceberry_log",
-    "post": "wildfields:block/western_serviceberry_log"
-  }
-}

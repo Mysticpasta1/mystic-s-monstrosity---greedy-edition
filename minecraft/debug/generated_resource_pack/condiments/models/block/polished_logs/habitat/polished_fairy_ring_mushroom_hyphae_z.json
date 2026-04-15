@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column_uv_locked_z",
-  "textures": {
-    "end": "condiments:block/habitat/polished_enhanced_fairy_ring_mushroom_stem",
-    "side": "condiments:block/habitat/polished_enhanced_fairy_ring_mushroom_stem"
-  }
-}

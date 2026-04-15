@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "condiments:block/thicket/polished_boswellia_log",
-    "side": "condiments:block/thicket/polished_boswellia_log"
-  }
-}

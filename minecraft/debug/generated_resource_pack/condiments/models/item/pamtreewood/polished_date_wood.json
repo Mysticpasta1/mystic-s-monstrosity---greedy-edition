@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "condiments:block/pamtreewood/polished_date_log",
-    "side": "condiments:block/pamtreewood/polished_date_log"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "garnished:block/stripped_nut_log",
-    "post": "garnished:block/nut_log"
-  }
-}

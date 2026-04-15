@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "truedarkness:block/stripped_cry_wood",
-    "post": "truedarkness:block/cry_wood"
-  }
-}

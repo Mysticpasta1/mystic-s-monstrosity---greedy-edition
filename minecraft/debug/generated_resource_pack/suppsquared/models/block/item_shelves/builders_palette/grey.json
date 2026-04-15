@@ -1,7 +1,0 @@
-{
-	"parent": "supplementaries:block/item_shelf",
-	"textures": {
-		"0": "suppsquared:block/item_shelves/builders_palette/grey",
-		"particle": "suppsquared:block/item_shelves/builders_palette/grey"
-	}
-}

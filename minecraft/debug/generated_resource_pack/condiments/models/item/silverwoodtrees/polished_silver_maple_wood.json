@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "condiments:block/silverwoodtrees/polished_silver_maple_log",
-    "side": "condiments:block/silverwoodtrees/polished_silver_maple_log"
-  }
-}

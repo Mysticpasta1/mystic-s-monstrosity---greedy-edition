@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column_uv_locked_z",
-  "textures": {
-    "end": "condiments:block/wetland_whimsy/polished_bald_cypress_log",
-    "side": "condiments:block/wetland_whimsy/polished_bald_cypress_log"
-  }
-}

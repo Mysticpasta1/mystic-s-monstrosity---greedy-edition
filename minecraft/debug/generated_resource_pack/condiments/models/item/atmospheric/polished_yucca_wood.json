@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "condiments:block/atmospheric/polished_yucca_log",
-    "side": "condiments:block/atmospheric/polished_yucca_log"
-  }
-}

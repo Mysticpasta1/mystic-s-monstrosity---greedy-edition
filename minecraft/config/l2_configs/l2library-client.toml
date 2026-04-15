@@ -11,6 +11,4 @@ infoMaxWidth = 0.3
 selectionDisplayRequireShift = false
 #Scroll for selection only when pressing shift
 selectionScrollRequireShift = true
-#Render overlay icons on entities
-renderOverlayIcons = true
 

@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column_uv_locked_y",
-  "textures": {
-    "end": "condiments:block/fracture/polished_inkwood_log_top",
-    "side": "condiments:block/fracture/polished_inkwood_log"
-  }
-}

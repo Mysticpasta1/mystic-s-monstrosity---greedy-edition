@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "condiments:block/aether_redux/polished_fieldsproot_log",
-    "side": "condiments:block/aether_redux/polished_fieldsproot_log"
-  }
-}

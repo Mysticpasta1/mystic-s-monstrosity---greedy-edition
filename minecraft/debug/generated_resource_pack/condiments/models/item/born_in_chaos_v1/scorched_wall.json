@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "born_in_chaos_v1:block/obtes",
-    "post": "born_in_chaos_v1:block/brievnovierkh1"
-  }
-}

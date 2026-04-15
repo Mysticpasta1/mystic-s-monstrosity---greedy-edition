@@ -1,6 +1,0 @@
-{
-  "parent": "condiments:block/bases/outer_accent",
-  "textures": {
-    "texture": "condiments:block/wood_enjoyer/chestnut_accent"
-  }
-}

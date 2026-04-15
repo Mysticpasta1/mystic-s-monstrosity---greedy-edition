@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "condiments:block/luminous_nether/polished_withered_log_top",
-    "side": "condiments:block/luminous_nether/polished_withered_log"
-  }
-}

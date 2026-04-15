@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "pasterdream:block/qu_pi_yin_ying_jun_bing_",
-    "post": "pasterdream:block/yin_ying_jun_bing_"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "regions_unexplored:block/stripped_socotra_log",
-    "post": "regions_unexplored:block/socotra_log"
-  }
-}

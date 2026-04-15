@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column_uv_locked_y",
-  "textures": {
-    "end": "condiments:block/echovoids/polished_magnachorus_log_top",
-    "side": "condiments:block/echovoids/polished_magnachorus_log"
-  }
-}

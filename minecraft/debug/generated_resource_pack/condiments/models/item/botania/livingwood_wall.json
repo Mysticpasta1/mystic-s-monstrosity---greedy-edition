@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "botania:block/stripped_livingwood_log",
-    "post": "botania:block/livingwood_log"
-  }
-}

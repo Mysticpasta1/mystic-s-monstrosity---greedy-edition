@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "condiments:block/goodending/polished_cypress_log",
-    "side": "condiments:block/goodending/polished_cypress_log"
-  }
-}

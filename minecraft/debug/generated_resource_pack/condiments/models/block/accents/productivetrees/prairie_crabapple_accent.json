@@ -1,6 +1,0 @@
-{
-  "parent": "condiments:block/bases/accent",
-  "textures": {
-    "texture": "condiments:block/productivetrees/prairie_crabapple_accent"
-  }
-}

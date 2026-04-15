@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "condiments:block/betterend/polished_mossy_glowshroom_log_top",
-    "side": "condiments:block/betterend/polished_mossy_glowshroom_log"
-  }
-}

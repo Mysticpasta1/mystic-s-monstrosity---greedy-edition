@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "productivetrees:block/stripped/socotra_dragon",
-    "post": "productivetrees:block/log/socotra_dragon"
-  }
-}

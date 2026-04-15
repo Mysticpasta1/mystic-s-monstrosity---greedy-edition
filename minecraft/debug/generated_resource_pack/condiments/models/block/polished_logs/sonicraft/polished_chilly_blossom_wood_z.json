@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column_uv_locked_z",
-  "textures": {
-    "end": "condiments:block/sonicraft/polished_chilly_blossom_log",
-    "side": "condiments:block/sonicraft/polished_chilly_blossom_log"
-  }
-}

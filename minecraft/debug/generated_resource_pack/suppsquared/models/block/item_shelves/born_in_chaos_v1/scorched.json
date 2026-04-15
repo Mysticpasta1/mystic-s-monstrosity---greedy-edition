@@ -1,7 +1,0 @@
-{
-	"parent": "supplementaries:block/item_shelf",
-	"textures": {
-		"0": "suppsquared:block/item_shelves/born_in_chaos_v1/scorched",
-		"particle": "suppsquared:block/item_shelves/born_in_chaos_v1/scorched"
-	}
-}

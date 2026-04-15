@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "condiments:block/hybrid-aquatic/polished_driftwood_log_top",
-    "side": "condiments:block/hybrid-aquatic/polished_driftwood_log"
-  }
-}

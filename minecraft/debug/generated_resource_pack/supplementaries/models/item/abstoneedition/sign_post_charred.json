@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "supplementaries:item/sign_posts/abstoneedition/sign_post_charred"
-  }
-}

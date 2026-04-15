@@ -1,0 +1,257 @@
+### Mods
+
+**Added**
+- Better Clouds
+- HC: HariChunk
+- Sinytra Connector
+- Stellar View
+- [EMF] Entity Model Features [Fabric & Forge]
+- [ETF] Entity Texture Features - [Fabric & Forge]
+
+**Removed**
+- Abnormals Construct
+- Abnormals Delight
+- Advanced Netherite (Forge / NeoForge)
+- AI Improvements
+- Allurement
+- Ancient Debris Nugget
+- Applied Cooking
+- Aquaculture 2
+- Aquaculture Delight (A Farmer's Delight Add-on)
+- Aquaculture Tinkers
+- Aquatic Torches
+- Ars Trinkets
+- Atmospheric
+- Autumnity
+- Berry Good
+- Bibliomania
+- Birds Nests
+- Bleak & Barren
+- Blooming Biosphere
+- Blueprint
+- Boatload
+- Bonsai Trees 4
+- Bookling Gear
+- Born in Chaos
+- Born In Configuration
+- Bosses of Mass Destruction [Forge | NeoForge]
+- Botany Pots Tiers
+- Botany Pots: Cultivating Dreams
+- Bountiful
+- Brazilian Delight
+- Brutal Bosses - Custom Bosses[Forge/Fabric]
+- Buzzier Bees
+- Caverns & Chasms
+- Celestial Artifacts
+- Celestial Core
+- Celestial Enchantments
+- Celestial Forge
+- Chest Search Bar
+- Clayworks
+- Click Machine
+- Client Tweaks
+- Convenient Curios Container
+- Cooking for Blockheads
+- Copper Nugget [Fabric/Forge/NeoForge]
+- Corail Recycler
+- Corail Woodcutter
+- CoroUtil
+- CraterLib
+- Creeper Overhaul
+- Critters and Companions
+- Croptopia
+- Croptopia Delight
+- CYAE
+- Delightful Slaughter: A Farmer's Delight Addon
+- Detected setBlock Be Gone
+- Diamethyst Golem
+- Diamethyst Medieval Weapons
+- Dis-Enchanting Table
+- Dispenser Delight
+- Display Delight
+- Do a Barrel Roll
+- Ease Out Night Vision
+- Easier Shulkers - Open Shulker Boxes from inventory!
+- Electric Light
+- Elemental Creepers OG
+- Enchant With Mob
+- Enchanted Crystal Arrow
+- Ender IO
+- Enderman Overhaul
+- Environmental
+- Erroring Entity Remover Reforged
+- Exline's Fishing
+- Exotic Birds
+- Farmer's Cutting: Regions Unexplored
+- FastPipes
+- FC's Stone Fences
+- Floor Mats
+- Flowerful
+- Forge Config Screens [Archived]
+- Gallery
+- Gems & Jewels
+- Gems & Jewels - Armor & Tools
+- Generator Galore
+- Geophilic – Vanilla Biome Overhauls
+- Giacomo's Experience Bottler
+- Giacomo's Lava Bottle
+- Hellion's Sniffer+
+- Hybrid Blocks
+- iFly
+- Immersive Cooking
+- Immersive Optimization
+- In Control!
+- Incubation
+- Inventory Pets
+- Iron Chests
+- Iron Shulker Boxes
+- L2 Archery
+- L2 Artifacts
+- L2 Backpack
+- L2 Complements
+- Large Meals (An Add-on for Farmer's Delight)
+- LDShadowLady's Flower Breeding: Replanted
+- Longwings
+- Lumberjack's Delight
+- LUMINOUS TAG
+- LUMINOUS: NETHER
+- LUMINOUS: OVERWORLD
+- Mana TrashCan
+- McJtyLib
+- Melter Block
+- Metal Barrels
+- Minecart Spawner Revived
+- MINT Lib
+- Missing Trees
+- Mo' Bubbles
+- Mobtimizations - Entity Performance Fixes
+- Modern Flat Colored Blocks
+- Modifier Key Fix
+- Modular Routers
+- Monster Expansion
+- Moonlit Monoliths
+- More Bows and Arrows | Major Update Available!
+- More Bows: Restrung!
+- More Tiny Gates
+- More Vanilla Shields! (Fabric/Forge/NeoForge)
+- MoreJeiInfo
+- My Nether's Delight
+- Neapolitan
+- Non Intrusive Doors
+- Noodle's Fracture
+- Orbital Railgun Reforged
+- Ore Regenerator
+- Ostrea
+- Panda's Custom Blocks
+- Paper Books
+- Patchwork | Building Blocks
+- Performance Tweaks
+- Pet Cemetery
+- Pineapple Delight
+- Pipez
+- Plant/Crop Growth Accelerator
+- Poison Kills
+- Potion Cauldron
+- Potion Rings - REFORGED [FORGE/NEOFORGE]
+- Presence Footsteps (Forge)
+- ProfileCached
+- QuickInvMove
+- Raspberry Core
+- Refined Cooking
+- Regions Unexplored
+- Regions Unexplored: Expansion
+- RFTools Base
+- RFTools Builder
+- RFTools Control
+- RFTools Dimensions
+- RFTools Power
+- RFTools Storage
+- RFTools Utility
+- Ring of Ascent [FABRIC/FORGE/NEOFORGE]
+- Ring of Attraction [FORGE/NEOFORGE]
+- Ring of Blink [FABRIC/FORGE/NEOFORGE]
+- Ring of Growth [FORGE/NEOFORGE]
+- Ring of Repair [FORGE/NEOFORGE]
+- Ring of Return [FABRIC/FORGE/NEOFORGE]
+- Ring of the Enderchest [FORGE/NEOFORGE]
+- Ring of the Miner [FORGE/NEOFORGE]
+- Ring of the Unseen [FABRIC/FORGE/NEOFORGE]
+- Rubinated Nether
+- Savage & Ravage
+- Scannable
+- Seasonals
+- Second Chance (Forge)
+- ServerCore
+- Shield Expansion
+- Shields+
+- Shrink.
+- Shulker Box Slot (Fabric/Forge/Quilt)
+- Signpost
+- SignTastic
+- Silverwood Trees
+- Simple Wooden Armor
+- Simply Light
+- Sliding Doors
+- Snuffles
+- SoniCraft
+- Spider Caves
+- Stacked Blocks
+- Stacked Blocks: Farmer's Delight
+- Stone Chest
+- Stoneworks
+- SuperFancyClouds: Refabricated
+- Surface Mushrooms
+- Tanuki Decor
+- Tarot Board
+- Tempad
+- Tempad With Shaders
+- Terrabnormals
+- Thaumon
+- The Endergetic Expansion
+- Thicket
+- Tiny Coal
+- Tiny Gates
+- Tiny Pipes
+- Tiny Redstone
+- Tom's Simple Storage Mod
+- Tool Belt
+- TorchBowMod
+- Torchmaster
+- Tuff Ores
+- Upgrade Aquatic
+- Useful Luck
+- Utilitarian
+- Vintage Animations
+- Volcanic Caverns
+- Wetland Whimsy
+- Where?
+- Whetstones
+- Whisperleaf Trees
+- Wild Fields
+- Wilder Flowers
+- Windswept Delights
+- Windswept Integration
+- Windswept!
+- Winter Overhaul
+- Woodworks
+- XK's Decoration
+- XNet
+- XNet Gases
+- XP Tome
+- YDM's MobHealthBar
+
+**Updated**
+- Colorful Lighting (Sodium Compat)
+
+### Resource Packs
+
+**Removed**
+- A Good Place Sample Pack
+- Basic Nether Ores 32x
+- DWBushyLeaves
+- DWBushyLeaves-DENSE-No-AO
+- Furnish Door Knock Silencer
+- Quark Programmer Art
+- SE Vanilla Consistency 1.20.1
+- tconjeidark
+

@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "supplementaries:block/sign_posts/template",
-	"textures": {
-		"particle": "supplementaries:block/sign_posts/thaumon/sign_post_greatwood",
-		"sign": "supplementaries:block/sign_posts/thaumon/sign_post_greatwood"
-	}
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column_uv_locked_z",
-  "textures": {
-    "end": "condiments:block/atmospheric/polished_laurel_log",
-    "side": "condiments:block/atmospheric/polished_laurel_log"
-  }
-}

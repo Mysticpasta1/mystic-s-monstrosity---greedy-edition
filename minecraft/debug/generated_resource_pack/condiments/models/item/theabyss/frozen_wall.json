@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "theabyss:block/stripped_frost_log",
-    "post": "theabyss:block/frost_log"
-  }
-}

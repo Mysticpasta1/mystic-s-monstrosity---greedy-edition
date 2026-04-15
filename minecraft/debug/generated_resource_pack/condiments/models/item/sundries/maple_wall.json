@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "sundries:block/stripped_maple_log",
-    "post": "sundries:block/maple_log"
-  }
-}

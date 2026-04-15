@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "betterend:block/helix_tree_stripped_log_side",
-    "post": "betterend:block/helix_tree_log_side"
-  }
-}

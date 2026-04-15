@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "caverns_and_chasms:block/stripped_azalea_log",
-    "post": "caverns_and_chasms:block/azalea_log"
-  }
-}

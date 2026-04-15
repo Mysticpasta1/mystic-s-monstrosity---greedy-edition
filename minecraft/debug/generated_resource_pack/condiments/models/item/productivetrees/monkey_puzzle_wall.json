@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "productivetrees:block/stripped/monkey_puzzle",
-    "post": "productivetrees:block/log/monkey_puzzle"
-  }
-}

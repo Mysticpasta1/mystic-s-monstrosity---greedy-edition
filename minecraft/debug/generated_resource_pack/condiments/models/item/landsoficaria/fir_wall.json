@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "landsoficaria:block/stripped_fir_log_end",
-    "post": "landsoficaria:block/fir_log_side"
-  }
-}

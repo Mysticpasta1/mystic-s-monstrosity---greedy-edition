@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "ghosts:block/stripped_haunted_log",
-    "post": "ghosts:block/haunted_log"
-  }
-}

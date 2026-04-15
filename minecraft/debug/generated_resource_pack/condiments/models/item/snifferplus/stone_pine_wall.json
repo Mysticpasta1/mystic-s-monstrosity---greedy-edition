@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "snifferplus:block/stripped_stone_pine_log",
-    "post": "snifferplus:block/stone_pine_log"
-  }
-}

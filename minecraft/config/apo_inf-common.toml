@@ -1,0 +1,54 @@
+
+#==================================================
+# Apotheosis: Infinite Configuration 
+#==================================================
+#
+["General Settings"]
+
+	["General Settings".Sockets]
+		#The maximum number of sockets that can be inherited and combined during the reforging process.
+		#Range: > 1
+		max_sockets = 50
+
+	#--------------------------------------------------
+	["General Settings".Affixes]
+		#The maximum effectiveness multiplier for affixes.
+		#1.0 represents the original intended maximum (100%).
+		#Increasing this value allows affixes to be upgraded beyond their limits,
+		#resulting in exponentially higher stats.
+		#Range: 1.0 ~ 1.7976931348623157E308
+		max_affix_level = 10.0
+		#The minimum effectiveness level for affixes.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		min_affix_level = 0.0
+
+	#--------------------------------------------------
+	["General Settings".Reforging]
+		#If true, items that do not naturally support Apotheosis affixes
+		#(including items from other mods) will be eligible for reforging.
+		enable_all_items_reforge = true
+		#A list of LootCategory IDs to be utilized when 'enable_all_items_reforge' is active.
+		#You can remove IDs to blacklist them, or add custom IDs from other mods.
+		reforgeable_category_list = ["bow", "crossbow", "pickaxe", "shovel", "heavy_weapon", "helmet", "chestplate", "leggings", "boots", "shield", "trident", "sword"]
+
+	#--------------------------------------------------
+	["General Settings".Enchanting]
+		#The global maximum level for all enchantments.
+		#Range: 1 ~ 255
+		max_enchantment_level = 100
+		#Determines if Curse enchantments can be upgraded up to 'max_enchantment_level'.
+		#If false, Curses will be locked to level 1 to minimize their negative impact
+		#while allowing other enchantments to scale infinitely.
+		allow_high_level_curses = false
+
+#==================================================
+# DANGER ZONE / JOKES 
+#==================================================
+[Jokes]
+	#CRITICAL WARNING:
+	#If enabled, dying while holding an item with a Curse of Vanishing level
+	#of 100 or higher will PERMANENTLY DELETE THE WORLD.
+	#
+	#The developer is not responsible for any loss of data. Use at your own risk.
+	enable_world_destruction = false
+

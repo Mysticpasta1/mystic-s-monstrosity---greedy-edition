@@ -1,6 +1,0 @@
-{
-  "parent": "condiments:block/bases/template_wall_rotated_side_z",
-  "textures": {
-    "wall": "regions_unexplored:block/stripped_blackwood_log"
-  }
-}

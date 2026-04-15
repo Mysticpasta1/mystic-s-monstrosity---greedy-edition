@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "condiments:block/biome_backlog/polished_palm_log",
-    "side": "condiments:block/biome_backlog/polished_palm_log"
-  }
-}

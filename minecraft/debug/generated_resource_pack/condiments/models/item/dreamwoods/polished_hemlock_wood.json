@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "condiments:block/dreamwoods/polished_hemlock_log",
-    "side": "condiments:block/dreamwoods/polished_hemlock_log"
-  }
-}

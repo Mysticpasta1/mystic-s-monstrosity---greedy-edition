@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column_uv_locked_y",
-  "textures": {
-    "end": "condiments:block/gardens_of_the_dead/polished_soulblight_stem_top",
-    "side": "condiments:block/gardens_of_the_dead/polished_soulblight_stem"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "dreamwoods:block/stripped_ruby_maple_log",
-    "post": "dreamwoods:block/ruby_maple_log"
-  }
-}

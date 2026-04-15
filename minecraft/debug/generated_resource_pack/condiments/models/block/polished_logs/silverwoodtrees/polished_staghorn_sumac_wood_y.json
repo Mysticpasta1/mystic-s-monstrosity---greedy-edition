@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column_uv_locked_y",
-  "textures": {
-    "end": "condiments:block/silverwoodtrees/polished_staghorn_sumac_log",
-    "side": "condiments:block/silverwoodtrees/polished_staghorn_sumac_log"
-  }
-}

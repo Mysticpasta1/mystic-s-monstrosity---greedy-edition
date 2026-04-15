@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "ecologics:block/stripped_coconut_log",
-    "post": "ecologics:block/coconut_log"
-  }
-}

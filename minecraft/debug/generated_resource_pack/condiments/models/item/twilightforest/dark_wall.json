@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "twilightforest:block/stripped_dark_log",
-    "post": "twilightforest:block/dark_log"
-  }
-}

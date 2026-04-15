@@ -1,6 +1,0 @@
-{
-  "parent": "condiments:block/bases/outer_accent",
-  "textures": {
-    "texture": "condiments:block/wetland_whimsy/bald_cypress_accent"
-  }
-}

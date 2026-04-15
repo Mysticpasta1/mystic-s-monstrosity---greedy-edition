@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "condiments:block/dreamwoods/polished_great_willow_log",
-    "side": "condiments:block/dreamwoods/polished_great_willow_log"
-  }
-}

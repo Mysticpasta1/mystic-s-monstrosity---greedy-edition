@@ -2,22 +2,32 @@
 
 **Added**
 - Alltheimbaium
+- Almost Unified
+- Almost Unify Everything
+- Better Clouds
 - Chairway
 - Connected Glass
 - Cristel Lib
-- FastPipes
 - Hot Bath
 - Integrated  Seven Seas
 - Integrated Dungeons Arise
+- KeybindsPurger
+- LightSpeedRe - Launch optimizations
 - LittleTiles
+- mammonspatches-1
+- NotEnoughBlocks
+- Stellar View
 - When Dungeons Arise - Seven Seas
 - William Wythers' Expanded Ecosphere
 
 **Removed**
 -  [IU] Industrial Upgrade
 - 'Dustrial Decor
+- Abnormals Construct
+- Abnormals Delight
 - Absent by Design
 - Additional Blocks: Stone Edition
+- Advanced Netherite (Forge / NeoForge)
 - AE2 MEGA Things
 - Aesthetic Frames
 - Aesthetic Ladders
@@ -26,33 +36,104 @@
 - Aesthetic Storage
 - Aesthetic Surfaces
 - Aesthetic Windows
+- Allurement
+- Ancient Debris Nugget
+- Ancient Reforging
+- Apotheosis
+- Apotheosis Threat Multiplier
+- Apotheotic Hostility
+- Apothic Amendments - Enchanting
+- Apothic Attributes
+- Apothic Cataclysm
+- Apothic Curios
+- Apothic Equipment
+- Apothic Extensions
+- Apothic Materials
+- Apothic Supplementaries - Enchanting
+- Applied Cooking
+- Aquaculture 2
+- Aquaculture Delight (A Farmer's Delight Add-on)
+- Aquaculture Tinkers
+- Aquatic Torches
 - Architect's Palette
+- Ars Trinkets
 - Arts & Crafts
 - Arts & Crafts Compatibility
+- Atmospheric
 - AtomicStryker's Infernal Mobs
+- Autumnity
 - BBlocks
+- Berry Good
+- Better Combat x Apotheosis Compat
 - Better Fluid Pipes
+- Bibliomania
+- Birds Nests
+- Bleak & Barren
 - Block Dump
+- Blooming Biosphere
+- Blueprint
+- Boatload
+- BoatOverhaul [Forge]
+- Bonsai Trees 4
+- Born in Chaos
+- Born In Configuration
+- Bosses of Mass Destruction [Forge | NeoForge]
+- Botania: Garden of Glass
+- Botany Pots Tiers
+- Botany Pots: Cultivating Dreams
+- Bountiful
 - Bountiful Blocks
+- Brazilian Delight
+- Brutal Bosses - Custom Bosses[Forge/Fabric]
 - Builder's Delight (Forge)
 - Builder's Palette
 - Builders Companion: Biome Waters
 - Builders Companion: Dyed Waters
 - Builders Crafts & Additions
 - Built
+- Buzzier Bees
 - Carpet Diem
+- Caverns & Chasms
+- Celestial Artifacts
+- Celestial Core
+- Celestial Enchantments
+- Celestial Forge
+- Chest Search Bar
+- Chicken Chunks 1.8.+
 - Chipped
 - Chipped Express
 - Chips' World Types
 - Chisel Reborn [Forge/Fabric/NeoForge]
 - Chisels & Bits - For Forge
+- ChoiceTheorem's Overhauled Village
 - Chunk Loaders
+- Chunky - Au Naturel Edit
+- Clayworks
+- Click Machine
+- Client Tweaks
 - Cobbled Stone & Mixed Blocks (Cobblestoney)
+- Collector's Reap
 - ColoredWater
+- Compat O' Plenty [Forge]
+- Convenient Curios Container
+- Cookielicious
+- Cooking for Blockheads
+- Copper Nugget [Fabric/Forge/NeoForge]
 - Corail Pillar
+- Corail Recycler
+- Corail Woodcutter
+- CoroUtil
+- Cosmopolitan
+- Crate Delight: Croptopia
+- Create Contraption Terminals
 - Create Encased
 - Create: Reactive Stress (CRS)
+- Creeper Overhaul
+- Critters and Companions
+- Croptopia
+- Croptopia Delight
 - Curvy Pipes
+- CYAE
 - Cyclic
 - Decorative Bags
 - Decorative Blocks
@@ -67,24 +148,87 @@
 - Decorative Railings
 - Decorative Storage
 - Decorative Wooden Lattices
+- Deeper Oceans
+- Delightful Slaughter: A Farmer's Delight Addon
+- Detected setBlock Be Gone
+- Diamethyst Golem
+- Diamethyst Medieval Weapons
 - Diamond Nuggets
+- Dis-Enchanting Table
+- Dispenser Delight
+- Display Delight
+- Do a Barrel Roll
 - Domum Ornamentum
 - Drawers Tooltip
+- Ease Out Night Vision
+- Easel Does It!
+- Easier Shulkers - Open Shulker Boxes from inventory!
+- EC Advanced Netherite Compat
+- EC Apotheosis Compat
+- EC Aquaculture Compat
+- Electric Light
+- Elemental Creepers OG
+- Enchant With Mob
+- Enchanted Crystal Arrow
+- Enchanting Infuser x Apotheosis Patch
+- Ender IO
+- Enderman Overhaul
+- Enhanced Mushrooms
+- Environmental
+- Erroring Entity Remover Reforged
+- Exline's Fishing
+- Exotic Birds
+- Exquisito
 - Extra Carpets
 - Extra Mining World
+- Fallen Gems & Affixes
+- Fallen Lib
+- Farmer's Cutting: Regions Unexplored
 - FastWorkbench
+- FC's Stone Fences
+- Fish No Stuck
+- Floor Mats
 - Floral Enchantment
+- Flowerful
 - Fluid Drawers Legacy
 - Foolish
 - Foolish Unofficial Patch
+- Forge Config Screens [Archived]
 - Functional Aether
 - Functional Storage
 - Furnish
+- Gallery
+- Gems & Jewels
+- Gems & Jewels - Armor & Tools
+- Generator Galore
+- Geophilic – Vanilla Biome Overhauls
+- Giacomo's Experience Bottler
+- Giacomo's Lava Bottle
+- Glazed ReSymmetry
+- Hellion's Sniffer+
+- Hybrid Blocks
+- iFly
+- Immersive Cooking
+- In Control!
+- Incubation
+- Inventory Pets
+- Iron Chests
+- Iron Shulker Boxes
 - It Takes a Pillage
 - Kerria
 - Ksyxis
+- L2 Archery
+- L2 Artifacts
+- L2 Backpack
 - Lapidarist
+- Large Meals (An Add-on for Farmer's Delight)
+- LDShadowLady's Flower Breeding: Replanted
+- Longwings
+- Lumberjack's Delight
 - Luminax
+- LUMINOUS TAG
+- LUMINOUS: NETHER
+- LUMINOUS: OVERWORLD
 - Macaw's Doors
 - Macaw's Fences and Walls
 - Macaw's Furniture
@@ -94,36 +238,170 @@
 - Macaw's Stairs
 - Macaw's Trapdoors
 - Macaw's Windows
+- Mana TrashCan
 - Masonry
+- McJtyLib
 - MEGA Cells
+- Melter Block
+- Metal Barrels
+- Metal Works
+- Minecart Spawner Revived
+- Missing Trees
+- Mo' Bubbles
 - Mo' Concretes
 - Mo' Glowstone
 - Mo' Glowstone Lamps
 - Mo' Glowstone+
+- Mobtimizations - Entity Performance Fixes
+- Modern Flat Colored Blocks
+- Modifier Key Fix
+- Modular Routers
+- Monster Expansion
+- Moonlit Monoliths
+- More Bows and Arrows | Major Update Available!
+- More Bows: Restrung!
 - More Offhand Slots
+- More Tiny Gates
+- More Vanilla Shields! (Fabric/Forge/NeoForge)
+- MoreJeiInfo
+- Mosaic Carpentry
 - Multi-Piston
+- My Nether's Delight
+- Neapolitan
 - Neon Lamps
+- Neruina - Ticking Entity Fixer
+- Non Intrusive Doors
+- Noodle's Fracture
+- Orbital Railgun Reforged
+- Ore Regenerator
+- Ostrea
+- Panda's Custom Blocks
+- Paper Books
+- Patchwork | Building Blocks
+- Performance Tweaks
+- Pet Cemetery
+- Pineapple Delight
+- Pipez
+- Plant Mega Pack (REUPLOAD)
+- Plant/Crop Growth Accelerator
+- Poison Kills
+- Potion Cauldron
+- Potion Rings - REFORGED [FORGE/NEOFORGE]
+- Presence Footsteps (Forge)
+- Primal Magick
+- ProfileCached
+- Quality of Queso
+- QuickInvMove
 - Rainbow Oaks Renewed
 - Rainbow Webs
+- Raspberry Core
 - Rechiseled
 - Rechiseled: AE2
 - Rechiseled: Applied Energistics 2
 - Rechiseled: Chipped
 - Rechiseled: Create
 - Rechiseled: Fans
+- Refined Cooking
+- Regions Unexplored
+- Regions Unexplored: Expansion
 - Reintegrated: Arts and Crafts
 - Reintegrated: Chipped
+- Reoreganized
+- RFTools Base
+- RFTools Builder
+- RFTools Control
+- RFTools Dimensions
+- RFTools Power
+- RFTools Storage
+- RFTools Utility
+- Ring of Ascent [FABRIC/FORGE/NEOFORGE]
+- Ring of Attraction [FORGE/NEOFORGE]
+- Ring of Blink [FABRIC/FORGE/NEOFORGE]
+- Ring of Growth [FORGE/NEOFORGE]
+- Ring of Repair [FORGE/NEOFORGE]
+- Ring of Return [FABRIC/FORGE/NEOFORGE]
+- Ring of the Enderchest [FORGE/NEOFORGE]
+- Ring of the Miner [FORGE/NEOFORGE]
+- Ring of the Unseen [FABRIC/FORGE/NEOFORGE]
+- Rubinated Nether
+- Savage & Ravage
+- Scannable
+- Seasonals
+- Second Chance (Forge)
+- ServerCore
+- Shield Expansion
+- Shields+
+- Shrink.
+- Shulker Box Slot (Fabric/Forge/Quilt)
+- Signpost
+- SignTastic
+- Silverwood Trees
+- Simple Wooden Armor
+- Sliding Doors
+- Snuffles
 - Some More Blocks
+- SoniCraft
 - SookiCustomBlocks
+- Spider Caves
+- Stacked Blocks
+- Stacked Blocks: Farmer's Delight
+- Stone Chest
+- Stoneworks
 - Stonier Stones
 - Storage Drawers
 - Storage Drawers Extras
 - Storage Racks
 - Structurize
+- Sullys Mod
+- SuperFancyClouds: Refabricated
+- Surface Mushrooms
+- Tanuki Decor
+- Tarot Board
+- Tempad
+- Tempad With Shaders
+- Terrabnormals
+- Terraphilic
+- Thaumon
+- The Endergetic Expansion
+- The Outer End
+- Thicket
+- Time in a bottle [FORGE\NEOFORGE\FABRIC]
+- Tiny Coal
+- Tiny Gates
+- Tiny Pipes
+- Tiny Redstone
+- Tom's Simple Storage Mod
+- Tool Belt
+- TorchBowMod
+- Torchmaster
 - True Darkness [Forge] - Updated Fork
+- Tuff Ores
 - UnChipped
+- Upgrade Aquatic
+- Useful Luck
+- Utilitarian
+- Villagers follow Emerald Blocks
 - Villainous Fish AI
+- Vintage Animations
+- Volcanic Caverns
 - Water condenser
+- Wetland Whimsy
+- What is 'Stone'? (Colorful Caves)
+- Where?
+- Whetstones
+- Whisperleaf Trees
+- Wild Fields
+- Wilder Flowers
+- Windswept Delights
+- Windswept Integration
+- Windswept!
+- Winter Overhaul
+- Woodworks
+- XK's Decoration
+- XNet
+- XNet Gases
+- XP Tome
+- YDM's MobHealthBar
 - [IU]  MiningWorld Upgrade
 - [IU] Diamond Vein
 - [IU] Power Utilities 
@@ -136,6 +414,7 @@
 - AzureLib
 - Better Fishtanks
 - Client Crafting
+- Colorful Lighting (Sodium Compat)
 - Crazy AE2 Addons
 - Darker Depths
 - Echovoids
@@ -148,6 +427,12 @@
 - Just Enough Mekanism Multiblocks
 - Lionfish API
 - ModernFix
+
+### Resource Packs
+
+**Removed**
+- Furnish Door Knock Silencer
+- SE Vanilla Consistency 1.20.1
 
 ### Data Packs
 

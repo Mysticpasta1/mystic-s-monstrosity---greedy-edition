@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "missingtrees:block/stripped_apple_log",
-    "post": "missingtrees:block/apple_log"
-  }
-}

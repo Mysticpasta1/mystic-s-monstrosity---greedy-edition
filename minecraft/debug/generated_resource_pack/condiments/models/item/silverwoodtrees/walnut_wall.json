@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "silverwoodtrees:block/stripped_walnut_log",
-    "post": "silverwoodtrees:block/walnut_log"
-  }
-}

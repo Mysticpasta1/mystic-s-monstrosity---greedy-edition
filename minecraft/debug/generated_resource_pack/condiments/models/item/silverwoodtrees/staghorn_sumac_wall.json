@@ -1,7 +1,0 @@
-{
-  "parent": "condiments:block/bases/special_wall_inventory",
-  "textures": {
-    "wall": "silverwoodtrees:block/stripped_staghorn_sumac_log",
-    "post": "silverwoodtrees:block/staghorn_sumac_log"
-  }
-}

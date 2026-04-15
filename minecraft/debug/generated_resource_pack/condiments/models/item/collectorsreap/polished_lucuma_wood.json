@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "condiments:block/collectorsreap/polished_lucuma_log",
-    "side": "condiments:block/collectorsreap/polished_lucuma_log"
-  }
-}
