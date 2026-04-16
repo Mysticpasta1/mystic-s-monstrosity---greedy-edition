@@ -1,0 +1,112 @@
+### Mods
+
+**Added**
+- Apotheosis
+- Apotheosis: Infinite
+- Apotheotic Hostility
+- Apothic Attributes
+- Apothic Curios
+- Apothic Equipment
+- Apothic Extensions
+- Apothic Materials
+- Apothic Supplementaries - Enchanting
+- Async Logger
+- Athena
+- Birds Nests
+- CarrasconLib
+- Chipped
+- Cyclic
+- Dimensional Sync Fixes
+- EC Apotheosis Compat
+- Enchanting Infuser x Apotheosis Patch
+- Ender IO
+- EverlastingAbilities
+- L2 Complements
+- L2 Hostility
+- L2 Library
+- McJtyLib
+- No Farmland Trample
+- Pipez
+- Pipez Lag Fix
+- Rechiseled
+- Rechiseled: Applied Energistics 2
+- Rechiseled: Chipped
+- Reintegrated: Chipped
+- RFTools Base
+- RFTools Builder
+- RFTools Control
+- RFTools Dimensions
+- RFTools Power
+- RFTools Utility
+- Structure Credits
+- UnChipped
+- Utilitarian
+- XNet
+- XNet Gases
+
+**Removed**
+- All The Wood We've Got
+- Ancient Library
+- Backported Wolves
+- Backported wolves - Biomes O' Plenty Compat
+- Better Fishtanks
+- Block Runner
+- Carry On
+- Carry On Extend
+- ChocoCraft
+- Colorful Campfires
+- Compat Delight
+- Crash Utilities
+- CrashExploitFixer
+- Create: Extra Casing
+- Create: New Age
+- Creative Crafter
+- Crying Skeleton
+- Curious Lanterns
+- Customizable Player Models
+- Cut Through
+- Diamond In The Rough (as in obsidian)
+- Dimensional Item Cannons
+- Distinct Potions
+- Drums
+- Epileson
+- Fantasy's Furniture
+- Fix Experience Bug (now with FABRIC and FORGE versions)
+- Flopper
+- Furnitury - Vanilla Styled Furniture
+- Gilded Armor CJ Edition
+- Healing Campfire
+- Immersive Furniture
+- Iron Bookshelves
+- Lava-Mo-Tron
+- LightSpeedRe - Launch optimizations
+- Map Tooltip
+- Mob Pacifier
+- MrCrayfish's Furniture Mod: Refurbished
+- Name Pain
+- No Auto Jump
+- Pale
+- Persistent Inventory Search
+- Player Tracking Compass
+- Projectiles
+- Radiant Gear (Fabric/Forge/Quilt)
+- Rare Ice (Forge/Fabric)
+- Regrowth
+- Respawning Animals
+- TipTheScales
+- TNT Breaks Bedrock
+- Undergarden Botany Pots Compats
+- Villagers Respawn  (for Forge, Fabric,NeoForge)
+- [SBM] Charcoal Block
+
+**Updated**
+- Async JEI (Just Enough Item)
+- Blood Magic 
+- Carbon Config
+- Doomlike Dungeons
+- Fancy World Animations
+- Fast IP Ping
+- ModernFix
+- NuclearCraft: Neoteric
+- Tinker and Better Combat
+

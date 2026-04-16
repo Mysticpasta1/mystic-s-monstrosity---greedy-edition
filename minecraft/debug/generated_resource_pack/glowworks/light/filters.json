@@ -1,48 +1,43 @@
 {
-  "valhelsia_structures:orange_metal_framed_glass_pane": [
-    255,
-    102,
-    17
-  ],
   "atlantis:lime_sea_glass_button": [
     187,
     255,
     0
+  ],
+  "chipped:arched_orange_stained_glass_pane_pillar": [
+    255,
+    102,
+    17
   ],
   "railways:black_four_pane_locometal_window": [
     0,
     0,
     0
   ],
-  "atlantis:multicolor_sea_glass_pressure_plate": [
-    153,
-    204,
-    204
-  ],
-  "atlantis:red_sea_glass_slab": [
+  "chipped:circular_yellow_stained_glass": [
     255,
-    0,
-    0
-  ],
-  "securitycraft:reinforced_red_stained_glass_pane": [
-    255,
-    0,
-    0
-  ],
-  "glassential:pink_glass_trapdoor": [
-    255,
-    102,
-    187
-  ],
-  "luminousblocks:luminous_lime_stained_glass": [
-    187,
     255,
     0
+  ],
+  "chipped:ornate_light_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "chipped:tile_windowed_cherry_door": [
+    255,
+    255,
+    255
   ],
   "atlantis:yellow_patterned_sea_glass_pressure_plate": [
     255,
     255,
     0
+  ],
+  "enderio:clear_glass_dp_pink": [
+    255,
+    102,
+    187
   ],
   "truedarkness:metenite_glass": [
     255,
@@ -68,6 +63,5431 @@
     255,
     255,
     255
+  ],
+  "enderio:clear_glass_ena_lime": [
+    187,
+    255,
+    0
+  ],
+  "sundries:gray_wrought_iron_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_em_lime": [
+    187,
+    255,
+    0
+  ],
+  "chipped:glass_cherry_door": [
+    255,
+    255,
+    255
+  ],
+  "patternedglass:lime_patterned_glass": [
+    187,
+    255,
+    0
+  ],
+  "luminousblocks:luminous_magenta_stained_glass_pane": [
+    255,
+    0,
+    255
+  ],
+  "enderio:clear_glass_dnp_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "chipped:circular_pink_stained_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "atlantis:blue_patterned_sea_glass_stairs": [
+    0,
+    0,
+    255
+  ],
+  "atlantis:red_patterned_sea_glass_slab": [
+    255,
+    0,
+    0
+  ],
+  "minecraft:orange_stained_glass_pane": [
+    255,
+    102,
+    17
+  ],
+  "betternether:quartz_glass_green": [
+    0,
+    255,
+    0
+  ],
+  "storagedelight:mangrove_cabinet_with_glass_doors": [
+    255,
+    255,
+    255
+  ],
+  "quark:white_framed_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:circular_red_stained_glass": [
+    255,
+    0,
+    0
+  ],
+  "enderio:clear_glass_nm_black": [
+    0,
+    0,
+    0
+  ],
+  "chipped:woven_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "railways:yellow_four_pane_locometal_window": [
+    255,
+    255,
+    0
+  ],
+  "expatternprovider:assembler_matrix_glass": [
+    255,
+    255,
+    255
+  ],
+  "valhelsia_structures:light_gray_metal_framed_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "luminousblocks:luminous_purple_stained_glass": [
+    170,
+    34,
+    255
+  ],
+  "chipped:windowed_jungle_door": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dnm_pink": [
+    255,
+    102,
+    187
+  ],
+  "luminousblocks:luminous_magenta_stained_glass": [
+    255,
+    0,
+    255
+  ],
+  "mo_glass:gray_stained_glass_slab": [
+    136,
+    136,
+    136
+  ],
+  "chipped:small_green_stained_glass": [
+    0,
+    255,
+    0
+  ],
+  "atlantis:purple_sea_glass_wall": [
+    170,
+    34,
+    255
+  ],
+  "sundries:orange_wrought_iron_glass_pane": [
+    255,
+    102,
+    17
+  ],
+  "chipped:ornate_magenta_stained_glass_pane": [
+    255,
+    0,
+    255
+  ],
+  "dd_mosaic_glass:glass_rose_base": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:light_gray_sea_glass_pressure_plate": [
+    136,
+    136,
+    136
+  ],
+  "chipped:tiled_purple_stained_glass": [
+    170,
+    34,
+    255
+  ],
+  "dawnoftimebuilder:red_painted_windowed_door": [
+    255,
+    0,
+    0
+  ],
+  "atlantis:purple_sea_glass": [
+    170,
+    34,
+    255
+  ],
+  "mysticalagriculture:soul_glass": [
+    0,
+    0,
+    255
+  ],
+  "enderio:clear_glass_enm_purple": [
+    170,
+    34,
+    255
+  ],
+  "chipped:circular_black_stained_glass": [
+    0,
+    0,
+    0
+  ],
+  "nuclearcraft:turbine_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_d_black": [
+    0,
+    0,
+    0
+  ],
+  "betternether:quartz_glass_framed_pane_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "opalescence:opal_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "railways:ochrum_two_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "create:tiled_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_nm_orange": [
+    255,
+    102,
+    17
+  ],
+  "enderio:clear_glass_magenta": [
+    255,
+    0,
+    255
+  ],
+  "dd_mosaic_glass:glass_heart": [
+    255,
+    255,
+    255
+  ],
+  "garnished:sepia_window": [
+    255,
+    255,
+    255
+  ],
+  "chipped:raster_brown_stained_glass_pane": [
+    136,
+    68,
+    17
+  ],
+  "glassential:glass_ghostly": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dp_green": [
+    0,
+    255,
+    0
+  ],
+  "tconstruct:scorched_glass": [
+    255,
+    255,
+    255
+  ],
+  "gobber2:gobber2_glass": [
+    255,
+    255,
+    255
+  ],
+  "railways:lime_single_pane_locometal_window": [
+    187,
+    255,
+    0
+  ],
+  "mo_glass:orange_stained_glass_slab": [
+    255,
+    102,
+    17
+  ],
+  "enderio:clear_glass_np_pink": [
+    255,
+    102,
+    187
+  ],
+  "enderio:clear_glass_em_blue": [
+    0,
+    0,
+    255
+  ],
+  "chipped:large_diamond_magenta_stained_glass": [
+    255,
+    0,
+    255
+  ],
+  "enderio:clear_glass_dna_brown": [
+    136,
+    68,
+    17
+  ],
+  "enderio:clear_glass_a_gray": [
+    136,
+    136,
+    136
+  ],
+  "atlantis:lime_patterned_sea_glass_slab": [
+    187,
+    255,
+    0
+  ],
+  "betternether:quartz_glass_pink": [
+    255,
+    102,
+    187
+  ],
+  "chipped:arched_white_stained_glass_pillar": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:green_patterned_sea_glass_wall": [
+    0,
+    255,
+    0
+  ],
+  "enderio:clear_glass_m_red": [
+    255,
+    0,
+    0
+  ],
+  "quark:lime_framed_glass": [
+    187,
+    255,
+    0
+  ],
+  "enderio:clear_glass_a_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "xycraft_world:glass_viewer_rgb_glowing_orange": [
+    255,
+    102,
+    17
+  ],
+  "chipped:vertical_stiped_light_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_da_red": [
+    255,
+    0,
+    0
+  ],
+  "chipped:vertical_stiped_green_stained_glass": [
+    0,
+    255,
+    0
+  ],
+  "atlantis:monochromatic_sea_glass_pressure_plate": [
+    153,
+    204,
+    204
+  ],
+  "sundries:navy_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:light_blue_patterned_sea_glass_wall": [
+    0,
+    0,
+    255
+  ],
+  "betternether:quartz_glass_pane_gray": [
+    136,
+    136,
+    136
+  ],
+  "deepblue:aqua_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:fancy_green_stained_glass_pane": [
+    0,
+    255,
+    0
+  ],
+  "chipped:large_diamond_light_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "chipped:tiled_red_stained_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "railways:chartreuse_four_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "tconstruct:white_clear_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "gtceu:fusion_glass": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:light_gray_patterned_sea_glass_pressure_plate": [
+    136,
+    136,
+    136
+  ],
+  "storagedelight:dark_oak_cabinet_with_glass_doors": [
+    255,
+    255,
+    255
+  ],
+  "chipped:large_diamond_lime_stained_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "mekanism_extras:lead_coated_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:raster_lime_stained_glass": [
+    187,
+    255,
+    0
+  ],
+  "blastcraft:rawblastproofwallingglass": [
+    255,
+    255,
+    255
+  ],
+  "glassential:light_blue_glass_trapdoor": [
+    0,
+    0,
+    255
+  ],
+  "enderio:clear_glass_dnp_brown": [
+    136,
+    68,
+    17
+  ],
+  "fintastic:infernal_aquarium_glass": [
+    255,
+    255,
+    255
+  ],
+  "sundries:pastel_yellow_wrought_iron_glass_pane": [
+    255,
+    255,
+    0
+  ],
+  "chipped:fancy_cyan_stained_glass_pane": [
+    0,
+    255,
+    255
+  ],
+  "chipped:clear_leaded_glass": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_redstone_base": [
+    255,
+    0,
+    0
+  ],
+  "pyrite:framed_glass": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_poppy": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:cyan_patterned_sea_glass": [
+    0,
+    255,
+    255
+  ],
+  "sundries:pastel_blue_wrought_iron_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "atlantis:light_blue_sea_glass_button": [
+    0,
+    0,
+    255
+  ],
+  "bedrockcrafter:bedrock_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:raster_red_stained_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "dd_mosaic_glass:glass_branch": [
+    255,
+    255,
+    255
+  ],
+  "glassential:glass_dark_ethereal_reverse": [
+    255,
+    255,
+    255
+  ],
+  "railways:light_gray_four_pane_locometal_window": [
+    136,
+    136,
+    136
+  ],
+  "atlantis:cyan_sea_glass_wall": [
+    0,
+    255,
+    255
+  ],
+  "railways:green_round_pane_locometal_window": [
+    0,
+    255,
+    0
+  ],
+  "atlantis:cyan_patterned_sea_glass_wall": [
+    0,
+    255,
+    255
+  ],
+  "dawnoftimebuilder:charred_spruce_window": [
+    255,
+    0,
+    0
+  ],
+  "glassential:yellow_glass_door": [
+    255,
+    255,
+    0
+  ],
+  "patternedglass:red_patterned_glass": [
+    255,
+    0,
+    0
+  ],
+  "truedarkness:glass_jar": [
+    255,
+    255,
+    255
+  ],
+  "landsoficaria:grainglass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:fancy_light_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "chipped:circular_purple_stained_glass_pane": [
+    170,
+    34,
+    255
+  ],
+  "railways:maroon_single_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "mo_glass:light_blue_stained_glass_slab": [
+    0,
+    0,
+    255
+  ],
+  "chipped:square_yellow_stained_glass": [
+    255,
+    255,
+    0
+  ],
+  "betternether:quartz_glass_yellow": [
+    255,
+    255,
+    0
+  ],
+  "enderio:clear_glass_p_cyan": [
+    0,
+    255,
+    255
+  ],
+  "chipped:windowed_crimson_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_em_orange": [
+    255,
+    102,
+    17
+  ],
+  "chipped:square_light_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "chipped:vertical_stiped_green_stained_glass_pane": [
+    0,
+    255,
+    0
+  ],
+  "thermal:lumium_glass": [
+    255,
+    255,
+    255
+  ],
+  "betternether:quartz_glass_framed_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "railways:magenta_single_pane_locometal_window": [
+    255,
+    0,
+    255
+  ],
+  "betternether:quartz_glass_framed_pane_purple": [
+    170,
+    34,
+    255
+  ],
+  "enderio:clear_glass_e_blue": [
+    0,
+    0,
+    255
+  ],
+  "chipped:glass_jungle_door": [
+    255,
+    255,
+    255
+  ],
+  "pyrite:lime_framed_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "glassential:purple_glass_door": [
+    170,
+    34,
+    255
+  ],
+  "enderio:clear_glass_d_brown": [
+    136,
+    68,
+    17
+  ],
+  "sundries:olive_green_stained_glass_pane": [
+    0,
+    255,
+    0
+  ],
+  "securitycraft:reinforced_orange_stained_glass": [
+    255,
+    102,
+    17
+  ],
+  "chipped:raster_light_blue_stained_glass": [
+    0,
+    0,
+    255
+  ],
+  "chipped:large_diamond_black_stained_glass_pane": [
+    0,
+    0,
+    0
+  ],
+  "patternedglass:yellow_patterned_glass_pane": [
+    255,
+    255,
+    0
+  ],
+  "railways:yellow_two_pane_locometal_window": [
+    255,
+    255,
+    0
+  ],
+  "chipped:woven_magenta_stained_glass": [
+    255,
+    0,
+    255
+  ],
+  "chipped:classic_windowed_cherry_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "railways:brown_round_pane_locometal_window": [
+    136,
+    68,
+    17
+  ],
+  "enderio:clear_glass_np_cyan": [
+    0,
+    255,
+    255
+  ],
+  "chipped:arched_brown_stained_glass_pane_pillar": [
+    136,
+    68,
+    17
+  ],
+  "sundries:lavender_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "silentgems:iolite_glass": [
+    255,
+    255,
+    255
+  ],
+  "quark:lime_framed_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "chipped:tile_windowed_jungle_door": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ep_white": [
+    255,
+    255,
+    255
+  ],
+  "chipped:ornate_cyan_stained_glass": [
+    0,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_pane_rose": [
+    255,
+    255,
+    255
+  ],
+  "securitycraft:reinforced_light_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "enderio:clear_glass_na_white": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:white_patterned_sea_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_nm_green": [
+    0,
+    255,
+    0
+  ],
+  "ror:glowing_yellow_stained_glass": [
+    255,
+    255,
+    0
+  ],
+  "enderio:clear_glass_na_gray": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_dnm_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "tconstruct:light_gray_clear_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "patternedglass:light_gray_patterned_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_dnp_yellow": [
+    255,
+    255,
+    0
+  ],
+  "enderio:clear_glass_ena_blue": [
+    0,
+    0,
+    255
+  ],
+  "chipped:oak_line_bared_glass": [
+    255,
+    0,
+    0
+  ],
+  "enderio:clear_glass_ea_yellow": [
+    255,
+    255,
+    0
+  ],
+  "enderio:clear_glass_dnm_red": [
+    255,
+    0,
+    0
+  ],
+  "valhelsia_structures:brown_metal_framed_glass": [
+    136,
+    68,
+    17
+  ],
+  "chipped:ornate_pink_stained_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "betternether:quartz_glass_framed_pane_orange": [
+    255,
+    102,
+    17
+  ],
+  "chipped:vertical_stiped_yellow_stained_glass": [
+    255,
+    255,
+    0
+  ],
+  "ror:glowing_magenta_stained_glass_pane": [
+    255,
+    0,
+    255
+  ],
+  "dd_mosaic_glass:glass_fleur": [
+    255,
+    255,
+    255
+  ],
+  "minecraft:pink_stained_glass": [
+    255,
+    102,
+    187
+  ],
+  "atlantis:magenta_sea_glass_stairs": [
+    255,
+    0,
+    255
+  ],
+  "patternedglass:orange_patterned_glass": [
+    255,
+    102,
+    17
+  ],
+  "chipped:small_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "railways:orange_two_pane_locometal_window": [
+    255,
+    102,
+    17
+  ],
+  "chipped:ornate_red_stained_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "truedarkness:chiseled_ancient_glass": [
+    255,
+    255,
+    255
+  ],
+  "glassential:light_gray_glass_door": [
+    136,
+    136,
+    136
+  ],
+  "chipped:raster_purple_stained_glass_pane": [
+    170,
+    34,
+    255
+  ],
+  "chipped:ornate_red_stained_glass": [
+    255,
+    0,
+    0
+  ],
+  "betternether:quartz_glass_lime": [
+    187,
+    255,
+    0
+  ],
+  "glassential:black_glass_trapdoor": [
+    0,
+    0,
+    0
+  ],
+  "luminousblocks:luminous_light_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "xycraft_world:glass_viewer_phantom_dark": [
+    255,
+    255,
+    255
+  ],
+  "chipped:tiled_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "chipped:tile_windowed_dark_oak_door": [
+    255,
+    255,
+    255
+  ],
+  "chipped:tiled_green_stained_glass": [
+    0,
+    255,
+    0
+  ],
+  "dd_mosaic_glass:glass_pane_holly": [
+    255,
+    255,
+    255
+  ],
+  "chipped:arched_leaded_glass_pillar": [
+    255,
+    255,
+    255
+  ],
+  "chipped:large_diamond_brown_stained_glass": [
+    136,
+    68,
+    17
+  ],
+  "bellsandwhistles:metro_window": [
+    255,
+    255,
+    255
+  ],
+  "landsoficaria:silkglass": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:pink_patterned_sea_glass": [
+    255,
+    102,
+    187
+  ],
+  "minecraft:lime_stained_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "enderio:clear_glass_nm_purple": [
+    170,
+    34,
+    255
+  ],
+  "chipped:small_red_stained_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "chipped:circular_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "pyrite:rose_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:oak_horizontal_lined_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_e_lime": [
+    187,
+    255,
+    0
+  ],
+  "chipped:raster_pink_stained_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "mo_glass:red_stained_glass_stairs": [
+    255,
+    0,
+    0
+  ],
+  "securitycraft:reinforced_light_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "railways:gray_single_pane_locometal_window": [
+    136,
+    136,
+    136
+  ],
+  "atlantis:gray_sea_glass_slab": [
+    136,
+    136,
+    136
+  ],
+  "railways:black_two_pane_locometal_window": [
+    0,
+    0,
+    0
+  ],
+  "dd_mosaic_glass:glass_violet_base": [
+    255,
+    255,
+    255
+  ],
+  "railways:light_gray_two_pane_locometal_window": [
+    136,
+    136,
+    136
+  ],
+  "atlantis:multicolor_sea_glass_stairs": [
+    153,
+    204,
+    204
+  ],
+  "create:birch_window": [
+    255,
+    255,
+    255
+  ],
+  "undergarden:sediment_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "tconstruct:cyan_clear_stained_glass": [
+    0,
+    255,
+    255
+  ],
+  "tconstruct:scorched_soul_glass": [
+    0,
+    0,
+    255
+  ],
+  "quark:red_framed_glass": [
+    255,
+    0,
+    0
+  ],
+  "tconstruct:brown_clear_stained_glass": [
+    136,
+    68,
+    17
+  ],
+  "glassential:light_gray_glass_trapdoor": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_dnp_black": [
+    0,
+    0,
+    0
+  ],
+  "create:jungle_window_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:glass_mangrove_door": [
+    255,
+    255,
+    255
+  ],
+  "valhelsia_structures:white_metal_framed_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "ror:glowing_purple_stained_glass_pane": [
+    170,
+    34,
+    255
+  ],
+  "nuclearcraft:target_chamber_casing_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ea_cyan": [
+    0,
+    255,
+    255
+  ],
+  "atlantis:orange_patterned_sea_glass_pressure_plate": [
+    255,
+    102,
+    17
+  ],
+  "malum:arcane_spirited_glass": [
+    255,
+    255,
+    255
+  ],
+  "sundries:wrought_iron_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:arched_red_stained_glass_pillar": [
+    255,
+    0,
+    0
+  ],
+  "chipped:large_diamond_brown_stained_glass_pane": [
+    136,
+    68,
+    17
+  ],
+  "atlantis:orange_sea_glass_stairs": [
+    255,
+    102,
+    17
+  ],
+  "chipped:woven_pink_stained_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "luminousblocks:luminous_green_stained_glass": [
+    0,
+    255,
+    0
+  ],
+  "betterblockz:tintedglass_blockz_10": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_enm_orange": [
+    255,
+    102,
+    17
+  ],
+  "dd_mosaic_glass:glass_lily_base": [
+    255,
+    255,
+    255
+  ],
+  "betterblockz:tintedglass_blockz_13": [
+    255,
+    255,
+    255
+  ],
+  "luminousblocks:luminous_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "betterblockz:tintedglass_blockz_14": [
+    255,
+    255,
+    255
+  ],
+  "fintastic:sugar_aquarium_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_na_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "xycraft_world:glass_viewer_immortal": [
+    255,
+    255,
+    255
+  ],
+  "betterblockz:tintedglass_blockz_11": [
+    255,
+    255,
+    255
+  ],
+  "chipped:vertical_stiped_pink_stained_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "betterblockz:tintedglass_blockz_12": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_enm_white": [
+    255,
+    255,
+    255
+  ],
+  "betterblockz:tintedglass_blockz_15": [
+    255,
+    255,
+    255
+  ],
+  "create:warped_window": [
+    255,
+    255,
+    255
+  ],
+  "chipped:vertical_stiped_lime_stained_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "mo_glass:white_stained_glass_stairs": [
+    255,
+    255,
+    255
+  ],
+  "ultramarine:glazed_tile_grid_window": [
+    255,
+    255,
+    255
+  ],
+  "create:weathered_iron_window": [
+    255,
+    0,
+    0
+  ],
+  "luminousblocks:luminous_cyan_stained_glass_pane": [
+    0,
+    255,
+    255
+  ],
+  "chipped:ornate_green_stained_glass_pane": [
+    0,
+    255,
+    0
+  ],
+  "sundries:olive_green_wrought_iron_glass_pane": [
+    0,
+    255,
+    0
+  ],
+  "atlantis:black_patterned_sea_glass_pressure_plate": [
+    0,
+    0,
+    0
+  ],
+  "enderio:clear_glass_dp_blue": [
+    0,
+    0,
+    255
+  ],
+  "betternether:quartz_glass_blue": [
+    0,
+    0,
+    255
+  ],
+  "enderio:clear_glass_np_green": [
+    0,
+    255,
+    0
+  ],
+  "thermal:fluid_duct_windowed": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:white_patterned_sea_glass_wall": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_a_brown": [
+    136,
+    68,
+    17
+  ],
+  "chipped:vertical_stiped_brown_stained_glass": [
+    136,
+    68,
+    17
+  ],
+  "chipped:classic_windowed_dark_oak_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "sundries:salmon_pink_stained_glass": [
+    255,
+    102,
+    187
+  ],
+  "bigreactors:basic_reactorglass": [
+    255,
+    255,
+    255
+  ],
+  "glassential:tinted_glass_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_lavender": [
+    255,
+    255,
+    255
+  ],
+  "sundries:forest_green_wrought_iron_glass": [
+    0,
+    255,
+    0
+  ],
+  "pyrite:light_gray_framed_glass": [
+    136,
+    136,
+    136
+  ],
+  "dd_mosaic_glass:glass_violet": [
+    255,
+    255,
+    255
+  ],
+  "pyrite:star_framed_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:raster_black_stained_glass_pane": [
+    0,
+    0,
+    0
+  ],
+  "atlantis:pink_sea_glass_pressure_plate": [
+    255,
+    102,
+    187
+  ],
+  "chipped:large_diamond_orange_stained_glass_pane": [
+    255,
+    102,
+    17
+  ],
+  "betternether:obsidian_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "valhelsia_structures:cyan_metal_framed_glass_pane": [
+    0,
+    255,
+    255
+  ],
+  "chipped:small_brown_stained_glass": [
+    136,
+    68,
+    17
+  ],
+  "pyrite:light_gray_framed_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "chipped:large_diamond_light_blue_stained_glass": [
+    0,
+    0,
+    255
+  ],
+  "glassential:glass_ghostly_pane": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_em_white": [
+    255,
+    255,
+    255
+  ],
+  "betternether:quartz_glass_framed_pane_gray": [
+    136,
+    136,
+    136
+  ],
+  "chipped:large_diamond_pink_stained_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "garnished:sepia_window_pane": [
+    255,
+    255,
+    255
+  ],
+  "sundries:purple_wrought_iron_glass": [
+    170,
+    34,
+    255
+  ],
+  "quark:purple_framed_glass_pane": [
+    170,
+    34,
+    255
+  ],
+  "chipped:raster_lime_stained_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "enderio:clear_glass_dm_black": [
+    0,
+    0,
+    0
+  ],
+  "dd_mosaic_glass:glass_spark": [
+    255,
+    255,
+    255
+  ],
+  "truedarkness:empty_chiseled_glass": [
+    255,
+    255,
+    255
+  ],
+  "evilcraft:obscured_glass": [
+    255,
+    0,
+    0
+  ],
+  "chipped:square_magenta_stained_glass_pane": [
+    255,
+    0,
+    255
+  ],
+  "atlantis:red_patterned_sea_glass_button": [
+    255,
+    0,
+    0
+  ],
+  "quark:dirty_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "patternedglass:white_patterned_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:square_blue_stained_glass": [
+    0,
+    0,
+    255
+  ],
+  "xycraft_world:glass_viewer_rgb_blue": [
+    0,
+    0,
+    255
+  ],
+  "chipped:large_diamond_magenta_stained_glass_pane": [
+    255,
+    0,
+    255
+  ],
+  "chipped:square_leaded_glass": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:yellow_patterned_sea_glass_slab": [
+    255,
+    255,
+    0
+  ],
+  "shutter:glass_shutter": [
+    255,
+    255,
+    255
+  ],
+  "chipped:vertical_stiped_magenta_stained_glass_pane": [
+    255,
+    0,
+    255
+  ],
+  "chipped:circular_magenta_stained_glass": [
+    255,
+    0,
+    255
+  ],
+  "silentgems:black_diamond_glass": [
+    0,
+    0,
+    0
+  ],
+  "betternether:quartz_glass_orange": [
+    255,
+    102,
+    17
+  ],
+  "chipped:circular_white_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_pane_lavender": [
+    255,
+    255,
+    255
+  ],
+  "chipped:square_orange_stained_glass": [
+    255,
+    102,
+    17
+  ],
+  "chipped:tiled_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "chipped:tiled_magenta_stained_glass": [
+    255,
+    0,
+    255
+  ],
+  "sundries:pastel_blue_wrought_iron_glass": [
+    0,
+    0,
+    255
+  ],
+  "tconstruct:black_clear_stained_glass": [
+    0,
+    0,
+    0
+  ],
+  "quark:framed_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "pyrite:poisonous_framed_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:fancy_white_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_np_blue": [
+    0,
+    0,
+    255
+  ],
+  "atlantis:monochromatic_sea_glass_slab": [
+    153,
+    204,
+    204
+  ],
+  "patternedglass:cyan_patterned_glass": [
+    0,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dp_brown": [
+    136,
+    68,
+    17
+  ],
+  "chipped:arched_light_blue_stained_glass_pane_pillar": [
+    0,
+    0,
+    255
+  ],
+  "pyrite:dragon_framed_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:windowed_bamboo_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "naturalist:crimson_froglass_pane": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_pane_branch": [
+    255,
+    255,
+    255
+  ],
+  "pneumaticcraft:pressure_chamber_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:arched_pink_stained_glass_pane_pillar": [
+    255,
+    102,
+    187
+  ],
+  "railways:vermilion_two_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "mo_glass:light_blue_stained_glass_stairs": [
+    0,
+    0,
+    255
+  ],
+  "minecraft:light_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "dawnoftimebuilder:charred_spruce_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "pyrite:honey_framed_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:tiled_yellow_stained_glass_pane": [
+    255,
+    255,
+    0
+  ],
+  "enderio:clear_glass_enp_red": [
+    255,
+    0,
+    0
+  ],
+  "chipped:fancy_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "truedarkness:chiseled_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:raster_purple_stained_glass": [
+    170,
+    34,
+    255
+  ],
+  "railways:red_round_pane_locometal_window": [
+    255,
+    0,
+    0
+  ],
+  "sundries:salmon_pink_stained_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "minecraft:red_stained_glass": [
+    255,
+    0,
+    0
+  ],
+  "enderio:clear_glass_dna_cyan": [
+    0,
+    255,
+    255
+  ],
+  "glassential:lime_glass_door": [
+    187,
+    255,
+    0
+  ],
+  "atlantis:white_sea_glass_stairs": [
+    255,
+    255,
+    255
+  ],
+  "pyrite:light_blue_framed_glass": [
+    0,
+    0,
+    255
+  ],
+  "ultramarine:song_wooden_window": [
+    255,
+    255,
+    255
+  ],
+  "railways:tuff_single_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dp_cyan": [
+    0,
+    255,
+    255
+  ],
+  "atlantis:sea_glass_slab": [
+    153,
+    204,
+    204
+  ],
+  "railways:sea_green_four_pane_locometal_window": [
+    0,
+    255,
+    0
+  ],
+  "experienceobelisk:whisperglass": [
+    255,
+    255,
+    255
+  ],
+  "tconstruct:cyan_clear_stained_glass_pane": [
+    0,
+    255,
+    255
+  ],
+  "immersiveengineering:slag_glass": [
+    255,
+    255,
+    255
+  ],
+  "railways:magenta_round_pane_locometal_window": [
+    255,
+    0,
+    255
+  ],
+  "enderio:clear_glass_enm_gray": [
+    136,
+    136,
+    136
+  ],
+  "thermal:enderium_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_m_gray": [
+    136,
+    136,
+    136
+  ],
+  "chipped:woven_magenta_stained_glass_pane": [
+    255,
+    0,
+    255
+  ],
+  "sundries:tan_wrought_iron_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ep_orange": [
+    255,
+    102,
+    17
+  ],
+  "chipped:vertical_stiped_yellow_stained_glass_pane": [
+    255,
+    255,
+    0
+  ],
+  "sundries:yellow_wrought_iron_glass_pane": [
+    255,
+    255,
+    0
+  ],
+  "xycraft_world:glass_viewer_rgb_lime": [
+    187,
+    255,
+    0
+  ],
+  "railways:white_round_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "chipped:windowed_acacia_door": [
+    255,
+    255,
+    255
+  ],
+  "betternether:quartz_glass_framed_white": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dnm_yellow": [
+    255,
+    255,
+    0
+  ],
+  "chipped:woven_purple_stained_glass_pane": [
+    170,
+    34,
+    255
+  ],
+  "chipped:small_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "garnished:nut_window_pane": [
+    255,
+    255,
+    255
+  ],
+  "securitycraft:reinforced_lime_stained_glass": [
+    187,
+    255,
+    0
+  ],
+  "atlantis:light_blue_patterned_sea_glass_pressure_plate": [
+    0,
+    0,
+    255
+  ],
+  "ultramarine:tall_royal_rosewood_window": [
+    255,
+    255,
+    255
+  ],
+  "chipped:ornate_leaded_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:large_diamond_cyan_stained_glass": [
+    0,
+    255,
+    255
+  ],
+  "enderio:clear_glass_np_lime": [
+    187,
+    255,
+    0
+  ],
+  "tconstruct:pink_clear_stained_glass": [
+    255,
+    102,
+    187
+  ],
+  "pyrite:poisonous_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ea_white": [
+    255,
+    255,
+    255
+  ],
+  "chipped:small_purple_stained_glass_pane": [
+    170,
+    34,
+    255
+  ],
+  "chipped:tiled_brown_stained_glass": [
+    136,
+    68,
+    17
+  ],
+  "tconstruct:clear_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "tconstruct:molten_glass_fluid": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ep_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "glassential:light_blue_glass_door": [
+    0,
+    0,
+    255
+  ],
+  "tconstruct:magenta_clear_stained_glass": [
+    255,
+    0,
+    255
+  ],
+  "railways:pine_green_two_pane_locometal_window": [
+    0,
+    255,
+    0
+  ],
+  "atlantis:black_sea_glass_button": [
+    0,
+    0,
+    0
+  ],
+  "aetherworks:glass_aetherium_borderless": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dnp_lime": [
+    187,
+    255,
+    0
+  ],
+  "luminousblocks:luminous_white_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "create:dark_oak_window": [
+    255,
+    255,
+    255
+  ],
+  "chipped:fancy_lime_stained_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "valhelsia_structures:blue_metal_framed_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "chipped:windowed_mangrove_door": [
+    255,
+    255,
+    255
+  ],
+  "silentgems:topaz_glass": [
+    255,
+    255,
+    255
+  ],
+  "securitycraft:reinforced_brown_stained_glass": [
+    136,
+    68,
+    17
+  ],
+  "sundries:beige_wrought_iron_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_e_yellow": [
+    255,
+    255,
+    0
+  ],
+  "dd_mosaic_glass:glass_pane_lily_base": [
+    255,
+    255,
+    255
+  ],
+  "fintastic:tinted_aquarium_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_nm_red": [
+    255,
+    0,
+    0
+  ],
+  "minecraft:magenta_stained_glass": [
+    255,
+    0,
+    255
+  ],
+  "atlantis:light_blue_sea_glass_stairs": [
+    0,
+    0,
+    255
+  ],
+  "xycraft_world:glass_viewer_rgb_glowing_purple": [
+    170,
+    34,
+    255
+  ],
+  "quark:purple_framed_glass": [
+    170,
+    34,
+    255
+  ],
+  "xycraft_world:glass_viewer_rgb_glowing_gray": [
+    136,
+    136,
+    136
+  ],
+  "atlantis:brown_sea_glass_button": [
+    136,
+    68,
+    17
+  ],
+  "create:acacia_window": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dp_black": [
+    0,
+    0,
+    0
+  ],
+  "landsoficaria:grainglass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:arched_lime_stained_glass_pane_pillar": [
+    187,
+    255,
+    0
+  ],
+  "chipped:large_diamond_white_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:vertical_stiped_orange_stained_glass_pane": [
+    255,
+    102,
+    17
+  ],
+  "enderio:clear_glass_e_orange": [
+    255,
+    102,
+    17
+  ],
+  "seafoamsdyeableblocks:dyeable_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "valhelsia_structures:cyan_metal_framed_glass": [
+    0,
+    255,
+    255
+  ],
+  "truedarkness:metenite_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "minecraft:glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "betternether:quartz_glass_framed_red": [
+    255,
+    0,
+    0
+  ],
+  "aether:quicksoil_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_pane_star_base": [
+    255,
+    255,
+    255
+  ],
+  "storagedelight:spruce_cabinet_with_glass_doors": [
+    255,
+    255,
+    255
+  ],
+  "bigreactors:reprocessorglass": [
+    255,
+    255,
+    255
+  ],
+  "silentgems:sapphire_glass": [
+    255,
+    255,
+    255
+  ],
+  "glassential:cyan_glass_trapdoor": [
+    0,
+    255,
+    255
+  ],
+  "moreminecarts:chiseled_organic_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:fancy_cyan_stained_glass": [
+    0,
+    255,
+    255
+  ],
+  "enderio:clear_glass_em_yellow": [
+    255,
+    255,
+    0
+  ],
+  "dd_mosaic_glass:glass_cherry_base": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:green_patterned_sea_glass_pressure_plate": [
+    0,
+    255,
+    0
+  ],
+  "chipped:small_green_stained_glass_pane": [
+    0,
+    255,
+    0
+  ],
+  "dd_mosaic_glass:glass_clover_base": [
+    255,
+    255,
+    255
+  ],
+  "mo_glass:red_stained_glass_slab": [
+    255,
+    0,
+    0
+  ],
+  "enderio:clear_glass_enp_purple": [
+    170,
+    34,
+    255
+  ],
+  "create:dark_oak_window_pane": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_pane_sun": [
+    255,
+    255,
+    255
+  ],
+  "minecraft:light_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "valhelsia_structures:gray_metal_framed_glass": [
+    136,
+    136,
+    136
+  ],
+  "chipped:ornate_light_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "glassential:orange_glass_door": [
+    255,
+    102,
+    17
+  ],
+  "enderio:clear_glass_p_brown": [
+    136,
+    68,
+    17
+  ],
+  "dd_mosaic_glass:glass_moon_base": [
+    255,
+    255,
+    255
+  ],
+  "mo_glass:white_stained_glass_slab": [
+    255,
+    255,
+    255
+  ],
+  "silentgems:moldavite_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dp_purple": [
+    170,
+    34,
+    255
+  ],
+  "additional_lights:al_torch_glass": [
+    255,
+    255,
+    0
+  ],
+  "chimes:glass_bells": [
+    255,
+    255,
+    255
+  ],
+  "chipped:classic_windowed_birch_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "tconstruct:clear_glass": [
+    255,
+    255,
+    255
+  ],
+  "railways:lime_two_pane_locometal_window": [
+    187,
+    255,
+    0
+  ],
+  "atlantis:sea_glass": [
+    153,
+    204,
+    204
+  ],
+  "railways:brown_four_pane_locometal_window": [
+    136,
+    68,
+    17
+  ],
+  "enderio:clear_glass_nm_brown": [
+    136,
+    68,
+    17
+  ],
+  "enderio:clear_glass_dnm_blue": [
+    0,
+    0,
+    255
+  ],
+  "enderio:clear_glass_dnp_blue": [
+    0,
+    0,
+    255
+  ],
+  "moreminecarts:organic_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:small_diamond_leaded_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:yellow_patterned_sea_glass_button": [
+    255,
+    255,
+    0
+  ],
+  "dawnoftimebuilder:paper_wall_window": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:orange_patterned_sea_glass_stairs": [
+    255,
+    102,
+    17
+  ],
+  "tconstruct:scorched_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "railways:turquoise_two_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:lime_sea_glass_wall": [
+    187,
+    255,
+    0
+  ],
+  "betternether:quartz_glass_framed_purple": [
+    170,
+    34,
+    255
+  ],
+  "enderio:clear_glass_em_pink": [
+    255,
+    102,
+    187
+  ],
+  "chipped:glass_crimson_door": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:multicolor_sea_glass_slab": [
+    153,
+    204,
+    204
+  ],
+  "chipped:windowed_mangrove_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_moon": [
+    255,
+    255,
+    255
+  ],
+  "chipped:tiled_orange_stained_glass_pane": [
+    255,
+    102,
+    17
+  ],
+  "sundries:pink_wrought_iron_glass": [
+    255,
+    102,
+    187
+  ],
+  "railways:white_four_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "valhelsia_structures:pink_metal_framed_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "create:bamboo_window": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_np_purple": [
+    170,
+    34,
+    255
+  ],
+  "railways:olive_green_two_pane_locometal_window": [
+    0,
+    255,
+    0
+  ],
+  "railways:red_single_pane_locometal_window": [
+    255,
+    0,
+    0
+  ],
+  "chipped:classic_windowed_bamboo_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "chipped:tiled_cyan_stained_glass": [
+    0,
+    255,
+    255
+  ],
+  "atlantis:gray_patterned_sea_glass_button": [
+    136,
+    136,
+    136
+  ],
+  "create:oak_window": [
+    255,
+    255,
+    255
+  ],
+  "railways:lime_four_pane_locometal_window": [
+    187,
+    255,
+    0
+  ],
+  "chipped:raster_white_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "sundries:mint_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_holly_base": [
+    255,
+    255,
+    255
+  ],
+  "betternether:quartz_glass_pane_brown": [
+    136,
+    68,
+    17
+  ],
+  "blastcraft:carbonplatedwallingglass": [
+    255,
+    255,
+    255
+  ],
+  "dawnoftimebuilder:green_painted_window": [
+    0,
+    255,
+    0
+  ],
+  "enderio:clear_glass_dp_red": [
+    255,
+    0,
+    0
+  ],
+  "enderio:clear_glass_ena_red": [
+    255,
+    0,
+    0
+  ],
+  "railways:limestone_two_pane_locometal_window": [
+    187,
+    255,
+    0
+  ],
+  "dd_mosaic_glass:glass_heart_base": [
+    255,
+    255,
+    255
+  ],
+  "railways:brown_single_pane_locometal_window": [
+    136,
+    68,
+    17
+  ],
+  "chipped:square_pink_stained_glass": [
+    255,
+    102,
+    187
+  ],
+  "chipped:ornate_green_stained_glass": [
+    0,
+    255,
+    0
+  ],
+  "enderio:clear_glass_ep_gray": [
+    136,
+    136,
+    136
+  ],
+  "chipped:glass_oak_door": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:blue_patterned_sea_glass_slab": [
+    0,
+    0,
+    255
+  ],
+  "pyrite:brown_framed_glass_pane": [
+    136,
+    68,
+    17
+  ],
+  "xycraft_world:glass_viewer_rgb_glowing_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "gildedingot:gilded_glass": [
+    255,
+    255,
+    255
+  ],
+  "silentgems:ruby_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dnm_lime": [
+    187,
+    255,
+    0
+  ],
+  "railways:orange_single_pane_locometal_window": [
+    255,
+    102,
+    17
+  ],
+  "railways:scorchia_round_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "railways:light_gray_round_pane_locometal_window": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_e_magenta": [
+    255,
+    0,
+    255
+  ],
+  "railways:single_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "chipped:raster_brown_stained_glass": [
+    136,
+    68,
+    17
+  ],
+  "railways:vermilion_four_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dm_brown": [
+    136,
+    68,
+    17
+  ],
+  "enderio:clear_glass_dp_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "thermal_extra:shellite_glass": [
+    255,
+    255,
+    255
+  ],
+  "quark:cyan_framed_glass": [
+    0,
+    255,
+    255
+  ],
+  "chipped:circular_blue_stained_glass": [
+    0,
+    0,
+    255
+  ],
+  "atlantis:pink_patterned_sea_glass_slab": [
+    255,
+    102,
+    187
+  ],
+  "atlantis:gray_patterned_sea_glass_slab": [
+    136,
+    136,
+    136
+  ],
+  "atlantis:magenta_sea_glass_pressure_plate": [
+    255,
+    0,
+    255
+  ],
+  "enderio:clear_glass_ea_orange": [
+    255,
+    102,
+    17
+  ],
+  "dd_mosaic_glass:glass_pane_clover": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_cherry": [
+    255,
+    255,
+    255
+  ],
+  "fintastic:aquarium_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "tconstruct:white_clear_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:square_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "railways:chartreuse_single_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "glassential:gray_glass_trapdoor": [
+    136,
+    136,
+    136
+  ],
+  "dd_mosaic_glass:glass_pane_poppy": [
+    255,
+    255,
+    255
+  ],
+  "truedarkness:eridium_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:circular_red_stained_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "railways:scorchia_two_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_na_orange": [
+    255,
+    102,
+    17
+  ],
+  "chipped:ornate_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "valhelsia_structures:light_blue_metal_framed_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "securitycraft:reinforced_red_stained_glass": [
+    255,
+    0,
+    0
+  ],
+  "betternether:quartz_glass_framed_pink": [
+    255,
+    102,
+    187
+  ],
+  "quark:green_framed_glass_pane": [
+    0,
+    255,
+    0
+  ],
+  "patternedglass:light_gray_patterned_glass": [
+    136,
+    136,
+    136
+  ],
+  "silentgems:turquoise_glass": [
+    255,
+    255,
+    255
+  ],
+  "tconstruct:purple_clear_stained_glass_pane": [
+    170,
+    34,
+    255
+  ],
+  "blastcraft:glasspressureplate": [
+    255,
+    255,
+    255
+  ],
+  "railways:granite_round_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_holly": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:red_sea_glass_stairs": [
+    255,
+    0,
+    0
+  ],
+  "enderio:clear_glass_p_black": [
+    0,
+    0,
+    0
+  ],
+  "chipped:arched_green_stained_glass_pillar": [
+    0,
+    255,
+    0
+  ],
+  "chipped:fancy_leaded_glass": [
+    255,
+    255,
+    255
+  ],
+  "mo_glass:light_gray_stained_glass_stairs": [
+    136,
+    136,
+    136
+  ],
+  "chipped:square_purple_stained_glass_pane": [
+    170,
+    34,
+    255
+  ],
+  "mysticalagriculture:witherproof_glass": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:brown_sea_glass_wall": [
+    136,
+    68,
+    17
+  ],
+  "enderio:clear_glass_em_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "dd_mosaic_glass:glass_rose": [
+    255,
+    255,
+    255
+  ],
+  "truedarkness:chiseled_glass_pane_4": [
+    255,
+    255,
+    255
+  ],
+  "chipped:small_white_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "truedarkness:chiseled_glass_pane_3": [
+    255,
+    255,
+    255
+  ],
+  "truedarkness:chiseled_glass_pane_2": [
+    255,
+    255,
+    255
+  ],
+  "truedarkness:chiseled_glass_pane_1": [
+    255,
+    255,
+    255
+  ],
+  "sundries:vermillion_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dm_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "chipped:small_cyan_stained_glass": [
+    0,
+    255,
+    255
+  ],
+  "railways:sea_green_round_pane_locometal_window": [
+    0,
+    255,
+    0
+  ],
+  "tconstruct:seared_soul_glass": [
+    255,
+    0,
+    0
+  ],
+  "tconstruct:scorched_tinted_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:fancy_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "chipped:oak_bared_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "create:horizontal_framed_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:circular_pink_stained_glass": [
+    255,
+    102,
+    187
+  ],
+  "malum:wicked_spirited_glass": [
+    255,
+    255,
+    255
+  ],
+  "create:warped_window_pane": [
+    255,
+    255,
+    255
+  ],
+  "truedarkness:empty_chiseled_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "pyrite:honey_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:woven_red_stained_glass": [
+    255,
+    0,
+    0
+  ],
+  "atlantis:brown_patterned_sea_glass_stairs": [
+    136,
+    68,
+    17
+  ],
+  "chipped:lead_woven_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:arched_blue_stained_glass_pane_pillar": [
+    0,
+    0,
+    255
+  ],
+  "patternedglass:red_patterned_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "atlantis:gray_patterned_sea_glass": [
+    136,
+    136,
+    136
+  ],
+  "atlantis:red_sea_glass": [
+    255,
+    0,
+    0
+  ],
+  "enderio:clear_glass_enp_white": [
+    255,
+    255,
+    255
+  ],
+  "chipped:raster_yellow_stained_glass_pane": [
+    255,
+    255,
+    0
+  ],
+  "atlantis:blue_sea_glass": [
+    0,
+    0,
+    255
+  ],
+  "gobber2:gobber2_glass_end": [
+    255,
+    255,
+    255
+  ],
+  "quark:pink_framed_glass": [
+    255,
+    102,
+    187
+  ],
+  "chipped:ornate_purple_stained_glass": [
+    170,
+    34,
+    255
+  ],
+  "dd_mosaic_glass:glass_pane_cherry": [
+    255,
+    255,
+    255
+  ],
+  "silentgems:rose_quartz_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:woven_pink_stained_glass": [
+    255,
+    102,
+    187
+  ],
+  "atlantis:white_patterned_sea_glass_button": [
+    255,
+    255,
+    255
+  ],
+  "xycraft_world:glass_viewer_rgb_gray": [
+    136,
+    136,
+    136
+  ],
+  "sundries:blue_wrought_iron_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "minecraft:blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "pyrite:glow_framed_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:arched_orange_stained_glass_pillar": [
+    255,
+    102,
+    17
+  ],
+  "create:tiled_glass": [
+    255,
+    255,
+    255
+  ],
+  "pyrite:black_framed_glass_pane": [
+    0,
+    0,
+    0
+  ],
+  "atlantis:purple_patterned_sea_glass_pressure_plate": [
+    170,
+    34,
+    255
+  ],
+  "railways:blue_two_pane_locometal_window": [
+    0,
+    0,
+    255
+  ],
+  "chipped:small_purple_stained_glass": [
+    170,
+    34,
+    255
+  ],
+  "sundries:magenta_wrought_iron_glass_pane": [
+    255,
+    0,
+    255
+  ],
+  "dd_mosaic_glass:glass_pane_daisy": [
+    255,
+    255,
+    255
+  ],
+  "chipped:tiled_cyan_stained_glass_pane": [
+    0,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dnm_black": [
+    0,
+    0,
+    0
+  ],
+  "railways:chartreuse_two_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "securitycraft:reinforced_orange_stained_glass_pane": [
+    255,
+    102,
+    17
+  ],
+  "thermal_extra:dragonsteel_glass": [
+    255,
+    255,
+    255
+  ],
+  "pyrite:orange_framed_glass": [
+    255,
+    102,
+    17
+  ],
+  "chipped:oak_woven_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "seafoamsdyeableblocks:dyeable_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_p_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "chipped:oak_bordered_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "enderio:clear_glass_nm_cyan": [
+    0,
+    255,
+    255
+  ],
+  "chipped:woven_orange_stained_glass": [
+    255,
+    102,
+    17
+  ],
+  "atlantis:monochromatic_sea_glass_button": [
+    153,
+    204,
+    204
+  ],
+  "enderio:clear_glass_ena_magenta": [
+    255,
+    0,
+    255
+  ],
+  "atlantis:purple_patterned_sea_glass": [
+    170,
+    34,
+    255
+  ],
+  "fintastic:tinted_infernal_aquarium_glass": [
+    255,
+    255,
+    255
+  ],
+  "railways:magenta_four_pane_locometal_window": [
+    255,
+    0,
+    255
+  ],
+  "minecraft:blue_stained_glass": [
+    0,
+    0,
+    255
+  ],
+  "atlantis:purple_patterned_sea_glass_slab": [
+    170,
+    34,
+    255
+  ],
+  "chipped:small_magenta_stained_glass": [
+    255,
+    0,
+    255
+  ],
+  "chipped:large_diamond_red_stained_glass": [
+    255,
+    0,
+    0
+  ],
+  "landsoficaria:horizontal_grainglass_pane": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_em_brown": [
+    136,
+    68,
+    17
+  ],
+  "chipped:classic_windowed_warped_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:magenta_patterned_sea_glass_pressure_plate": [
+    255,
+    0,
+    255
+  ],
+  "railways:red_four_pane_locometal_window": [
+    255,
+    0,
+    0
+  ],
+  "chipped:classic_windowed_mangrove_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:green_sea_glass_slab": [
+    0,
+    255,
+    0
+  ],
+  "ror:glowing_red_stained_glass": [
+    255,
+    0,
+    0
+  ],
+  "atlantis:black_sea_glass": [
+    0,
+    0,
+    0
+  ],
+  "sundries:salmon_pink_wrought_iron_glass": [
+    255,
+    102,
+    187
+  ],
+  "enderio:clear_glass_ena_orange": [
+    255,
+    102,
+    17
+  ],
+  "atlantis:light_gray_sea_glass_wall": [
+    136,
+    136,
+    136
+  ],
+  "pyrite:white_framed_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dm_purple": [
+    170,
+    34,
+    255
+  ],
+  "thermal_extra:soul_infused_glass": [
+    0,
+    0,
+    255
+  ],
+  "create:horizontal_framed_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_a_purple": [
+    170,
+    34,
+    255
+  ],
+  "storagedelight:glass_birch_cabinet": [
+    255,
+    255,
+    255
+  ],
+  "minecraft:glass": [
+    255,
+    255,
+    255
+  ],
+  "securitycraft:reinforced_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:light_blue_sea_glass_pressure_plate": [
+    0,
+    0,
+    255
+  ],
+  "botania:elf_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:circular_light_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "chipped:ornate_yellow_stained_glass_pane": [
+    255,
+    255,
+    0
+  ],
+  "chipped:square_pink_stained_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "chipped:square_lime_stained_glass": [
+    187,
+    255,
+    0
+  ],
+  "chipped:ornate_lime_stained_glass": [
+    187,
+    255,
+    0
+  ],
+  "enderio:clear_glass_nm_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "patternedglass:blue_patterned_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "dd_mosaic_glass:glass_pane_fleur": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_a_black": [
+    0,
+    0,
+    0
+  ],
+  "xycraft_world:glass_viewer_rgb_glowing_red": [
+    255,
+    0,
+    0
+  ],
+  "xycraft_world:glass_viewer_rgb_purple": [
+    170,
+    34,
+    255
+  ],
+  "enderio:clear_glass_d_cyan": [
+    0,
+    255,
+    255
+  ],
+  "fintastic:tinted_sugar_aquarium_glass": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:yellow_sea_glass_wall": [
+    255,
+    255,
+    0
+  ],
+  "enderio:clear_glass_na_magenta": [
+    255,
+    0,
+    255
+  ],
+  "atlantis:black_sea_glass_stairs": [
+    0,
+    0,
+    0
+  ],
+  "chipped:circular_brown_stained_glass": [
+    136,
+    68,
+    17
+  ],
+  "quark:light_gray_framed_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "patternedglass:gray_patterned_glass": [
+    136,
+    136,
+    136
+  ],
+  "chipped:tiled_white_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:windowed_oak_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "xycraft_world:glass_viewer_rgb_red": [
+    255,
+    0,
+    0
+  ],
+  "shutter:interaction_shutter_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:glass_verdant_froglight": [
+    255,
+    255,
+    255
+  ],
+  "sundries:green_wrought_iron_glass_pane": [
+    0,
+    255,
+    0
+  ],
+  "enderio:clear_glass_e_red": [
+    255,
+    0,
+    0
+  ],
+  "enderio:clear_glass_dna_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "pyrite:rose_framed_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:square_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "chipped:vertical_stiped_cyan_stained_glass": [
+    0,
+    255,
+    255
+  ],
+  "chipped:large_diamond_green_stained_glass": [
+    0,
+    255,
+    0
+  ],
+  "enderio:clear_glass_e_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "sundries:lime_wrought_iron_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "chipped:small_light_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "atlantis:purple_sea_glass_stairs": [
+    170,
+    34,
+    255
+  ],
+  "glassential:purple_glass_trapdoor": [
+    170,
+    34,
+    255
+  ],
+  "quark:brown_framed_glass_pane": [
+    136,
+    68,
+    17
+  ],
+  "hutoslib:display_glass": [
+    255,
+    255,
+    255
+  ],
+  "railways:diorite_four_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_d_white": [
+    255,
+    255,
+    255
+  ],
+  "chipped:tiled_light_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "chipped:fancy_purple_stained_glass": [
+    170,
+    34,
+    255
+  ],
+  "enderio:clear_glass_dm_cyan": [
+    0,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ea_lime": [
+    187,
+    255,
+    0
+  ],
+  "enderio:clear_glass_dnp_orange": [
+    255,
+    102,
+    17
+  ],
+  "chipped:woven_black_stained_glass": [
+    0,
+    0,
+    0
+  ],
+  "atlantis:lime_sea_glass_slab": [
+    187,
+    255,
+    0
+  ],
+  "mo_glass:green_stained_glass_slab": [
+    0,
+    255,
+    0
+  ],
+  "chipped:large_diamond_yellow_stained_glass_pane": [
+    255,
+    255,
+    0
+  ],
+  "undergarden:sediment_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:circular_light_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "securitycraft:reinforced_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "sundries:vermillion_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:fancy_lime_stained_glass": [
+    187,
+    255,
+    0
+  ],
+  "enderio:clear_glass_d_pink": [
+    255,
+    102,
+    187
+  ],
+  "xycraft_world:glass_viewer_rgb_glowing_white": [
+    255,
+    255,
+    255
+  ],
+  "tconstruct:green_clear_stained_glass_pane": [
+    0,
+    255,
+    0
+  ],
+  "xycraft_world:glass_viewer_glowing": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_nm_pink": [
+    255,
+    102,
+    187
+  ],
+  "securitycraft:reinforced_blue_stained_glass": [
+    0,
+    0,
+    255
+  ],
+  "luminousblocks:luminous_red_stained_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "chipped:vertical_stiped_light_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "luminousblocks:luminous_brown_stained_glass": [
+    136,
+    68,
+    17
+  ],
+  "chipped:glass_spruce_door": [
+    255,
+    255,
+    255
+  ],
+  "chipped:arched_gray_stained_glass_pillar": [
+    136,
+    136,
+    136
+  ],
+  "chipped:raster_white_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_purple": [
+    170,
+    34,
+    255
+  ],
+  "pyrite:glow_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "sundries:pastel_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "atlantis:gray_patterned_sea_glass_pressure_plate": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_p_green": [
+    0,
+    255,
+    0
+  ],
+  "securitycraft:reinforced_yellow_stained_glass_pane": [
+    255,
+    255,
+    0
+  ],
+  "enderio:clear_glass_yellow": [
+    255,
+    255,
+    0
+  ],
+  "dd_mosaic_glass:glass_pane_daisy_base": [
+    255,
+    255,
+    255
+  ],
+  "luminousblocks:luminous_blue_stained_glass": [
+    0,
+    0,
+    255
+  ],
+  "railways:turquoise_four_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "chipped:square_white_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "silentgems:heliodor_glass": [
+    255,
+    255,
+    255
+  ],
+  "railways:limestone_round_pane_locometal_window": [
+    187,
+    255,
+    0
+  ],
+  "enderio:clear_glass_dnm_brown": [
+    136,
+    68,
+    17
+  ],
+  "enderio:clear_glass_dnp_gray": [
+    136,
+    136,
+    136
+  ],
+  "chipped:square_red_stained_glass": [
+    255,
+    0,
+    0
+  ],
+  "atlantis:blue_sea_glass_slab": [
+    0,
+    0,
+    255
+  ],
+  "atlantis:brown_sea_glass_pressure_plate": [
+    136,
+    68,
+    17
+  ],
+  "create:mangrove_window_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:windowed_jungle_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "sundries:vermillion_wrought_iron_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "pyrite:dragon_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:circular_green_stained_glass": [
+    0,
+    255,
+    0
+  ],
+  "tconstruct:light_blue_clear_stained_glass": [
+    0,
+    0,
+    255
+  ],
+  "pyrite:blue_framed_glass": [
+    0,
+    0,
+    255
+  ],
+  "chipped:tiled_red_stained_glass": [
+    255,
+    0,
+    0
+  ],
+  "atlantis:orange_sea_glass_pressure_plate": [
+    255,
+    102,
+    17
+  ],
+  "atlantis:cyan_sea_glass_button": [
+    0,
+    255,
+    255
+  ],
+  "create:industrial_iron_window_pane": [
+    255,
+    255,
+    255
+  ],
+  "supplementaries:hourglass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_white": [
+    255,
+    255,
+    255
+  ],
+  "sundries:lavender_wrought_iron_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:circular_black_stained_glass_pane": [
+    0,
+    0,
+    0
+  ],
+  "betternether:blue_obsidian_glass": [
+    0,
+    0,
+    255
+  ],
+  "betternether:quartz_glass_framed_magenta": [
+    255,
+    0,
+    255
+  ],
+  "atlantis:light_gray_sea_glass": [
+    136,
+    136,
+    136
+  ],
+  "chipped:fancy_light_blue_stained_glass": [
+    0,
+    0,
+    255
+  ],
+  "glassential:glass_redstone_pane": [
+    255,
+    0,
+    0
+  ],
+  "quark:framed_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_gray": [
+    136,
+    136,
+    136
+  ],
+  "railways:four_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "chipped:glass_ochre_froglight": [
+    255,
+    255,
+    255
+  ],
+  "mo_glass:cyan_stained_glass_stairs": [
+    0,
+    255,
+    255
+  ],
+  "xycraft_world:glass_viewer_rgb_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "atlantis:lime_sea_glass": [
+    187,
+    255,
+    0
+  ],
+  "create:acacia_window_pane": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_enp_gray": [
+    136,
+    136,
+    136
+  ],
+  "dd_mosaic_glass:glass_pane_moon_base": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_pane_heart": [
+    255,
+    255,
+    255
+  ],
+  "voidminers:glass_panel": [
+    255,
+    255,
+    255
+  ],
+  "create:weathered_iron_window_pane": [
+    255,
+    0,
+    0
+  ],
+  "chipped:tile_windowed_spruce_door": [
+    255,
+    255,
+    255
+  ],
+  "moreminecarts:organic_glass": [
+    255,
+    255,
+    255
+  ],
+  "sundries:navy_wrought_iron_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:ornate_yellow_stained_glass": [
+    255,
+    255,
+    0
+  ],
+  "chipped:raster_light_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "pyrite:purple_framed_glass_pane": [
+    170,
+    34,
+    255
+  ],
+  "cyclic:dark_glass": [
+    255,
+    255,
+    255
+  ],
+  "mo_glass:orange_stained_glass_stairs": [
+    255,
+    102,
+    17
+  ],
+  "chipped:oak_woven_glass": [
+    255,
+    255,
+    255
+  ],
+  "thermal:obsidian_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_em_cyan": [
+    0,
+    255,
+    255
+  ],
+  "glassential:green_glass_door": [
+    0,
+    255,
+    0
+  ],
+  "atlantis:purple_sea_glass_button": [
+    170,
+    34,
+    255
+  ],
+  "landsoficaria:silkglass_pane": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:yellow_patterned_sea_glass_wall": [
+    255,
+    255,
+    0
+  ],
+  "chipped:raster_pink_stained_glass": [
+    255,
+    102,
+    187
+  ],
+  "chipped:square_leaded_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "naturalist:verdant_froglass_pane": [
+    255,
+    255,
+    255
+  ],
+  "malum:aerial_spirited_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_m": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_p": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:blue_sea_glass_button": [
+    0,
+    0,
+    255
+  ],
+  "dd_mosaic_glass:glass_pane_sun_base": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_pane_spark_base": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_a": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_d": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_pane_poppy_base": [
+    255,
+    255,
+    255
+  ],
+  "immersiveengineering:insulating_glass": [
+    255,
+    255,
+    255
+  ],
+  "railways:cyan_four_pane_locometal_window": [
+    0,
+    255,
+    255
+  ],
+  "enderio:clear_glass_e": [
+    255,
+    255,
+    255
+  ],
+  "chipped:fancy_magenta_stained_glass_pane": [
+    255,
+    0,
+    255
+  ],
+  "naturalist:azure_froglass_pane": [
+    255,
+    255,
+    255
+  ],
+  "glassential:brown_glass_door": [
+    136,
+    68,
+    17
+  ],
+  "escalated:glass_walkway_handrail": [
+    255,
+    255,
+    255
+  ],
+  "betternether:quartz_glass_framed_cyan": [
+    0,
+    255,
+    255
+  ],
+  "chipped:fancy_yellow_stained_glass": [
+    255,
+    255,
+    0
+  ],
+  "betternether:quartz_glass_pane_orange": [
+    255,
+    102,
+    17
+  ],
+  "sundries:light_blue_wrought_iron_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "tflostblocks:auroralized_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:fancy_brown_stained_glass_pane": [
+    136,
+    68,
+    17
+  ],
+  "luminousblocks:luminous_lime_stained_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "allthecompressed:glass_2x": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:orange_sea_glass_button": [
+    255,
+    102,
+    17
+  ],
+  "railways:dripstone_single_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "opalescence:moonlit_opal_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "opalescence:opal_glass": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:yellow_patterned_sea_glass": [
+    255,
+    255,
+    0
+  ],
+  "tconstruct:green_clear_stained_glass": [
+    0,
+    255,
+    0
+  ],
+  "dd_mosaic_glass:glass_sun_base": [
+    255,
+    255,
+    255
+  ],
+  "chipped:large_diamond_yellow_stained_glass": [
+    255,
+    255,
+    0
+  ],
+  "enderio:clear_glass_p_yellow": [
+    255,
+    255,
+    0
+  ],
+  "enderio:clear_glass_da_cyan": [
+    0,
+    255,
+    255
+  ],
+  "chipped:windowed_dark_oak_door": [
+    255,
+    255,
+    255
+  ],
+  "sundries:mint_wrought_iron_glass": [
+    255,
+    255,
+    255
+  ],
+  "minecraft:orange_stained_glass": [
+    255,
+    102,
+    17
+  ],
+  "chipped:tile_windowed_crimson_door": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:black_sea_glass_wall": [
+    0,
+    0,
+    0
+  ],
+  "glassential:cyan_glass_door": [
+    0,
+    255,
+    255
+  ],
+  "allthecompressed:glass_3x": [
+    255,
+    255,
+    255
+  ],
+  "patternedglass:pink_patterned_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "chipped:vertical_stiped_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_ep_purple": [
+    170,
+    34,
+    255
+  ],
+  "railways:turquoise_single_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "betternether:quartz_glass_cyan": [
+    0,
+    255,
+    255
+  ],
+  "pyrite:dragon_framed_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:tiled_white_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:white_sea_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_em_green": [
+    0,
+    255,
+    0
+  ],
+  "valhelsia_structures:lime_metal_framed_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "xycraft_world:glass_viewer_phantom": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:black_sea_glass_pressure_plate": [
+    0,
+    0,
+    0
+  ],
+  "chipped:arched_purple_stained_glass_pillar": [
+    170,
+    34,
+    255
+  ],
+  "atlantis:red_sea_glass_button": [
+    255,
+    0,
+    0
+  ],
+  "chipped:woven_light_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "sundries:wrought_iron_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "betternether:quartz_glass_framed_pane": [
+    255,
+    255,
+    255
+  ],
+  "glassential:yellow_glass_trapdoor": [
+    255,
+    255,
+    0
+  ],
+  "enderio:clear_glass_dna_green": [
+    0,
+    255,
+    0
+  ],
+  "fintastic:radon_aquarium_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:tiled_pink_stained_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "enderio:clear_glass_e_black": [
+    0,
+    0,
+    0
+  ],
+  "gtceu:laminated_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ena_pink": [
+    255,
+    102,
+    187
+  ],
+  "enderio:clear_glass_dnm_green": [
+    0,
+    255,
+    0
+  ],
+  "dd_mosaic_glass:glass_pane_redstone_base": [
+    255,
+    0,
+    0
+  ],
+  "chipped:tiled_black_stained_glass_pane": [
+    0,
+    0,
+    0
+  ],
+  "mo_glass:tinted_glass_stairs": [
+    255,
+    255,
+    255
+  ],
+  "quark:dirty_glass": [
+    255,
+    255,
+    255
+  ],
+  "securitycraft:reinforced_light_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "chipped:windowed_oak_door": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:multicolor_sea_glass": [
+    153,
+    204,
+    204
+  ],
+  "betternether:quartz_glass_pane_yellow": [
+    255,
+    255,
+    0
+  ],
+  "chipped:tile_windowed_oak_door": [
+    255,
+    255,
+    255
+  ],
+  "luminousblocks:luminous_purple_stained_glass_pane": [
+    170,
+    34,
+    255
+  ],
+  "allthecompressed:glass_1x": [
+    255,
+    255,
+    255
+  ],
+  "railways:maroon_two_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "chipped:large_diamond_blue_stained_glass": [
+    0,
+    0,
+    255
+  ],
+  "quark:magenta_framed_glass": [
+    255,
+    0,
+    255
+  ],
+  "valhelsia_structures:yellow_metal_framed_glass_pane": [
+    255,
+    255,
+    0
+  ],
+  "chipped:small_black_stained_glass_pane": [
+    0,
+    0,
+    0
+  ],
+  "betternether:quartz_glass_framed_pane_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "luminousblocks:luminous_black_stained_glass_pane": [
+    0,
+    0,
+    0
+  ],
+  "mo_glass:lime_stained_glass_slab": [
+    187,
+    255,
+    0
+  ],
+  "minecraft:magenta_stained_glass_pane": [
+    255,
+    0,
+    255
+  ],
+  "chipped:square_white_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:classic_windowed_acacia_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ep_magenta": [
+    255,
+    0,
+    255
+  ],
+  "xycraft_world:glass_viewer_rgb_glowing_magenta": [
+    255,
+    0,
+    255
+  ],
+  "betternether:quartz_glass_framed_green": [
+    0,
+    255,
+    0
+  ],
+  "tconstruct:gray_clear_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_dnm_white": [
+    255,
+    255,
+    255
+  ],
+  "chipped:windowed_spruce_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "chipped:ornate_cyan_stained_glass_pane": [
+    0,
+    255,
+    255
+  ],
+  "luminousblocks:luminous_green_stained_glass_pane": [
+    0,
+    255,
+    0
+  ],
+  "sundries:lavender_wrought_iron_glass": [
+    255,
+    255,
+    255
+  ],
+  "ror:glowing_cyan_stained_glass_pane": [
+    0,
+    255,
+    255
+  ],
+  "valhelsia_structures:metal_framed_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "quark:yellow_framed_glass": [
+    255,
+    255,
+    0
+  ],
+  "patternedglass:blue_patterned_glass": [
+    0,
+    0,
+    255
+  ],
+  "enderio:clear_glass_da_yellow": [
+    255,
+    255,
+    0
+  ],
+  "create:ornate_iron_window": [
+    255,
+    255,
+    255
+  ],
+  "chipped:tiled_light_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "enderio:clear_glass_da_lime": [
+    187,
+    255,
+    0
+  ],
+  "dd_mosaic_glass:glass_pane_spark": [
+    255,
+    255,
+    255
+  ],
+  "chipped:square_green_stained_glass_pane": [
+    0,
+    255,
+    0
+  ],
+  "malum:eldritch_spirited_glass": [
+    255,
+    255,
+    255
+  ],
+  "tconstruct:yellow_clear_stained_glass": [
+    255,
+    255,
+    0
+  ],
+  "fintastic:clear_aquarium_glass": [
+    255,
+    255,
+    255
+  ],
+  "sundries:sea_green_stained_glass": [
+    0,
+    255,
+    0
+  ],
+  "quark:gray_framed_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "chipped:square_cyan_stained_glass_pane": [
+    0,
+    255,
+    255
+  ],
+  "railways:black_round_pane_locometal_window": [
+    0,
+    0,
+    0
+  ],
+  "dd_mosaic_glass:glass_lily": [
+    255,
+    255,
+    255
+  ],
+  "pyrite:cyan_framed_glass": [
+    0,
+    255,
+    255
+  ],
+  "mo_glass:glass_slab": [
+    255,
+    255,
+    255
+  ],
+  "chipped:ornate_brown_stained_glass": [
+    136,
+    68,
+    17
+  ],
+  "luminousblocks:luminous_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_d_green": [
+    0,
+    255,
+    0
+  ],
+  "atlantis:red_sea_glass_wall": [
+    255,
+    0,
+    0
+  ],
+  "storagedelight:oak_cabinet_with_glass_doors": [
+    255,
+    255,
+    255
+  ],
+  "tconstruct:blue_clear_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "atlantis:orange_patterned_sea_glass": [
+    255,
+    102,
+    17
+  ],
+  "glassential:magenta_glass_trapdoor": [
+    255,
+    0,
+    255
+  ],
+  "enderio:clear_glass_ea_blue": [
+    0,
+    0,
+    255
+  ],
+  "atlantis:light_blue_sea_glass_slab": [
+    0,
+    0,
+    255
+  ],
+  "enderio:clear_glass_e_white": [
+    255,
+    255,
+    255
+  ],
+  "chipped:arched_brown_stained_glass_pillar": [
+    136,
+    68,
+    17
+  ],
+  "railways:maroon_four_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "quark:red_framed_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "enderio:clear_glass_dnp_green": [
+    0,
+    255,
+    0
+  ],
+  "storagedelight:warped_cabinet_with_glass_doors": [
+    255,
+    255,
+    255
+  ],
+  "botania:elf_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:fancy_purple_stained_glass_pane": [
+    170,
+    34,
+    255
+  ],
+  "chipped:arched_magenta_stained_glass_pane_pillar": [
+    255,
+    0,
+    255
+  ],
+  "naturalist:crimson_froglass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_orange": [
+    255,
+    102,
+    17
+  ],
+  "chipped:woven_white_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:orange_sea_glass_slab": [
+    255,
+    102,
+    17
+  ],
+  "enderio:clear_glass_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "atlantis:orange_patterned_sea_glass_slab": [
+    255,
+    102,
+    17
+  ],
+  "nuclearcraft:fission_reactor_glass": [
+    255,
+    255,
+    255
+  ],
+  "chipped:vertical_stiped_magenta_stained_glass": [
+    255,
+    0,
+    255
+  ],
+  "chipped:tiled_orange_stained_glass": [
+    255,
+    102,
+    17
+  ],
+  "mysticsbiomes:glass_jar": [
+    255,
+    255,
+    255
+  ],
+  "dd_mosaic_glass:glass_branch_base": [
+    255,
+    255,
+    255
+  ],
+  "quark:gray_framed_glass": [
+    136,
+    136,
+    136
+  ],
+  "chipped:square_black_stained_glass_pane": [
+    0,
+    0,
+    0
+  ],
+  "chipped:circular_orange_stained_glass": [
+    255,
+    102,
+    17
+  ],
+  "betternether:quartz_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:red_sea_glass_pressure_plate": [
+    255,
+    0,
+    0
+  ],
+  "luminousblocks:luminous_white_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "railways:ochrum_single_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "chipped:fancy_pink_stained_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "enderio:clear_glass_ea_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_dnp_white": [
+    255,
+    255,
+    255
+  ],
+  "betternether:quartz_glass_framed_pane_yellow": [
+    255,
+    255,
+    0
+  ],
+  "railways:diorite_single_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "railways:olive_green_round_pane_locometal_window": [
+    0,
+    255,
+    0
+  ],
+  "regions_unexplored:prismaglass": [
+    255,
+    255,
+    255
+  ],
+  "securitycraft:reinforced_lime_stained_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "betternether:quartz_glass_framed_yellow": [
+    255,
+    255,
+    0
+  ],
+  "gtceu:borosilicate_glass_block": [
+    255,
+    255,
+    255
+  ],
+  "minecraft:black_stained_glass": [
+    0,
+    0,
+    0
+  ],
+  "railways:green_two_pane_locometal_window": [
+    0,
+    255,
+    0
+  ],
+  "enderio:clear_glass_ena_white": [
+    255,
+    255,
+    255
+  ],
+  "betternether:quartz_glass_framed_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "moreminecarts:glass_cactus": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_np_magenta": [
+    255,
+    0,
+    255
+  ],
+  "dd_mosaic_glass:glass_star_base": [
+    255,
+    255,
+    255
+  ],
+  "mo_glass:brown_stained_glass_stairs": [
+    136,
+    68,
+    17
+  ],
+  "luminousblocks:luminous_red_stained_glass": [
+    255,
+    0,
+    0
+  ],
+  "pyrite:light_blue_framed_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "minecraft:yellow_stained_glass_pane": [
+    255,
+    255,
+    0
+  ],
+  "betternether:quartz_glass_framed_brown": [
+    136,
+    68,
+    17
+  ],
+  "valhelsia_structures:brown_metal_framed_glass_pane": [
+    136,
+    68,
+    17
+  ],
+  "chipped:square_light_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "integratedterminals:menril_glass": [
+    255,
+    255,
+    255
+  ],
+  "ror:glowing_light_blue_stained_glass": [
+    0,
+    0,
+    255
+  ],
+  "enderio:clear_glass_e_green": [
+    0,
+    255,
+    0
+  ],
+  "chipped:small_pink_stained_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "gobber2:clear_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_e_gray": [
+    136,
+    136,
+    136
+  ],
+  "clearfluidglass:clear_fluid_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ep_green": [
+    0,
+    255,
+    0
+  ],
+  "chipped:small_yellow_stained_glass": [
+    255,
+    255,
+    0
+  ],
+  "valhelsia_structures:light_blue_metal_framed_glass": [
+    0,
+    0,
+    255
+  ],
+  "betternether:quartz_glass_pane_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "luminousblocks:luminous_light_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "chipped:large_diamond_leaded_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_np_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "railways:ochrum_four_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_a_red": [
+    255,
+    0,
+    0
+  ],
+  "atlantis:brown_patterned_sea_glass_pressure_plate": [
+    136,
+    68,
+    17
+  ],
+  "patternedglass:lime_patterned_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "luminousblocks:luminous_pink_stained_glass": [
+    255,
+    102,
+    187
+  ],
+  "create:crimson_window_pane": [
+    255,
+    255,
+    255
+  ],
+  "tconstruct:orange_clear_stained_glass": [
+    255,
+    102,
+    17
+  ],
+  "sundries:navy_wrought_iron_glass": [
+    255,
+    255,
+    255
+  ],
+  "mo_glass:blue_stained_glass_slab": [
+    0,
+    0,
+    255
+  ],
+  "chipped:large_diamond_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "chipped:glass_pearlescent_froglight": [
+    255,
+    255,
+    255
+  ],
+  "tconstruct:lime_clear_stained_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "enderio:clear_glass_dna_black": [
+    0,
+    0,
+    0
+  ],
+  "storagedelight:crimson_cabinet_with_glass_doors": [
+    255,
+    255,
+    255
+  ],
+  "thermal_extra:twinite_glass": [
+    255,
+    255,
+    255
+  ],
+  "betternether:quartz_glass_framed_pane_lime": [
+    187,
+    255,
+    0
+  ],
+  "mo_glass:magenta_stained_glass_stairs": [
+    255,
+    0,
+    255
+  ],
+  "malum:infernal_spirited_glass": [
+    255,
+    255,
+    255
+  ],
+  "railways:pink_four_pane_locometal_window": [
+    255,
+    102,
+    187
+  ],
+  "allthecompressed:glass_8x": [
+    255,
+    255,
+    255
+  ],
+  "glassential:white_glass_door": [
+    255,
+    255,
+    255
+  ],
+  "blastcraft:blastproofwallingglass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_na_blue": [
+    0,
+    0,
+    255
+  ],
+  "atlantis:white_sea_glass_button": [
+    255,
+    255,
+    255
+  ],
+  "tconstruct:pink_clear_stained_glass_pane": [
+    255,
+    102,
+    187
+  ],
+  "chipped:circular_lime_stained_glass": [
+    187,
+    255,
+    0
+  ],
+  "atlantis:white_sea_glass_slab": [
+    255,
+    255,
+    255
+  ],
+  "quark:light_blue_framed_glass": [
+    0,
+    0,
+    255
+  ],
+  "enderio:clear_glass_black": [
+    0,
+    0,
+    0
+  ],
+  "dawnoftimebuilder:lattice_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_p_white": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_em_purple": [
+    170,
+    34,
+    255
+  ],
+  "railways:diorite_two_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ena_yellow": [
+    255,
+    255,
+    0
+  ],
+  "atlantis:blue_patterned_sea_glass_pressure_plate": [
+    0,
+    0,
+    255
+  ],
+  "atlantis:sea_glass_button": [
+    153,
+    204,
+    204
+  ],
+  "luminousblocks:luminous_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:raster_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "allthecompressed:glass_9x": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_em_black": [
+    0,
+    0,
+    0
+  ],
+  "chipped:raster_green_stained_glass": [
+    0,
+    255,
+    0
+  ],
+  "chipped:fancy_red_stained_glass": [
+    255,
+    0,
+    0
+  ],
+  "betternether:quartz_glass_red": [
+    255,
+    0,
+    0
+  ],
+  "sundries:gray_wrought_iron_glass": [
+    136,
+    136,
+    136
+  ],
+  "mo_glass:tinted_glass_slab": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_m_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "chipped:circular_lime_stained_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "notenoughblocks:quartz_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dm_magenta": [
+    255,
+    0,
+    255
+  ],
+  "enderio:clear_glass_ea_pink": [
+    255,
+    102,
+    187
+  ],
+  "sundries:brown_wrought_iron_glass": [
+    136,
+    68,
+    17
+  ],
+  "mo_glass:yellow_stained_glass_slab": [
+    255,
+    255,
+    0
+  ],
+  "railways:royal_blue_round_pane_locometal_window": [
+    0,
+    0,
+    255
+  ],
+  "allthecompressed:glass_6x": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ena_cyan": [
+    0,
+    255,
+    255
+  ],
+  "patternedglass:light_blue_patterned_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "quark:cyan_framed_glass_pane": [
+    0,
+    255,
+    255
+  ],
+  "malum:aqueous_spirited_glass": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:green_sea_glass": [
+    0,
+    255,
+    0
+  ],
+  "tconstruct:light_gray_clear_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_a_green": [
+    0,
+    255,
+    0
+  ],
+  "enderio:clear_glass_enp_magenta": [
+    255,
+    0,
+    255
+  ],
+  "atlantis:gray_patterned_sea_glass_stairs": [
+    136,
+    136,
+    136
+  ],
+  "dawnoftimebuilder:lattice_waxed_oak_window": [
+    255,
+    255,
+    255
+  ],
+  "chipped:vertical_stiped_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "dd_mosaic_glass:glass_pane_lily": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:light_gray_patterned_sea_glass_stairs": [
+    136,
+    136,
+    136
+  ],
+  "allthecompressed:glass_7x": [
+    255,
+    255,
+    255
+  ],
+  "atlantis:green_sea_glass_button": [
+    0,
+    255,
+    0
+  ],
+  "tconstruct:soul_glass": [
+    0,
+    0,
+    255
+  ],
+  "escalated:glass_escalator_handrail": [
+    255,
+    255,
+    255
+  ],
+  "truedarkness:empty_chiseled_ancient_glass": [
+    255,
+    255,
+    255
+  ],
+  "create:framed_glass_door": [
+    255,
+    255,
+    255
+  ],
+  "railways:tuff_four_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "allthecompressed:glass_4x": [
+    255,
+    255,
+    255
+  ],
+  "xycraft_world:glass_viewer_phantom_glowing": [
+    255,
+    255,
+    255
+  ],
+  "railways:purple_round_pane_locometal_window": [
+    170,
+    34,
+    255
+  ],
+  "enderio:clear_glass_p_magenta": [
+    255,
+    0,
+    255
+  ],
+  "securitycraft:reinforced_green_stained_glass_pane": [
+    0,
+    255,
+    0
+  ],
+  "enderio:clear_glass_a_cyan": [
+    0,
+    255,
+    255
+  ],
+  "betternether:quartz_glass_framed_pane_blue": [
+    0,
+    0,
+    255
+  ],
+  "chipped:raster_blue_stained_glass": [
+    0,
+    0,
+    255
+  ],
+  "betternether:quartz_glass_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "chipped:ornate_orange_stained_glass_pane": [
+    255,
+    102,
+    17
+  ],
+  "sundries:cyan_wrought_iron_glass": [
+    0,
+    255,
+    255
+  ],
+  "glassential:white_glass_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_e_purple": [
+    170,
+    34,
+    255
+  ],
+  "enderio:clear_glass_na_lime": [
+    187,
+    255,
+    0
+  ],
+  "enderio:clear_glass_green": [
+    0,
+    255,
+    0
+  ],
+  "chipped:fancy_leaded_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "betternether:quartz_glass_pane_magenta": [
+    255,
+    0,
+    255
+  ],
+  "diamethysts:diamethyst_glass_pane": [
+    170,
+    34,
+    255
+  ],
+  "pyrite:red_framed_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "enderio:clear_glass_m_white": [
+    255,
+    255,
+    255
+  ],
+  "opalescence:moonlit_opal_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ep_black": [
+    0,
+    0,
+    0
+  ],
+  "enderio:clear_glass_na_yellow": [
+    255,
+    255,
+    0
+  ],
+  "enderio:clear_glass_d_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "securitycraft:reinforced_pink_stained_glass": [
+    255,
+    102,
+    187
+  ],
+  "atlantis:lime_patterned_sea_glass_pressure_plate": [
+    187,
+    255,
+    0
+  ],
+  "create:framed_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "allthecompressed:glass_5x": [
+    255,
+    255,
+    255
+  ],
+  "echovoids:obsidian_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_da_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "valhelsia_structures:orange_metal_framed_glass_pane": [
+    255,
+    102,
+    17
+  ],
+  "atlantis:multicolor_sea_glass_pressure_plate": [
+    153,
+    204,
+    204
+  ],
+  "chipped:circular_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_p_orange": [
+    255,
+    102,
+    17
+  ],
+  "atlantis:red_sea_glass_slab": [
+    255,
+    0,
+    0
+  ],
+  "enderio:clear_glass_enp_green": [
+    0,
+    255,
+    0
+  ],
+  "enderio:clear_glass_ep_cyan": [
+    0,
+    255,
+    255
+  ],
+  "securitycraft:reinforced_red_stained_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "glassential:pink_glass_trapdoor": [
+    255,
+    102,
+    187
+  ],
+  "luminousblocks:luminous_lime_stained_glass": [
+    187,
+    255,
+    0
+  ],
+  "chipped:fancy_magenta_stained_glass": [
+    255,
+    0,
+    255
+  ],
+  "chipped:square_purple_stained_glass": [
+    170,
+    34,
+    255
+  ],
+  "enderio:clear_glass_ea_brown": [
+    136,
+    68,
+    17
   ],
   "patternedglass:black_patterned_glass_pane": [
     0,
@@ -104,10 +5524,10 @@
     255,
     255
   ],
-  "sundries:gray_wrought_iron_glass_pane": [
-    136,
-    136,
-    136
+  "enderio:clear_glass_m_lime": [
+    187,
+    255,
+    0
   ],
   "tconstruct:lime_clear_stained_glass": [
     187,
@@ -124,17 +5544,12 @@
     255,
     255
   ],
-  "patternedglass:lime_patterned_glass": [
-    187,
-    255,
-    0
-  ],
-  "luminousblocks:luminous_magenta_stained_glass_pane": [
+  "enderio:clear_glass_d_magenta": [
     255,
     0,
     255
   ],
-  "atlantis:blue_patterned_sea_glass_stairs": [
+  "enderio:clear_glass_enp_light_blue": [
     0,
     0,
     255
@@ -144,22 +5559,12 @@
     136,
     136
   ],
-  "atlantis:red_patterned_sea_glass_slab": [
-    255,
-    0,
-    0
-  ],
-  "railways:sea_green_two_pane_locometal_window": [
-    0,
-    255,
-    0
-  ],
-  "minecraft:orange_stained_glass_pane": [
+  "enderio:clear_glass_da_pink": [
     255,
     102,
-    17
+    187
   ],
-  "betternether:quartz_glass_green": [
+  "railways:sea_green_two_pane_locometal_window": [
     0,
     255,
     0
@@ -169,30 +5574,20 @@
     255,
     255
   ],
-  "storagedelight:mangrove_cabinet_with_glass_doors": [
-    255,
-    255,
-    255
-  ],
-  "quark:white_framed_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "railways:yellow_four_pane_locometal_window": [
-    255,
+  "enderio:clear_glass_enp_lime": [
+    187,
     255,
     0
   ],
-  "expatternprovider:assembler_matrix_glass": [
+  "chipped:fancy_white_stained_glass_pane": [
     255,
     255,
     255
   ],
-  "valhelsia_structures:light_gray_metal_framed_glass_pane": [
-    136,
-    136,
-    136
+  "enderio:clear_glass_a_white": [
+    255,
+    255,
+    255
   ],
   "atlantis:orange_patterned_sea_glass_wall": [
     255,
@@ -203,11 +5598,6 @@
     0,
     0,
     0
-  ],
-  "luminousblocks:luminous_purple_stained_glass": [
-    170,
-    34,
-    255
   ],
   "railways:limestone_single_pane_locometal_window": [
     187,
@@ -224,72 +5614,47 @@
     0,
     255
   ],
+  "chipped:windowed_birch_door": [
+    255,
+    255,
+    255
+  ],
   "valhelsia_structures:purple_metal_framed_glass": [
     170,
     34,
     255
-  ],
-  "luminousblocks:luminous_magenta_stained_glass": [
-    255,
-    0,
-    255
-  ],
-  "mo_glass:gray_stained_glass_slab": [
-    136,
-    136,
-    136
-  ],
-  "atlantis:purple_sea_glass_wall": [
-    170,
-    34,
-    255
-  ],
-  "sundries:orange_wrought_iron_glass_pane": [
-    255,
-    102,
-    17
-  ],
-  "dd_mosaic_glass:glass_rose_base": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:light_gray_sea_glass_pressure_plate": [
-    136,
-    136,
-    136
   ],
   "pyrite:magenta_framed_glass_pane": [
     255,
     0,
     255
   ],
-  "dawnoftimebuilder:red_painted_windowed_door": [
+  "chipped:large_diamond_pink_stained_glass": [
     255,
-    0,
-    0
+    102,
+    187
+  ],
+  "chipped:large_diamond_light_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_p_purple": [
+    170,
+    34,
+    255
   ],
   "railways:orange_round_pane_locometal_window": [
     255,
     102,
     17
   ],
+  "chipped:square_green_stained_glass": [
+    0,
+    255,
+    0
+  ],
   "dd_mosaic_glass:glass_pane_branch_base": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:purple_sea_glass": [
-    170,
-    34,
-    255
-  ],
-  "mysticalagriculture:soul_glass": [
-    0,
-    0,
-    255
-  ],
-  "nuclearcraft:turbine_glass": [
     255,
     255,
     255
@@ -304,27 +5669,17 @@
     255,
     255
   ],
-  "betternether:quartz_glass_framed_pane_light_blue": [
-    0,
-    0,
-    255
-  ],
-  "opalescence:opal_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "railways:ochrum_two_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
   "mo_glass:pink_stained_glass_stairs": [
     255,
     102,
     187
   ],
-  "create:tiled_glass_pane": [
+  "enderio:clear_glass_np_gray": [
+    136,
+    136,
+    136
+  ],
+  "chipped:ornate_white_stained_glass_pane": [
     255,
     255,
     255
@@ -349,16 +5704,6 @@
     102,
     187
   ],
-  "dd_mosaic_glass:glass_heart": [
-    255,
-    255,
-    255
-  ],
-  "garnished:sepia_window": [
-    255,
-    255,
-    255
-  ],
   "pyrite:green_framed_glass": [
     0,
     255,
@@ -369,8 +5714,23 @@
     102,
     17
   ],
+  "chipped:vertical_stiped_white_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
   "storagedelight:glass_mangrove_cabinet": [
     255,
+    255,
+    255
+  ],
+  "chipped:arched_light_gray_stained_glass_pillar": [
+    136,
+    136,
+    136
+  ],
+  "chipped:arched_cyan_stained_glass_pane_pillar": [
+    0,
     255,
     255
   ],
@@ -379,9 +5739,9 @@
     34,
     255
   ],
-  "glassential:glass_ghostly": [
-    255,
-    255,
+  "chipped:large_diamond_purple_stained_glass_pane": [
+    170,
+    34,
     255
   ],
   "atlantis:orange_sea_glass_wall": [
@@ -389,29 +5749,39 @@
     102,
     17
   ],
-  "tconstruct:scorched_glass": [
+  "enderio:clear_glass_dna_orange": [
     255,
-    255,
-    255
+    102,
+    17
   ],
-  "gobber2:gobber2_glass": [
-    255,
-    255,
-    255
-  ],
-  "railways:lime_single_pane_locometal_window": [
+  "chipped:small_lime_stained_glass": [
     187,
     255,
     0
   ],
-  "mo_glass:orange_stained_glass_slab": [
-    255,
-    102,
+  "enderio:clear_glass_ea_gray": [
+    136,
+    136,
+    136
+  ],
+  "chipped:woven_brown_stained_glass": [
+    136,
+    68,
     17
   ],
   "railways:granite_single_pane_locometal_window": [
     255,
     255,
+    255
+  ],
+  "chipped:woven_yellow_stained_glass_pane": [
+    255,
+    255,
+    0
+  ],
+  "chipped:ornate_light_blue_stained_glass_pane": [
+    0,
+    0,
     255
   ],
   "quark:blue_framed_glass_pane": [
@@ -420,6 +5790,16 @@
     255
   ],
   "railways:light_blue_single_pane_locometal_window": [
+    0,
+    0,
+    255
+  ],
+  "chipped:small_magenta_stained_glass_pane": [
+    255,
+    0,
+    255
+  ],
+  "chipped:woven_light_blue_stained_glass": [
     0,
     0,
     255
@@ -434,30 +5814,15 @@
     255,
     255
   ],
-  "atlantis:lime_patterned_sea_glass_slab": [
-    187,
+  "enderio:clear_glass_ea_red": [
     255,
-    0
-  ],
-  "betternether:quartz_glass_pink": [
-    255,
-    102,
-    187
-  ],
-  "atlantis:green_patterned_sea_glass_wall": [
     0,
-    255,
     0
   ],
   "pyrite:magenta_framed_glass": [
     255,
     0,
     255
-  ],
-  "quark:lime_framed_glass": [
-    187,
-    255,
-    0
   ],
   "atlantis:yellow_sea_glass_button": [
     255,
@@ -469,40 +5834,20 @@
     255,
     255
   ],
-  "xycraft_world:glass_viewer_rgb_glowing_orange": [
-    255,
-    102,
-    17
-  ],
   "luminousblocks:luminous_yellow_stained_glass_pane": [
     255,
     255,
     0
   ],
-  "atlantis:monochromatic_sea_glass_pressure_plate": [
-    153,
-    204,
-    204
-  ],
-  "sundries:navy_stained_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:light_blue_patterned_sea_glass_wall": [
+  "chipped:fancy_black_stained_glass": [
     0,
     0,
-    255
+    0
   ],
-  "betternether:quartz_glass_pane_gray": [
+  "chipped:circular_gray_stained_glass": [
     136,
     136,
     136
-  ],
-  "deepblue:aqua_glass": [
-    255,
-    255,
-    255
   ],
   "quark:pink_framed_glass_pane": [
     255,
@@ -514,14 +5859,24 @@
     255,
     255
   ],
+  "chipped:fancy_black_stained_glass_pane": [
+    0,
+    0,
+    0
+  ],
   "railways:diorite_round_pane_locometal_window": [
     255,
     255,
     255
   ],
-  "railways:chartreuse_four_pane_locometal_window": [
+  "enderio:clear_glass_da_orange": [
     255,
-    255,
+    102,
+    17
+  ],
+  "enderio:clear_glass_m_blue": [
+    0,
+    0,
     255
   ],
   "silentgems:white_diamond_glass": [
@@ -529,40 +5884,30 @@
     255,
     255
   ],
-  "tconstruct:white_clear_stained_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "gtceu:fusion_glass": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:light_gray_patterned_sea_glass_pressure_plate": [
+  "enderio:clear_glass_ep_brown": [
     136,
-    136,
-    136
+    68,
+    17
   ],
   "storagedelight:glass_cherry_cabinet": [
     255,
     255,
     255
   ],
-  "storagedelight:dark_oak_cabinet_with_glass_doors": [
-    255,
-    255,
-    255
+  "enderio:clear_glass_e_brown": [
+    136,
+    68,
+    17
   ],
   "railways:sea_green_single_pane_locometal_window": [
     0,
     255,
     0
   ],
-  "mekanism_extras:lead_coated_glass": [
+  "chipped:tiled_lime_stained_glass_pane": [
+    187,
     255,
-    255,
-    255
+    0
   ],
   "sundries:sea_green_wrought_iron_glass_pane": [
     0,
@@ -574,17 +5919,22 @@
     255,
     0
   ],
+  "chipped:woven_lime_stained_glass": [
+    187,
+    255,
+    0
+  ],
   "atlantis:brown_patterned_sea_glass_slab": [
     136,
     68,
     17
   ],
-  "sundries:lavender_stained_glass": [
+  "chipped:tiled_magenta_stained_glass_pane": [
     255,
-    255,
+    0,
     255
   ],
-  "blastcraft:rawblastproofwallingglass": [
+  "sundries:lavender_stained_glass": [
     255,
     255,
     255
@@ -599,14 +5949,14 @@
     0,
     0
   ],
-  "glassential:light_blue_glass_trapdoor": [
-    0,
-    0,
+  "chipped:tiled_purple_stained_glass_pane": [
+    170,
+    34,
     255
   ],
-  "fintastic:infernal_aquarium_glass": [
-    255,
-    255,
+  "chipped:vertical_stiped_purple_stained_glass": [
+    170,
+    34,
     255
   ],
   "dd_mosaic_glass:glass_pane_holly_base": [
@@ -619,38 +5969,18 @@
     255,
     0
   ],
-  "sundries:pastel_yellow_wrought_iron_glass_pane": [
-    255,
-    255,
-    0
-  ],
   "railways:white_two_pane_locometal_window": [
     255,
     255,
     255
   ],
-  "dd_mosaic_glass:glass_redstone_base": [
+  "enderio:clear_glass_lime": [
+    187,
     255,
-    0,
     0
   ],
-  "pyrite:framed_glass": [
+  "enderio:clear_glass_a_magenta": [
     255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_poppy": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:cyan_patterned_sea_glass": [
-    0,
-    255,
-    255
-  ],
-  "sundries:pastel_blue_wrought_iron_glass_pane": [
-    0,
     0,
     255
   ],
@@ -659,49 +5989,24 @@
     255,
     255
   ],
+  "chipped:fancy_pink_stained_glass": [
+    255,
+    102,
+    187
+  ],
   "atlantis:monochromatic_sea_glass_wall": [
     153,
     204,
     204
-  ],
-  "atlantis:light_blue_sea_glass_button": [
-    0,
-    0,
-    255
   ],
   "quark:magenta_framed_glass_pane": [
     255,
     0,
     255
   ],
-  "bedrockcrafter:bedrock_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_branch": [
-    255,
-    255,
-    255
-  ],
-  "glassential:glass_dark_ethereal_reverse": [
-    255,
-    255,
-    255
-  ],
-  "railways:light_gray_four_pane_locometal_window": [
-    136,
-    136,
-    136
-  ],
   "patternedglass:magenta_patterned_glass": [
     255,
     0,
-    255
-  ],
-  "atlantis:cyan_sea_glass_wall": [
-    0,
-    255,
     255
   ],
   "glassential:gray_glass_door": [
@@ -719,45 +6024,20 @@
     255,
     255
   ],
-  "railways:green_round_pane_locometal_window": [
+  "enderio:clear_glass_da_blue": [
     0,
-    255,
-    0
-  ],
-  "atlantis:cyan_patterned_sea_glass_wall": [
     0,
-    255,
     255
   ],
-  "dawnoftimebuilder:charred_spruce_window": [
-    255,
-    0,
-    0
-  ],
-  "glassential:yellow_glass_door": [
-    255,
-    255,
-    0
+  "enderio:clear_glass_dna_purple": [
+    170,
+    34,
+    255
   ],
   "sundries:forest_green_stained_glass_pane": [
     0,
     255,
     0
-  ],
-  "patternedglass:red_patterned_glass": [
-    255,
-    0,
-    0
-  ],
-  "truedarkness:glass_jar": [
-    255,
-    255,
-    255
-  ],
-  "landsoficaria:grainglass_pane": [
-    255,
-    255,
-    255
   ],
   "dd_mosaic_glass:glass_pane_moon": [
     255,
@@ -779,25 +6059,20 @@
     255,
     255
   ],
-  "railways:maroon_single_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
-  "mo_glass:light_blue_stained_glass_slab": [
-    0,
-    0,
-    255
-  ],
   "xycraft_world:glass_viewer_silicon": [
     255,
     255,
     255
   ],
-  "betternether:quartz_glass_yellow": [
-    255,
-    255,
-    0
+  "enderio:clear_glass_ea_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "chipped:large_diamond_light_gray_stained_glass_pane": [
+    136,
+    136,
+    136
   ],
   "securitycraft:reinforced_brown_stained_glass_pane": [
     136,
@@ -809,34 +6084,49 @@
     0,
     255
   ],
+  "chipped:ornate_purple_stained_glass_pane": [
+    170,
+    34,
+    255
+  ],
   "atlantis:pink_sea_glass_button": [
     255,
     102,
     187
   ],
-  "thermal:lumium_glass": [
-    255,
-    255,
+  "chipped:vertical_stiped_purple_stained_glass_pane": [
+    170,
+    34,
     255
   ],
-  "betternether:quartz_glass_framed_light_gray": [
-    136,
-    136,
-    136
-  ],
-  "railways:magenta_single_pane_locometal_window": [
+  "enderio:clear_glass_m_yellow": [
     255,
-    0,
-    255
+    255,
+    0
   ],
   "sundries:black_wrought_iron_glass_pane": [
     0,
     0,
     0
   ],
-  "betternether:quartz_glass_framed_pane_purple": [
-    170,
-    34,
+  "enderio:clear_glass_np": [
+    255,
+    255,
+    255
+  ],
+  "chipped:circular_white_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_enm_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_nm": [
+    255,
+    255,
     255
   ],
   "aetherworks:glass_aetherium": [
@@ -849,15 +6139,10 @@
     255,
     255
   ],
-  "pyrite:lime_framed_glass_pane": [
-    187,
+  "enderio:clear_glass_p_red": [
     255,
+    0,
     0
-  ],
-  "glassential:purple_glass_door": [
-    170,
-    34,
-    255
   ],
   "atlantis:cyan_sea_glass": [
     0,
@@ -869,11 +6154,6 @@
     68,
     17
   ],
-  "sundries:olive_green_stained_glass_pane": [
-    0,
-    255,
-    0
-  ],
   "sundries:vermillion_wrought_iron_glass": [
     255,
     255,
@@ -884,50 +6164,70 @@
     204,
     204
   ],
-  "securitycraft:reinforced_orange_stained_glass": [
+  "enderio:clear_glass_enm_red": [
+    255,
+    0,
+    0
+  ],
+  "chipped:vertical_stiped_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "chipped:lead_woven_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_na": [
+    255,
+    255,
+    255
+  ],
+  "chipped:raster_orange_stained_glass": [
     255,
     102,
     17
-  ],
-  "patternedglass:yellow_patterned_glass_pane": [
-    255,
-    255,
-    0
-  ],
-  "railways:yellow_two_pane_locometal_window": [
-    255,
-    255,
-    0
   ],
   "betternether:quartz_glass_framed_pane_pink": [
     255,
     102,
     187
   ],
-  "railways:brown_round_pane_locometal_window": [
-    136,
-    68,
-    17
+  "enderio:clear_glass_dnp_red": [
+    255,
+    0,
+    0
   ],
   "xycraft_world:glass_viewer_rgb_glowing_brown": [
     136,
     68,
     17
   ],
-  "sundries:lavender_stained_glass_pane": [
+  "enderio:clear_glass_m_orange": [
+    255,
+    102,
+    17
+  ],
+  "chipped:classic_windowed_crimson_trapdoor": [
     255,
     255,
     255
   ],
-  "silentgems:iolite_glass": [
-    255,
-    255,
-    255
-  ],
-  "quark:lime_framed_glass_pane": [
-    187,
-    255,
+  "enderio:clear_glass_m_black": [
+    0,
+    0,
     0
+  ],
+  "chipped:raster_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_p_gray": [
+    136,
+    136,
+    136
   ],
   "sundries:magenta_wrought_iron_glass": [
     255,
@@ -936,16 +6236,6 @@
   ],
   "patternedglass:magenta_patterned_glass_pane": [
     255,
-    0,
-    255
-  ],
-  "dd_mosaic_glass:glass_pane_rose": [
-    255,
-    255,
-    255
-  ],
-  "securitycraft:reinforced_light_blue_stained_glass_pane": [
-    0,
     0,
     255
   ],
@@ -969,20 +6259,15 @@
     255,
     255
   ],
+  "chipped:arched_gray_stained_glass_pane_pillar": [
+    136,
+    136,
+    136
+  ],
   "dd_mosaic_glass:glass_sun": [
     255,
     255,
     255
-  ],
-  "atlantis:white_patterned_sea_glass": [
-    255,
-    255,
-    255
-  ],
-  "ror:glowing_yellow_stained_glass": [
-    255,
-    255,
-    0
   ],
   "dd_mosaic_glass:glass_spark_base": [
     255,
@@ -999,6 +6284,16 @@
     255,
     0
   ],
+  "enderio:clear_glass_dnm_gray": [
+    136,
+    136,
+    136
+  ],
+  "chipped:raster_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
   "sundries:beige_wrought_iron_glass_pane": [
     255,
     255,
@@ -1014,40 +6309,35 @@
     0,
     255
   ],
+  "enderio:clear_glass_ea_black": [
+    0,
+    0,
+    0
+  ],
   "botania:hourglass": [
     255,
     255,
     255
-  ],
-  "tconstruct:light_gray_clear_stained_glass_pane": [
-    136,
-    136,
-    136
   ],
   "thingamajigs:window_blockade": [
     255,
     255,
     255
   ],
-  "patternedglass:light_gray_patterned_glass_pane": [
-    136,
-    136,
-    136
+  "enderio:clear_glass_em_magenta": [
+    255,
+    0,
+    255
   ],
   "thermal_extra:abyssal_glass": [
     255,
     255,
     255
   ],
-  "valhelsia_structures:brown_metal_framed_glass": [
+  "chipped:ornate_gray_stained_glass_pane": [
     136,
-    68,
-    17
-  ],
-  "betternether:quartz_glass_framed_pane_orange": [
-    255,
-    102,
-    17
+    136,
+    136
   ],
   "create:glass_fluid_pipe": [
     255,
@@ -1059,25 +6349,10 @@
     255,
     255
   ],
-  "ror:glowing_magenta_stained_glass_pane": [
-    255,
-    0,
-    255
-  ],
-  "dd_mosaic_glass:glass_fleur": [
-    255,
-    255,
-    255
-  ],
   "atlantis:green_patterned_sea_glass_slab": [
     0,
     255,
     0
-  ],
-  "minecraft:pink_stained_glass": [
-    255,
-    102,
-    187
   ],
   "xycraft_world:glass_viewer_rgb_glowing_blue": [
     0,
@@ -1089,55 +6364,15 @@
     255,
     255
   ],
-  "atlantis:magenta_sea_glass_stairs": [
-    255,
-    0,
-    255
-  ],
-  "patternedglass:orange_patterned_glass": [
-    255,
-    102,
-    17
-  ],
   "railways:blue_round_pane_locometal_window": [
     0,
     0,
     255
   ],
-  "railways:orange_two_pane_locometal_window": [
+  "enderio:clear_glass_ep_red": [
     255,
-    102,
-    17
-  ],
-  "truedarkness:chiseled_ancient_glass": [
-    255,
-    255,
-    255
-  ],
-  "glassential:light_gray_glass_door": [
-    136,
-    136,
-    136
-  ],
-  "betternether:quartz_glass_lime": [
-    187,
-    255,
-    0
-  ],
-  "glassential:black_glass_trapdoor": [
-    0,
     0,
     0
-  ],
-  "luminousblocks:luminous_light_gray_stained_glass_pane": [
-    136,
-    136,
-    136
-  ],
-  "xycraft_world:glass_viewer_phantom_dark": [
-    255,
-    255,
-    255
   ],
   "railways:gray_two_pane_locometal_window": [
     136,
@@ -1154,11 +6389,6 @@
     255,
     0
   ],
-  "dd_mosaic_glass:glass_pane_holly": [
-    255,
-    255,
-    255
-  ],
   "railways:tuff_round_pane_locometal_window": [
     255,
     255,
@@ -1169,30 +6399,20 @@
     255,
     0
   ],
-  "bellsandwhistles:metro_window": [
+  "enderio:clear_glass_a_pink": [
     255,
-    255,
-    255
+    102,
+    187
   ],
   "betternether:quartz_glass_pane_pink": [
     255,
     102,
     187
   ],
-  "landsoficaria:silkglass": [
+  "enderio:clear_glass_ea_magenta": [
     255,
-    255,
+    0,
     255
-  ],
-  "atlantis:pink_patterned_sea_glass": [
-    255,
-    102,
-    187
-  ],
-  "minecraft:lime_stained_glass_pane": [
-    187,
-    255,
-    0
   ],
   "atlantis:gray_sea_glass": [
     136,
@@ -1204,12 +6424,32 @@
     255,
     255
   ],
-  "pyrite:rose_stained_glass_pane": [
+  "chipped:fancy_red_stained_glass_pane": [
+    255,
+    0,
+    0
+  ],
+  "chipped:oak_large_diamond_glass": [
     255,
     255,
     255
   ],
   "valhelsia_structures:light_gray_metal_framed_glass": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_m_pink": [
+    255,
+    102,
+    187
+  ],
+  "chipped:circular_purple_stained_glass": [
+    170,
+    34,
+    255
+  ],
+  "enderio:clear_glass_d_light_gray": [
     136,
     136,
     136
@@ -1224,37 +6464,17 @@
     102,
     17
   ],
-  "mo_glass:red_stained_glass_stairs": [
+  "enderio:clear_glass_m_magenta": [
     255,
     0,
-    0
+    255
   ],
-  "securitycraft:reinforced_light_gray_stained_glass": [
-    136,
-    136,
-    136
-  ],
-  "railways:gray_single_pane_locometal_window": [
-    136,
-    136,
-    136
-  ],
-  "atlantis:gray_sea_glass_slab": [
-    136,
-    136,
-    136
-  ],
-  "windowlogging:window_in_a_block": [
+  "chipped:vertical_leaded_glass": [
     255,
     255,
     255
   ],
-  "railways:black_two_pane_locometal_window": [
-    0,
-    0,
-    0
-  ],
-  "dd_mosaic_glass:glass_violet_base": [
+  "windowlogging:window_in_a_block": [
     255,
     255,
     255
@@ -1264,47 +6484,27 @@
     0,
     255
   ],
-  "railways:light_gray_two_pane_locometal_window": [
+  "enderio:clear_glass_brown": [
+    136,
+    68,
+    17
+  ],
+  "chipped:woven_gray_stained_glass_pane": [
     136,
     136,
     136
-  ],
-  "atlantis:multicolor_sea_glass_stairs": [
-    153,
-    204,
-    204
-  ],
-  "create:birch_window": [
-    255,
-    255,
-    255
-  ],
-  "undergarden:sediment_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "tconstruct:cyan_clear_stained_glass": [
-    0,
-    255,
-    255
   ],
   "luminousblocks:luminous_orange_stained_glass": [
     255,
     102,
     17
   ],
-  "tconstruct:scorched_soul_glass": [
-    0,
-    0,
+  "chipped:oak_snowflake_glass": [
+    255,
+    255,
     255
   ],
-  "quark:red_framed_glass": [
-    255,
-    0,
-    0
-  ],
-  "tconstruct:brown_clear_stained_glass": [
+  "enderio:clear_glass_enm_brown": [
     136,
     68,
     17
@@ -1314,10 +6514,10 @@
     255,
     255
   ],
-  "glassential:light_gray_glass_trapdoor": [
-    136,
-    136,
-    136
+  "chipped:square_red_stained_glass_pane": [
+    255,
+    0,
+    0
   ],
   "securitycraft:reinforced_black_stained_glass_pane": [
     0,
@@ -1329,14 +6529,14 @@
     34,
     255
   ],
-  "create:jungle_window_pane": [
+  "chipped:tiled_yellow_stained_glass": [
     255,
     255,
-    255
+    0
   ],
-  "valhelsia_structures:white_metal_framed_glass_pane": [
+  "enderio:clear_glass_dnm_magenta": [
     255,
-    255,
+    0,
     255
   ],
   "atlantis:gray_sea_glass_stairs": [
@@ -1344,20 +6544,20 @@
     136,
     136
   ],
+  "enderio:clear_glass_na_pink": [
+    255,
+    102,
+    187
+  ],
   "betternether:quartz_glass_framed_pane_red": [
     255,
     0,
     0
   ],
-  "ror:glowing_purple_stained_glass_pane": [
-    170,
-    34,
-    255
-  ],
-  "nuclearcraft:target_chamber_casing_glass": [
+  "chipped:ornate_pink_stained_glass": [
     255,
-    255,
-    255
+    102,
+    187
   ],
   "patternedglass:pink_patterned_glass": [
     255,
@@ -1369,7 +6569,7 @@
     255,
     255
   ],
-  "atlantis:orange_patterned_sea_glass_pressure_plate": [
+  "chipped:small_orange_stained_glass_pane": [
     255,
     102,
     17
@@ -1379,12 +6579,7 @@
     255,
     255
   ],
-  "malum:arcane_spirited_glass": [
-    255,
-    255,
-    255
-  ],
-  "sundries:wrought_iron_glass": [
+  "chipped:tile_windowed_warped_door": [
     255,
     255,
     255
@@ -1394,18 +6589,18 @@
     34,
     255
   ],
-  "atlantis:orange_sea_glass_stairs": [
+  "chipped:glassblower": [
     255,
-    102,
-    17
+    255,
+    255
   ],
-  "xycraft_world:glass_viewer_rgb_glowing_lime": [
-    187,
+  "enderio:clear_glass_m_green": [
+    0,
     255,
     0
   ],
-  "luminousblocks:luminous_green_stained_glass": [
-    0,
+  "xycraft_world:glass_viewer_rgb_glowing_lime": [
+    187,
     255,
     0
   ],
@@ -1414,19 +6609,9 @@
     0,
     255
   ],
-  "betterblockz:tintedglass_blockz_10": [
-    255,
-    255,
-    255
-  ],
   "railways:light_blue_four_pane_locometal_window": [
     0,
     0,
-    255
-  ],
-  "dd_mosaic_glass:glass_lily_base": [
-    255,
-    255,
     255
   ],
   "atlantis:purple_sea_glass_pressure_plate": [
@@ -1434,24 +6619,9 @@
     34,
     255
   ],
-  "betterblockz:tintedglass_blockz_13": [
-    255,
-    255,
-    255
-  ],
-  "luminousblocks:luminous_gray_stained_glass_pane": [
-    136,
-    136,
-    136
-  ],
-  "betterblockz:tintedglass_blockz_14": [
-    255,
-    255,
-    255
-  ],
-  "fintastic:sugar_aquarium_glass_pane": [
-    255,
-    255,
+  "enderio:clear_glass_m_purple": [
+    170,
+    34,
     255
   ],
   "securitycraft:reinforced_black_stained_glass": [
@@ -1459,29 +6629,9 @@
     0,
     0
   ],
-  "xycraft_world:glass_viewer_immortal": [
-    255,
-    255,
-    255
-  ],
-  "betterblockz:tintedglass_blockz_11": [
-    255,
-    255,
-    255
-  ],
-  "betterblockz:tintedglass_blockz_12": [
-    255,
-    255,
-    255
-  ],
   "atlantis:purple_sea_glass_slab": [
     170,
     34,
-    255
-  ],
-  "betterblockz:tintedglass_blockz_15": [
-    255,
-    255,
     255
   ],
   "quark:brown_framed_glass": [
@@ -1489,7 +6639,7 @@
     68,
     17
   ],
-  "create:warped_window": [
+  "cyclic:dark_glass_connected": [
     255,
     255,
     255
@@ -1499,28 +6649,28 @@
     102,
     187
   ],
-  "mo_glass:white_stained_glass_stairs": [
-    255,
-    255,
-    255
-  ],
-  "ultramarine:glazed_tile_grid_window": [
-    255,
-    255,
-    255
-  ],
-  "create:weathered_iron_window": [
+  "chipped:vertical_stiped_red_stained_glass": [
     255,
     0,
     0
+  ],
+  "chipped:arched_green_stained_glass_pane_pillar": [
+    0,
+    255,
+    0
+  ],
+  "chipped:small_white_stained_glass_pane": [
+    255,
+    255,
+    255
   ],
   "glassential:glass_ethereal_reverse": [
     255,
     255,
     255
   ],
-  "luminousblocks:luminous_cyan_stained_glass_pane": [
-    0,
+  "chipped:glass_dark_oak_door": [
+    255,
     255,
     255
   ],
@@ -1539,25 +6689,30 @@
     255,
     255
   ],
+  "enderio:clear_glass_ena_green": [
+    0,
+    255,
+    0
+  ],
   "quark:light_gray_framed_glass": [
     136,
     136,
     136
   ],
-  "sundries:olive_green_wrought_iron_glass_pane": [
-    0,
+  "chipped:tiled_lime_stained_glass": [
+    187,
     255,
     0
+  ],
+  "enderio:clear_glass_da_light_gray": [
+    136,
+    136,
+    136
   ],
   "storagedelight:bamboo_cabinet_with_glass_doors": [
     255,
     255,
     255
-  ],
-  "atlantis:black_patterned_sea_glass_pressure_plate": [
-    0,
-    0,
-    0
   ],
   "atlantis:blue_sea_glass_stairs": [
     0,
@@ -1569,9 +6724,14 @@
     0,
     0
   ],
-  "betternether:quartz_glass_blue": [
+  "enderio:clear_glass_dp_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "chipped:woven_cyan_stained_glass_pane": [
     0,
-    0,
+    255,
     255
   ],
   "atlantis:light_gray_patterned_sea_glass_slab": [
@@ -1579,22 +6739,32 @@
     136,
     136
   ],
-  "thermal:fluid_duct_windowed": [
-    255,
-    255,
-    255
-  ],
   "mo_glass:purple_stained_glass_stairs": [
     170,
     34,
     255
   ],
-  "atlantis:white_patterned_sea_glass_wall": [
+  "chipped:circle_oak_glass_pane": [
     255,
     255,
     255
   ],
+  "chipped:oak_diamond_bordered_glass": [
+    255,
+    0,
+    0
+  ],
   "create:ornate_iron_window_pane": [
+    255,
+    255,
+    255
+  ],
+  "chipped:arched_magenta_stained_glass_pillar": [
+    255,
+    0,
+    255
+  ],
+  "chipped:ornate_leaded_glass_pane": [
     255,
     255,
     255
@@ -1609,35 +6779,35 @@
     255,
     255
   ],
+  "enderio:clear_glass_ena_black": [
+    0,
+    0,
+    0
+  ],
   "railways:royal_blue_single_pane_locometal_window": [
     0,
     0,
     255
   ],
-  "sundries:salmon_pink_stained_glass": [
-    255,
-    102,
-    187
+  "chipped:vertical_stiped_brown_stained_glass_pane": [
+    136,
+    68,
+    17
   ],
-  "bigreactors:basic_reactorglass": [
-    255,
-    255,
-    255
-  ],
-  "glassential:tinted_glass_trapdoor": [
-    255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_lavender": [
-    255,
-    255,
-    255
+  "enderio:clear_glass_em_light_gray": [
+    136,
+    136,
+    136
   ],
   "valhelsia_structures:blue_metal_framed_glass": [
     0,
     0,
     255
+  ],
+  "chipped:oak_ornate_bared_glass": [
+    255,
+    0,
+    0
   ],
   "atlantis:gray_sea_glass_button": [
     136,
@@ -1649,32 +6819,22 @@
     102,
     187
   ],
+  "chipped:arched_light_blue_stained_glass_pillar": [
+    0,
+    0,
+    255
+  ],
   "create:oak_window_pane": [
     255,
     255,
     255
-  ],
-  "sundries:forest_green_wrought_iron_glass": [
-    0,
-    255,
-    0
   ],
   "dawnoftimebuilder:red_plastered_stone_window": [
     255,
     0,
     0
   ],
-  "pyrite:light_gray_framed_glass": [
-    136,
-    136,
-    136
-  ],
   "minecraft:white_stained_glass": [
-    255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_violet": [
     255,
     255,
     255
@@ -1683,31 +6843,6 @@
     255,
     255,
     0
-  ],
-  "pyrite:star_framed_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:pink_sea_glass_pressure_plate": [
-    255,
-    102,
-    187
-  ],
-  "betternether:obsidian_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "valhelsia_structures:cyan_metal_framed_glass_pane": [
-    0,
-    255,
-    255
-  ],
-  "pyrite:light_gray_framed_glass_pane": [
-    136,
-    136,
-    136
   ],
   "railways:light_blue_two_pane_locometal_window": [
     0,
@@ -1724,20 +6859,15 @@
     255,
     255
   ],
-  "glassential:glass_ghostly_pane": [
-    255,
-    255,
-    255
-  ],
   "valhelsia_structures:metal_framed_glass": [
     255,
     255,
     255
   ],
-  "betternether:quartz_glass_framed_pane_gray": [
-    136,
-    136,
-    136
+  "chipped:woven_green_stained_glass": [
+    0,
+    255,
+    0
   ],
   "patternedglass:gray_patterned_glass_pane": [
     136,
@@ -1764,7 +6894,12 @@
     255,
     255
   ],
-  "garnished:sepia_window_pane": [
+  "chipped:fancy_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "chipped:tile_windowed_mangrove_door": [
     255,
     255,
     255
@@ -1779,53 +6914,43 @@
     102,
     187
   ],
-  "sundries:purple_wrought_iron_glass": [
-    170,
-    34,
-    255
-  ],
-  "quark:purple_framed_glass_pane": [
-    170,
-    34,
-    255
-  ],
-  "dd_mosaic_glass:glass_spark": [
-    255,
-    255,
-    255
-  ],
-  "truedarkness:empty_chiseled_glass": [
-    255,
-    255,
-    255
-  ],
-  "evilcraft:obscured_glass": [
-    255,
+  "enderio:clear_glass_d_blue": [
     0,
-    0
+    0,
+    255
+  ],
+  "chipped:vertical_leaded_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_em": [
+    255,
+    255,
+    255
   ],
   "railways:vermilion_single_pane_locometal_window": [
     255,
     255,
     255
   ],
-  "atlantis:red_patterned_sea_glass_button": [
+  "enderio:clear_glass_ep": [
     255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ep_pink": [
+    255,
+    102,
+    187
+  ],
+  "enderio:clear_glass_enm_black": [
+    0,
     0,
     0
   ],
-  "quark:dirty_glass_pane": [
+  "chipped:raster_magenta_stained_glass_pane": [
     255,
-    255,
-    255
-  ],
-  "patternedglass:white_patterned_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "xycraft_world:glass_viewer_rgb_blue": [
-    0,
     0,
     255
   ],
@@ -1833,16 +6958,6 @@
     255,
     0,
     0
-  ],
-  "atlantis:yellow_patterned_sea_glass_slab": [
-    255,
-    255,
-    0
-  ],
-  "shutter:glass_shutter": [
-    255,
-    255,
-    255
   ],
   "minecraft:lime_stained_glass": [
     187,
@@ -1874,44 +6989,19 @@
     255,
     255
   ],
-  "silentgems:black_diamond_glass": [
-    0,
-    0,
-    0
-  ],
-  "betternether:quartz_glass_orange": [
-    255,
-    102,
-    17
-  ],
-  "dd_mosaic_glass:glass_pane_lavender": [
-    255,
-    255,
-    255
+  "enderio:clear_glass_dna_gray": [
+    136,
+    136,
+    136
   ],
   "gtceu:cleanroom_glass": [
     255,
     255,
     255
   ],
-  "sundries:pastel_blue_wrought_iron_glass": [
+  "chipped:woven_blue_stained_glass": [
     0,
     0,
-    255
-  ],
-  "tconstruct:black_clear_stained_glass": [
-    0,
-    0,
-    0
-  ],
-  "quark:framed_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "pyrite:poisonous_framed_glass": [
-    255,
-    255,
     255
   ],
   "glassential:glass_redstone": [
@@ -1919,14 +7009,9 @@
     0,
     0
   ],
-  "atlantis:monochromatic_sea_glass_slab": [
-    153,
-    204,
-    204
-  ],
-  "patternedglass:cyan_patterned_glass": [
+  "chipped:tiled_blue_stained_glass_pane": [
     0,
-    255,
+    0,
     255
   ],
   "atlantis:pink_patterned_sea_glass_wall": [
@@ -1934,9 +7019,19 @@
     102,
     187
   ],
+  "enderio:clear_glass_nm_blue": [
+    0,
+    0,
+    255
+  ],
   "mo_glass:green_stained_glass_stairs": [
     0,
     255,
+    0
+  ],
+  "enderio:clear_glass_dm_red": [
+    255,
+    0,
     0
   ],
   "electrodynamics:glassaluminum": [
@@ -1944,15 +7039,10 @@
     255,
     255
   ],
-  "pyrite:dragon_framed_glass": [
+  "enderio:clear_glass_dm_lime": [
+    187,
     255,
-    255,
-    255
-  ],
-  "naturalist:crimson_froglass_pane": [
-    255,
-    255,
-    255
+    0
   ],
   "atlantis:cyan_sea_glass_slab": [
     0,
@@ -1969,45 +7059,15 @@
     255,
     255
   ],
-  "dd_mosaic_glass:glass_pane_branch": [
-    255,
-    255,
-    255
-  ],
-  "pneumaticcraft:pressure_chamber_glass": [
-    255,
-    255,
-    255
-  ],
-  "railways:vermilion_two_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
-  "mo_glass:light_blue_stained_glass_stairs": [
-    0,
-    0,
-    255
-  ],
   "storagedelight:glass_warped_cabinet": [
     255,
     255,
     255
   ],
-  "minecraft:light_gray_stained_glass": [
-    136,
-    136,
-    136
-  ],
   "glassential:glass_trapdoor": [
     255,
     255,
     255
-  ],
-  "dawnoftimebuilder:charred_spruce_glass_pane": [
-    255,
-    0,
-    0
   ],
   "dd_mosaic_glass:glass_poppy_base": [
     255,
@@ -2015,11 +7075,6 @@
     255
   ],
   "pyrite:rose_framed_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "pyrite:honey_framed_glass": [
     255,
     255,
     255
@@ -2033,6 +7088,11 @@
     0,
     0,
     255
+  ],
+  "enderio:clear_glass_em_gray": [
+    136,
+    136,
+    136
   ],
   "ae2:quartz_glass": [
     255,
@@ -2049,9 +7109,9 @@
     255,
     255
   ],
-  "truedarkness:chiseled_glass": [
-    255,
-    255,
+  "chipped:large_diamond_purple_stained_glass": [
+    170,
+    34,
     255
   ],
   "actuallyadditions:greenhouse_glass": [
@@ -2059,52 +7119,32 @@
     255,
     0
   ],
-  "railways:red_round_pane_locometal_window": [
-    255,
-    0,
-    0
+  "chipped:woven_brown_stained_glass_pane": [
+    136,
+    68,
+    17
   ],
-  "sundries:salmon_pink_stained_glass_pane": [
-    255,
-    102,
-    187
+  "chipped:ornate_brown_stained_glass_pane": [
+    136,
+    68,
+    17
   ],
-  "minecraft:red_stained_glass": [
-    255,
+  "enderio:clear_glass_na_cyan": [
     0,
-    0
+    255,
+    255
   ],
   "atlantis:blue_sea_glass_pressure_plate": [
     0,
     0,
     255
   ],
-  "glassential:lime_glass_door": [
-    187,
-    255,
-    0
-  ],
   "xycraft_world:glass_viewer_rgb_green": [
     0,
     255,
     0
   ],
-  "atlantis:white_sea_glass_stairs": [
-    255,
-    255,
-    255
-  ],
-  "pyrite:light_blue_framed_glass": [
-    0,
-    0,
-    255
-  ],
-  "ultramarine:song_wooden_window": [
-    255,
-    255,
-    255
-  ],
-  "railways:tuff_single_pane_locometal_window": [
+  "chipped:large_diamond_leaded_glass": [
     255,
     255,
     255
@@ -2119,19 +7159,9 @@
     0,
     0
   ],
-  "atlantis:sea_glass_slab": [
-    153,
-    204,
-    204
-  ],
   "sundries:red_wrought_iron_glass": [
     255,
     0,
-    0
-  ],
-  "railways:sea_green_four_pane_locometal_window": [
-    0,
-    255,
     0
   ],
   "atlantis:yellow_sea_glass_stairs": [
@@ -2143,26 +7173,6 @@
     255,
     0,
     0
-  ],
-  "experienceobelisk:whisperglass": [
-    255,
-    255,
-    255
-  ],
-  "tconstruct:cyan_clear_stained_glass_pane": [
-    0,
-    255,
-    255
-  ],
-  "immersiveengineering:slag_glass": [
-    255,
-    255,
-    255
-  ],
-  "railways:magenta_round_pane_locometal_window": [
-    255,
-    0,
-    255
   ],
   "railways:dripstone_four_pane_locometal_window": [
     255,
@@ -2189,19 +7199,34 @@
     255,
     255
   ],
+  "chipped:tiled_green_stained_glass_pane": [
+    0,
+    255,
+    0
+  ],
   "securitycraft:reinforced_light_blue_stained_glass": [
     0,
     0,
     255
+  ],
+  "chipped:small_lime_stained_glass_pane": [
+    187,
+    255,
+    0
   ],
   "atlantis:pink_sea_glass_slab": [
     255,
     102,
     187
   ],
-  "thermal:enderium_glass": [
+  "enderio:clear_glass": [
     255,
     255,
+    255
+  ],
+  "enderio:clear_glass_a_blue": [
+    0,
+    0,
     255
   ],
   "valhelsia_structures:magenta_metal_framed_glass_pane": [
@@ -2209,24 +7234,19 @@
     0,
     255
   ],
-  "sundries:tan_wrought_iron_glass": [
+  "enderio:clear_glass_dna_white": [
     255,
     255,
     255
   ],
-  "sundries:yellow_wrought_iron_glass_pane": [
-    255,
-    255,
-    0
-  ],
-  "xycraft_world:glass_viewer_rgb_lime": [
-    187,
+  "chipped:large_diamond_green_stained_glass_pane": [
+    0,
     255,
     0
   ],
-  "railways:white_round_pane_locometal_window": [
-    255,
-    255,
+  "chipped:small_light_blue_stained_glass_pane": [
+    0,
+    0,
     255
   ],
   "atlantis:light_gray_sea_glass_stairs": [
@@ -2239,10 +7259,10 @@
     136,
     136
   ],
-  "betternether:quartz_glass_framed_white": [
+  "chipped:oak_line_bared_glass_pane": [
     255,
-    255,
-    255
+    0,
+    0
   ],
   "opalescence:unpleasant_opal_glass": [
     255,
@@ -2259,20 +7279,10 @@
     136,
     136
   ],
-  "garnished:nut_window_pane": [
+  "chipped:oak_bordered_glass": [
     255,
-    255,
-    255
-  ],
-  "securitycraft:reinforced_lime_stained_glass": [
-    187,
-    255,
+    0,
     0
-  ],
-  "atlantis:light_blue_patterned_sea_glass_pressure_plate": [
-    0,
-    0,
-    255
   ],
   "truedarkness:chiseled_glass_3": [
     255,
@@ -2281,6 +7291,11 @@
   ],
   "truedarkness:chiseled_glass_2": [
     255,
+    255,
+    255
+  ],
+  "chipped:square_cyan_stained_glass": [
+    0,
     255,
     255
   ],
@@ -2294,15 +7309,20 @@
     255,
     255
   ],
-  "ultramarine:tall_royal_rosewood_window": [
-    255,
-    255,
-    255
+  "chipped:small_gray_stained_glass_pane": [
+    136,
+    136,
+    136
   ],
   "truedarkness:chiseled_glass_1": [
     255,
     255,
     255
+  ],
+  "enderio:clear_glass_dnp_light_gray": [
+    136,
+    136,
+    136
   ],
   "atlantis:blue_patterned_sea_glass": [
     0,
@@ -2313,6 +7333,11 @@
     255,
     255,
     255
+  ],
+  "chipped:square_light_gray_stained_glass_pane": [
+    136,
+    136,
+    136
   ],
   "pyrite:orange_framed_glass_pane": [
     255,
@@ -2349,16 +7374,6 @@
     0,
     0
   ],
-  "tconstruct:pink_clear_stained_glass": [
-    255,
-    102,
-    187
-  ],
-  "pyrite:poisonous_stained_glass_pane": [
-    255,
-    255,
-    255
-  ],
   "patternedglass:green_patterned_glass_pane": [
     0,
     255,
@@ -2369,17 +7384,17 @@
     255,
     255
   ],
-  "tconstruct:clear_glass_pane": [
+  "enderio:clear_glass_ea_green": [
+    0,
     255,
-    255,
+    0
+  ],
+  "enderio:clear_glass_dm_blue": [
+    0,
+    0,
     255
   ],
-  "tconstruct:molten_glass_fluid": [
-    255,
-    255,
-    255
-  ],
-  "glassential:light_blue_glass_door": [
+  "chipped:square_blue_stained_glass_pane": [
     0,
     0,
     255
@@ -2389,43 +7404,18 @@
     34,
     255
   ],
-  "tconstruct:magenta_clear_stained_glass": [
-    255,
+  "enderio:clear_glass_enp_black": [
     0,
-    255
+    0,
+    0
   ],
   "securitycraft:reinforced_magenta_stained_glass_pane": [
     255,
     0,
     255
   ],
-  "railways:pine_green_two_pane_locometal_window": [
-    0,
-    255,
-    0
-  ],
   "patternedglass:cyan_patterned_glass_pane": [
     0,
-    255,
-    255
-  ],
-  "atlantis:black_sea_glass_button": [
-    0,
-    0,
-    0
-  ],
-  "aetherworks:glass_aetherium_borderless": [
-    255,
-    255,
-    255
-  ],
-  "luminousblocks:luminous_white_stained_glass": [
-    255,
-    255,
-    255
-  ],
-  "create:dark_oak_window": [
-    255,
     255,
     255
   ],
@@ -2439,9 +7429,9 @@
     0,
     0
   ],
-  "valhelsia_structures:blue_metal_framed_glass_pane": [
+  "chipped:arched_cyan_stained_glass_pillar": [
     0,
-    0,
+    255,
     255
   ],
   "atlantis:lime_patterned_sea_glass_stairs": [
@@ -2459,16 +7449,6 @@
     204,
     204
   ],
-  "silentgems:topaz_glass": [
-    255,
-    255,
-    255
-  ],
-  "securitycraft:reinforced_brown_stained_glass": [
-    136,
-    68,
-    17
-  ],
   "atlantis:blue_sea_glass_wall": [
     0,
     0,
@@ -2484,22 +7464,7 @@
     255,
     255
   ],
-  "sundries:beige_wrought_iron_glass": [
-    255,
-    255,
-    255
-  ],
   "mekanismgenerators:reactor_glass": [
-    255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_pane_lily_base": [
-    255,
-    255,
-    255
-  ],
-  "fintastic:tinted_aquarium_glass": [
     255,
     255,
     255
@@ -2509,24 +7474,19 @@
     0,
     255
   ],
-  "minecraft:magenta_stained_glass": [
-    255,
+  "enderio:clear_glass_enm_green": [
     0,
-    255
+    255,
+    0
   ],
   "quark:orange_framed_glass": [
     255,
     102,
     17
   ],
-  "atlantis:light_blue_sea_glass_stairs": [
-    0,
-    0,
-    255
-  ],
-  "xycraft_world:glass_viewer_rgb_glowing_purple": [
-    170,
-    34,
+  "chipped:oak_large_diamond_glass_pane": [
+    255,
+    255,
     255
   ],
   "integratedterminals:chorus_glass": [
@@ -2534,28 +7494,23 @@
     255,
     255
   ],
-  "quark:purple_framed_glass": [
-    170,
-    34,
-    255
-  ],
-  "xycraft_world:glass_viewer_rgb_glowing_gray": [
-    136,
-    136,
-    136
-  ],
   "valhelsia_structures:lime_metal_framed_glass": [
     187,
     255,
     0
   ],
-  "atlantis:brown_sea_glass_button": [
-    136,
-    68,
-    17
-  ],
   "storagedelight:glass_dark_oak_cabinet": [
     255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_a_lime": [
+    187,
+    255,
+    0
+  ],
+  "chipped:small_cyan_stained_glass_pane": [
+    0,
     255,
     255
   ],
@@ -2564,20 +7519,15 @@
     255,
     0
   ],
-  "create:acacia_window": [
+  "chipped:oak_diamond_bordered_glass_pane": [
     255,
-    255,
-    255
+    0,
+    0
   ],
   "glassential:brown_glass_trapdoor": [
     136,
     68,
     17
-  ],
-  "landsoficaria:grainglass": [
-    255,
-    255,
-    255
   ],
   "sundries:light_gray_wrought_iron_glass_pane": [
     136,
@@ -2594,18 +7544,8 @@
     204,
     204
   ],
-  "seafoamsdyeableblocks:dyeable_stained_glass_pane": [
-    255,
-    255,
-    255
-  ],
   "glassential:glass_dark_ethereal_pane": [
     255,
-    255,
-    255
-  ],
-  "valhelsia_structures:cyan_metal_framed_glass": [
-    0,
     255,
     255
   ],
@@ -2615,11 +7555,6 @@
     255
   ],
   "dd_mosaic_glass:glass_pane_clover_base": [
-    255,
-    255,
-    255
-  ],
-  "truedarkness:metenite_glass_pane": [
     255,
     255,
     255
@@ -2634,16 +7569,6 @@
     0,
     255
   ],
-  "minecraft:glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "betternether:quartz_glass_framed_red": [
-    255,
-    0,
-    0
-  ],
   "pyrite:green_framed_glass_pane": [
     0,
     255,
@@ -2654,50 +7579,25 @@
     255,
     255
   ],
-  "aether:quicksoil_glass_pane": [
+  "enderio:clear_glass_red": [
     255,
-    255,
-    255
+    0,
+    0
   ],
-  "dd_mosaic_glass:glass_pane_star_base": [
+  "chipped:raster_orange_stained_glass_pane": [
     255,
-    255,
-    255
-  ],
-  "storagedelight:spruce_cabinet_with_glass_doors": [
-    255,
-    255,
-    255
+    102,
+    17
   ],
   "atlantis:black_patterned_sea_glass_button": [
     0,
     0,
     0
   ],
-  "bigreactors:reprocessorglass": [
-    255,
-    255,
-    255
-  ],
-  "silentgems:sapphire_glass": [
-    255,
-    255,
-    255
-  ],
-  "glassential:cyan_glass_trapdoor": [
-    0,
-    255,
-    255
-  ],
   "patternedglass:yellow_patterned_glass": [
     255,
     255,
     0
-  ],
-  "moreminecarts:chiseled_organic_glass_pane": [
-    255,
-    255,
-    255
   ],
   "pyrite:pink_framed_glass_pane": [
     255,
@@ -2709,14 +7609,19 @@
     255,
     255
   ],
-  "dd_mosaic_glass:glass_cherry_base": [
+  "chipped:oak_bared_glass": [
     255,
-    255,
-    255
-  ],
-  "atlantis:green_patterned_sea_glass_pressure_plate": [
     0,
-    255,
+    0
+  ],
+  "enderio:clear_glass_ena_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "chipped:small_black_stained_glass": [
+    0,
+    0,
     0
   ],
   "sundries:light_blue_wrought_iron_glass": [
@@ -2734,17 +7639,17 @@
     136,
     136
   ],
-  "dd_mosaic_glass:glass_clover_base": [
-    255,
-    255,
-    255
-  ],
   "atlantis:monochromatic_sea_glass": [
     153,
     204,
     204
   ],
   "luminousblocks:luminous_light_blue_stained_glass_pane": [
+    0,
+    0,
+    255
+  ],
+  "enderio:clear_glass_dnm_light_blue": [
     0,
     0,
     255
@@ -2759,27 +7664,12 @@
     255,
     255
   ],
-  "mo_glass:red_stained_glass_slab": [
-    255,
-    0,
-    0
-  ],
   "ror:glowing_cyan_stained_glass": [
     0,
     255,
     255
   ],
-  "create:dark_oak_window_pane": [
-    255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_pane_sun": [
-    255,
-    255,
-    255
-  ],
-  "minecraft:light_blue_stained_glass_pane": [
+  "chipped:vertical_stiped_light_blue_stained_glass": [
     0,
     0,
     255
@@ -2789,27 +7679,7 @@
     0,
     0
   ],
-  "valhelsia_structures:gray_metal_framed_glass": [
-    136,
-    136,
-    136
-  ],
-  "glassential:orange_glass_door": [
-    255,
-    102,
-    17
-  ],
-  "dd_mosaic_glass:glass_moon_base": [
-    255,
-    255,
-    255
-  ],
-  "mo_glass:white_stained_glass_slab": [
-    255,
-    255,
-    255
-  ],
-  "silentgems:moldavite_glass": [
+  "cyclic:terra_glass": [
     255,
     255,
     255
@@ -2824,14 +7694,9 @@
     102,
     17
   ],
-  "additional_lights:al_torch_glass": [
+  "chipped:ornate_magenta_stained_glass": [
     255,
-    255,
-    0
-  ],
-  "chimes:glass_bells": [
-    255,
-    255,
+    0,
     255
   ],
   "railways:dripstone_two_pane_locometal_window": [
@@ -2839,30 +7704,15 @@
     255,
     255
   ],
-  "tconstruct:clear_glass": [
-    255,
-    255,
-    255
-  ],
-  "railways:lime_two_pane_locometal_window": [
-    187,
-    255,
-    0
-  ],
-  "atlantis:sea_glass": [
-    153,
-    204,
-    204
-  ],
   "railways:green_single_pane_locometal_window": [
     0,
     255,
     0
   ],
-  "railways:brown_four_pane_locometal_window": [
-    136,
-    68,
-    17
+  "enderio:clear_glass_np_red": [
+    255,
+    0,
+    0
   ],
   "minecraft:tinted_glass": [
     255,
@@ -2874,6 +7724,11 @@
     136,
     136
   ],
+  "chipped:woven_yellow_stained_glass": [
+    255,
+    255,
+    0
+  ],
   "dd_mosaic_glass:glass_pane_heart_base": [
     255,
     255,
@@ -2883,26 +7738,6 @@
     255,
     102,
     187
-  ],
-  "moreminecarts:organic_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:yellow_patterned_sea_glass_button": [
-    255,
-    255,
-    0
-  ],
-  "dawnoftimebuilder:paper_wall_window": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:orange_patterned_sea_glass_stairs": [
-    255,
-    102,
-    17
   ],
   "create:framed_glass": [
     255,
@@ -2914,10 +7749,15 @@
     255,
     255
   ],
-  "tconstruct:scorched_glass_pane": [
+  "enderio:clear_glass_ena": [
     255,
     255,
     255
+  ],
+  "chipped:vertical_stiped_lime_stained_glass": [
+    187,
+    255,
+    0
   ],
   "xycraft_world:glass_viewer_rgb_glowing_green": [
     0,
@@ -2929,35 +7769,10 @@
     136,
     136
   ],
-  "railways:turquoise_two_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:lime_sea_glass_wall": [
-    187,
-    255,
-    0
-  ],
-  "betternether:quartz_glass_framed_purple": [
-    170,
-    34,
-    255
-  ],
-  "atlantis:multicolor_sea_glass_slab": [
-    153,
-    204,
-    204
-  ],
   "railways:pine_green_round_pane_locometal_window": [
     0,
     255,
     0
-  ],
-  "dd_mosaic_glass:glass_moon": [
-    255,
-    255,
-    255
   ],
   "atlantis:purple_patterned_sea_glass_stairs": [
     170,
@@ -2969,25 +7784,25 @@
     0,
     255
   ],
-  "sundries:pink_wrought_iron_glass": [
-    255,
-    102,
-    187
+  "chipped:raster_light_gray_stained_glass": [
+    136,
+    136,
+    136
   ],
-  "railways:white_four_pane_locometal_window": [
+  "chipped:small_blue_stained_glass": [
+    0,
+    0,
+    255
+  ],
+  "cyclic:glass_connected": [
     255,
     255,
     255
   ],
-  "valhelsia_structures:pink_metal_framed_glass_pane": [
-    255,
-    102,
-    187
-  ],
-  "create:bamboo_window": [
-    255,
-    255,
-    255
+  "chipped:ornate_black_stained_glass_pane": [
+    0,
+    0,
+    0
   ],
   "atlantis:brown_sea_glass_slab": [
     136,
@@ -2999,20 +7814,15 @@
     255,
     255
   ],
-  "railways:olive_green_two_pane_locometal_window": [
-    0,
-    255,
-    0
-  ],
   "atlantis:lime_patterned_sea_glass": [
     187,
     255,
     0
   ],
-  "railways:red_single_pane_locometal_window": [
-    255,
-    0,
-    0
+  "enderio:clear_glass_ena_purple": [
+    170,
+    34,
+    255
   ],
   "railways:granite_two_pane_locometal_window": [
     255,
@@ -3029,55 +7839,50 @@
     255,
     0
   ],
-  "atlantis:gray_patterned_sea_glass_button": [
-    136,
-    136,
-    136
+  "enderio:clear_glass_d_lime": [
+    187,
+    255,
+    0
   ],
   "thingamajigs:colored_glass": [
     255,
     0,
     0
   ],
-  "create:oak_window": [
+  "chipped:classic_windowed_jungle_trapdoor": [
     255,
     255,
     255
-  ],
-  "railways:lime_four_pane_locometal_window": [
-    187,
-    255,
-    0
   ],
   "atlantis:green_sea_glass_stairs": [
     0,
     255,
     0
   ],
-  "sundries:mint_stained_glass_pane": [
+  "enderio:clear_glass_enm": [
     255,
     255,
     255
+  ],
+  "chipped:vertical_stiped_black_stained_glass": [
+    0,
+    0,
+    0
   ],
   "silentgems:alexandrite_glass": [
     255,
     255,
     255
   ],
-  "dd_mosaic_glass:glass_holly_base": [
+  "enderio:clear_glass_enp": [
     255,
     255,
     255
   ],
-  "betternether:quartz_glass_pane_brown": [
-    136,
-    68,
-    17
-  ],
-  "blastcraft:carbonplatedwallingglass": [
+  "chipped:circular_green_stained_glass_pane": [
+    0,
     255,
-    255,
-    255
+    0
   ],
   "atlantis:light_gray_patterned_sea_glass_button": [
     136,
@@ -3089,11 +7894,6 @@
     0,
     0
   ],
-  "dawnoftimebuilder:green_painted_window": [
-    0,
-    255,
-    0
-  ],
   "luminousblocks:luminous_blue_stained_glass_pane": [
     0,
     0,
@@ -3103,21 +7903,6 @@
     0,
     255,
     0
-  ],
-  "railways:limestone_two_pane_locometal_window": [
-    187,
-    255,
-    0
-  ],
-  "dd_mosaic_glass:glass_heart_base": [
-    255,
-    255,
-    255
-  ],
-  "railways:brown_single_pane_locometal_window": [
-    136,
-    68,
-    17
   ],
   "dd_mosaic_glass:glass_redstone": [
     255,
@@ -3134,22 +7919,42 @@
     0,
     0
   ],
+  "enderio:clear_glass_da_purple": [
+    170,
+    34,
+    255
+  ],
+  "enderio:clear_glass_na_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_np_brown": [
+    136,
+    68,
+    17
+  ],
+  "enderio:clear_glass_ea": [
+    255,
+    255,
+    255
+  ],
   "bigreactors:fluidizerglass": [
     255,
     255,
     255
   ],
-  "atlantis:blue_patterned_sea_glass_slab": [
-    0,
-    0,
+  "framedblocks:framed_one_way_window": [
+    255,
+    255,
     255
   ],
-  "pyrite:brown_framed_glass_pane": [
-    136,
-    68,
-    17
+  "enderio:clear_glass_dm_pink": [
+    255,
+    102,
+    187
   ],
-  "framedblocks:framed_one_way_window": [
+  "chipped:windowed_warped_trapdoor": [
     255,
     255,
     255
@@ -3164,17 +7969,22 @@
     255,
     0
   ],
+  "enderio:clear_glass_dm": [
+    255,
+    255,
+    255
+  ],
   "atlantis:lime_sea_glass_pressure_plate": [
     187,
     255,
     0
   ],
-  "xycraft_world:glass_viewer_rgb_glowing_light_gray": [
+  "chipped:square_brown_stained_glass": [
     136,
-    136,
-    136
+    68,
+    17
   ],
-  "gildedingot:gilded_glass": [
+  "chipped:windowed_warped_door": [
     255,
     255,
     255
@@ -3184,48 +7994,68 @@
     68,
     17
   ],
-  "silentgems:ruby_glass": [
+  "enderio:clear_glass_dp": [
     255,
     255,
     255
+  ],
+  "chipped:large_diamond_orange_stained_glass": [
+    255,
+    102,
+    17
   ],
   "tconstruct:seared_glass_pane": [
     255,
     0,
     0
   ],
-  "railways:orange_single_pane_locometal_window": [
-    255,
-    102,
-    17
+  "enderio:clear_glass_dp_gray": [
+    136,
+    136,
+    136
   ],
   "nuclearcraft:accelerator_casing_glass": [
     255,
     255,
     255
   ],
+  "chipped:vertical_stiped_black_stained_glass_pane": [
+    0,
+    0,
+    0
+  ],
   "railways:turquoise_round_pane_locometal_window": [
     255,
     255,
     255
   ],
-  "railways:scorchia_round_pane_locometal_window": [
+  "enderio:clear_glass_ena_brown": [
+    136,
+    68,
+    17
+  ],
+  "enderio:clear_glass_da": [
     255,
     255,
     255
   ],
-  "railways:light_gray_round_pane_locometal_window": [
-    136,
-    136,
-    136
+  "enderio:clear_glass_nm_lime": [
+    187,
+    255,
+    0
+  ],
+  "enderio:clear_glass_dna_red": [
+    255,
+    0,
+    0
   ],
   "railways:two_pane_locometal_window": [
     255,
     255,
     255
   ],
-  "railways:single_pane_locometal_window": [
-    255,
+  "enderio:clear_glass_enm_cyan": [
+    0,
     255,
     255
   ],
@@ -3234,12 +8064,7 @@
     0,
     0
   ],
-  "railways:vermilion_four_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
-  "thermal_extra:shellite_glass": [
+  "chipped:large_diamond_white_stained_glass": [
     255,
     255,
     255
@@ -3249,29 +8074,14 @@
     0,
     0
   ],
-  "quark:cyan_framed_glass": [
-    0,
-    255,
-    255
-  ],
   "railways:cyan_single_pane_locometal_window": [
     0,
     255,
     255
   ],
-  "atlantis:pink_patterned_sea_glass_slab": [
-    255,
-    102,
-    187
-  ],
-  "atlantis:gray_patterned_sea_glass_slab": [
-    136,
-    136,
-    136
-  ],
-  "atlantis:magenta_sea_glass_pressure_plate": [
-    255,
+  "enderio:clear_glass_m_cyan": [
     0,
+    255,
     255
   ],
   "dd_mosaic_glass:glass_pane_violet": [
@@ -3279,30 +8089,20 @@
     255,
     255
   ],
-  "dd_mosaic_glass:glass_pane_clover": [
+  "chipped:woven_orange_stained_glass_pane": [
     255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_cherry": [
-    255,
-    255,
-    255
-  ],
-  "fintastic:aquarium_glass_pane": [
-    255,
-    255,
-    255
+    102,
+    17
   ],
   "ror:glowing_yellow_stained_glass_pane": [
     255,
     255,
     0
   ],
-  "tconstruct:white_clear_stained_glass": [
-    255,
-    255,
-    255
+  "enderio:clear_glass_m_brown": [
+    136,
+    68,
+    17
   ],
   "atlantis:pink_sea_glass_wall": [
     255,
@@ -3314,69 +8114,14 @@
     102,
     17
   ],
-  "railways:chartreuse_single_pane_locometal_window": [
+  "chipped:windowed_spruce_door": [
     255,
     255,
     255
-  ],
-  "glassential:gray_glass_trapdoor": [
-    136,
-    136,
-    136
-  ],
-  "dd_mosaic_glass:glass_pane_poppy": [
-    255,
-    255,
-    255
-  ],
-  "truedarkness:eridium_glass": [
-    255,
-    255,
-    255
-  ],
-  "railways:scorchia_two_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
-  "valhelsia_structures:light_blue_metal_framed_glass_pane": [
-    0,
-    0,
-    255
-  ],
-  "securitycraft:reinforced_red_stained_glass": [
-    255,
-    0,
-    0
-  ],
-  "betternether:quartz_glass_framed_pink": [
-    255,
-    102,
-    187
   ],
   "sundries:tan_stained_glass": [
     255,
     255,
-    255
-  ],
-  "quark:green_framed_glass_pane": [
-    0,
-    255,
-    0
-  ],
-  "patternedglass:light_gray_patterned_glass": [
-    136,
-    136,
-    136
-  ],
-  "silentgems:turquoise_glass": [
-    255,
-    255,
-    255
-  ],
-  "tconstruct:purple_clear_stained_glass_pane": [
-    170,
-    34,
     255
   ],
   "deepblue:aqua_glass_slab": [
@@ -3394,20 +8139,10 @@
     0,
     0
   ],
-  "blastcraft:glasspressureplate": [
-    255,
-    255,
-    255
-  ],
-  "railways:granite_round_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_holly": [
-    255,
-    255,
-    255
+  "chipped:raster_black_stained_glass": [
+    0,
+    0,
+    0
   ],
   "mo_glass:yellow_stained_glass_stairs": [
     255,
@@ -3419,22 +8154,12 @@
     255,
     255
   ],
-  "atlantis:red_sea_glass_stairs": [
-    255,
+  "chipped:large_diamond_cyan_stained_glass_pane": [
     0,
-    0
-  ],
-  "mo_glass:light_gray_stained_glass_stairs": [
-    136,
-    136,
-    136
-  ],
-  "dd_mosaic_glass:glass_pane_star": [
-    255,
     255,
     255
   ],
-  "mysticalagriculture:witherproof_glass": [
+  "dd_mosaic_glass:glass_pane_star": [
     255,
     255,
     255
@@ -3444,20 +8169,15 @@
     0,
     0
   ],
-  "atlantis:brown_sea_glass_wall": [
-    136,
-    68,
-    17
-  ],
-  "dd_mosaic_glass:glass_rose": [
-    255,
-    255,
-    255
-  ],
   "twilightforest:auroralized_glass": [
     255,
     255,
     255
+  ],
+  "enderio:clear_glass_d_gray": [
+    136,
+    136,
+    136
   ],
   "atlantis:yellow_sea_glass": [
     255,
@@ -3469,34 +8189,9 @@
     255,
     255
   ],
-  "truedarkness:chiseled_glass_pane_4": [
-    255,
-    255,
-    255
-  ],
-  "truedarkness:chiseled_glass_pane_3": [
-    255,
-    255,
-    255
-  ],
   "atlantis:light_blue_patterned_sea_glass_stairs": [
     0,
     0,
-    255
-  ],
-  "truedarkness:chiseled_glass_pane_2": [
-    255,
-    255,
-    255
-  ],
-  "truedarkness:chiseled_glass_pane_1": [
-    255,
-    255,
-    255
-  ],
-  "sundries:vermillion_stained_glass": [
-    255,
-    255,
     255
   ],
   "atlantis:multicolor_sea_glass_button": [
@@ -3509,11 +8204,6 @@
     255,
     255
   ],
-  "railways:sea_green_round_pane_locometal_window": [
-    0,
-    255,
-    0
-  ],
   "atlantis:red_patterned_sea_glass_stairs": [
     255,
     0,
@@ -3524,38 +8214,23 @@
     136,
     136
   ],
-  "tconstruct:seared_soul_glass": [
+  "enderio:clear_glass_na_black": [
+    0,
+    0,
+    0
+  ],
+  "chipped:small_red_stained_glass": [
     255,
     0,
     0
   ],
-  "tconstruct:scorched_tinted_glass": [
+  "chipped:circle_oak_glass": [
     255,
     255,
     255
   ],
-  "create:horizontal_framed_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "malum:wicked_spirited_glass": [
-    255,
-    255,
-    255
-  ],
-  "create:warped_window_pane": [
-    255,
-    255,
-    255
-  ],
-  "truedarkness:empty_chiseled_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "pyrite:honey_stained_glass": [
-    255,
+  "chipped:raster_cyan_stained_glass": [
+    0,
     255,
     255
   ],
@@ -3564,11 +8239,6 @@
     255,
     255
   ],
-  "atlantis:brown_patterned_sea_glass_stairs": [
-    136,
-    68,
-    17
-  ],
   "atlantis:green_patterned_sea_glass_stairs": [
     0,
     255,
@@ -3576,21 +8246,6 @@
   ],
   "valhelsia_structures:black_metal_framed_glass_pane": [
     0,
-    0,
-    0
-  ],
-  "patternedglass:red_patterned_glass_pane": [
-    255,
-    0,
-    0
-  ],
-  "atlantis:gray_patterned_sea_glass": [
-    136,
-    136,
-    136
-  ],
-  "atlantis:red_sea_glass": [
-    255,
     0,
     0
   ],
@@ -3604,28 +8259,23 @@
     255,
     255
   ],
-  "atlantis:blue_sea_glass": [
+  "enderio:clear_glass_nm_gray": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_d_purple": [
+    170,
+    34,
+    255
+  ],
+  "enderio:clear_glass_dna_blue": [
     0,
     0,
     255
   ],
-  "gobber2:gobber2_glass_end": [
-    255,
-    255,
-    255
-  ],
-  "quark:pink_framed_glass": [
-    255,
-    102,
-    187
-  ],
-  "dd_mosaic_glass:glass_pane_cherry": [
-    255,
-    255,
-    255
-  ],
-  "silentgems:rose_quartz_glass": [
-    255,
+  "enderio:clear_glass_cyan": [
+    0,
     255,
     255
   ],
@@ -3634,15 +8284,10 @@
     255,
     255
   ],
-  "atlantis:white_patterned_sea_glass_button": [
-    255,
+  "enderio:clear_glass_e_cyan": [
+    0,
     255,
     255
-  ],
-  "xycraft_world:glass_viewer_rgb_gray": [
-    136,
-    136,
-    136
   ],
   "railways:purple_two_pane_locometal_window": [
     170,
@@ -3654,14 +8299,14 @@
     0,
     0
   ],
-  "sundries:blue_wrought_iron_glass_pane": [
+  "chipped:woven_green_stained_glass_pane": [
     0,
-    0,
-    255
+    255,
+    0
   ],
-  "minecraft:blue_stained_glass_pane": [
-    0,
-    0,
+  "chipped:small_diamond_leaded_glass": [
+    255,
+    255,
     255
   ],
   "minecraft:purple_stained_glass": [
@@ -3689,19 +8334,9 @@
     68,
     17
   ],
-  "pyrite:glow_framed_glass_pane": [
-    255,
-    255,
-    255
-  ],
   "atlantis:magenta_sea_glass_button": [
     255,
     0,
-    255
-  ],
-  "create:tiled_glass": [
-    255,
-    255,
     255
   ],
   "xycraft_world:glass_viewer_rgb_orange": [
@@ -3709,50 +8344,30 @@
     102,
     17
   ],
-  "pyrite:black_framed_glass_pane": [
-    0,
-    0,
-    0
-  ],
-  "atlantis:purple_patterned_sea_glass_pressure_plate": [
-    170,
-    34,
+  "enderio:clear_glass_dp_white": [
+    255,
+    255,
     255
   ],
-  "railways:blue_two_pane_locometal_window": [
-    0,
-    0,
-    255
+  "enderio:clear_glass_dnm_orange": [
+    255,
+    102,
+    17
   ],
   "opalescence:unpleasant_opal_glass_pane": [
     255,
     255,
     255
   ],
-  "sundries:magenta_wrought_iron_glass_pane": [
+  "enderio:clear_glass_dnp_pink": [
     255,
-    0,
-    255
-  ],
-  "dd_mosaic_glass:glass_pane_daisy": [
-    255,
-    255,
-    255
-  ],
-  "railways:chartreuse_two_pane_locometal_window": [
-    255,
-    255,
-    255
+    102,
+    187
   ],
   "xycraft_world:glass_viewer_glowing_clear": [
     255,
     255,
     255
-  ],
-  "securitycraft:reinforced_orange_stained_glass_pane": [
-    255,
-    102,
-    17
   ],
   "atlantis:light_blue_patterned_sea_glass": [
     0,
@@ -3764,27 +8379,37 @@
     34,
     255
   ],
-  "thermal_extra:dragonsteel_glass": [
-    255,
-    255,
-    255
+  "chipped:woven_black_stained_glass_pane": [
+    0,
+    0,
+    0
   ],
   "atlantis:brown_patterned_sea_glass": [
     136,
     68,
     17
   ],
-  "pyrite:orange_framed_glass": [
-    255,
-    102,
+  "chipped:circular_brown_stained_glass_pane": [
+    136,
+    68,
     17
+  ],
+  "chipped:ornate_light_blue_stained_glass": [
+    0,
+    0,
+    255
   ],
   "glassential:glass_dark_ethereal": [
     255,
     255,
     255
   ],
-  "seafoamsdyeableblocks:dyeable_stained_glass": [
+  "chipped:circular_magenta_stained_glass_pane": [
+    255,
+    0,
+    255
+  ],
+  "chipped:ornate_white_stained_glass": [
     255,
     255,
     255
@@ -3804,22 +8429,12 @@
     0,
     0
   ],
-  "atlantis:monochromatic_sea_glass_button": [
-    153,
-    204,
-    204
+  "chipped:fancy_orange_stained_glass": [
+    255,
+    102,
+    17
   ],
   "securitycraft:reinforced_tinted_glass": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:purple_patterned_sea_glass": [
-    170,
-    34,
-    255
-  ],
-  "fintastic:tinted_infernal_aquarium_glass": [
     255,
     255,
     255
@@ -3834,29 +8449,24 @@
     255,
     255
   ],
-  "railways:magenta_four_pane_locometal_window": [
-    255,
-    0,
-    255
-  ],
   "malum:earthen_spirited_glass": [
     255,
     255,
     255
   ],
-  "minecraft:blue_stained_glass": [
-    0,
-    0,
+  "chipped:windowed_crimson_door": [
+    255,
+    255,
     255
+  ],
+  "chipped:ornate_black_stained_glass": [
+    0,
+    0,
+    0
   ],
   "atlantis:cyan_sea_glass_pressure_plate": [
     0,
     255,
-    255
-  ],
-  "atlantis:purple_patterned_sea_glass_slab": [
-    170,
-    34,
     255
   ],
   "atlantis:white_patterned_sea_glass_slab": [
@@ -3869,44 +8479,29 @@
     255,
     255
   ],
-  "landsoficaria:horizontal_grainglass_pane": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:magenta_patterned_sea_glass_pressure_plate": [
-    255,
+  "chipped:square_black_stained_glass": [
     0,
-    255
-  ],
-  "railways:red_four_pane_locometal_window": [
-    255,
     0,
     0
   ],
-  "atlantis:green_sea_glass_slab": [
-    0,
+  "chipped:clear_leaded_glass_pane": [
     255,
-    0
+    255,
+    255
   ],
   "tconstruct:brown_clear_stained_glass_pane": [
     136,
     68,
     17
   ],
+  "enderio:clear_glass_enm_blue": [
+    0,
+    0,
+    255
+  ],
   "sundries:green_wrought_iron_glass": [
     0,
     255,
-    0
-  ],
-  "ror:glowing_red_stained_glass": [
-    255,
-    0,
-    0
-  ],
-  "atlantis:black_sea_glass": [
-    0,
-    0,
     0
   ],
   "silentgems:carnelian_glass": [
@@ -3914,32 +8509,22 @@
     255,
     255
   ],
-  "sundries:salmon_pink_wrought_iron_glass": [
-    255,
-    102,
-    187
-  ],
   "railways:purple_four_pane_locometal_window": [
     170,
     34,
     255
+  ],
+  "chipped:small_brown_stained_glass_pane": [
+    136,
+    68,
+    17
   ],
   "mo_glass:black_stained_glass_slab": [
     0,
     0,
     0
   ],
-  "atlantis:light_gray_sea_glass_wall": [
-    136,
-    136,
-    136
-  ],
   "create:mangrove_window": [
-    255,
-    255,
-    255
-  ],
-  "pyrite:white_framed_glass": [
     255,
     255,
     255
@@ -3964,27 +8549,12 @@
     255,
     255
   ],
-  "thermal_extra:soul_infused_glass": [
-    0,
-    0,
-    255
-  ],
   "minecraft:brown_stained_glass": [
     136,
     68,
     17
   ],
-  "create:horizontal_framed_glass": [
-    255,
-    255,
-    255
-  ],
   "glassential:glass_light_pane": [
-    255,
-    255,
-    255
-  ],
-  "storagedelight:glass_birch_cabinet": [
     255,
     255,
     255
@@ -3999,16 +8569,6 @@
     255,
     255
   ],
-  "minecraft:glass": [
-    255,
-    255,
-    255
-  ],
-  "securitycraft:reinforced_glass_pane": [
-    255,
-    255,
-    255
-  ],
   "atlantis:lime_patterned_sea_glass_button": [
     187,
     255,
@@ -4019,25 +8579,35 @@
     0,
     0
   ],
+  "chipped:tiled_pink_stained_glass": [
+    255,
+    102,
+    187
+  ],
   "sundries:white_wrought_iron_glass": [
     255,
     255,
     255
   ],
-  "atlantis:light_blue_sea_glass_pressure_plate": [
-    0,
-    0,
-    255
-  ],
-  "botania:elf_glass_pane": [
-    255,
-    255,
+  "enderio:clear_glass_na_purple": [
+    170,
+    34,
     255
   ],
   "atlantis:green_sea_glass_pressure_plate": [
     0,
     255,
     0
+  ],
+  "enderio:clear_glass_light_blue": [
+    0,
+    0,
+    255
+  ],
+  "enderio:clear_glass_dm_gray": [
+    136,
+    136,
+    136
   ],
   "pyrite:gray_framed_glass_pane": [
     136,
@@ -4059,35 +8629,20 @@
     255,
     255
   ],
-  "patternedglass:blue_patterned_glass_pane": [
+  "enderio:clear_glass_da_magenta": [
+    255,
+    0,
+    255
+  ],
+  "enderio:clear_glass_enp_cyan": [
+    0,
+    255,
+    255
+  ],
+  "enderio:clear_glass_ep_light_blue": [
     0,
     0,
     255
-  ],
-  "dd_mosaic_glass:glass_pane_fleur": [
-    255,
-    255,
-    255
-  ],
-  "xycraft_world:glass_viewer_rgb_glowing_red": [
-    255,
-    0,
-    0
-  ],
-  "xycraft_world:glass_viewer_rgb_purple": [
-    170,
-    34,
-    255
-  ],
-  "fintastic:tinted_sugar_aquarium_glass": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:yellow_sea_glass_wall": [
-    255,
-    255,
-    0
   ],
   "quark:black_framed_glass": [
     0,
@@ -4104,20 +8659,10 @@
     255,
     255
   ],
-  "atlantis:black_sea_glass_stairs": [
+  "chipped:circular_light_blue_stained_glass_pane": [
     0,
     0,
-    0
-  ],
-  "quark:light_gray_framed_glass_pane": [
-    136,
-    136,
-    136
-  ],
-  "patternedglass:gray_patterned_glass": [
-    136,
-    136,
-    136
+    255
   ],
   "luminousblocks:luminous_cyan_stained_glass": [
     0,
@@ -4134,11 +8679,6 @@
     0,
     255
   ],
-  "xycraft_world:glass_viewer_rgb_red": [
-    255,
-    0,
-    0
-  ],
   "xycraft_world:glass_viewer_reinforced": [
     255,
     255,
@@ -4154,25 +8694,15 @@
     255,
     255
   ],
-  "shutter:interaction_shutter_glass": [
-    255,
-    255,
-    255
-  ],
-  "sundries:green_wrought_iron_glass_pane": [
-    0,
-    255,
-    0
-  ],
-  "pyrite:rose_framed_glass": [
-    255,
-    255,
-    255
-  ],
   "mo_glass:lime_stained_glass_stairs": [
     187,
     255,
     0
+  ],
+  "chipped:arched_purple_stained_glass_pane_pillar": [
+    170,
+    34,
+    255
   ],
   "xycraft_world:glass_viewer_rgb_brown": [
     136,
@@ -4194,15 +8724,20 @@
     255,
     255
   ],
-  "sundries:lime_wrought_iron_glass_pane": [
-    187,
+  "enderio:clear_glass_na_brown": [
+    136,
+    68,
+    17
+  ],
+  "chipped:raster_green_stained_glass_pane": [
+    0,
     255,
     0
   ],
-  "atlantis:purple_sea_glass_stairs": [
-    170,
-    34,
-    255
+  "enderio:clear_glass_da_brown": [
+    136,
+    68,
+    17
   ],
   "glassential:glass_dark_ethereal_reverse_pane": [
     255,
@@ -4214,22 +8749,7 @@
     0,
     255
   ],
-  "glassential:purple_glass_trapdoor": [
-    170,
-    34,
-    255
-  ],
-  "quark:brown_framed_glass_pane": [
-    136,
-    68,
-    17
-  ],
-  "hutoslib:display_glass": [
-    255,
-    255,
-    255
-  ],
-  "railways:diorite_four_pane_locometal_window": [
+  "enderio:clear_glass_da_white": [
     255,
     255,
     255
@@ -4254,10 +8774,20 @@
     102,
     187
   ],
+  "enderio:clear_glass_a_orange": [
+    255,
+    102,
+    17
+  ],
   "betternether:quartz_glass_light_gray": [
     136,
     136,
     136
+  ],
+  "chipped:small_orange_stained_glass": [
+    255,
+    102,
+    17
   ],
   "minecraft:pink_stained_glass_pane": [
     255,
@@ -4269,7 +8799,17 @@
     0,
     255
   ],
-  "atlantis:lime_sea_glass_slab": [
+  "enderio:clear_glass_np_black": [
+    0,
+    0,
+    0
+  ],
+  "enderio:clear_glass_nm_magenta": [
+    255,
+    0,
+    255
+  ],
+  "chipped:large_diamond_lime_stained_glass": [
     187,
     255,
     0
@@ -4279,17 +8819,12 @@
     136,
     136
   ],
-  "mo_glass:green_stained_glass_slab": [
-    0,
-    255,
-    0
+  "chipped:small_light_gray_stained_glass_pane": [
+    136,
+    136,
+    136
   ],
   "silentgems:citrine_glass": [
-    255,
-    255,
-    255
-  ],
-  "undergarden:sediment_glass": [
     255,
     255,
     255
@@ -4299,20 +8834,20 @@
     0,
     255
   ],
-  "securitycraft:reinforced_blue_stained_glass_pane": [
-    0,
-    0,
-    255
-  ],
-  "sundries:vermillion_stained_glass_pane": [
+  "enderio:clear_glass_enm_pink": [
     255,
-    255,
-    255
+    102,
+    187
   ],
   "sundries:forest_green_stained_glass": [
     0,
     255,
     0
+  ],
+  "enderio:clear_glass_dna_pink": [
+    255,
+    102,
+    187
   ],
   "dd_mosaic_glass:glass_pane_fleur_base": [
     255,
@@ -4329,27 +8864,12 @@
     255,
     255
   ],
-  "xycraft_world:glass_viewer_rgb_glowing_white": [
-    255,
-    255,
-    255
-  ],
-  "tconstruct:green_clear_stained_glass_pane": [
-    0,
-    255,
-    0
-  ],
   "atlantis:gray_patterned_sea_glass_wall": [
     136,
     136,
     136
   ],
-  "xycraft_world:glass_viewer_glowing": [
-    255,
-    255,
-    255
-  ],
-  "securitycraft:reinforced_blue_stained_glass": [
+  "enderio:clear_glass_ena_light_blue": [
     0,
     0,
     255
@@ -4363,11 +8883,6 @@
     255,
     102,
     187
-  ],
-  "luminousblocks:luminous_red_stained_glass_pane": [
-    255,
-    0,
-    0
   ],
   "betterblockz:tintedglass_blockz_0": [
     255,
@@ -4384,11 +8899,6 @@
     255,
     255
   ],
-  "luminousblocks:luminous_brown_stained_glass": [
-    136,
-    68,
-    17
-  ],
   "betterblockz:tintedglass_blockz_5": [
     255,
     255,
@@ -4404,6 +8914,11 @@
     255,
     255
   ],
+  "chipped:arched_leaded_glass_pane_pillar": [
+    255,
+    255,
+    255
+  ],
   "securitycraft:reinforced_white_stained_glass": [
     255,
     255,
@@ -4414,35 +8929,25 @@
     255,
     255
   ],
-  "pyrite:glow_stained_glass": [
+  "enderio:clear_glass_ep_lime": [
+    187,
     255,
-    255,
-    255
+    0
   ],
   "atlantis:black_patterned_sea_glass": [
     0,
     0,
     0
   ],
-  "sundries:pastel_blue_stained_glass_pane": [
-    0,
-    0,
-    255
-  ],
   "create:framed_glass_trapdoor": [
     255,
     255,
     255
   ],
-  "atlantis:gray_patterned_sea_glass_pressure_plate": [
-    136,
-    136,
-    136
-  ],
-  "securitycraft:reinforced_yellow_stained_glass_pane": [
-    255,
-    255,
-    0
+  "chipped:tiled_blue_stained_glass": [
+    0,
+    0,
+    255
   ],
   "betterblockz:tintedglass_blockz_9": [
     255,
@@ -4454,9 +8959,9 @@
     255,
     255
   ],
-  "dd_mosaic_glass:glass_pane_daisy_base": [
-    255,
-    255,
+  "chipped:square_light_blue_stained_glass": [
+    0,
+    0,
     255
   ],
   "atlantis:red_patterned_sea_glass_pressure_plate": [
@@ -4464,50 +8969,30 @@
     0,
     0
   ],
-  "luminousblocks:luminous_blue_stained_glass": [
-    0,
-    0,
-    255
-  ],
-  "railways:turquoise_four_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
-  "silentgems:heliodor_glass": [
-    255,
-    255,
-    255
-  ],
-  "railways:limestone_round_pane_locometal_window": [
-    187,
-    255,
-    0
-  ],
   "sundries:navy_stained_glass": [
     255,
     255,
     255
   ],
-  "atlantis:blue_sea_glass_slab": [
+  "chipped:fancy_green_stained_glass": [
     0,
-    0,
-    255
-  ],
-  "atlantis:brown_sea_glass_pressure_plate": [
-    136,
-    68,
-    17
+    255,
+    0
   ],
   "nuclearscience:electromagneticglass": [
     255,
     255,
     255
   ],
-  "create:mangrove_window_pane": [
+  "chipped:square_oak_glass": [
     255,
     255,
     255
+  ],
+  "chipped:tiled_light_gray_stained_glass_pane": [
+    136,
+    136,
+    136
   ],
   "xycraft_world:glass_viewer_rgb_magenta": [
     255,
@@ -4519,39 +9004,24 @@
     255,
     0
   ],
-  "sundries:vermillion_wrought_iron_glass_pane": [
-    255,
-    255,
-    255
-  ],
   "betternether:quartz_glass_pane_black": [
     0,
     0,
     0
-  ],
-  "pyrite:dragon_stained_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "tconstruct:light_blue_clear_stained_glass": [
-    0,
-    0,
-    255
   ],
   "atlantis:magenta_patterned_sea_glass_wall": [
     255,
     0,
     255
   ],
+  "enderio:clear_glass_enp_brown": [
+    136,
+    68,
+    17
+  ],
   "silentgems:peridot_glass": [
     255,
     255,
-    255
-  ],
-  "pyrite:blue_framed_glass": [
-    0,
-    0,
     255
   ],
   "luminousblocks:luminous_brown_stained_glass_pane": [
@@ -4559,18 +9029,13 @@
     68,
     17
   ],
-  "fintastic:aquarium_glass": [
-    255,
-    255,
+  "enderio:clear_glass_m_light_blue": [
+    0,
+    0,
     255
   ],
-  "atlantis:orange_sea_glass_pressure_plate": [
+  "fintastic:aquarium_glass": [
     255,
-    102,
-    17
-  ],
-  "atlantis:cyan_sea_glass_button": [
-    0,
     255,
     255
   ],
@@ -4584,43 +9049,18 @@
     255,
     255
   ],
-  "create:industrial_iron_window_pane": [
-    255,
-    255,
-    255
-  ],
-  "supplementaries:hourglass": [
-    255,
-    255,
-    255
-  ],
-  "sundries:lavender_wrought_iron_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "betternether:blue_obsidian_glass": [
+  "chipped:circular_light_blue_stained_glass": [
     0,
     0,
     255
   ],
-  "betternether:quartz_glass_framed_magenta": [
+  "chipped:oak_snowflake_glass_pane": [
     255,
-    0,
+    255,
     255
   ],
-  "atlantis:light_gray_sea_glass": [
-    136,
-    136,
-    136
-  ],
-  "glassential:glass_redstone_pane": [
-    255,
+  "chipped:raster_cyan_stained_glass_pane": [
     0,
-    0
-  ],
-  "quark:framed_glass": [
-    255,
     255,
     255
   ],
@@ -4629,75 +9069,40 @@
     255,
     255
   ],
-  "railways:four_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
-  "mo_glass:cyan_stained_glass_stairs": [
-    0,
-    255,
-    255
-  ],
-  "xycraft_world:glass_viewer_rgb_light_blue": [
-    0,
-    0,
-    255
-  ],
-  "atlantis:lime_sea_glass": [
-    187,
-    255,
-    0
-  ],
-  "create:acacia_window_pane": [
-    255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_pane_moon_base": [
-    255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_pane_heart": [
-    255,
-    255,
-    255
-  ],
-  "voidminers:glass_panel": [
-    255,
-    255,
-    255
-  ],
-  "create:weathered_iron_window_pane": [
-    255,
-    0,
-    0
-  ],
   "glassential:orange_glass_trapdoor": [
     255,
     102,
     17
+  ],
+  "chipped:large_diamond_gray_stained_glass": [
+    136,
+    136,
+    136
   ],
   "atlantis:white_patterned_sea_glass_pressure_plate": [
     255,
     255,
     255
   ],
-  "moreminecarts:organic_glass": [
-    255,
-    255,
-    255
+  "chipped:square_brown_stained_glass_pane": [
+    136,
+    68,
+    17
   ],
-  "sundries:navy_wrought_iron_glass_pane": [
+  "enderio:clear_glass_dm_orange": [
     255,
-    255,
-    255
+    102,
+    17
   ],
   "atlantis:black_sea_glass_slab": [
     0,
     0,
     0
+  ],
+  "enderio:clear_glass_dnp_purple": [
+    170,
+    34,
+    255
   ],
   "securitycraft:reinforced_purple_stained_glass": [
     170,
@@ -4708,16 +9113,6 @@
     255,
     255,
     255
-  ],
-  "pyrite:purple_framed_glass_pane": [
-    170,
-    34,
-    255
-  ],
-  "mo_glass:orange_stained_glass_stairs": [
-    255,
-    102,
-    17
   ],
   "minecraft:yellow_stained_glass": [
     255,
@@ -4733,11 +9128,6 @@
     255,
     102,
     187
-  ],
-  "thermal:obsidian_glass": [
-    255,
-    255,
-    255
   ],
   "botania:mana_glass_pane": [
     255,
@@ -4764,24 +9154,34 @@
     0,
     0
   ],
+  "chipped:raster_magenta_stained_glass": [
+    255,
+    0,
+    255
+  ],
   "glassential:red_glass_trapdoor": [
     255,
     0,
     0
   ],
-  "glassential:green_glass_door": [
-    0,
+  "chipped:woven_white_stained_glass_pane": [
     255,
-    0
+    255,
+    255
   ],
   "tconstruct:light_blue_clear_stained_glass_pane": [
     0,
     0,
     255
   ],
-  "atlantis:purple_sea_glass_button": [
-    170,
-    34,
+  "enderio:clear_glass_enm_magenta": [
+    255,
+    0,
+    255
+  ],
+  "enderio:clear_glass_ep_blue": [
+    0,
+    0,
     255
   ],
   "mo_glass:purple_stained_glass_slab": [
@@ -4789,30 +9189,35 @@
     34,
     255
   ],
-  "landsoficaria:silkglass_pane": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:yellow_patterned_sea_glass_wall": [
+  "enderio:clear_glass_ep_yellow": [
     255,
     255,
     0
+  ],
+  "enderio:clear_glass_dna_yellow": [
+    255,
+    255,
+    0
+  ],
+  "enderio:clear_glass_na_red": [
+    255,
+    0,
+    0
+  ],
+  "enderio:clear_glass_np_light_blue": [
+    0,
+    0,
+    255
   ],
   "minecraft:cyan_stained_glass_pane": [
     0,
     255,
     255
   ],
-  "naturalist:verdant_froglass_pane": [
+  "chipped:small_pink_stained_glass": [
     255,
-    255,
-    255
-  ],
-  "malum:aerial_spirited_glass": [
-    255,
-    255,
-    255
+    102,
+    187
   ],
   "minecraft:gray_stained_glass": [
     136,
@@ -4824,79 +9229,44 @@
     255,
     255
   ],
-  "atlantis:blue_sea_glass_button": [
-    0,
-    0,
-    255
+  "chipped:woven_lime_stained_glass_pane": [
+    187,
+    255,
+    0
   ],
-  "dd_mosaic_glass:glass_pane_sun_base": [
-    255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_pane_spark_base": [
-    255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_pane_poppy_base": [
-    255,
-    255,
-    255
-  ],
-  "immersiveengineering:insulating_glass": [
-    255,
-    255,
-    255
-  ],
-  "railways:cyan_four_pane_locometal_window": [
-    0,
-    255,
-    255
+  "chipped:woven_light_gray_stained_glass": [
+    136,
+    136,
+    136
   ],
   "patternedglass:light_blue_patterned_glass": [
     0,
     0,
     255
   ],
-  "naturalist:azure_froglass_pane": [
+  "enderio:clear_glass_dm_green": [
+    0,
+    255,
+    0
+  ],
+  "chipped:classic_windowed_spruce_trapdoor": [
     255,
     255,
     255
   ],
-  "glassential:brown_glass_door": [
-    136,
-    68,
-    17
-  ],
-  "escalated:glass_walkway_handrail": [
-    255,
-    255,
-    255
-  ],
-  "betternether:quartz_glass_framed_cyan": [
+  "chipped:vertical_stiped_cyan_stained_glass_pane": [
     0,
     255,
     255
   ],
-  "betternether:quartz_glass_pane_orange": [
-    255,
-    102,
+  "chipped:fancy_brown_stained_glass": [
+    136,
+    68,
     17
   ],
   "luminousblocks:luminous_light_blue_stained_glass": [
     0,
     0,
-    255
-  ],
-  "sundries:light_blue_wrought_iron_glass_pane": [
-    0,
-    0,
-    255
-  ],
-  "tflostblocks:auroralized_glass_pane": [
-    255,
-    255,
     255
   ],
   "silentgems:ammolite_glass": [
@@ -4909,10 +9279,10 @@
     0,
     255
   ],
-  "luminousblocks:luminous_lime_stained_glass_pane": [
-    187,
+  "enderio:clear_glass_dp_magenta": [
     255,
-    0
+    0,
+    255
   ],
   "atlantis:lime_patterned_sea_glass_wall": [
     187,
@@ -4924,50 +9294,30 @@
     255,
     255
   ],
-  "allthecompressed:glass_2x": [
-    255,
-    255,
-    255
-  ],
   "pyrite:rose_stained_glass": [
     255,
     255,
     255
   ],
-  "atlantis:orange_sea_glass_button": [
-    255,
-    102,
-    17
-  ],
-  "railways:dripstone_single_pane_locometal_window": [
+  "chipped:oak_horizontal_lined_glass_pane": [
     255,
     255,
     255
   ],
-  "opalescence:moonlit_opal_glass_pane": [
+  "chipped:glass_bamboo_door": [
     255,
     255,
     255
   ],
-  "opalescence:opal_glass": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:yellow_patterned_sea_glass": [
-    255,
-    255,
-    0
+  "enderio:clear_glass_enp_light_gray": [
+    136,
+    136,
+    136
   ],
   "railways:gray_four_pane_locometal_window": [
     136,
     136,
     136
-  ],
-  "tconstruct:green_clear_stained_glass": [
-    0,
-    255,
-    0
   ],
   "bloodyhell:glowing_crystal_glass_block": [
     255,
@@ -4979,25 +9329,25 @@
     255,
     255
   ],
-  "dd_mosaic_glass:glass_sun_base": [
+  "enderio:clear_glass_dm_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_d_yellow": [
     255,
     255,
-    255
+    0
   ],
   "mo_glass:cyan_stained_glass_slab": [
     0,
     255,
     255
   ],
-  "sundries:mint_wrought_iron_glass": [
-    255,
-    255,
-    255
-  ],
-  "minecraft:orange_stained_glass": [
-    255,
-    102,
-    17
+  "chipped:tiled_black_stained_glass": [
+    0,
+    0,
+    0
   ],
   "atlantis:cyan_patterned_sea_glass_pressure_plate": [
     0,
@@ -5009,30 +9359,20 @@
     255,
     255
   ],
-  "atlantis:black_sea_glass_wall": [
-    0,
-    0,
-    0
-  ],
-  "glassential:cyan_glass_door": [
-    0,
-    255,
-    255
-  ],
   "atlantis:light_blue_patterned_sea_glass_button": [
     0,
     0,
     255
   ],
-  "allthecompressed:glass_3x": [
-    255,
-    255,
-    255
+  "chipped:vertical_stiped_light_gray_stained_glass_pane": [
+    136,
+    136,
+    136
   ],
-  "patternedglass:pink_patterned_glass_pane": [
-    255,
-    102,
-    187
+  "chipped:woven_purple_stained_glass": [
+    170,
+    34,
+    255
   ],
   "betternether:obsidian_glass": [
     255,
@@ -5044,22 +9384,7 @@
     34,
     255
   ],
-  "railways:turquoise_single_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
   "railways:vermilion_round_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
-  "betternether:quartz_glass_cyan": [
-    0,
-    255,
-    255
-  ],
-  "pyrite:dragon_framed_glass_pane": [
     255,
     255,
     255
@@ -5069,40 +9394,25 @@
     102,
     187
   ],
-  "atlantis:white_sea_glass": [
-    255,
-    255,
-    255
-  ],
   "atlantis:green_sea_glass_wall": [
     0,
     255,
     0
   ],
-  "valhelsia_structures:lime_metal_framed_glass_pane": [
-    187,
-    255,
-    0
-  ],
-  "xycraft_world:glass_viewer_phantom": [
-    255,
+  "enderio:clear_glass_dnp_cyan": [
+    0,
     255,
     255
-  ],
-  "atlantis:black_sea_glass_pressure_plate": [
-    0,
-    0,
-    0
-  ],
-  "atlantis:red_sea_glass_button": [
-    255,
-    0,
-    0
   ],
   "sundries:blue_wrought_iron_glass": [
     0,
     0,
     255
+  ],
+  "enderio:clear_glass_e_pink": [
+    255,
+    102,
+    187
   ],
   "pyrite:star_stained_glass": [
     255,
@@ -5114,11 +9424,6 @@
     255,
     0
   ],
-  "sundries:wrought_iron_glass_pane": [
-    255,
-    255,
-    255
-  ],
   "mo_glass:blue_stained_glass_stairs": [
     0,
     0,
@@ -5129,14 +9434,9 @@
     102,
     187
   ],
-  "betternether:quartz_glass_framed_pane": [
-    255,
-    255,
-    255
-  ],
-  "glassential:yellow_glass_trapdoor": [
-    255,
-    255,
+  "chipped:large_diamond_black_stained_glass": [
+    0,
+    0,
     0
   ],
   "pyrite:yellow_framed_glass": [
@@ -5144,35 +9444,40 @@
     255,
     0
   ],
-  "fintastic:radon_aquarium_glass": [
+  "chipped:circular_yellow_stained_glass_pane": [
     255,
     255,
-    255
+    0
   ],
   "atlantis:blue_patterned_sea_glass_button": [
     0,
     0,
     255
   ],
-  "gtceu:laminated_glass": [
+  "chipped:square_orange_stained_glass_pane": [
     255,
-    255,
-    255
+    102,
+    17
   ],
   "atlantis:yellow_sea_glass_slab": [
     255,
     255,
     0
   ],
+  "enderio:clear_glass_p_pink": [
+    255,
+    102,
+    187
+  ],
   "quark:blue_framed_glass": [
     0,
     0,
     255
   ],
-  "dd_mosaic_glass:glass_pane_redstone_base": [
-    255,
+  "chipped:ornate_blue_stained_glass": [
     0,
-    0
+    0,
+    255
   ],
   "ror:glowing_red_stained_glass_pane": [
     255,
@@ -5184,17 +9489,32 @@
     255,
     0
   ],
+  "chipped:circular_cyan_stained_glass": [
+    0,
+    255,
+    255
+  ],
   "ultramarine:stone_flower_window": [
     255,
     255,
     255
   ],
-  "mo_glass:tinted_glass_stairs": [
+  "chipped:large_diamond_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "chipped:tile_windowed_bamboo_door": [
     255,
     255,
     255
   ],
-  "quark:dirty_glass": [
+  "chipped:arched_yellow_stained_glass_pane_pillar": [
+    255,
+    255,
+    0
+  ],
+  "chipped:classic_windowed_oak_trapdoor": [
     255,
     255,
     255
@@ -5204,37 +9524,22 @@
     255,
     255
   ],
-  "securitycraft:reinforced_light_gray_stained_glass_pane": [
-    136,
-    136,
-    136
-  ],
-  "atlantis:multicolor_sea_glass": [
-    153,
-    204,
-    204
-  ],
   "glassential:blue_glass_door": [
     0,
     0,
     255
-  ],
-  "betternether:quartz_glass_pane_yellow": [
-    255,
-    255,
-    0
   ],
   "atlantis:lime_sea_glass_stairs": [
     187,
     255,
     0
   ],
-  "luminousblocks:luminous_purple_stained_glass_pane": [
-    170,
-    34,
-    255
+  "chipped:ornate_lime_stained_glass_pane": [
+    187,
+    255,
+    0
   ],
-  "allthecompressed:glass_1x": [
+  "chipped:tile_windowed_birch_door": [
     255,
     255,
     255
@@ -5243,11 +9548,6 @@
     136,
     68,
     17
-  ],
-  "railways:maroon_two_pane_locometal_window": [
-    255,
-    255,
-    255
   ],
   "atlantis:orange_patterned_sea_glass_button": [
     255,
@@ -5259,48 +9559,33 @@
     255,
     0
   ],
+  "chipped:vertical_stiped_pink_stained_glass": [
+    255,
+    102,
+    187
+  ],
   "valhelsia_structures:red_metal_framed_glass": [
     255,
     0,
     0
-  ],
-  "quark:magenta_framed_glass": [
-    255,
-    0,
-    255
   ],
   "dd_mosaic_glass:glass_pane_violet_base": [
     255,
     255,
     255
   ],
-  "valhelsia_structures:yellow_metal_framed_glass_pane": [
-    255,
-    255,
-    0
-  ],
-  "betternether:quartz_glass_framed_pane_light_gray": [
-    136,
-    136,
-    136
-  ],
-  "luminousblocks:luminous_black_stained_glass_pane": [
-    0,
-    0,
-    0
-  ],
-  "mo_glass:lime_stained_glass_slab": [
-    187,
-    255,
-    0
-  ],
-  "minecraft:magenta_stained_glass_pane": [
+  "chipped:raster_red_stained_glass": [
     255,
     0,
-    255
+    0
   ],
   "valhelsia_structures:green_metal_framed_glass": [
     0,
+    255,
+    0
+  ],
+  "enderio:clear_glass_dp_lime": [
+    187,
     255,
     0
   ],
@@ -5324,60 +9609,30 @@
     255,
     255
   ],
-  "xycraft_world:glass_viewer_rgb_glowing_magenta": [
-    255,
-    0,
-    255
-  ],
-  "betternether:quartz_glass_framed_green": [
-    0,
-    255,
-    0
-  ],
-  "tconstruct:gray_clear_stained_glass_pane": [
+  "chipped:arched_light_gray_stained_glass_pane_pillar": [
     136,
     136,
     136
   ],
-  "luminousblocks:luminous_green_stained_glass_pane": [
-    0,
+  "enderio:clear_glass_enp_yellow": [
+    255,
     255,
     0
-  ],
-  "sundries:lavender_wrought_iron_glass": [
-    255,
-    255,
-    255
-  ],
-  "ror:glowing_cyan_stained_glass_pane": [
-    0,
-    255,
-    255
-  ],
-  "valhelsia_structures:metal_framed_glass_pane": [
-    255,
-    255,
-    255
   ],
   "patternedglass:brown_patterned_glass_pane": [
     136,
     68,
     17
   ],
-  "quark:yellow_framed_glass": [
-    255,
-    255,
-    0
-  ],
-  "patternedglass:blue_patterned_glass": [
+  "enderio:clear_glass_dnm_cyan": [
     0,
-    0,
+    255,
     255
   ],
-  "create:ornate_iron_window": [
-    255,
-    255,
-    255
+  "enderio:clear_glass_p_light_gray": [
+    136,
+    136,
+    136
   ],
   "sundries:tan_wrought_iron_glass_pane": [
     255,
@@ -5389,55 +9644,55 @@
     255,
     255
   ],
-  "dd_mosaic_glass:glass_pane_spark": [
-    255,
-    255,
-    255
-  ],
   "atlantis:magenta_sea_glass": [
     255,
     0,
     255
   ],
-  "malum:eldritch_spirited_glass": [
+  "enderio:clear_glass_enp_pink": [
+    255,
+    102,
+    187
+  ],
+  "enderio:clear_glass_d_red": [
+    255,
+    0,
+    0
+  ],
+  "chipped:fancy_light_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_dp_yellow": [
     255,
     255,
+    0
+  ],
+  "enderio:clear_glass_a_light_blue": [
+    0,
+    0,
     255
+  ],
+  "chipped:oak_ornate_bared_glass_pane": [
+    255,
+    0,
+    0
   ],
   "securitycraft:reinforced_green_stained_glass": [
     0,
     255,
     0
   ],
-  "tconstruct:yellow_clear_stained_glass": [
-    255,
-    255,
-    0
-  ],
-  "fintastic:clear_aquarium_glass": [
-    255,
-    255,
-    255
-  ],
   "electrodynamics:glassclear": [
     255,
     255,
     255
   ],
-  "sundries:sea_green_stained_glass": [
-    0,
-    255,
-    0
-  ],
   "storagedelight:birch_cabinet_with_glass_doors": [
     255,
     255,
     255
-  ],
-  "quark:gray_framed_glass_pane": [
-    136,
-    136,
-    136
   ],
   "xycraft_world:glass_viewer_rgb_glowing_yellow": [
     255,
@@ -5454,40 +9709,15 @@
     0,
     0
   ],
-  "railways:black_round_pane_locometal_window": [
-    0,
-    0,
-    0
-  ],
   "tconstruct:soul_glass_pane": [
     0,
     0,
-    255
-  ],
-  "dd_mosaic_glass:glass_lily": [
-    255,
-    255,
-    255
-  ],
-  "pyrite:cyan_framed_glass": [
-    0,
-    255,
-    255
-  ],
-  "mo_glass:glass_slab": [
-    255,
-    255,
     255
   ],
   "ror:glowing_lime_stained_glass": [
     187,
     255,
     0
-  ],
-  "luminousblocks:luminous_glass": [
-    255,
-    255,
-    255
   ],
   "valhelsia_structures:orange_metal_framed_glass": [
     255,
@@ -5509,6 +9739,11 @@
     136,
     136
   ],
+  "enderio:clear_glass_pink": [
+    255,
+    102,
+    187
+  ],
   "betternether:quartz_glass_framed_pane_green": [
     0,
     255,
@@ -5519,32 +9754,22 @@
     255,
     255
   ],
-  "atlantis:red_sea_glass_wall": [
+  "chipped:square_lime_stained_glass_pane": [
+    187,
+    255,
+    0
+  ],
+  "chipped:arched_red_stained_glass_pane_pillar": [
     255,
     0,
     0
-  ],
-  "storagedelight:oak_cabinet_with_glass_doors": [
-    255,
-    255,
-    255
-  ],
-  "tconstruct:blue_clear_stained_glass_pane": [
-    0,
-    0,
-    255
-  ],
-  "atlantis:orange_patterned_sea_glass": [
-    255,
-    102,
-    17
   ],
   "securitycraft:reinforced_cyan_stained_glass": [
     0,
     255,
     255
   ],
-  "glassential:magenta_glass_trapdoor": [
+  "chipped:square_magenta_stained_glass": [
     255,
     0,
     255
@@ -5554,53 +9779,33 @@
     255,
     255
   ],
+  "chipped:woven_red_stained_glass_pane": [
+    255,
+    0,
+    0
+  ],
   "glassential:black_glass_door": [
     0,
     0,
     0
   ],
-  "atlantis:light_blue_sea_glass_slab": [
+  "chipped:arched_black_stained_glass_pillar": [
     0,
     0,
-    255
-  ],
-  "railways:maroon_four_pane_locometal_window": [
-    255,
-    255,
-    255
+    0
   ],
   "patternedglass:orange_patterned_glass_pane": [
     255,
     102,
     17
   ],
-  "quark:red_framed_glass_pane": [
-    255,
-    0,
-    0
-  ],
   "glassential:magenta_glass_door": [
     255,
     0,
     255
   ],
-  "create_new_age:reactor_glass": [
-    255,
-    255,
-    255
-  ],
   "securitycraft:reinforced_cyan_stained_glass_pane": [
     0,
-    255,
-    255
-  ],
-  "storagedelight:warped_cabinet_with_glass_doors": [
-    255,
-    255,
-    255
-  ],
-  "botania:elf_glass": [
-    255,
     255,
     255
   ],
@@ -5609,20 +9814,30 @@
     0,
     0
   ],
+  "chipped:small_yellow_stained_glass_pane": [
+    255,
+    255,
+    0
+  ],
   "quark:black_framed_glass_pane": [
     0,
     0,
     0
   ],
-  "naturalist:crimson_froglass": [
-    255,
+  "chipped:woven_cyan_stained_glass": [
+    0,
     255,
     255
   ],
-  "atlantis:orange_sea_glass_slab": [
+  "enderio:clear_glass_nm_yellow": [
     255,
-    102,
-    17
+    255,
+    0
+  ],
+  "chipped:fancy_blue_stained_glass": [
+    0,
+    0,
+    255
   ],
   "railways:pine_green_single_pane_locometal_window": [
     0,
@@ -5634,37 +9849,47 @@
     255,
     255
   ],
-  "atlantis:orange_patterned_sea_glass_slab": [
+  "enderio:clear_glass_da_black": [
+    0,
+    0,
+    0
+  ],
+  "chipped:ornate_orange_stained_glass": [
     255,
     102,
     17
-  ],
-  "nuclearcraft:fission_reactor_glass": [
-    255,
-    255,
-    255
   ],
   "ror:glowing_lime_stained_glass_pane": [
     187,
     255,
     0
   ],
+  "enderio:clear_glass_da_gray": [
+    136,
+    136,
+    136
+  ],
+  "chipped:woven_light_gray_stained_glass_pane": [
+    136,
+    136,
+    136
+  ],
   "tconstruct:yellow_clear_stained_glass_pane": [
     255,
     255,
     0
+  ],
+  "chipped:arched_white_stained_glass_pane_pillar": [
+    255,
+    255,
+    255
   ],
   "atlantis:monochromatic_sea_glass_stairs": [
     153,
     204,
     204
   ],
-  "mysticsbiomes:glass_jar": [
-    255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_branch_base": [
+  "chipped:glass_birch_door": [
     255,
     255,
     255
@@ -5674,7 +9899,7 @@
     0,
     255
   ],
-  "quark:gray_framed_glass": [
+  "enderio:clear_glass_nm_light_gray": [
     136,
     136,
     136
@@ -5684,22 +9909,12 @@
     255,
     255
   ],
-  "betternether:quartz_glass_pane": [
-    255,
-    255,
+  "enderio:clear_glass_enm_light_blue": [
+    0,
+    0,
     255
   ],
   "dd_mosaic_glass:glass_fleur_base": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:red_sea_glass_pressure_plate": [
-    255,
-    0,
-    0
-  ],
-  "luminousblocks:luminous_white_stained_glass_pane": [
     255,
     255,
     255
@@ -5709,34 +9924,24 @@
     255,
     255
   ],
-  "railways:ochrum_single_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
   "atlantis:red_patterned_sea_glass": [
     255,
     0,
     0
+  ],
+  "chipped:glass_warped_door": [
+    255,
+    255,
+    255
   ],
   "glassential:pink_glass_door": [
     255,
     102,
     187
   ],
-  "betternether:quartz_glass_framed_pane_yellow": [
+  "chipped:vertical_stiped_red_stained_glass_pane": [
     255,
-    255,
-    0
-  ],
-  "railways:diorite_single_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
-  "railways:olive_green_round_pane_locometal_window": [
     0,
-    255,
     0
   ],
   "dawnoftimebuilder:green_painted_straight_window": [
@@ -5744,20 +9949,20 @@
     255,
     0
   ],
-  "regions_unexplored:prismaglass": [
+  "chipped:fancy_yellow_stained_glass_pane": [
     255,
     255,
+    0
+  ],
+  "enderio:clear_glass_dna_magenta": [
+    255,
+    0,
     255
   ],
-  "securitycraft:reinforced_lime_stained_glass_pane": [
-    187,
-    255,
-    0
-  ],
-  "betternether:quartz_glass_framed_yellow": [
-    255,
-    255,
-    0
+  "chipped:small_light_blue_stained_glass": [
+    0,
+    0,
+    255
   ],
   "dd_mosaic_glass:glass_daisy": [
     255,
@@ -5774,34 +9979,9 @@
     255,
     255
   ],
-  "gtceu:borosilicate_glass_block": [
-    255,
-    255,
-    255
-  ],
-  "minecraft:black_stained_glass": [
-    0,
-    0,
-    0
-  ],
-  "railways:green_two_pane_locometal_window": [
-    0,
-    255,
-    0
-  ],
   "atlantis:light_blue_sea_glass": [
     0,
     0,
-    255
-  ],
-  "betternether:quartz_glass_framed_light_blue": [
-    0,
-    0,
-    255
-  ],
-  "moreminecarts:glass_cactus": [
-    255,
-    255,
     255
   ],
   "tconstruct:seared_glass": [
@@ -5809,60 +9989,55 @@
     0,
     0
   ],
-  "dd_mosaic_glass:glass_star_base": [
-    255,
-    255,
+  "enderio:clear_glass_ea_purple": [
+    170,
+    34,
     255
   ],
-  "mo_glass:brown_stained_glass_stairs": [
-    136,
-    68,
-    17
-  ],
-  "luminousblocks:luminous_red_stained_glass": [
-    255,
-    0,
-    0
-  ],
-  "pyrite:light_blue_framed_glass_pane": [
+  "chipped:woven_blue_stained_glass_pane": [
     0,
     0,
     255
-  ],
-  "minecraft:yellow_stained_glass_pane": [
-    255,
-    255,
-    0
   ],
   "glassential:blue_glass_trapdoor": [
     0,
     0,
     255
   ],
-  "betternether:quartz_glass_framed_brown": [
-    136,
-    68,
-    17
+  "enderio:clear_glass_nm_white": [
+    255,
+    255,
+    255
+  ],
+  "chipped:windowed_dark_oak_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "chipped:glass_acacia_door": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_a_yellow": [
+    255,
+    255,
+    0
   ],
   "sundries:yellow_wrought_iron_glass": [
     255,
     255,
     0
   ],
-  "valhelsia_structures:brown_metal_framed_glass_pane": [
-    136,
-    68,
-    17
-  ],
   "nuclearcraft:fusion_reactor_casing_glass": [
     255,
     255,
     255
   ],
-  "integratedterminals:menril_glass": [
-    255,
-    255,
-    255
+  "chipped:arched_black_stained_glass_pane_pillar": [
+    0,
+    0,
+    0
   ],
   "quark:orange_framed_glass_pane": [
     255,
@@ -5874,35 +10049,40 @@
     136,
     136
   ],
-  "ror:glowing_light_blue_stained_glass": [
-    0,
-    0,
-    255
-  ],
-  "gobber2:clear_glass": [
-    255,
-    255,
-    255
-  ],
   "truedarkness:eridium_glass_pane": [
     255,
     255,
     255
+  ],
+  "chipped:fancy_light_gray_stained_glass": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_dna_light_gray": [
+    136,
+    136,
+    136
   ],
   "atlantis:purple_patterned_sea_glass_wall": [
     170,
     34,
     255
   ],
-  "clearfluidglass:clear_fluid_glass": [
-    255,
-    255,
-    255
-  ],
   "atlantis:brown_patterned_sea_glass_wall": [
     136,
     68,
     17
+  ],
+  "enderio:clear_glass_e_light_gray": [
+    136,
+    136,
+    136
+  ],
+  "enderio:clear_glass_p_blue": [
+    0,
+    0,
+    255
   ],
   "dd_mosaic_glass:glass_star": [
     255,
@@ -5914,9 +10094,9 @@
     255,
     0
   ],
-  "valhelsia_structures:light_blue_metal_framed_glass": [
-    0,
-    0,
+  "chipped:windowed_birch_trapdoor": [
+    255,
+    255,
     255
   ],
   "pyrite:nostalgia_stained_glass_pane": [
@@ -5924,69 +10104,64 @@
     255,
     255
   ],
-  "betternether:quartz_glass_pane_light_gray": [
-    136,
-    136,
-    136
+  "enderio:clear_glass_enm_lime": [
+    187,
+    255,
+    0
   ],
   "pyrite:glow_stained_glass_pane": [
     255,
     255,
     255
   ],
-  "luminousblocks:luminous_light_gray_stained_glass": [
-    136,
-    136,
-    136
+  "chipped:circular_orange_stained_glass_pane": [
+    255,
+    102,
+    17
   ],
   "garnished:nut_window": [
     255,
     255,
     255
   ],
-  "railways:ochrum_four_pane_locometal_window": [
+  "enderio:clear_glass_np_orange": [
     255,
-    255,
-    255
+    102,
+    17
   ],
   "glassential:glass_ethereal_pane": [
     255,
     255,
     255
   ],
-  "atlantis:brown_patterned_sea_glass_pressure_plate": [
-    136,
-    68,
-    17
-  ],
-  "patternedglass:lime_patterned_glass_pane": [
-    187,
+  "chipped:raster_yellow_stained_glass": [
+    255,
     255,
     0
-  ],
-  "luminousblocks:luminous_pink_stained_glass": [
-    255,
-    102,
-    187
   ],
   "railways:gray_round_pane_locometal_window": [
     136,
     136,
     136
   ],
-  "create:crimson_window_pane": [
-    255,
-    255,
-    255
-  ],
-  "tconstruct:orange_clear_stained_glass": [
+  "chipped:vertical_stiped_orange_stained_glass": [
     255,
     102,
     17
   ],
-  "sundries:navy_wrought_iron_glass": [
+  "chipped:tile_windowed_acacia_door": [
     255,
     255,
+    255
+  ],
+  "chipped:arched_pink_stained_glass_pillar": [
+    255,
+    102,
+    187
+  ],
+  "chipped:arched_blue_stained_glass_pillar": [
+    0,
+    0,
     255
   ],
   "betternether:quartz_glass_framed_pane_white": [
@@ -5998,16 +10173,6 @@
     255,
     255,
     255
-  ],
-  "mo_glass:blue_stained_glass_slab": [
-    0,
-    0,
-    255
-  ],
-  "tconstruct:lime_clear_stained_glass_pane": [
-    187,
-    255,
-    0
   ],
   "railways:scorchia_four_pane_locometal_window": [
     255,
@@ -6029,50 +10194,25 @@
     255,
     255
   ],
+  "enderio:clear_glass_ena_gray": [
+    136,
+    136,
+    136
+  ],
   "valhelsia_structures:magenta_metal_framed_glass": [
     255,
     0,
     255
   ],
-  "storagedelight:crimson_cabinet_with_glass_doors": [
+  "enderio:clear_glass_np_yellow": [
     255,
-    255,
-    255
-  ],
-  "thermal_extra:twinite_glass": [
-    255,
-    255,
-    255
-  ],
-  "betternether:quartz_glass_framed_pane_lime": [
-    187,
     255,
     0
-  ],
-  "mo_glass:magenta_stained_glass_stairs": [
-    255,
-    0,
-    255
-  ],
-  "malum:infernal_spirited_glass": [
-    255,
-    255,
-    255
-  ],
-  "railways:pink_four_pane_locometal_window": [
-    255,
-    102,
-    187
   ],
   "valhelsia_structures:black_metal_framed_glass": [
     0,
     0,
     0
-  ],
-  "allthecompressed:glass_8x": [
-    255,
-    255,
-    255
   ],
   "dawnoftimebuilder:lattice_stone_bricks_window": [
     255,
@@ -6084,15 +10224,10 @@
     255,
     255
   ],
-  "glassential:white_glass_door": [
+  "chipped:square_yellow_stained_glass_pane": [
     255,
     255,
-    255
-  ],
-  "blastcraft:blastproofwallingglass": [
-    255,
-    255,
-    255
+    0
   ],
   "sundries:pastel_blue_stained_glass": [
     0,
@@ -6109,27 +10244,12 @@
     136,
     136
   ],
-  "atlantis:white_sea_glass_button": [
-    255,
-    255,
-    255
-  ],
-  "tconstruct:pink_clear_stained_glass_pane": [
-    255,
-    102,
-    187
-  ],
   "sundries:beige_stained_glass": [
     255,
     255,
     255
   ],
-  "atlantis:white_sea_glass_slab": [
-    255,
-    255,
-    255
-  ],
-  "quark:light_blue_framed_glass": [
+  "enderio:clear_glass_blue": [
     0,
     0,
     255
@@ -6159,34 +10279,29 @@
     136,
     136
   ],
-  "dawnoftimebuilder:lattice_glass": [
-    255,
-    255,
-    255
-  ],
   "railways:limestone_four_pane_locometal_window": [
     187,
     255,
     0
   ],
-  "railways:diorite_two_pane_locometal_window": [
+  "enderio:clear_glass_enm_yellow": [
     255,
     255,
-    255
+    0
   ],
   "valhelsia_structures:pink_metal_framed_glass": [
     255,
     102,
     187
   ],
+  "chipped:large_diamond_red_stained_glass_pane": [
+    255,
+    0,
+    0
+  ],
   "securitycraft:reinforced_glass": [
     255,
     255,
-    255
-  ],
-  "atlantis:blue_patterned_sea_glass_pressure_plate": [
-    0,
-    0,
     255
   ],
   "atlantis:brown_sea_glass": [
@@ -6194,17 +10309,7 @@
     68,
     17
   ],
-  "atlantis:sea_glass_button": [
-    153,
-    204,
-    204
-  ],
   "railways:granite_four_pane_locometal_window": [
-    255,
-    255,
-    255
-  ],
-  "luminousblocks:luminous_glass_pane": [
     255,
     255,
     255
@@ -6213,11 +10318,6 @@
     255,
     102,
     187
-  ],
-  "allthecompressed:glass_9x": [
-    255,
-    255,
-    255
   ],
   "storagedelight:glass_crimson_cabinet": [
     255,
@@ -6229,9 +10329,14 @@
     255,
     255
   ],
-  "betternether:quartz_glass_red": [
-    255,
+  "enderio:clear_glass_dnm_purple": [
+    170,
+    34,
+    255
+  ],
+  "enderio:clear_glass_na_green": [
     0,
+    255,
     0
   ],
   "tconstruct:clear_tinted_glass": [
@@ -6239,35 +10344,20 @@
     255,
     255
   ],
-  "sundries:gray_wrought_iron_glass": [
-    136,
-    136,
-    136
-  ],
   "valhelsia_structures:yellow_metal_framed_glass": [
     255,
     255,
     0
   ],
-  "mo_glass:tinted_glass_slab": [
-    255,
-    255,
+  "chipped:vertical_stiped_blue_stained_glass": [
+    0,
+    0,
     255
   ],
-  "notenoughblocks:quartz_glass": [
+  "enderio:clear_glass_dnp_magenta": [
     255,
-    255,
+    0,
     255
-  ],
-  "sundries:brown_wrought_iron_glass": [
-    136,
-    68,
-    17
-  ],
-  "mo_glass:yellow_stained_glass_slab": [
-    255,
-    255,
-    0
   ],
   "atlantis:black_patterned_sea_glass_stairs": [
     0,
@@ -6284,27 +10374,17 @@
     255,
     0
   ],
-  "railways:royal_blue_round_pane_locometal_window": [
-    0,
-    0,
-    255
-  ],
-  "allthecompressed:glass_6x": [
-    255,
-    255,
-    255
-  ],
   "railways:royal_blue_four_pane_locometal_window": [
     0,
     0,
     255
   ],
-  "betternether:blue_obsidian_glass_pane": [
-    0,
-    0,
-    255
+  "enderio:clear_glass_dm_yellow": [
+    255,
+    255,
+    0
   ],
-  "patternedglass:light_blue_patterned_glass_pane": [
+  "betternether:blue_obsidian_glass_pane": [
     0,
     0,
     255
@@ -6319,23 +10399,23 @@
     34,
     255
   ],
+  "enderio:clear_glass_enp_orange": [
+    255,
+    102,
+    17
+  ],
+  "chipped:arched_yellow_stained_glass_pillar": [
+    255,
+    255,
+    0
+  ],
   "bigreactors:basic_turbineglass": [
     255,
     255,
     255
   ],
-  "quark:cyan_framed_glass_pane": [
-    0,
-    255,
-    255
-  ],
-  "malum:aqueous_spirited_glass": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:green_sea_glass": [
-    0,
+  "enderio:clear_glass_p_lime": [
+    187,
     255,
     0
   ],
@@ -6349,10 +10429,10 @@
     255,
     0
   ],
-  "tconstruct:light_gray_clear_stained_glass": [
-    136,
-    136,
-    136
+  "chipped:windowed_acacia_trapdoor": [
+    255,
+    255,
+    255
   ],
   "atlantis:green_patterned_sea_glass_button": [
     0,
@@ -6369,37 +10449,22 @@
     0,
     255
   ],
+  "enderio:clear_glass_da_green": [
+    0,
+    255,
+    0
+  ],
   "mo_glass:black_stained_glass_stairs": [
     0,
     0,
     0
   ],
-  "atlantis:gray_patterned_sea_glass_stairs": [
-    136,
-    136,
-    136
-  ],
-  "dawnoftimebuilder:lattice_waxed_oak_window": [
-    255,
-    255,
+  "chipped:ornate_blue_stained_glass_pane": [
+    0,
+    0,
     255
   ],
   "create:crimson_window": [
-    255,
-    255,
-    255
-  ],
-  "dd_mosaic_glass:glass_pane_lily": [
-    255,
-    255,
-    255
-  ],
-  "atlantis:light_gray_patterned_sea_glass_stairs": [
-    136,
-    136,
-    136
-  ],
-  "allthecompressed:glass_7x": [
     255,
     255,
     255
@@ -6414,13 +10479,13 @@
     255,
     255
   ],
+  "enderio:clear_glass_enp_blue": [
+    0,
+    0,
+    255
+  ],
   "atlantis:yellow_patterned_sea_glass_stairs": [
     255,
-    255,
-    0
-  ],
-  "atlantis:green_sea_glass_button": [
-    0,
     255,
     0
   ],
@@ -6429,47 +10494,22 @@
     102,
     187
   ],
-  "tconstruct:soul_glass": [
-    0,
-    0,
-    255
-  ],
-  "escalated:glass_escalator_handrail": [
-    255,
-    255,
-    255
-  ],
   "glassential:red_glass_door": [
     255,
     0,
     0
   ],
-  "truedarkness:empty_chiseled_ancient_glass": [
-    255,
-    255,
-    255
-  ],
-  "create:framed_glass_door": [
-    255,
-    255,
-    255
-  ],
-  "railways:tuff_four_pane_locometal_window": [
-    255,
-    255,
-    255
+  "chipped:raster_light_gray_stained_glass_pane": [
+    136,
+    136,
+    136
   ],
   "atlantis:purple_patterned_sea_glass_button": [
     170,
     34,
     255
   ],
-  "allthecompressed:glass_4x": [
-    255,
-    255,
-    255
-  ],
-  "xycraft_world:glass_viewer_phantom_glowing": [
+  "enderio:clear_glass_dna": [
     255,
     255,
     255
@@ -6477,11 +10517,6 @@
   "copycats:copycat_glass_fluid_pipe": [
     255,
     255,
-    255
-  ],
-  "railways:purple_round_pane_locometal_window": [
-    170,
-    34,
     255
   ],
   "sundries:mint_stained_glass": [
@@ -6499,11 +10534,6 @@
     255,
     255
   ],
-  "securitycraft:reinforced_green_stained_glass_pane": [
-    0,
-    255,
-    0
-  ],
   "atlantis:brown_sea_glass_stairs": [
     136,
     68,
@@ -6514,23 +10544,18 @@
     0,
     0
   ],
-  "betternether:quartz_glass_framed_pane_blue": [
-    0,
-    0,
-    255
-  ],
-  "betternether:quartz_glass_light_blue": [
-    0,
-    0,
-    255
-  ],
-  "sundries:cyan_wrought_iron_glass": [
-    0,
+  "chipped:arched_lime_stained_glass_pillar": [
+    187,
     255,
+    0
+  ],
+  "chipped:tiled_light_blue_stained_glass": [
+    0,
+    0,
     255
   ],
-  "glassential:white_glass_trapdoor": [
-    255,
+  "chipped:circular_cyan_stained_glass_pane": [
+    0,
     255,
     255
   ],
@@ -6544,27 +10569,42 @@
     255,
     0
   ],
-  "betternether:quartz_glass_pane_magenta": [
+  "enderio:clear_glass_em_red": [
     255,
     0,
+    0
+  ],
+  "chipped:fancy_orange_stained_glass_pane": [
+    255,
+    102,
+    17
+  ],
+  "chipped:square_oak_glass_pane": [
+    255,
+    255,
     255
   ],
-  "diamethysts:diamethyst_glass_pane": [
-    170,
-    34,
+  "chipped:raster_leaded_glass_pane": [
+    255,
+    255,
     255
+  ],
+  "enderio:clear_glass_dna_lime": [
+    187,
+    255,
+    0
   ],
   "railways:round_pane_locometal_window": [
     255,
     255,
     255
   ],
-  "pyrite:red_framed_glass_pane": [
+  "enderio:clear_glass_d_orange": [
     255,
-    0,
-    0
+    102,
+    17
   ],
-  "opalescence:moonlit_opal_glass": [
+  "enderio:clear_glass_dm_white": [
     255,
     255,
     255
@@ -6574,37 +10614,37 @@
     136,
     136
   ],
-  "securitycraft:reinforced_pink_stained_glass": [
+  "chipped:vertical_stiped_white_stained_glass": [
     255,
-    102,
-    187
+    255,
+    255
   ],
-  "atlantis:lime_patterned_sea_glass_pressure_plate": [
-    187,
+  "chipped:tiled_brown_stained_glass_pane": [
+    136,
+    68,
+    17
+  ],
+  "chipped:windowed_cherry_trapdoor": [
     255,
-    0
+    255,
+    255
   ],
   "sundries:pastel_yellow_stained_glass": [
     255,
     255,
     0
   ],
+  "enderio:clear_glass_dnm": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dnp": [
+    255,
+    255,
+    255
+  ],
   "dd_mosaic_glass:glass_pane_lavender_base": [
-    255,
-    255,
-    255
-  ],
-  "create:framed_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "allthecompressed:glass_5x": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:obsidian_glass": [
     255,
     255,
     255
@@ -6614,9 +10654,24 @@
     0,
     255
   ],
+  "enderio:clear_glass_np_white": [
+    255,
+    255,
+    255
+  ],
+  "enderio:clear_glass_dp_orange": [
+    255,
+    102,
+    17
+  ],
   "sundries:lime_wrought_iron_glass": [
     187,
     255,
     0
+  ],
+  "chipped:raster_leaded_glass": [
+    255,
+    255,
+    255
   ]
 }

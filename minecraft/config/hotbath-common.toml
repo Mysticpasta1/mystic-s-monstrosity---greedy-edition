@@ -6,7 +6,7 @@
 #NOTE: This overrides all other settings below.
 #SAVE SAFETY: Your world data is preserved, just not used until re-enabled.
 #Default: false
-compatibilityMode = false
+compatibilityMode = true
 #=== DIRTINESS SYSTEM ===
 #Enable or disable the dirtiness system.
 #When enabled, players will gradually get dirty and need to bathe to clean themselves.
