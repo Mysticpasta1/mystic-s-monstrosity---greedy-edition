@@ -31633,24 +31633,5 @@
     "LastUpdateCheck": "2026-04-16T05:41:25.8902439Z",
     "DownloadSource": null,
     "FolderId": null
-  },
-  {
-    "FileName": "hariplayer-mc1.20.1-0.2.3.jar",
-    "IconUrl": "https://media.forgecdn.net/avatars/thumbnails/1582/211/256/256/639024351353890995.png",
-    "CurseForgeId": 1414374,
-    "CurseForgeFileId": 7548947,
-    "ModrinthId": null,
-    "ModrinthVersionId": null,
-    "Author": "hari_0701",
-    "ProjectName": "HP: HariPlayer",
-    "PreferredReleaseChannel": 1,
-    "DateAdded": "2026-04-16T06:09:16.9312073Z",
-    "HasUpdate": false,
-    "LatestVersion": null,
-    "LatestFileName": null,
-    "LatestDownloadUrl": null,
-    "LastUpdateCheck": null,
-    "DownloadSource": 1,
-    "FolderId": null
   }
 ]
