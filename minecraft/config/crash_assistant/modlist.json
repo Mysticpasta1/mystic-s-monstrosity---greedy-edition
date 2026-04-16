@@ -5904,14 +5904,6 @@
     "curseForgeHash": 3480123899,
     "modrinthHash": "15bf728223648ff1c69a0dc175a4edeb8d59dee5"
   },
-  "hariplayer-mc1.20.1-0.2.3.jar": {
-    "jarName": "hariplayer-mc1.20.1-0.2.3.jar",
-    "modId": "hariplayer",
-    "name": "HariPlayer",
-    "version": "0.2.0+beta.7.local",
-    "curseForgeHash": 1802030648,
-    "modrinthHash": "53d36ebea6318bc582b7f91a04be064c26ea4b56"
-  },
   "Harium-mc1.20.1-1.0.0.jar": {
     "jarName": "Harium-mc1.20.1-1.0.0.jar",
     "modId": "harium",
