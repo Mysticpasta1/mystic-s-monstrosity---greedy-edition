@@ -717,14 +717,6 @@
     "curseForgeHash": 4213312087,
     "modrinthHash": "e508c4724a24f0c80836818fcdd3df6424b1fc40"
   },
-  "apotheosis_infnite-2000.000001.jar": {
-    "jarName": "apotheosis_infnite-2000.000001.jar",
-    "modId": "apotheosis_infnite",
-    "name": "Apotheosis: Infinite",
-    "version": "2000.000001",
-    "curseForgeHash": 911491902,
-    "modrinthHash": "4b853bd7afb656c08662bd4c3dfb258a7e555c02"
-  },
   "apotheotic_hostility-1.20.1-1.0.3.jar": {
     "jarName": "apotheotic_hostility-1.20.1-1.0.3.jar",
     "modId": "apotheotic_hostility",
@@ -4560,14 +4552,6 @@
     "curseForgeHash": 624612361,
     "modrinthHash": "73daad79b768afd4c233811d39696053e9bbb2da"
   },
-  "extra_gauges-2.0.7.jar": {
-    "jarName": "extra_gauges-2.0.7.jar",
-    "modId": "extra_gauges",
-    "name": "Create: Extra Gauges",
-    "version": "2.0.7",
-    "curseForgeHash": 697998913,
-    "modrinthHash": "6f3331cc877bfaf15bb58723ff3129fc3207d296"
-  },
   "extracolorcodes-1.20.1-3.0.jar": {
     "jarName": "extracolorcodes-1.20.1-3.0.jar",
     "modId": "extracolorcodes",
@@ -4655,6 +4639,22 @@
     "version": "3.0",
     "curseForgeHash": 505787963,
     "modrinthHash": "acd93150de2bbe1f094bf672f43a0fc84b11a96c"
+  },
+  "fallen_gems_affixes-1.20.1-2.0.9HF.jar": {
+    "jarName": "fallen_gems_affixes-1.20.1-2.0.9HF.jar",
+    "modId": "fallen_gems_affixes",
+    "name": "Fallen Gems \u0026 Affixes",
+    "version": "1.20.1-2.0.1HF",
+    "curseForgeHash": 4210989529,
+    "modrinthHash": "aeeb63b2a058d7d78108828ed045aacebe2e2564"
+  },
+  "fallen_lib-1.3.2.jar": {
+    "jarName": "fallen_lib-1.3.2.jar",
+    "modId": "fallen_lib",
+    "name": "Fallen Lib",
+    "version": "1.3.2",
+    "curseForgeHash": 1302793606,
+    "modrinthHash": "cc207a1fe171bea314b8f0fbde75ef46abcdf8c3"
   },
   "fallen_log_hideout-1.0.0-forge-1.20.1.jar": {
     "jarName": "fallen_log_hideout-1.0.0-forge-1.20.1.jar",
@@ -8279,13 +8279,13 @@
     "curseForgeHash": 3636092909,
     "modrinthHash": "2d777e7a8354669c268cbf097424a2e9c40fcf04"
   },
-  "morecandles-0.5.2.jar": {
-    "jarName": "morecandles-0.5.2.jar",
+  "morecandles-0.6.0.jar": {
+    "jarName": "morecandles-0.6.0.jar",
     "modId": "morecandles",
     "name": "More Candles",
-    "version": "0.5.2",
-    "curseForgeHash": 1923107979,
-    "modrinthHash": "cf39aa4fbfcbbca9c272a096faf6156c1bae2f13"
+    "version": "0.6.0",
+    "curseForgeHash": 1320288809,
+    "modrinthHash": "69a106c719aed50e9134e4a750833a5b79c35003"
   },
   "moredelight-25.07.28-1.20-forge.jar": {
     "jarName": "moredelight-25.07.28-1.20-forge.jar",

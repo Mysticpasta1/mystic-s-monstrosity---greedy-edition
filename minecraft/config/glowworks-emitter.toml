@@ -4959,6 +4959,7 @@
 		soul_candle = "[0,0,255]"
 		end_candle = "[255,255,255]"
 		soul_candle_holder = "[0,0,255]"
+		end_candle_holder = "[255,255,255]"
 
 [redstoneclock]
 

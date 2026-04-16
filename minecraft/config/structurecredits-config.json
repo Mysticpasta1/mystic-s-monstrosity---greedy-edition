@@ -22,6 +22,7 @@
   ],
   "dontShow": [
     "minecraft:plains_village",
-    "minecraft:desert_village"
+    "minecraft:desert_village",
+    "integrated_villages:airship_village"
   ]
 }
