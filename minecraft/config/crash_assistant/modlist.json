@@ -2737,6 +2737,11 @@
     "curseForgeHash": 2318953036,
     "modrinthHash": "d9dc1dd73b28b15fb6c60fe09f461723a745e664"
   },
+  "Connector-1.0.0-beta.48+1.20.1.jar": {
+    "jarName": "Connector-1.0.0-beta.48+1.20.1.jar",
+    "curseForgeHash": 3157067501,
+    "modrinthHash": "23f4a45b2ea66548fddff299326cd56e2d9e5cf8"
+  },
   "constructionwand-1.20.1-2.11.jar": {
     "jarName": "constructionwand-1.20.1-2.11.jar",
     "modId": "constructionwand",
@@ -5896,6 +5901,14 @@
     "curseForgeHash": 2214578654,
     "modrinthHash": "e4a5deeb545db6853ae4d668d0751228e641fc61"
   },
+  "harichunk-mc1.20.1-1.0.5.jar": {
+    "jarName": "harichunk-mc1.20.1-1.0.5.jar",
+    "modId": "harichunk",
+    "name": "HariChunk",
+    "version": "1.0.0",
+    "curseForgeHash": 1414208408,
+    "modrinthHash": "baa40380b94ae1d58bd2eaaf6fd5a55a71655e33"
+  },
   "harimt-forge-1.20.1-1.0.2.jar": {
     "jarName": "harimt-forge-1.20.1-1.0.2.jar",
     "modId": "harimt",
@@ -5903,6 +5916,14 @@
     "version": "1.0.0",
     "curseForgeHash": 3480123899,
     "modrinthHash": "15bf728223648ff1c69a0dc175a4edeb8d59dee5"
+  },
+  "hariplayer-mc1.20.1-0.2.3.jar": {
+    "jarName": "hariplayer-mc1.20.1-0.2.3.jar",
+    "modId": "hariplayer",
+    "name": "HariPlayer",
+    "version": "0.2.0+beta.7.local",
+    "curseForgeHash": 1802030648,
+    "modrinthHash": "53d36ebea6318bc582b7f91a04be064c26ea4b56"
   },
   "Harium-mc1.20.1-1.0.0.jar": {
     "jarName": "Harium-mc1.20.1-1.0.0.jar",
