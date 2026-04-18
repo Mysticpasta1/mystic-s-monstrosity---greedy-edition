@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/aether_redux/fieldsproot"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/aether_redux/fieldsproot",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/aether_redux/fieldsproot",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/aether_redux/fieldsproot",
+      "y": 270
+    }
+  }
+}

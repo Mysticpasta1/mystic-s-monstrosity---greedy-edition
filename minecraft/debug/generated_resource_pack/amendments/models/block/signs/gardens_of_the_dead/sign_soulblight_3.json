@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "amendments:block/signs/sign_3",
+	"textures": {
+		"1": "amendments:block/signs/gardens_of_the_dead/sign_soulblight",
+		"particle": "amendments:block/signs/gardens_of_the_dead/sign_soulblight"
+	}
+}

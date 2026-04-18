@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/productivetrees/thunder_bolt"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/productivetrees/thunder_bolt",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/productivetrees/thunder_bolt",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/productivetrees/thunder_bolt",
+      "y": 270
+    }
+  }
+}

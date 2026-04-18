@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/productivetrees/clove"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/productivetrees/clove",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/productivetrees/clove",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/productivetrees/clove",
+      "y": 270
+    }
+  }
+}

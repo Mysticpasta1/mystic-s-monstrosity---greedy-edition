@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice4_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "galospheric_delight:block/salted_caramel_cake_side",
+		"top_up": "galospheric_delight:block/salted_caramel_cake_top",
+		"inner": "galospheric_delight:block/salted_caramel_cake_inner",
+		"bottom": "galospheric_delight:block/salted_caramel_cake_bottom",
+		"top": "galospheric_delight:block/salted_caramel_cake_top",
+		"particle": "galospheric_delight:block/salted_caramel_cake_side",
+		"side": "galospheric_delight:block/salted_caramel_cake_side"
+	}
+
+}

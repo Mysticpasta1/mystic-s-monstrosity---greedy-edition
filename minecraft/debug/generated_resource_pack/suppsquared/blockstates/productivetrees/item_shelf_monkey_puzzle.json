@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/productivetrees/monkey_puzzle"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/productivetrees/monkey_puzzle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/productivetrees/monkey_puzzle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/productivetrees/monkey_puzzle",
+      "y": 270
+    }
+  }
+}

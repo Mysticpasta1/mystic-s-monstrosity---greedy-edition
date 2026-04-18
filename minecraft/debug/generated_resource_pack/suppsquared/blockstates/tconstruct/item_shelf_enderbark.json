@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/tconstruct/enderbark"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/tconstruct/enderbark",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/tconstruct/enderbark",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/tconstruct/enderbark",
+      "y": 270
+    }
+  }
+}

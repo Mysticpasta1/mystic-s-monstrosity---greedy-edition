@@ -1,0 +1,13 @@
+{
+	"parent": "amendments:block/double_cake/full_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "mysticsbiomes:block/yellow_frosted_cake_side",
+		"top_up": "mysticsbiomes:block/yellow_frosted_cake_top",
+		"bottom": "mysticsbiomes:block/yellow_frosted_cake_bottom",
+		"top": "mysticsbiomes:block/yellow_frosted_cake_top",
+		"particle": "mysticsbiomes:block/yellow_frosted_cake_side",
+		"side": "mysticsbiomes:block/yellow_frosted_cake_side"
+	}
+
+}

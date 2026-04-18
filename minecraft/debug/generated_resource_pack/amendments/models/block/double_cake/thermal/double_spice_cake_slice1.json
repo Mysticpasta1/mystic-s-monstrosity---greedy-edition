@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice1_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "thermal:block/spice_cake_side",
+		"top_up": "thermal:block/spice_cake_top",
+		"inner": "thermal:block/spice_cake_inner",
+		"bottom": "thermal:block/spice_cake_bottom",
+		"top": "thermal:block/spice_cake_top",
+		"particle": "thermal:block/spice_cake_side",
+		"side": "thermal:block/spice_cake_side"
+	}
+
+}

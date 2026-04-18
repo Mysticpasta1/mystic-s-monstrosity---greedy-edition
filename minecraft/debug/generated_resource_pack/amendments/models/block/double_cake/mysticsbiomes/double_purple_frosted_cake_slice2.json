@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice2_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "mysticsbiomes:block/purple_frosted_cake_side",
+		"top_up": "mysticsbiomes:block/purple_frosted_cake_top",
+		"inner": "mysticsbiomes:block/purple_frosted_cake_inner",
+		"bottom": "mysticsbiomes:block/purple_frosted_cake_bottom",
+		"top": "mysticsbiomes:block/purple_frosted_cake_top",
+		"particle": "mysticsbiomes:block/purple_frosted_cake_side",
+		"side": "mysticsbiomes:block/purple_frosted_cake_side"
+	}
+
+}

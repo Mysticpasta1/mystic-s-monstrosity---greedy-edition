@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/forestry/baobab_fireproof"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/forestry/baobab_fireproof",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/forestry/baobab_fireproof",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/forestry/baobab_fireproof",
+      "y": 270
+    }
+  }
+}
