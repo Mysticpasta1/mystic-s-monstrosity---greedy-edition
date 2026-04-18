@@ -624,6 +624,11 @@
     255,
     255
   ],
+  "mcwholidays:white_garland_yellow_lights": [
+    255,
+    255,
+    0
+  ],
   "mysticsbiomes:cyan_frosted_candle_cake_purple": [
     170,
     34,
@@ -733,6 +738,11 @@
     255,
     255,
     255
+  ],
+  "mcwholidays:red_cube_string_lights": [
+    255,
+    0,
+    0
   ],
   "skinnedlanterns:ornament_orange_soul_lantern_block": [
     255,
@@ -884,10 +894,20 @@
     255,
     0
   ],
+  "mcwholidays:white_garland_purple_lights": [
+    170,
+    34,
+    255
+  ],
   "echovoids:red_end_rod": [
     255,
     0,
     0
+  ],
+  "mcwholidays:blue_cube_string_lights": [
+    0,
+    0,
+    255
   ],
   "simplylight:illuminant_black_block": [
     0,
@@ -1404,6 +1424,11 @@
     255,
     255
   ],
+  "mcwholidays:purple_string_lights": [
+    170,
+    34,
+    255
+  ],
   "dazzle:white_lantern_analog_lamp": [
     255,
     255,
@@ -1889,6 +1914,11 @@
     255,
     255
   ],
+  "mcwholidays:red_decorated_christmas_tree_top": [
+    255,
+    0,
+    0
+  ],
   "thermal_extra:shellite": [
     255,
     255,
@@ -2060,6 +2090,16 @@
     255
   ],
   "bloodmagic:dungeon_eye_corrosive": [
+    255,
+    255,
+    255
+  ],
+  "mcwholidays:colorful_decorated_christmas_tree_middle": [
+    255,
+    255,
+    255
+  ],
+  "mcwholidays:lit_smile_pumpkin": [
     255,
     255,
     255
@@ -2579,10 +2619,20 @@
     255,
     255
   ],
+  "mcwholidays:green_string_lights": [
+    0,
+    255,
+    0
+  ],
   "musings:circle_cyan_ring_green_bg": [
     0,
     255,
     0
+  ],
+  "mcwholidays:white_wavy_garland_orange_lights": [
+    255,
+    102,
+    17
   ],
   "nightlights:fairy_lights_purple": [
     170,
@@ -3279,6 +3329,11 @@
     0,
     255
   ],
+  "mcwholidays:colorful_tiny_string_lights": [
+    255,
+    255,
+    255
+  ],
   "botania:elf_glass": [
     255,
     255,
@@ -3533,6 +3588,11 @@
     0,
     0,
     0
+  ],
+  "mcwholidays:purple_cube_string_lights": [
+    170,
+    34,
+    255
   ],
   "truedarkness:crystalized_corrupt_bricks": [
     255,
@@ -3978,6 +4038,11 @@
     136,
     136,
     136
+  ],
+  "mcwholidays:lit_screaming_pumpkin": [
+    255,
+    255,
+    255
   ],
   "skinnedlanterns:pufferfish_soul_lantern_block": [
     0,
@@ -4562,6 +4627,11 @@
   "hexcasting:amethyst_sconce": [
     170,
     34,
+    255
+  ],
+  "mcwholidays:wavy_garland_colorful_lights": [
+    255,
+    255,
     255
   ],
   "mekanism:teleporter_frame": [
@@ -5354,6 +5424,11 @@
     0,
     255
   ],
+  "mcwholidays:purple_decorated_christmas_tree_middle": [
+    170,
+    34,
+    255
+  ],
   "chipped:spruce_torch": [
     255,
     255,
@@ -5483,6 +5558,11 @@
     0,
     0,
     255
+  ],
+  "mcwholidays:garland_green_lights": [
+    0,
+    255,
+    0
   ],
   "quark:myalite_crystal": [
     255,
@@ -5830,6 +5910,11 @@
     255
   ],
   "truedarkness:corrupted_roots": [
+    255,
+    255,
+    255
+  ],
+  "mcwholidays:white_wavy_garland_colorful_lights": [
     255,
     255,
     255
@@ -6369,6 +6454,11 @@
     255,
     255
   ],
+  "mcwholidays:red_tiny_string_lights": [
+    255,
+    0,
+    0
+  ],
   "botania:bifrost_perm": [
     255,
     255,
@@ -6498,6 +6588,11 @@
     255,
     255,
     255
+  ],
+  "mcwholidays:wavy_garland_green_lights": [
+    0,
+    255,
+    0
   ],
   "securitycraft:fake_lava_block": [
     255,
@@ -7149,6 +7244,11 @@
     255,
     255
   ],
+  "mcwholidays:orange_cube_string_lights": [
+    255,
+    102,
+    17
+  ],
   "laserbridges:laser_source_block": [
     255,
     255,
@@ -7167,6 +7267,11 @@
   "echovoids:pearl_lamp_magenta_stairs": [
     255,
     0,
+    255
+  ],
+  "mcwholidays:lit_friendly_pumpkin": [
+    255,
+    255,
     255
   ],
   "dazzle:purple_shroomlight": [
@@ -7499,6 +7604,11 @@
     0,
     0
   ],
+  "mcwholidays:blue_tiny_string_lights": [
+    0,
+    0,
+    255
+  ],
   "tconstruct:molten_amethyst_fluid": [
     170,
     34,
@@ -7508,6 +7618,11 @@
     255,
     255,
     255
+  ],
+  "mcwholidays:garland_orange_lights": [
+    255,
+    102,
+    17
   ],
   "lampicus:colorlight_pink": [
     255,
@@ -8469,6 +8584,11 @@
     255,
     255
   ],
+  "mcwholidays:yellow_decorated_christmas_tree_top": [
+    255,
+    255,
+    0
+  ],
   "chipped:broken_sea_lantern": [
     153,
     204,
@@ -8798,6 +8918,11 @@
     255,
     255,
     255
+  ],
+  "mcwholidays:white_wavy_garland_green_lights": [
+    0,
+    255,
+    0
   ],
   "musings:circle_pink_ring_green_bg_flipping": [
     0,
@@ -10284,6 +10409,11 @@
     0,
     255
   ],
+  "mcwholidays:garland_blue_lights": [
+    0,
+    0,
+    255
+  ],
   "betterblockz:cyberlight_secret_blockz_8": [
     255,
     255,
@@ -10448,6 +10578,11 @@
     255,
     255,
     255
+  ],
+  "mcwholidays:white_garland_orange_lights": [
+    255,
+    102,
+    17
   ],
   "thingamajigs:basketball_machine": [
     255,
@@ -10992,6 +11127,11 @@
   "echovoids:pearl_lamp_blue_slab": [
     0,
     0,
+    255
+  ],
+  "mcwholidays:colorful_decorated_christmas_tree_bottom": [
+    255,
+    255,
     255
   ],
   "wider_ender_chests:netherite_ender_chest": [
@@ -11794,6 +11934,11 @@
     255,
     255
   ],
+  "mcwholidays:lit_evil_pumpkin": [
+    255,
+    255,
+    255
+  ],
   "rockyminerals:anhydrite_lamp_button": [
     255,
     255,
@@ -11943,6 +12088,11 @@
     255,
     255,
     255
+  ],
+  "mcwholidays:green_decorated_christmas_tree_middle": [
+    0,
+    255,
+    0
   ],
   "darkerdepths:wall_void_soul_torch": [
     255,
@@ -12274,6 +12424,11 @@
     0,
     0
   ],
+  "mcwholidays:colorful_decorated_christmas_tree_top": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_white_ring_gray_bg": [
     136,
     136,
@@ -12338,6 +12493,11 @@
     255,
     255,
     255
+  ],
+  "mcwholidays:orange_tiny_string_lights": [
+    255,
+    102,
+    17
   ],
   "rechiseled:glowstone_crushed_connecting": [
     255,
@@ -12568,6 +12728,11 @@
     255,
     255,
     255
+  ],
+  "mcwholidays:garland_red_lights": [
+    255,
+    0,
+    0
   ],
   "thingamajigs:blue_vending_machine": [
     0,
@@ -12845,6 +13010,11 @@
     255
   ],
   "undergarden:potted_shimmerweed": [
+    255,
+    255,
+    255
+  ],
+  "mcwholidays:white_garland_colorful_lights": [
     255,
     255,
     255
@@ -13304,6 +13474,11 @@
     136,
     136
   ],
+  "mcwholidays:lit_shocked_pumpkin": [
+    255,
+    255,
+    255
+  ],
   "dazzle:light_blue_end_rod": [
     0,
     0,
@@ -13694,6 +13869,11 @@
     255,
     255
   ],
+  "mcwholidays:wavy_garland_blue_lights": [
+    0,
+    0,
+    255
+  ],
   "mekanism:chargepad": [
     255,
     255,
@@ -13883,6 +14063,11 @@
     255,
     255,
     0
+  ],
+  "mcwholidays:white_garland_blue_lights": [
+    0,
+    0,
+    255
   ],
   "mysticaladaptations:insanium_furnace": [
     255,
@@ -14652,6 +14837,11 @@
   "torchslabmod:candle_magenta_slab": [
     255,
     0,
+    255
+  ],
+  "mcwholidays:purple_decorated_christmas_tree_top": [
+    170,
+    34,
     255
   ],
   "redeco:gray_paper_lantern": [
@@ -15564,6 +15754,11 @@
     102,
     187
   ],
+  "mcwholidays:blue_string_lights": [
+    0,
+    0,
+    255
+  ],
   "mekanismadditions:black_plastic_glow_slab": [
     0,
     0,
@@ -15707,6 +15902,11 @@
   "mysticsbiomes:pink_frosted_candle_cake_black": [
     0,
     0,
+    0
+  ],
+  "mcwholidays:green_decorated_christmas_tree_top": [
+    0,
+    255,
     0
   ],
   "musings:circle_lime_ring_blue_bg": [
@@ -17414,6 +17614,11 @@
     102,
     187
   ],
+  "mcwholidays:green_tiny_string_lights": [
+    0,
+    255,
+    0
+  ],
   "enigmaticdelicacy:etherium_ore": [
     255,
     255,
@@ -17784,7 +17989,17 @@
     255,
     255
   ],
+  "mcwholidays:red_decorated_christmas_tree_bottom": [
+    255,
+    0,
+    0
+  ],
   "biomesoplenty:glowshroom": [
+    255,
+    255,
+    255
+  ],
+  "mcwholidays:colorful_decorated_christmas_tree_base": [
     255,
     255,
     255
@@ -18329,6 +18544,11 @@
     255,
     0
   ],
+  "mcwholidays:colorful_string_lights": [
+    255,
+    255,
+    255
+  ],
   "wallpapercraft:auralampyellow-0": [
     255,
     255,
@@ -18458,6 +18678,11 @@
     136,
     136,
     136
+  ],
+  "mcwholidays:blue_decorated_christmas_tree_top": [
+    0,
+    0,
+    255
   ],
   "skinnedlanterns:ornament_cyan_soul_lantern_block": [
     0,
@@ -18673,6 +18898,11 @@
     136,
     136,
     136
+  ],
+  "mcwholidays:red_string_lights": [
+    255,
+    0,
+    0
   ],
   "musings:circle_cycle_magenta": [
     255,
@@ -19599,6 +19829,11 @@
     255,
     255
   ],
+  "mcwholidays:wavy_garland_orange_lights": [
+    255,
+    102,
+    17
+  ],
   "productivetrees:advanced_flickering_sun_beehive": [
     255,
     255,
@@ -19914,6 +20149,11 @@
     255,
     0
   ],
+  "minecraft:firefly_bush": [
+    255,
+    255,
+    255
+  ],
   "chipped:tiled_bordered_crying_obsidian": [
     255,
     0,
@@ -20149,6 +20389,11 @@
     255,
     255
   ],
+  "mcwholidays:white_wavy_garland_yellow_lights": [
+    255,
+    255,
+    0
+  ],
   "ba_bt:active_corrite_slab": [
     255,
     255,
@@ -20214,10 +20459,20 @@
     102,
     17
   ],
+  "mcwholidays:white_wavy_garland_red_lights": [
+    255,
+    0,
+    0
+  ],
   "botania:pink_floating_flower": [
     255,
     102,
     187
+  ],
+  "mcwholidays:yellow_decorated_christmas_tree_base": [
+    255,
+    255,
+    0
   ],
   "musings:circle_white_ring_light_gray_bg": [
     136,
@@ -21044,6 +21299,11 @@
     255,
     255
   ],
+  "mcwholidays:garland_yellow_lights": [
+    255,
+    255,
+    0
+  ],
   "rechiseled:glowstone_brick_pattern_stairs": [
     255,
     255,
@@ -21057,6 +21317,11 @@
   "securitycraft:reinforced_verdant_froglight": [
     255,
     255,
+    255
+  ],
+  "mcwholidays:garland_purple_lights": [
+    170,
+    34,
     255
   ],
   "additional_lights:al_lamp_gold_block": [
@@ -21305,6 +21570,11 @@
     255
   ],
   "dazzle:invisible_torch": [
+    255,
+    255,
+    0
+  ],
+  "mcwholidays:yellow_decorated_christmas_tree_bottom": [
     255,
     255,
     0
@@ -21804,10 +22074,20 @@
     34,
     255
   ],
+  "mcwholidays:white_garland_red_lights": [
+    255,
+    0,
+    0
+  ],
   "silentgems:kyanite_glowrose": [
     255,
     255,
     255
+  ],
+  "mcwholidays:yellow_tiny_string_lights": [
+    255,
+    255,
+    0
   ],
   "musings:circle_yellow_ring_green_bg_flipping": [
     0,
@@ -22643,6 +22923,11 @@
     255,
     255,
     255
+  ],
+  "mcwholidays:yellow_string_lights": [
+    255,
+    255,
+    0
   ],
   "productivetrees:slimy_delight_leaves": [
     255,
@@ -23529,6 +23814,11 @@
     255,
     0
   ],
+  "mcwholidays:blue_decorated_christmas_tree_middle": [
+    0,
+    0,
+    255
+  ],
   "silentgems:potted_heliodor_glowrose": [
     255,
     255,
@@ -24064,6 +24354,11 @@
     0,
     255
   ],
+  "mcwholidays:white_wavy_garland_purple_lights": [
+    170,
+    34,
+    255
+  ],
   "skinnedlanterns:ornament_lime_soul_lantern_block": [
     187,
     255,
@@ -24449,6 +24744,11 @@
     255,
     255
   ],
+  "mcwholidays:purple_decorated_christmas_tree_base": [
+    170,
+    34,
+    255
+  ],
   "redeco:brown_paper_lantern": [
     136,
     68,
@@ -24744,6 +25044,11 @@
     255,
     0
   ],
+  "mcwholidays:green_decorated_christmas_tree_base": [
+    0,
+    255,
+    0
+  ],
   "rockyminerals:duskmire_lamp": [
     255,
     255,
@@ -24804,6 +25109,11 @@
     68,
     17
   ],
+  "mcwholidays:wavy_garland_purple_lights": [
+    170,
+    34,
+    255
+  ],
   "additional_lights:al_lamp_iron_block": [
     255,
     255,
@@ -24833,6 +25143,16 @@
     255,
     102,
     187
+  ],
+  "mcwholidays:purple_tiny_string_lights": [
+    170,
+    34,
+    255
+  ],
+  "mcwholidays:blue_decorated_christmas_tree_base": [
+    0,
+    0,
+    255
   ],
   "tconstruct:molten_ender_fluid": [
     255,
@@ -25043,6 +25363,11 @@
     255,
     255,
     255
+  ],
+  "mcwholidays:wavy_garland_yellow_lights": [
+    255,
+    255,
+    0
   ],
   "truedarkness:glow_pressure_plate": [
     255,
@@ -25389,6 +25714,11 @@
     0,
     255
   ],
+  "mcwholidays:garland_colorful_lights": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_lime_ring_green_bg": [
     0,
     255,
@@ -25473,6 +25803,11 @@
     255,
     255,
     255
+  ],
+  "mcwholidays:red_decorated_christmas_tree_base": [
+    255,
+    0,
+    0
   ],
   "darkerdepths:glowshroom_heart": [
     255,
@@ -26140,6 +26475,11 @@
     255
   ],
   "chipped:devious_jack_o_lantern": [
+    255,
+    255,
+    255
+  ],
+  "mcwholidays:colorful_cube_string_lights": [
     255,
     255,
     255
@@ -27149,6 +27489,11 @@
     255,
     255
   ],
+  "mcwholidays:red_decorated_christmas_tree_middle": [
+    255,
+    0,
+    0
+  ],
   "embers:molten_platinum_block": [
     255,
     255,
@@ -28009,6 +28354,11 @@
     255,
     0
   ],
+  "mcwholidays:green_cube_string_lights": [
+    0,
+    255,
+    0
+  ],
   "avaritia_integration:soarleander_floating": [
     255,
     255,
@@ -28669,6 +29019,11 @@
     255,
     255
   ],
+  "mcwholidays:yellow_decorated_christmas_tree_middle": [
+    255,
+    255,
+    0
+  ],
   "dazzle:magenta_modern_analog_lamp": [
     255,
     0,
@@ -28764,6 +29119,11 @@
     255,
     255
   ],
+  "mcwholidays:yellow_cube_string_lights": [
+    255,
+    255,
+    0
+  ],
   "deeperdarker:gloomslate_redstone_ore": [
     255,
     0,
@@ -28813,6 +29173,11 @@
     255,
     255,
     255
+  ],
+  "mcwholidays:green_decorated_christmas_tree_bottom": [
+    0,
+    255,
+    0
   ],
   "twigs:soul_lamp": [
     0,
@@ -28999,6 +29364,11 @@
     255,
     255
   ],
+  "mcwholidays:white_wavy_garland_blue_lights": [
+    0,
+    0,
+    255
+  ],
   "fairylights:icicle_lights": [
     255,
     255,
@@ -29100,6 +29470,11 @@
     255
   ],
   "productivetrees:purple_spiral_wall_hanging_sign": [
+    170,
+    34,
+    255
+  ],
+  "mcwholidays:purple_decorated_christmas_tree_bottom": [
     170,
     34,
     255
@@ -29729,6 +30104,11 @@
     0,
     255
   ],
+  "mcwholidays:orange_string_lights": [
+    255,
+    102,
+    17
+  ],
   "chipped:inscribed_magma_block": [
     255,
     255,
@@ -30149,6 +30529,11 @@
     255,
     255
   ],
+  "sulfurcubed:sulfur_fire": [
+    255,
+    255,
+    255
+  ],
   "productivetrees:purple_spiral_fence": [
     170,
     34,
@@ -30162,6 +30547,11 @@
   "minecraft:redstone_ore": [
     255,
     0,
+    0
+  ],
+  "mcwholidays:white_garland_green_lights": [
+    0,
+    255,
     0
   ],
   "productivetrees:cave_dweller_stripped_wood": [
@@ -30789,6 +31179,11 @@
     255,
     0
   ],
+  "mcwholidays:wavy_garland_red_lights": [
+    255,
+    0,
+    0
+  ],
   "musings:circle_pink_ring_purple_bg": [
     170,
     34,
@@ -30998,6 +31393,11 @@
     255,
     255,
     0
+  ],
+  "mcwholidays:blue_decorated_christmas_tree_bottom": [
+    0,
+    0,
+    255
   ],
   "chipped:crying_obsidian_pillar": [
     255,

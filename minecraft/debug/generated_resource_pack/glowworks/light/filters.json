@@ -14,6 +14,11 @@
     0,
     0
   ],
+  "mcwwindows:stripped_jungle_log_window2": [
+    255,
+    255,
+    255
+  ],
   "chipped:circular_yellow_stained_glass": [
     255,
     255,
@@ -69,6 +74,16 @@
     255,
     255
   ],
+  "mcwwindows:stripped_crimson_stem_four_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:mangrove_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_ena_lime": [
     187,
     255,
@@ -94,6 +109,11 @@
     255,
     255
   ],
+  "mcwwindows:birch_plank_window2": [
+    255,
+    255,
+    255
+  ],
   "patternedglass:lime_patterned_glass": [
     187,
     255,
@@ -102,6 +122,16 @@
   "luminousblocks:luminous_magenta_stained_glass_pane": [
     255,
     0,
+    255
+  ],
+  "mcwwindows:warped_stem_window2": [
+    255,
+    255,
+    255
+  ],
+  "mcwtrpdoors:bamboo_glass_trapdoor": [
+    255,
+    255,
     255
   ],
   "enderio:clear_glass_dnp_light_blue": [
@@ -119,10 +149,20 @@
     0,
     255
   ],
+  "mcwwindows:stripped_dark_oak_pane_window": [
+    255,
+    255,
+    255
+  ],
   "atlantis:red_patterned_sea_glass_slab": [
     255,
     0,
     0
+  ],
+  "mcwwindows:purple_mosaic_glass": [
+    170,
+    34,
+    255
   ],
   "minecraft:orange_stained_glass_pane": [
     255,
@@ -289,6 +329,11 @@
     255,
     255
   ],
+  "mcwwindows:spruce_plank_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_nm_orange": [
     255,
     102,
@@ -343,6 +388,11 @@
     255,
     102,
     17
+  ],
+  "mcwwindows:oak_plank_four_window": [
+    255,
+    255,
+    255
   ],
   "enderio:clear_glass_np_pink": [
     255,
@@ -399,6 +449,16 @@
     255,
     0
   ],
+  "mcwtrpdoors:warped_glass_trapdoor": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:spruce_plank_four_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_a_light_gray": [
     136,
     136,
@@ -413,6 +473,11 @@
     136,
     136,
     136
+  ],
+  "mcwwindows:jungle_plank_window": [
+    255,
+    255,
+    255
   ],
   "enderio:clear_glass_da_red": [
     255,
@@ -469,6 +534,11 @@
     255,
     255
   ],
+  "mcwwindows:black_mosaic_glass": [
+    0,
+    0,
+    0
+  ],
   "tconstruct:white_clear_stained_glass_pane": [
     255,
     255,
@@ -504,6 +574,16 @@
     255,
     0
   ],
+  "mcwwindows:cherry_plank_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:warped_plank_pane_window": [
+    255,
+    255,
+    255
+  ],
   "blastcraft:rawblastproofwallingglass": [
     255,
     255,
@@ -534,6 +614,11 @@
     255,
     255
   ],
+  "mcwwindows:blackstone_four_window": [
+    0,
+    0,
+    0
+  ],
   "chipped:clear_leaded_glass": [
     255,
     255,
@@ -562,6 +647,11 @@
   "sundries:pastel_blue_wrought_iron_glass_pane": [
     0,
     0,
+    255
+  ],
+  "mcwwindows:birch_plank_pane_window": [
+    255,
+    255,
     255
   ],
   "atlantis:light_blue_sea_glass_button": [
@@ -619,10 +709,20 @@
     255,
     0
   ],
+  "mcwwindows:gray_mosaic_glass_pane": [
+    136,
+    136,
+    136
+  ],
   "patternedglass:red_patterned_glass": [
     255,
     0,
     0
+  ],
+  "mcwwindows:warped_planks_four_window": [
+    255,
+    255,
+    255
   ],
   "truedarkness:glass_jar": [
     255,
@@ -694,6 +794,11 @@
     255,
     255
   ],
+  "mcwwindows:andesite_four_window": [
+    255,
+    255,
+    255
+  ],
   "betternether:quartz_glass_framed_light_gray": [
     136,
     136,
@@ -707,6 +812,11 @@
   "betternether:quartz_glass_framed_pane_purple": [
     170,
     34,
+    255
+  ],
+  "mcwwindows:stripped_birch_log_window": [
+    255,
+    255,
     255
   ],
   "enderio:clear_glass_e_blue": [
@@ -727,6 +837,11 @@
   "glassential:purple_glass_door": [
     170,
     34,
+    255
+  ],
+  "mcwwindows:stripped_birch_log_window2": [
+    255,
+    255,
     255
   ],
   "enderio:clear_glass_d_brown": [
@@ -753,6 +868,11 @@
     0,
     0,
     0
+  ],
+  "mcwwindows:magenta_mosaic_glass_pane": [
+    255,
+    0,
+    255
   ],
   "patternedglass:yellow_patterned_glass_pane": [
     255,
@@ -784,6 +904,11 @@
     255,
     255
   ],
+  "mcwwindows:stone_pane_window": [
+    255,
+    255,
+    255
+  ],
   "chipped:arched_brown_stained_glass_pane_pillar": [
     136,
     68,
@@ -802,6 +927,11 @@
   "quark:lime_framed_glass_pane": [
     187,
     255,
+    0
+  ],
+  "mcwwindows:red_sandstone_four_window": [
+    255,
+    0,
     0
   ],
   "chipped:tile_windowed_jungle_door": [
@@ -877,6 +1007,11 @@
   "enderio:clear_glass_ena_blue": [
     0,
     0,
+    255
+  ],
+  "mcwdoors:dark_oak_bark_glass_door": [
+    255,
+    255,
     255
   ],
   "chipped:oak_line_bared_glass": [
@@ -979,6 +1114,11 @@
     255,
     0
   ],
+  "mcwwindows:light_gray_mosaic_glass_pane": [
+    136,
+    136,
+    136
+  ],
   "glassential:black_glass_trapdoor": [
     0,
     0,
@@ -994,12 +1134,27 @@
     255,
     255
   ],
+  "mcwtrpdoors:oak_glass_trapdoor": [
+    255,
+    255,
+    255
+  ],
   "chipped:tiled_gray_stained_glass": [
     136,
     136,
     136
   ],
   "chipped:tile_windowed_dark_oak_door": [
+    255,
+    255,
+    255
+  ],
+  "mcwdoors:cherry_barn_glass_door": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:stripped_birch_pane_window": [
     255,
     255,
     255
@@ -1104,6 +1259,11 @@
     0,
     0
   ],
+  "mcwwindows:jungle_four_window": [
+    255,
+    255,
+    255
+  ],
   "dd_mosaic_glass:glass_violet_base": [
     255,
     255,
@@ -1143,6 +1303,11 @@
     255,
     0,
     0
+  ],
+  "mcwwindows:birch_plank_window": [
+    255,
+    255,
+    255
   ],
   "tconstruct:brown_clear_stained_glass": [
     136,
@@ -1193,6 +1358,11 @@
     255,
     102,
     17
+  ],
+  "mcwwindows:crimson_stem_window": [
+    255,
+    255,
+    255
   ],
   "malum:arcane_spirited_glass": [
     255,
@@ -1304,6 +1474,11 @@
     255,
     255
   ],
+  "mcwwindows:bricks_pane_window": [
+    255,
+    255,
+    255
+  ],
   "chipped:vertical_stiped_lime_stained_glass_pane": [
     187,
     255,
@@ -1323,6 +1498,11 @@
     255,
     0,
     0
+  ],
+  "mcwwindows:sandstone_pane_window": [
+    255,
+    255,
+    255
   ],
   "luminousblocks:luminous_cyan_stained_glass_pane": [
     0,
@@ -1378,6 +1558,11 @@
     136,
     68,
     17
+  ],
+  "mcwdoors:jungle_glass_door": [
+    255,
+    255,
+    255
   ],
   "chipped:classic_windowed_dark_oak_trapdoor": [
     255,
@@ -1459,6 +1644,11 @@
     136,
     136
   ],
+  "mcwwindows:diorite_pane_window": [
+    255,
+    255,
+    255
+  ],
   "chipped:large_diamond_light_blue_stained_glass": [
     0,
     0,
@@ -1479,6 +1669,11 @@
     136,
     136
   ],
+  "mcwdoors:birch_bark_glass_door": [
+    255,
+    255,
+    255
+  ],
   "chipped:large_diamond_pink_stained_glass_pane": [
     255,
     102,
@@ -1497,6 +1692,11 @@
   "quark:purple_framed_glass_pane": [
     170,
     34,
+    255
+  ],
+  "mcwbridges:glass_bridge_stair": [
+    255,
+    255,
     255
   ],
   "chipped:raster_lime_stained_glass_pane": [
@@ -1534,6 +1734,11 @@
     0,
     0
   ],
+  "mcwdoors:oak_barn_glass_door": [
+    255,
+    255,
+    255
+  ],
   "quark:dirty_glass_pane": [
     255,
     255,
@@ -1552,6 +1757,11 @@
   "xycraft_world:glass_viewer_rgb_blue": [
     0,
     0,
+    255
+  ],
+  "mcwdoors:sliding_glass_door": [
+    255,
+    255,
     255
   ],
   "chipped:large_diamond_magenta_stained_glass_pane": [
@@ -1577,6 +1787,11 @@
   "chipped:vertical_stiped_magenta_stained_glass_pane": [
     255,
     0,
+    255
+  ],
+  "mcwwindows:prismarine_pane_window": [
+    255,
+    255,
     255
   ],
   "chipped:circular_magenta_stained_glass": [
@@ -1619,6 +1834,11 @@
     0,
     255
   ],
+  "mcwwindows:cyan_mosaic_glass_pane": [
+    0,
+    255,
+    255
+  ],
   "sundries:pastel_blue_wrought_iron_glass": [
     0,
     0,
@@ -1659,6 +1879,11 @@
     255,
     255
   ],
+  "mcwbridges:glass_bridge": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_dp_brown": [
     136,
     68,
@@ -1670,6 +1895,11 @@
     255
   ],
   "pyrite:dragon_framed_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:mangrove_plank_window2": [
     255,
     255,
     255
@@ -1719,6 +1949,11 @@
     0,
     0
   ],
+  "mcwwindows:cherry_window": [
+    255,
+    255,
+    255
+  ],
   "pyrite:honey_framed_glass": [
     255,
     255,
@@ -1763,6 +1998,11 @@
     255,
     0,
     0
+  ],
+  "mcwdoors:warped_barn_glass_door": [
+    255,
+    255,
+    255
   ],
   "enderio:clear_glass_dna_cyan": [
     0,
@@ -1834,7 +2074,17 @@
     136,
     136
   ],
+  "mcwwindows:blackstone_window2": [
+    0,
+    0,
+    0
+  ],
   "thermal:enderium_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:acacia_window2": [
     255,
     255,
     255
@@ -1857,6 +2107,16 @@
   "enderio:clear_glass_ep_orange": [
     255,
     102,
+    17
+  ],
+  "mcwwindows:dark_oak_plank_pane_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:brown_mosaic_glass_pane": [
+    136,
+    68,
     17
   ],
   "chipped:vertical_stiped_yellow_stained_glass_pane": [
@@ -1929,6 +2189,11 @@
     255,
     255
   ],
+  "mcwwindows:cherry_plank_pane_window": [
+    255,
+    255,
+    255
+  ],
   "chipped:large_diamond_cyan_stained_glass": [
     0,
     255,
@@ -1957,6 +2222,11 @@
   "chipped:small_purple_stained_glass_pane": [
     170,
     34,
+    255
+  ],
+  "mcwwindows:cherry_window2": [
+    255,
+    255,
     255
   ],
   "chipped:tiled_brown_stained_glass": [
@@ -2019,6 +2289,11 @@
     255,
     255
   ],
+  "mcwwindows:stripped_warped_stem_window": [
+    255,
+    255,
+    255
+  ],
   "chipped:fancy_lime_stained_glass_pane": [
     187,
     255,
@@ -2053,6 +2328,11 @@
     255,
     255,
     0
+  ],
+  "mcwwindows:cherry_pane_window": [
+    255,
+    255,
+    255
   ],
   "dd_mosaic_glass:glass_pane_lily_base": [
     255,
@@ -2098,6 +2378,11 @@
     136,
     68,
     17
+  ],
+  "mcwwindows:mangrove_plank_four_window": [
+    255,
+    255,
+    255
   ],
   "create:acacia_window": [
     255,
@@ -2149,6 +2434,16 @@
     255,
     255
   ],
+  "mcwwindows:deepslate_four_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:stripped_acacia_log_window2": [
+    255,
+    255,
+    255
+  ],
   "minecraft:glass_pane": [
     255,
     255,
@@ -2158,6 +2453,16 @@
     255,
     0,
     0
+  ],
+  "mcwwindows:diorite_window2": [
+    255,
+    255,
+    255
+  ],
+  "mcwtrpdoors:crimson_glass_trapdoor": [
+    255,
+    255,
+    255
   ],
   "aether:quicksoil_glass_pane": [
     255,
@@ -2170,6 +2475,11 @@
     255
   ],
   "storagedelight:spruce_cabinet_with_glass_doors": [
+    255,
+    255,
+    255
+  ],
+  "mcwtrpdoors:birch_glass_trapdoor": [
     255,
     255,
     255
@@ -2279,7 +2589,17 @@
     255,
     255
   ],
+  "mcwtrpdoors:jungle_glass_trapdoor": [
+    255,
+    255,
+    255
+  ],
   "silentgems:moldavite_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:bricks_window": [
     255,
     255,
     255
@@ -2305,6 +2625,11 @@
     255
   ],
   "tconstruct:clear_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwdoors:crimson_stem_glass_door": [
     255,
     255,
     255
@@ -2444,6 +2769,11 @@
     255,
     0
   ],
+  "mcwwindows:red_sandstone_window2": [
+    255,
+    0,
+    0
+  ],
   "railways:red_single_pane_locometal_window": [
     255,
     0,
@@ -2463,6 +2793,11 @@
     136,
     136,
     136
+  ],
+  "mcwdoors:spruce_barn_glass_door": [
+    255,
+    255,
+    255
   ],
   "create:oak_window": [
     255,
@@ -2495,6 +2830,11 @@
     17
   ],
   "blastcraft:carbonplatedwallingglass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:stripped_dark_oak_log_four_window": [
     255,
     255,
     255
@@ -2544,7 +2884,17 @@
     136,
     136
   ],
+  "mcwwindows:jungle_window2": [
+    255,
+    255,
+    255
+  ],
   "chipped:glass_oak_door": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:metal_window": [
     255,
     255,
     255
@@ -2558,6 +2908,11 @@
     136,
     68,
     17
+  ],
+  "mcwwindows:stripped_acacia_pane_window": [
+    255,
+    255,
+    255
   ],
   "xycraft_world:glass_viewer_rgb_glowing_light_gray": [
     136,
@@ -2584,6 +2939,11 @@
     102,
     17
   ],
+  "mcwwindows:stripped_birch_log_four_window": [
+    255,
+    255,
+    255
+  ],
   "railways:scorchia_round_pane_locometal_window": [
     255,
     255,
@@ -2600,6 +2960,11 @@
     255
   ],
   "railways:single_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:prismarine_window": [
     255,
     255,
     255
@@ -2694,6 +3059,11 @@
     136,
     136
   ],
+  "mcwwindows:mangrove_plank_pane_window": [
+    255,
+    255,
+    255
+  ],
   "dd_mosaic_glass:glass_pane_poppy": [
     255,
     255,
@@ -2714,6 +3084,11 @@
     255,
     255
   ],
+  "mcwwindows:blue_mosaic_glass_pane": [
+    0,
+    0,
+    255
+  ],
   "enderio:clear_glass_na_orange": [
     255,
     102,
@@ -2723,6 +3098,11 @@
     136,
     136,
     136
+  ],
+  "mcwwindows:red_sandstone_pane_window": [
+    255,
+    0,
+    0
   ],
   "valhelsia_structures:light_blue_metal_framed_glass_pane": [
     0,
@@ -2759,6 +3139,11 @@
     34,
     255
   ],
+  "mcwwindows:deepslate_window2": [
+    255,
+    255,
+    255
+  ],
   "blastcraft:glasspressureplate": [
     255,
     255,
@@ -2769,6 +3154,11 @@
     255,
     255
   ],
+  "mcwwindows:pink_mosaic_glass_pane": [
+    255,
+    102,
+    187
+  ],
   "dd_mosaic_glass:glass_holly": [
     255,
     255,
@@ -2778,6 +3168,11 @@
     255,
     0,
     0
+  ],
+  "mcwwindows:mangrove_window2": [
+    255,
+    255,
+    255
   ],
   "enderio:clear_glass_p_black": [
     0,
@@ -2814,12 +3209,22 @@
     68,
     17
   ],
+  "mcwwindows:quartz_window2": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_em_light_blue": [
     0,
     0,
     255
   ],
   "dd_mosaic_glass:glass_rose": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:warped_stem_window": [
     255,
     255,
     255
@@ -2869,10 +3274,20 @@
     255,
     0
   ],
+  "mcwwindows:dark_prismarine_window": [
+    255,
+    255,
+    255
+  ],
   "tconstruct:seared_soul_glass": [
     255,
     0,
     0
+  ],
+  "mcwwindows:stripped_mangrove_log_window2": [
+    255,
+    255,
+    255
   ],
   "tconstruct:scorched_tinted_glass": [
     255,
@@ -3014,6 +3429,16 @@
     136,
     136
   ],
+  "mcwwindows:granite_window2": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:stone_window": [
+    255,
+    255,
+    255
+  ],
   "sundries:blue_wrought_iron_glass_pane": [
     0,
     0,
@@ -3029,6 +3454,11 @@
     255,
     255
   ],
+  "mcwwindows:lime_mosaic_glass_pane": [
+    187,
+    255,
+    0
+  ],
   "pyrite:glow_framed_glass_pane": [
     255,
     255,
@@ -3038,6 +3468,11 @@
     255,
     102,
     17
+  ],
+  "mcwwindows:metal_window2": [
+    255,
+    255,
+    255
   ],
   "create:tiled_glass": [
     255,
@@ -3059,6 +3494,11 @@
     0,
     255
   ],
+  "mcwwindows:spruce_pane_window": [
+    255,
+    255,
+    255
+  ],
   "chipped:small_purple_stained_glass": [
     170,
     34,
@@ -3076,6 +3516,11 @@
   ],
   "chipped:tiled_cyan_stained_glass_pane": [
     0,
+    255,
+    255
+  ],
+  "mcwwindows:crimson_planks_four_window": [
+    255,
     255,
     255
   ],
@@ -3114,6 +3559,11 @@
     255,
     255
   ],
+  "mcwwindows:jungle_plank_pane_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_p_light_blue": [
     0,
     0,
@@ -3139,6 +3589,11 @@
     204,
     204
   ],
+  "mcwwindows:dark_oak_window2": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_ena_magenta": [
     255,
     0,
@@ -3157,6 +3612,11 @@
   "railways:magenta_four_pane_locometal_window": [
     255,
     0,
+    255
+  ],
+  "mcwwindows:oak_plank_window": [
+    255,
+    255,
     255
   ],
   "minecraft:blue_stained_glass": [
@@ -3214,6 +3674,16 @@
     255,
     0
   ],
+  "mcwwindows:oak_four_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:green_mosaic_glass": [
+    0,
+    255,
+    0
+  ],
   "ror:glowing_red_stained_glass": [
     255,
     0,
@@ -3240,6 +3710,11 @@
     136
   ],
   "pyrite:white_framed_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:diorite_four_window": [
     255,
     255,
     255
@@ -3399,6 +3874,11 @@
     0,
     0
   ],
+  "mcwwindows:bricks_four_window": [
+    255,
+    255,
+    255
+  ],
   "shutter:interaction_shutter_glass": [
     255,
     255,
@@ -3425,6 +3905,11 @@
     255
   ],
   "pyrite:rose_framed_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:acacia_plank_pane_window": [
     255,
     255,
     255
@@ -3534,7 +4019,22 @@
     255,
     0
   ],
+  "mcwdoors:warped_glass_door": [
+    255,
+    255,
+    255
+  ],
   "undergarden:sediment_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwdoors:bamboo_barn_glass_door": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:spruce_plank_window2": [
     255,
     255,
     255
@@ -3573,6 +4073,11 @@
     0,
     255,
     0
+  ],
+  "mcwwindows:jungle_pane_window": [
+    255,
+    255,
+    255
   ],
   "xycraft_world:glass_viewer_glowing": [
     255,
@@ -3719,6 +4224,11 @@
     255,
     255
   ],
+  "mcwwindows:quartz_window": [
+    255,
+    255,
+    255
+  ],
   "sundries:vermillion_wrought_iron_glass_pane": [
     255,
     255,
@@ -3744,15 +4254,30 @@
     0,
     255
   ],
+  "mcwwindows:deepslate_window": [
+    255,
+    255,
+    255
+  ],
   "chipped:tiled_red_stained_glass": [
     255,
     0,
     0
   ],
+  "mcwwindows:granite_four_window": [
+    255,
+    255,
+    255
+  ],
   "atlantis:orange_sea_glass_pressure_plate": [
     255,
     102,
     17
+  ],
+  "mcwwindows:mangrove_four_window": [
+    255,
+    255,
+    255
   ],
   "atlantis:cyan_sea_glass_button": [
     0,
@@ -3760,6 +4285,11 @@
     255
   ],
   "create:industrial_iron_window_pane": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:acacia_four_window": [
     255,
     255,
     255
@@ -3792,6 +4322,11 @@
   "betternether:quartz_glass_framed_magenta": [
     255,
     0,
+    255
+  ],
+  "mcwdoors:dark_oak_barn_glass_door": [
+    255,
+    255,
     255
   ],
   "atlantis:light_gray_sea_glass": [
@@ -3829,6 +4364,11 @@
     255,
     255
   ],
+  "mcwwindows:red_sandstone_window": [
+    255,
+    0,
+    0
+  ],
   "mo_glass:cyan_stained_glass_stairs": [
     0,
     255,
@@ -3837,6 +4377,11 @@
   "xycraft_world:glass_viewer_rgb_light_blue": [
     0,
     0,
+    255
+  ],
+  "mcwwindows:mangrove_pane_window": [
+    255,
+    255,
     255
   ],
   "atlantis:lime_sea_glass": [
@@ -3874,6 +4419,11 @@
     0,
     0
   ],
+  "mcwwindows:lime_mosaic_glass": [
+    187,
+    255,
+    0
+  ],
   "chipped:tile_windowed_spruce_door": [
     255,
     255,
@@ -3888,6 +4438,11 @@
     255,
     255,
     255
+  ],
+  "mcwwindows:blackstone_window": [
+    0,
+    0,
+    0
   ],
   "chipped:ornate_yellow_stained_glass": [
     255,
@@ -3926,6 +4481,21 @@
   ],
   "enderio:clear_glass_em_cyan": [
     0,
+    255,
+    255
+  ],
+  "mcwwindows:sandstone_four_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:crimson_plank_pane_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwdoors:mangrove_bark_glass_door": [
+    255,
     255,
     255
   ],
@@ -4119,6 +4689,11 @@
     255,
     255
   ],
+  "mcwwindows:black_mosaic_glass_pane": [
+    0,
+    0,
+    0
+  ],
   "chipped:large_diamond_yellow_stained_glass": [
     255,
     255,
@@ -4162,6 +4737,11 @@
   "glassential:cyan_glass_door": [
     0,
     255,
+    255
+  ],
+  "mcwwindows:light_blue_mosaic_glass_pane": [
+    0,
+    0,
     255
   ],
   "allthecompressed:glass_3x": [
@@ -4304,6 +4884,11 @@
     0,
     0
   ],
+  "mcwdoors:jungle_bark_glass_door": [
+    255,
+    255,
+    255
+  ],
   "mo_glass:tinted_glass_stairs": [
     255,
     255,
@@ -4349,6 +4934,11 @@
     255,
     255
   ],
+  "mcwwindows:stripped_jungle_log_four_window": [
+    255,
+    255,
+    255
+  ],
   "railways:maroon_two_pane_locometal_window": [
     255,
     255,
@@ -4362,6 +4952,11 @@
   "quark:magenta_framed_glass": [
     255,
     0,
+    255
+  ],
+  "mcwwindows:stripped_oak_log_window": [
+    255,
+    255,
     255
   ],
   "valhelsia_structures:yellow_metal_framed_glass_pane": [
@@ -4404,9 +4999,24 @@
     255,
     255
   ],
+  "mcwwindows:stripped_mangrove_pane_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:stripped_warped_pane_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_ep_magenta": [
     255,
     0,
+    255
+  ],
+  "mcwwindows:dark_oak_plank_four_window": [
+    255,
+    255,
     255
   ],
   "xycraft_world:glass_viewer_rgb_glowing_magenta": [
@@ -4569,6 +5179,11 @@
     0,
     0
   ],
+  "mcwwindows:stripped_crimson_stem_window": [
+    255,
+    255,
+    255
+  ],
   "storagedelight:oak_cabinet_with_glass_doors": [
     255,
     255,
@@ -4584,14 +5199,29 @@
     102,
     17
   ],
+  "mcwwindows:warped_stem_four_window": [
+    255,
+    255,
+    255
+  ],
   "glassential:magenta_glass_trapdoor": [
     255,
     0,
     255
   ],
+  "mcwwindows:stripped_mangrove_log_four_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_ea_blue": [
     0,
     0,
+    255
+  ],
+  "mcwwindows:birch_four_window": [
+    255,
+    255,
     255
   ],
   "atlantis:light_blue_sea_glass_slab": [
@@ -4659,6 +5289,11 @@
     255,
     255
   ],
+  "mcwwindows:stripped_dark_oak_log_window2": [
+    255,
+    255,
+    255
+  ],
   "atlantis:orange_sea_glass_slab": [
     255,
     102,
@@ -4675,6 +5310,11 @@
     17
   ],
   "nuclearcraft:fission_reactor_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:spruce_window2": [
     255,
     255,
     255
@@ -4709,12 +5349,22 @@
     0,
     0
   ],
+  "mcwdoors:acacia_bark_glass_door": [
+    255,
+    255,
+    255
+  ],
   "chipped:circular_orange_stained_glass": [
     255,
     102,
     17
   ],
   "betternether:quartz_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "mcwdoors:crimson_glass_door": [
     255,
     255,
     255
@@ -4730,6 +5380,16 @@
     255
   ],
   "railways:ochrum_single_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:oak_plank_pane_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:spruce_window": [
     255,
     255,
     255
@@ -4769,6 +5429,11 @@
     255,
     255
   ],
+  "mcwwindows:stripped_acacia_log_four_window": [
+    255,
+    255,
+    255
+  ],
   "securitycraft:reinforced_lime_stained_glass_pane": [
     187,
     255,
@@ -4778,6 +5443,11 @@
     255,
     255,
     0
+  ],
+  "mcwwindows:andesite_window2": [
+    255,
+    255,
+    255
   ],
   "gtceu:borosilicate_glass_block": [
     255,
@@ -4949,6 +5619,11 @@
     102,
     187
   ],
+  "mcwwindows:warped_planks_window2": [
+    255,
+    255,
+    255
+  ],
   "create:crimson_window_pane": [
     255,
     255,
@@ -4989,6 +5664,11 @@
     0,
     0
   ],
+  "mcwwindows:dark_oak_four_window": [
+    255,
+    255,
+    255
+  ],
   "storagedelight:crimson_cabinet_with_glass_doors": [
     255,
     255,
@@ -5010,6 +5690,11 @@
     255
   ],
   "malum:infernal_spirited_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:one_way_glass": [
     255,
     255,
     255
@@ -5134,6 +5819,16 @@
     0,
     0
   ],
+  "mcwwindows:white_mosaic_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwdoors:oak_glass_door": [
+    255,
+    255,
+    255
+  ],
   "betternether:quartz_glass_red": [
     255,
     0,
@@ -5153,6 +5848,11 @@
     136,
     136,
     136
+  ],
+  "mcwwindows:crimson_pane_window": [
+    255,
+    255,
+    255
   ],
   "chipped:circular_lime_stained_glass_pane": [
     187,
@@ -5189,6 +5889,11 @@
     0,
     255
   ],
+  "mcwwindows:jungle_plank_window2": [
+    255,
+    255,
+    255
+  ],
   "allthecompressed:glass_6x": [
     255,
     255,
@@ -5202,6 +5907,11 @@
   "patternedglass:light_blue_patterned_glass_pane": [
     0,
     0,
+    255
+  ],
+  "mcwwindows:stripped_jungle_pane_window": [
+    255,
+    255,
     255
   ],
   "quark:cyan_framed_glass_pane": [
@@ -5459,6 +6169,11 @@
     136,
     136
   ],
+  "mcwwindows:gray_mosaic_glass": [
+    136,
+    136,
+    136
+  ],
   "enderio:clear_glass_p_orange": [
     255,
     102,
@@ -5468,6 +6183,11 @@
     255,
     0,
     0
+  ],
+  "mcwdoors:cherry_glass_door": [
+    255,
+    255,
+    255
   ],
   "enderio:clear_glass_enp_green": [
     0,
@@ -5534,6 +6254,11 @@
     0,
     255
   ],
+  "mcwwindows:cherry_four_window": [
+    255,
+    255,
+    255
+  ],
   "tconstruct:magenta_clear_stained_glass_pane": [
     255,
     0,
@@ -5594,6 +6319,11 @@
     255,
     255
   ],
+  "mcwwindows:cherry_plank_four_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_enp_lime": [
     187,
     255,
@@ -5605,6 +6335,11 @@
     255
   ],
   "enderio:clear_glass_a_white": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:stripped_spruce_log_window2": [
     255,
     255,
     255
@@ -5644,6 +6379,11 @@
     34,
     255
   ],
+  "mcwwindows:dark_oak_pane_window": [
+    255,
+    255,
+    255
+  ],
   "pyrite:magenta_framed_glass_pane": [
     255,
     0,
@@ -5669,6 +6409,11 @@
     102,
     17
   ],
+  "mcwtrpdoors:mangrove_glass_trapdoor": [
+    255,
+    255,
+    255
+  ],
   "chipped:square_green_stained_glass": [
     0,
     255,
@@ -5679,12 +6424,22 @@
     255,
     255
   ],
+  "mcwwindows:stripped_cherry_log_window2": [
+    255,
+    255,
+    255
+  ],
   "railways:blue_four_pane_locometal_window": [
     0,
     0,
     255
   ],
   "sundries:tan_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:granite_pane_window": [
     255,
     255,
     255
@@ -5740,6 +6495,11 @@
     17
   ],
   "chipped:vertical_stiped_white_stained_glass_pane": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:acacia_pane_window": [
     255,
     255,
     255
@@ -5869,6 +6629,11 @@
     0,
     0
   ],
+  "mcwwindows:red_mosaic_glass_pane": [
+    255,
+    0,
+    0
+  ],
   "chipped:circular_gray_stained_glass": [
     136,
     136,
@@ -5879,9 +6644,29 @@
     102,
     187
   ],
+  "mcwwindows:birch_pane_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:spruce_four_window": [
+    255,
+    255,
+    255
+  ],
   "additional_lights:al_lamp_glass": [
     255,
     255,
+    255
+  ],
+  "mcwwindows:red_mosaic_glass": [
+    255,
+    0,
+    0
+  ],
+  "mcwwindows:blue_mosaic_glass": [
+    0,
+    0,
     255
   ],
   "chipped:fancy_black_stained_glass_pane": [
@@ -5913,6 +6698,11 @@
     136,
     68,
     17
+  ],
+  "mcwwindows:dark_oak_window": [
+    255,
+    255,
+    255
   ],
   "storagedelight:glass_cherry_cabinet": [
     255,
@@ -5994,6 +6784,11 @@
     255,
     0
   ],
+  "mcwwindows:green_mosaic_glass_pane": [
+    0,
+    255,
+    0
+  ],
   "railways:white_two_pane_locometal_window": [
     255,
     255,
@@ -6029,6 +6824,11 @@
     0,
     255
   ],
+  "mcwwindows:stripped_dark_oak_log_window": [
+    255,
+    255,
+    255
+  ],
   "patternedglass:magenta_patterned_glass": [
     255,
     0,
@@ -6045,6 +6845,11 @@
     0
   ],
   "deeperdarker:soundproof_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:crimson_stem_four_window": [
     255,
     255,
     255
@@ -6219,6 +7024,11 @@
     102,
     187
   ],
+  "mcwwindows:prismarine_four_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_dnp_red": [
     255,
     0,
@@ -6268,6 +7078,11 @@
     255,
     255,
     255
+  ],
+  "mcwwindows:light_gray_mosaic_glass": [
+    136,
+    136,
+    136
   ],
   "storagedelight:glass_spruce_cabinet": [
     255,
@@ -6369,6 +7184,11 @@
     255,
     255
   ],
+  "mcwwindows:warped_pane_window": [
+    255,
+    255,
+    255
+  ],
   "botania:mana_glass": [
     255,
     255,
@@ -6385,6 +7205,16 @@
     255
   ],
   "pyrite:glow_framed_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:oak_window2": [
+    255,
+    255,
+    255
+  ],
+  "mcwdoors:crimson_barn_glass_door": [
     255,
     255,
     255
@@ -6499,6 +7329,11 @@
     255,
     255
   ],
+  "mcwwindows:bricks_window2": [
+    255,
+    255,
+    255
+  ],
   "windowlogging:window_in_a_block": [
     255,
     255,
@@ -6507,6 +7342,11 @@
   "quark:light_blue_framed_glass_pane": [
     0,
     0,
+    255
+  ],
+  "mcwdoors:acacia_barn_glass_door": [
+    255,
+    255,
     255
   ],
   "enderio:clear_glass_brown": [
@@ -6525,6 +7365,11 @@
     17
   ],
   "chipped:oak_snowflake_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:stone_window2": [
     255,
     255,
     255
@@ -6554,6 +7399,11 @@
     34,
     255
   ],
+  "mcwwindows:stripped_cherry_pane_window": [
+    255,
+    255,
+    255
+  ],
   "chipped:tiled_yellow_stained_glass": [
     255,
     255,
@@ -6562,6 +7412,16 @@
   "enderio:clear_glass_dnm_magenta": [
     255,
     0,
+    255
+  ],
+  "mcwdoors:bamboo_bark_glass_door": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:acacia_window": [
+    255,
+    255,
     255
   ],
   "atlantis:gray_sea_glass_stairs": [
@@ -6601,6 +7461,11 @@
   ],
   "atlantis:cyan_sea_glass_stairs": [
     0,
+    255,
+    255
+  ],
+  "mcwwindows:stripped_oak_log_window2": [
+    255,
     255,
     255
   ],
@@ -6695,6 +7560,11 @@
     255
   ],
   "chipped:glass_dark_oak_door": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:oak_plank_window2": [
     255,
     255,
     255
@@ -6794,6 +7664,11 @@
     255,
     255
   ],
+  "mcwwindows:pink_mosaic_glass": [
+    255,
+    102,
+    187
+  ],
   "atlantis:orange_sea_glass": [
     255,
     102,
@@ -6860,6 +7735,11 @@
     0
   ],
   "minecraft:white_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:prismarine_window2": [
     255,
     255,
     255
@@ -6949,12 +7829,27 @@
     255,
     255
   ],
+  "mcwwindows:andesite_pane_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_em": [
     255,
     255,
     255
   ],
   "railways:vermilion_single_pane_locometal_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwdoors:warped_stem_glass_door": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:birch_plank_four_window": [
     255,
     255,
     255
@@ -6994,6 +7889,11 @@
     0,
     255
   ],
+  "mcwwindows:acacia_plank_four_window": [
+    255,
+    255,
+    255
+  ],
   "diamethysts:diamethyst_glass": [
     170,
     34,
@@ -7014,6 +7914,11 @@
     255,
     255
   ],
+  "mcwwindows:acacia_plank_window2": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_dna_gray": [
     136,
     136,
@@ -7027,6 +7932,11 @@
   "chipped:woven_blue_stained_glass": [
     0,
     0,
+    255
+  ],
+  "mcwwindows:stripped_spruce_pane_window": [
+    255,
+    255,
     255
   ],
   "glassential:glass_redstone": [
@@ -7063,6 +7973,11 @@
     255,
     255,
     255
+  ],
+  "mcwwindows:orange_mosaic_glass": [
+    255,
+    102,
+    17
   ],
   "enderio:clear_glass_dm_lime": [
     187,
@@ -7129,6 +8044,11 @@
     136,
     136
   ],
+  "mcwwindows:stripped_warped_stem_window2": [
+    255,
+    255,
+    255
+  ],
   "atlantis:cyan_patterned_sea_glass_button": [
     0,
     255,
@@ -7156,6 +8076,11 @@
   ],
   "enderio:clear_glass_na_cyan": [
     0,
+    255,
+    255
+  ],
+  "mcwwindows:quartz_four_window": [
+    255,
     255,
     255
   ],
@@ -7244,7 +8169,17 @@
     102,
     187
   ],
+  "mcwwindows:stripped_spruce_log_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:spruce_plank_pane_window": [
     255,
     255,
     255
@@ -7289,9 +8224,19 @@
     0,
     0
   ],
+  "mcwwindows:oak_pane_window": [
+    255,
+    255,
+    255
+  ],
   "opalescence:unpleasant_opal_glass": [
     255,
     255,
+    255
+  ],
+  "mcwwindows:purple_mosaic_glass_pane": [
+    170,
+    34,
     255
   ],
   "atlantis:light_gray_patterned_sea_glass": [
@@ -7409,6 +8354,21 @@
     255,
     255
   ],
+  "mcwdoors:oak_bark_glass_door": [
+    255,
+    255,
+    255
+  ],
+  "mcwdoors:acacia_glass_door": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:stripped_oak_pane_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_ea_green": [
     0,
     255,
@@ -7454,6 +8414,11 @@
     0,
     0
   ],
+  "mcwwindows:crimson_stem_window2": [
+    255,
+    255,
+    255
+  ],
   "chipped:arched_cyan_stained_glass_pillar": [
     0,
     255,
@@ -7480,6 +8445,11 @@
     255
   ],
   "bigreactors:reinforced_turbineglass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:acacia_plank_window": [
     255,
     255,
     255
@@ -7536,6 +8506,11 @@
   ],
   "chipped:small_cyan_stained_glass_pane": [
     0,
+    255,
+    255
+  ],
+  "mcwwindows:one_way_glass_pane": [
+    255,
     255,
     255
   ],
@@ -7654,6 +8629,11 @@
     0,
     255
   ],
+  "mcwwindows:crimson_planks_window2": [
+    255,
+    255,
+    255
+  ],
   "betternether:quartz_glass": [
     255,
     255,
@@ -7734,6 +8714,11 @@
     255,
     0
   ],
+  "mcwwindows:jungle_plank_four_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_np_red": [
     255,
     0,
@@ -7763,6 +8748,11 @@
     255,
     102,
     187
+  ],
+  "mcwwindows:birch_window": [
+    255,
+    255,
+    255
   ],
   "create:framed_glass": [
     255,
@@ -7919,6 +8909,11 @@
     136,
     136
   ],
+  "mcwwindows:light_blue_mosaic_glass": [
+    0,
+    0,
+    255
+  ],
   "xycraft_world:glass_viewer_rgb_black": [
     0,
     0,
@@ -7927,6 +8922,11 @@
   "luminousblocks:luminous_blue_stained_glass_pane": [
     0,
     0,
+    255
+  ],
+  "mcwdoors:mangrove_glass_door": [
+    255,
+    255,
     255
   ],
   "atlantis:green_patterned_sea_glass": [
@@ -8049,6 +9049,11 @@
     255,
     255
   ],
+  "mcwdoors:birch_barn_glass_door": [
+    255,
+    255,
+    255
+  ],
   "chipped:vertical_stiped_black_stained_glass_pane": [
     0,
     0,
@@ -8109,6 +9114,11 @@
     255,
     255
   ],
+  "mcwwindows:metal_pane_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_m_cyan": [
     0,
     255,
@@ -8149,6 +9159,16 @@
     255,
     255
   ],
+  "mcwwindows:stone_four_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:granite_window": [
+    255,
+    255,
+    255
+  ],
   "sundries:tan_stained_glass": [
     255,
     255,
@@ -8160,6 +9180,11 @@
     255
   ],
   "storagedelight:acacia_cabinet_with_glass_doors": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:sandstone_window2": [
     255,
     255,
     255
@@ -8239,10 +9264,25 @@
     0,
     0
   ],
+  "mcwwindows:crimson_planks_window": [
+    255,
+    255,
+    255
+  ],
   "sundries:light_gray_wrought_iron_glass": [
     136,
     136,
     136
+  ],
+  "mcwwindows:magenta_mosaic_glass": [
+    255,
+    0,
+    255
+  ],
+  "mcwwindows:stripped_mangrove_log_window": [
+    255,
+    255,
+    255
   ],
   "enderio:clear_glass_na_black": [
     0,
@@ -8269,10 +9309,20 @@
     255,
     255
   ],
+  "mcwwindows:diorite_window": [
+    255,
+    255,
+    255
+  ],
   "atlantis:green_patterned_sea_glass_stairs": [
     0,
     255,
     0
+  ],
+  "mcwwindows:stripped_acacia_log_window": [
+    255,
+    255,
+    255
   ],
   "valhelsia_structures:black_metal_framed_glass_pane": [
     0,
@@ -8394,6 +9444,16 @@
     102,
     187
   ],
+  "mcwwindows:stripped_spruce_log_four_window": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:stripped_oak_log_four_window": [
+    255,
+    255,
+    255
+  ],
   "xycraft_world:glass_viewer_glowing_clear": [
     255,
     255,
@@ -8459,6 +9519,11 @@
     0,
     0
   ],
+  "mcwwindows:cyan_mosaic_glass": [
+    0,
+    255,
+    255
+  ],
   "chipped:fancy_orange_stained_glass": [
     255,
     102,
@@ -8514,6 +9579,16 @@
     0,
     0
   ],
+  "mcwwindows:blackstone_pane_window": [
+    0,
+    0,
+    0
+  ],
+  "mcwdoors:metal_windowed_door": [
+    255,
+    255,
+    255
+  ],
   "chipped:clear_leaded_glass_pane": [
     255,
     255,
@@ -8527,6 +9602,11 @@
   "enderio:clear_glass_enm_blue": [
     0,
     0,
+    255
+  ],
+  "mcwwindows:dark_prismarine_four_window": [
+    255,
+    255,
     255
   ],
   "sundries:green_wrought_iron_glass": [
@@ -8639,6 +9719,11 @@
     136,
     136
   ],
+  "mcwdoors:spruce_bark_glass_door": [
+    255,
+    255,
+    255
+  ],
   "pyrite:gray_framed_glass_pane": [
     136,
     136,
@@ -8692,6 +9777,11 @@
   "chipped:circular_light_blue_stained_glass_pane": [
     0,
     0,
+    255
+  ],
+  "mcwwindows:quartz_pane_window": [
+    255,
+    255,
     255
   ],
   "luminousblocks:luminous_cyan_stained_glass": [
@@ -8779,6 +9869,11 @@
     0,
     255
   ],
+  "mcwwindows:brown_mosaic_glass": [
+    136,
+    68,
+    17
+  ],
   "enderio:clear_glass_da_white": [
     255,
     255,
@@ -8793,6 +9888,11 @@
     255,
     0,
     0
+  ],
+  "mcwdoors:bamboo_glass_door": [
+    255,
+    255,
+    255
   ],
   "pyrite:framed_glass_pane": [
     255,
@@ -8899,6 +9999,16 @@
     136,
     136
   ],
+  "mcwdoors:mangrove_barn_glass_door": [
+    255,
+    255,
+    255
+  ],
+  "mcwtrpdoors:cherry_glass_trapdoor": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_ena_light_blue": [
     0,
     0,
@@ -8915,6 +10025,11 @@
     187
   ],
   "betterblockz:tintedglass_blockz_0": [
+    255,
+    255,
+    255
+  ],
+  "mcwdoors:spruce_glass_door": [
     255,
     255,
     255
@@ -9004,6 +10119,11 @@
     0,
     0
   ],
+  "mcwwindows:white_mosaic_glass_pane": [
+    255,
+    255,
+    255
+  ],
   "sundries:navy_stained_glass": [
     255,
     255,
@@ -9084,6 +10204,11 @@
     255,
     255
   ],
+  "mcwwindows:sandstone_window": [
+    255,
+    255,
+    255
+  ],
   "chipped:circular_light_blue_stained_glass": [
     0,
     0,
@@ -9099,8 +10224,18 @@
     255,
     255
   ],
+  "mcwtrpdoors:dark_oak_glass_trapdoor": [
+    255,
+    255,
+    255
+  ],
   "chipped:raster_cyan_stained_glass_pane": [
     0,
+    255,
+    255
+  ],
+  "mcwwindows:stripped_jungle_log_window": [
+    255,
     255,
     255
   ],
@@ -9204,6 +10339,11 @@
     0,
     0
   ],
+  "mcwwindows:dark_oak_plank_window2": [
+    255,
+    255,
+    255
+  ],
   "chipped:woven_white_stained_glass_pane": [
     255,
     255,
@@ -9274,6 +10414,11 @@
     255,
     0
   ],
+  "mcwwindows:yellow_mosaic_glass_pane": [
+    255,
+    255,
+    0
+  ],
   "chipped:woven_light_gray_stained_glass": [
     136,
     136,
@@ -9307,6 +10452,11 @@
   "luminousblocks:luminous_light_blue_stained_glass": [
     0,
     0,
+    255
+  ],
+  "mcwwindows:birch_window2": [
+    255,
+    255,
     255
   ],
   "silentgems:ammolite_glass": [
@@ -9378,6 +10528,11 @@
     255,
     255,
     0
+  ],
+  "mcwwindows:oak_window": [
+    255,
+    255,
+    255
   ],
   "mo_glass:cyan_stained_glass_slab": [
     0,
@@ -9534,6 +10689,16 @@
     255,
     255
   ],
+  "mcwdoors:birch_glass_door": [
+    255,
+    255,
+    255
+  ],
+  "mcwdoors:cherry_bark_glass_door": [
+    255,
+    255,
+    255
+  ],
   "ultramarine:stone_flower_window": [
     255,
     255,
@@ -9554,12 +10719,22 @@
     255,
     0
   ],
+  "mcwwindows:stripped_cherry_log_four_window": [
+    255,
+    255,
+    255
+  ],
   "chipped:classic_windowed_oak_trapdoor": [
     255,
     255,
     255
   ],
   "naturalist:azure_froglass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:dark_oak_plank_window": [
     255,
     255,
     255
@@ -9580,6 +10755,11 @@
     0
   ],
   "chipped:tile_windowed_birch_door": [
+    255,
+    255,
+    255
+  ],
+  "mcwbridges:glass_bridge_pier": [
     255,
     255,
     255
@@ -9668,6 +10848,11 @@
     136,
     68,
     17
+  ],
+  "mcwwindows:mangrove_plank_window": [
+    255,
+    255,
+    255
   ],
   "enderio:clear_glass_dnm_cyan": [
     0,
@@ -9839,6 +11024,11 @@
     0,
     0
   ],
+  "mcwwindows:cherry_plank_window2": [
+    255,
+    255,
+    255
+  ],
   "patternedglass:orange_patterned_glass_pane": [
     255,
     102,
@@ -9847,6 +11037,11 @@
   "glassential:magenta_glass_door": [
     255,
     0,
+    255
+  ],
+  "mcwwindows:dark_prismarine_pane_window": [
+    255,
+    255,
     255
   ],
   "securitycraft:reinforced_cyan_stained_glass_pane": [
@@ -10034,6 +11229,11 @@
     0,
     0
   ],
+  "mcwwindows:stripped_crimson_pane_window": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_ea_purple": [
     170,
     34,
@@ -10114,6 +11314,11 @@
     34,
     255
   ],
+  "mcwwindows:stripped_crimson_stem_window2": [
+    255,
+    255,
+    255
+  ],
   "atlantis:brown_patterned_sea_glass_wall": [
     136,
     68,
@@ -10123,6 +11328,11 @@
     136,
     136,
     136
+  ],
+  "mcwwindows:stripped_warped_stem_four_window": [
+    255,
+    255,
+    255
   ],
   "enderio:clear_glass_p_blue": [
     0,
@@ -10174,6 +11384,11 @@
     102,
     17
   ],
+  "mcwwindows:dark_prismarine_window2": [
+    255,
+    255,
+    255
+  ],
   "glassential:glass_ethereal_pane": [
     255,
     255,
@@ -10203,6 +11418,11 @@
     255,
     102,
     187
+  ],
+  "mcwdoors:jungle_barn_glass_door": [
+    255,
+    255,
+    255
   ],
   "chipped:arched_blue_stained_glass_pillar": [
     0,
@@ -10274,6 +11494,11 @@
     255,
     0
   ],
+  "mcwdoors:dark_oak_glass_door": [
+    255,
+    255,
+    255
+  ],
   "sundries:pastel_blue_stained_glass": [
     0,
     0,
@@ -10303,6 +11528,11 @@
     0,
     0,
     0
+  ],
+  "mcwtrpdoors:acacia_glass_trapdoor": [
+    255,
+    255,
+    255
   ],
   "pyrite:cyan_framed_glass_pane": [
     0,
@@ -10389,6 +11619,11 @@
     255,
     255
   ],
+  "mcwwindows:metal_four_window": [
+    255,
+    255,
+    255
+  ],
   "valhelsia_structures:yellow_metal_framed_glass": [
     255,
     255,
@@ -10402,6 +11637,11 @@
   "enderio:clear_glass_dnp_magenta": [
     255,
     0,
+    255
+  ],
+  "mcwwindows:jungle_window": [
+    255,
+    255,
     255
   ],
   "atlantis:black_patterned_sea_glass_stairs": [
@@ -10432,6 +11672,11 @@
   "betternether:blue_obsidian_glass_pane": [
     0,
     0,
+    255
+  ],
+  "mcwtrpdoors:spruce_glass_trapdoor": [
+    255,
+    255,
     255
   ],
   "securitycraft:reinforced_purple_stained_glass_pane": [
@@ -10474,6 +11719,11 @@
     255,
     0
   ],
+  "mcwwindows:stripped_cherry_log_window": [
+    255,
+    255,
+    255
+  ],
   "chipped:windowed_acacia_trapdoor": [
     255,
     255,
@@ -10504,6 +11754,11 @@
     0,
     0
   ],
+  "mcwwindows:yellow_mosaic_glass": [
+    255,
+    255,
+    0
+  ],
   "chipped:ornate_blue_stained_glass_pane": [
     0,
     0,
@@ -10517,6 +11772,11 @@
   "patternedglass:purple_patterned_glass": [
     170,
     34,
+    255
+  ],
+  "mcwwindows:andesite_window": [
+    255,
+    255,
     255
   ],
   "redeco:spyglass_stand": [
@@ -10538,6 +11798,11 @@
     255,
     102,
     187
+  ],
+  "mcwwindows:warped_planks_window": [
+    255,
+    255,
+    255
   ],
   "glassential:red_glass_door": [
     255,
@@ -10605,6 +11870,11 @@
     255
   ],
   "valhelsia_structures:white_metal_framed_glass": [
+    255,
+    255,
+    255
+  ],
+  "mcwwindows:deepslate_pane_window": [
     255,
     255,
     255
@@ -10693,6 +11963,11 @@
     255,
     255,
     255
+  ],
+  "mcwwindows:orange_mosaic_glass_pane": [
+    255,
+    102,
+    17
   ],
   "railways:royal_blue_two_pane_locometal_window": [
     0,
