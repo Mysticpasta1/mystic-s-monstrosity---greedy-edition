@@ -23,6 +23,7 @@
   "dontShow": [
     "minecraft:plains_village",
     "minecraft:desert_village",
-    "integrated_villages:airship_village"
+    "integrated_villages:airship_village",
+    "ebwizardry:earth_shrine"
   ]
 }

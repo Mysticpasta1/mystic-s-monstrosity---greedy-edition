@@ -55,6 +55,17 @@
         "value": 100
       }
     },
+    "elixirum:generic.tenebrae_mastery": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "tetra:ability_damage": {
       "enabled": false,
       "min": {
@@ -110,6 +121,17 @@
         "value": 10
       }
     },
+    "elixirum:generic.venenum_mastery": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "mna_attributes:affinity_earth": {
       "enabled": false,
       "min": {
@@ -148,6 +170,17 @@
       "min": {
         "default": 0,
         "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "elixirum:generic.fortuna_resistance": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
       },
       "max": {
         "default": 1024,
@@ -196,6 +229,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "elixirum:generic.crescere_mastery": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "irons_spellbooks:cast_time_reduction": {
@@ -264,6 +308,39 @@
         "value": 2048
       }
     },
+    "elixirum:generic.venenum_resistance": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "even_more_magic:fire_magic_cooldown_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 95,
+        "value": 95
+      }
+    },
+    "elixirum:generic.potion_mastery": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "mna_attributes:spell_duration_multiplier": {
       "enabled": false,
       "min": {
@@ -306,6 +383,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "elixirum:generic.mutatio_resistance": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "irons_spellbooks:holy_spell_power": {
@@ -385,6 +473,17 @@
         "value": 1024
       }
     },
+    "even_more_magic:plant_magic_cooldown_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 95,
+        "value": 95
+      }
+    },
     "xycraft_machines:hover_flight": {
       "enabled": false,
       "min": {
@@ -416,6 +515,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "even_more_magic:water_magic_cooldown_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 95,
+        "value": 95
       }
     },
     "animus:bonus_demon_will": {
@@ -473,6 +583,17 @@
         "value": 30
       }
     },
+    "even_more_magic:air_magic_cooldown_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 95,
+        "value": 95
+      }
+    },
     "staminafortweakers:generic.climb_speed": {
       "enabled": false,
       "min": {
@@ -515,6 +636,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "even_more_magic:destruction": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000000,
+        "value": 1000000
       }
     },
     "irons_spellbooks:lightning_spell_power": {
@@ -704,6 +836,17 @@
         "value": 1024
       }
     },
+    "elixirum:generic.medela_mastery": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "mna_attributes:affinity_ender": {
       "enabled": false,
       "min": {
@@ -753,6 +896,17 @@
       "min": {
         "default": 0,
         "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "elixirum:generic.mutatio_mastery": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
       },
       "max": {
         "default": 1024,
@@ -847,6 +1001,17 @@
         "value": 1200
       }
     },
+    "elixirum:generic.anima_resistance": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "irons_spellbooks:fire_spell_power": {
       "enabled": false,
       "min": {
@@ -863,6 +1028,17 @@
       "min": {
         "default": 0,
         "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "elixirum:generic.corpus_mastery": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
       },
       "max": {
         "default": 1024,
@@ -1221,6 +1397,17 @@
         "value": 120000
       }
     },
+    "even_more_magic:agility": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000000,
+        "value": 1000000
+      }
+    },
     "malum:spirit_spoils": {
       "enabled": false,
       "min": {
@@ -1474,6 +1661,28 @@
         "value": 1
       }
     },
+    "even_more_magic:knowledge": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000000,
+        "value": 1000000
+      }
+    },
+    "elixirum:generic.crescere_resistance": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "attributeslib:life_steal": {
       "enabled": false,
       "min": {
@@ -1505,6 +1714,17 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "elixirum:generic.potion_resistance": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "soulsweapons:base_posture_increase": {
@@ -1793,6 +2013,17 @@
         "value": 100
       }
     },
+    "elixirum:generic.medela_resistance": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "l2damagetracker:fire_damage": {
       "enabled": false,
       "min": {
@@ -1912,6 +2143,17 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "elixirum:generic.anima_mastery": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "ebwizardry:cast.duration": {
@@ -2288,6 +2530,17 @@
         "value": 2048
       }
     },
+    "even_more_magic:summoning": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000000,
+        "value": 1000000
+      }
+    },
     "mna_attributes:spell_damage": {
       "enabled": false,
       "min": {
@@ -2352,6 +2605,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "even_more_magic:restoration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000000,
+        "value": 1000000
       }
     },
     "animus:bonus_sacrifice": {
@@ -2541,6 +2805,17 @@
         "value": 1024
       }
     },
+    "even_more_magic:earth_magic_cooldown_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 95,
+        "value": 95
+      }
+    },
     "turtlecore:ranged_damage_bonus": {
       "enabled": false,
       "min": {
@@ -2627,6 +2902,17 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "elixirum:generic.corpus_resistance": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "tetra:draw_speed": {
@@ -2726,6 +3012,17 @@
       "max": {
         "default": 512,
         "value": 512
+      }
+    },
+    "elixirum:generic.fortuna_mastery": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "l2damagetracker:crit_rate": {
@@ -2880,6 +3177,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "elixirum:generic.tenebrae_resistance": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "tinkersjewelry:trade": {

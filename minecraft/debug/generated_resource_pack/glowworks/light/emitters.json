@@ -69,6 +69,11 @@
     0,
     255
   ],
+  "apotheotic_additions:luminous_glass_pane": [
+    255,
+    255,
+    255
+  ],
   "ror:green_neon_onyx_block": [
     0,
     255,
@@ -3010,6 +3015,11 @@
     255
   ],
   "theurgy:pyromantic_brazier": [
+    255,
+    255,
+    255
+  ],
+  "forbidden_arcanus:arcane_dragon_egg": [
     255,
     255,
     255
@@ -6654,6 +6664,11 @@
     255,
     255
   ],
+  "forbidden_arcanus:deorum_lantern": [
+    255,
+    255,
+    255
+  ],
   "swampier_swamps:gas_lamp": [
     255,
     255,
@@ -8164,6 +8179,11 @@
     0,
     255
   ],
+  "forbidden_arcanus:deorum_soul_lantern": [
+    0,
+    0,
+    255
+  ],
   "dazzle:black_polished_shroomlight": [
     0,
     0,
@@ -9008,6 +9028,11 @@
     136,
     136,
     136
+  ],
+  "even_more_magic:completely_glowing_crystal": [
+    255,
+    255,
+    255
   ],
   "xycraft_world:lamp_pillar_black": [
     0,
@@ -13379,6 +13404,11 @@
     255,
     255
   ],
+  "ostrea:aragonite_shard": [
+    255,
+    255,
+    255
+  ],
   "projectexpansion:orange_collector": [
     255,
     102,
@@ -13640,6 +13670,11 @@
     255
   ],
   "pyrite:star_terracotta": [
+    255,
+    255,
+    255
+  ],
+  "even_more_magic:sunrise_fairy_lantern": [
     255,
     255,
     255
@@ -17489,6 +17524,11 @@
     34,
     255
   ],
+  "ostrea:aragonite_cluster": [
+    255,
+    255,
+    255
+  ],
   "truedarkness:prismarinum_coral_darkness": [
     255,
     255,
@@ -18465,6 +18505,11 @@
     255
   ],
   "minecraft:end_rod": [
+    255,
+    255,
+    255
+  ],
+  "apotheotic_additions:luminous_glass": [
     255,
     255,
     255
@@ -21214,6 +21259,11 @@
     255,
     0
   ],
+  "even_more_magic:meteoirite_enchantinuuxxreenatiuurutunium_powder_ore": [
+    255,
+    255,
+    255
+  ],
   "diamethysts:diamethyst_glass": [
     170,
     34,
@@ -22903,6 +22953,11 @@
     153,
     204,
     204
+  ],
+  "even_more_magic:ghostly_stone_lantern": [
+    255,
+    255,
+    255
   ],
   "rechiseled:glowstone_brick_paving_slab_connecting": [
     255,
@@ -25722,6 +25777,11 @@
   "bc_core:tinted_water_block_138": [
     255,
     255,
+    255
+  ],
+  "ostrea:soul_table": [
+    0,
+    0,
     255
   ],
   "tombstone:decorative_grave_simple": [

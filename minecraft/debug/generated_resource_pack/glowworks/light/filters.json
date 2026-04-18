@@ -49,6 +49,11 @@
     255,
     255
   ],
+  "apotheotic_additions:luminous_glass_pane": [
+    255,
+    255,
+    255
+  ],
   "atlantis:black_patterned_sea_glass_slab": [
     0,
     0,
@@ -80,6 +85,11 @@
     0
   ],
   "chipped:glass_cherry_door": [
+    255,
+    255,
+    255
+  ],
+  "forbidden_arcanus:deorum_glass": [
     255,
     255,
     255
@@ -2929,6 +2939,11 @@
     0,
     255
   ],
+  "forbidden_arcanus:runic_glass_pane": [
+    255,
+    255,
+    255
+  ],
   "patternedglass:red_patterned_glass_pane": [
     255,
     0,
@@ -3007,6 +3022,11 @@
   "minecraft:blue_stained_glass_pane": [
     0,
     0,
+    255
+  ],
+  "apotheotic_additions:luminous_glass": [
+    255,
+    255,
     255
   ],
   "pyrite:glow_framed_glass_pane": [
@@ -5669,6 +5689,11 @@
     255,
     255
   ],
+  "elixirum:glass_cauldron": [
+    255,
+    255,
+    255
+  ],
   "mo_glass:pink_stained_glass_stairs": [
     255,
     102,
@@ -7879,6 +7904,11 @@
     255,
     255
   ],
+  "forbidden_arcanus:runic_glass": [
+    255,
+    255,
+    255
+  ],
   "chipped:circular_green_stained_glass_pane": [
     0,
     255,
@@ -8949,6 +8979,11 @@
     0,
     255
   ],
+  "forbidden_arcanus:deorum_glass_pane": [
+    255,
+    255,
+    255
+  ],
   "betterblockz:tintedglass_blockz_9": [
     255,
     255,
@@ -9052,6 +9087,11 @@
   "chipped:circular_light_blue_stained_glass": [
     0,
     0,
+    255
+  ],
+  "forbidden_arcanus:dark_runic_glass": [
+    255,
+    255,
     255
   ],
   "chipped:oak_snowflake_glass_pane": [
@@ -9578,6 +9618,11 @@
     255,
     0,
     0
+  ],
+  "forbidden_arcanus:dark_runic_glass_pane": [
+    255,
+    255,
+    255
   ],
   "valhelsia_structures:green_metal_framed_glass": [
     0,

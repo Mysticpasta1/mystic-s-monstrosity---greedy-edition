@@ -7448,3 +7448,31 @@
 	[rftoolsutility.blocks]
 		environmental_controller = "[255,255,255]"
 
+[apotheotic_additions]
+
+	[apotheotic_additions.blocks]
+		luminous_glass = "[255,255,255]"
+		luminous_glass_pane = "[255,255,255]"
+
+[even_more_magic]
+
+	[even_more_magic.blocks]
+		ghostly_stone_lantern = "[255,255,255]"
+		completely_glowing_crystal = "[255,255,255]"
+		meteoirite_enchantinuuxxreenatiuurutunium_powder_ore = "[255,255,255]"
+		sunrise_fairy_lantern = "[255,255,255]"
+
+[ostrea]
+
+	[ostrea.blocks]
+		aragonite_cluster = "[255,255,255]"
+		aragonite_shard = "[255,255,255]"
+		soul_table = "[0,0,255]"
+
+[forbidden_arcanus]
+
+	[forbidden_arcanus.blocks]
+		deorum_lantern = "[255,255,255]"
+		deorum_soul_lantern = "[0,0,255]"
+		arcane_dragon_egg = "[255,255,255]"
+

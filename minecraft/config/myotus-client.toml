@@ -1,0 +1,5 @@
+
+[tab]
+	#Whether to open the side panel when the terminal is opened.
+	openSidePanel = false
+
