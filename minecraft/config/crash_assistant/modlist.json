@@ -6888,13 +6888,13 @@
     "curseForgeHash": 4112178156,
     "modrinthHash": "494997fd415c96f76c1e02cb8359b76d527fbf02"
   },
-  "jei-1.20.1-forge-15.20.0.129-async-10.jar": {
-    "jarName": "jei-1.20.1-forge-15.20.0.129-async-10.jar",
+  "jei-1.20.1-forge-15.20.0.129-async-12.jar": {
+    "jarName": "jei-1.20.1-forge-15.20.0.129-async-12.jar",
     "modId": "jei",
     "name": "Just Enough Items",
     "version": "15.20.0.9999",
-    "curseForgeHash": 4243038515,
-    "modrinthHash": "7cad210960ad66cb516a16d6cb36d28234d5f28c"
+    "curseForgeHash": 1939909506,
+    "modrinthHash": "6897de3144bc815b793e790f5eb7ec6edfebc6c3"
   },
   "jeiintegration_1.20.1-10.0.0.jar": {
     "jarName": "jeiintegration_1.20.1-10.0.0.jar",

@@ -2805,3 +2805,8 @@
 		glass_bridge_pier = "[255,255,255]"
 		glass_bridge_stair = "[255,255,255]"
 
+[evolvedmekanism]
+
+	[evolvedmekanism.blocks]
+		molten_glass = "[255,255,255]"
+

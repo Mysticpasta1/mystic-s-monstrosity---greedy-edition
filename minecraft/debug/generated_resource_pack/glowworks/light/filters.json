@@ -4454,6 +4454,11 @@
     0,
     255
   ],
+  "evolvedmekanism:molten_glass": [
+    255,
+    255,
+    255
+  ],
   "pyrite:purple_framed_glass_pane": [
     170,
     34,
