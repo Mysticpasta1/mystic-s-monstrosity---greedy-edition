@@ -24,6 +24,7 @@
     "minecraft:plains_village",
     "minecraft:desert_village",
     "integrated_villages:airship_village",
-    "ebwizardry:earth_shrine"
+    "ebwizardry:earth_shrine",
+    "valhelsia_structures:spawner_room"
   ]
 }

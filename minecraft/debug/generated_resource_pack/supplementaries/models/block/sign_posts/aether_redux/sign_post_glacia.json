@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "supplementaries:block/sign_posts/template",
-	"textures": {
-		"particle": "supplementaries:block/sign_posts/aether_redux/sign_post_glacia",
-		"sign": "supplementaries:block/sign_posts/aether_redux/sign_post_glacia"
-	}
-}

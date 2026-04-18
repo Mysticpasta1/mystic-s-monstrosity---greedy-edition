@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "supplementaries:item/sign_posts/habitat/sign_post_fairy_ring_mushroom"
-  }
-}

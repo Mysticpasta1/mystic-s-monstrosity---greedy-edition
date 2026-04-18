@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "amendments:block/signs/sign_wall",
-	"textures": {
-		"1": "amendments:block/signs/gardens_of_the_dead/sign_whistlecane",
-		"particle": "amendments:block/signs/gardens_of_the_dead/sign_whistlecane"
-	}
-}

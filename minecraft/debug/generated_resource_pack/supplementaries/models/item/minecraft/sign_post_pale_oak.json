@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "supplementaries:item/sign_posts/minecraft/sign_post_pale_oak"
-  }
-}

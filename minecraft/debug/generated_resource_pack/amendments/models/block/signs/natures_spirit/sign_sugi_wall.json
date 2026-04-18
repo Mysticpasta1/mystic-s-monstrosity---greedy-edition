@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "amendments:block/signs/sign_wall",
-	"textures": {
-		"1": "amendments:block/signs/natures_spirit/sign_sugi",
-		"particle": "amendments:block/signs/natures_spirit/sign_sugi"
-	}
-}

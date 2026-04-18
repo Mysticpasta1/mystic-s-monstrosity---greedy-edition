@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "supplementaries:block/sign_posts/template",
-	"textures": {
-		"particle": "supplementaries:block/sign_posts/deeperdarker/sign_post_bloom",
-		"sign": "supplementaries:block/sign_posts/deeperdarker/sign_post_bloom"
-	}
-}

@@ -1,7 +1,0 @@
-{
-	"parent": "supplementaries:block/item_shelf",
-	"textures": {
-		"0": "suppsquared:block/item_shelves/dawnoftimebuilder/charred_spruce",
-		"particle": "suppsquared:block/item_shelves/dawnoftimebuilder/charred_spruce"
-	}
-}
