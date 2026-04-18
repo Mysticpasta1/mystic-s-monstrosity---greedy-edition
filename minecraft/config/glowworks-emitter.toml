@@ -7559,8 +7559,3 @@
 		orange_tiny_string_lights = "[255,102,17]"
 		yellow_tiny_string_lights = "[255,255,0]"
 
-[sulfurcubed]
-
-	[sulfurcubed.blocks]
-		sulfur_fire = "[255,255,255]"
-
