@@ -5649,6 +5649,11 @@
     255,
     255
   ],
+  "galosphere:glow_berries_palladium_lattice": [
+    255,
+    255,
+    255
+  ],
   "silentgems:topaz_lamp_inverted_on": [
     255,
     255,
@@ -8539,11 +8544,6 @@
     255,
     255
   ],
-  "galosphere:monstrometer": [
-    255,
-    255,
-    255
-  ],
   "chipped:weathered_crying_obsidian": [
     255,
     0,
@@ -8960,6 +8960,11 @@
     0
   ],
   "betterblockz:cyberlight_blockz_8": [
+    255,
+    255,
+    255
+  ],
+  "galosphere:light_stand": [
     255,
     255,
     255
@@ -11407,6 +11412,11 @@
   "pyrite:glow_terracotta_bricks": [
     255,
     255,
+    255
+  ],
+  "galosphere:soul_light_stand": [
+    0,
+    0,
     255
   ],
   "snowyspirit:glow_lights_light_blue": [
@@ -19164,6 +19174,11 @@
     255,
     255
   ],
+  "galosphere:burrow_anchor": [
+    255,
+    255,
+    255
+  ],
   "botania:floating_rafflowsia": [
     255,
     255,
@@ -20108,6 +20123,11 @@
     0,
     255,
     0
+  ],
+  "galosphere:soul_chandelier": [
+    0,
+    0,
+    255
   ],
   "ars_nouveau:relay_collector": [
     255,
@@ -25909,6 +25929,11 @@
     255,
     0
   ],
+  "galosphere:opal_leaves": [
+    255,
+    255,
+    255
+  ],
   "nightlights:hanging_lights_cyan": [
     0,
     255,
@@ -29799,6 +29824,11 @@
     68,
     17
   ],
+  "galosphere:lichen_vines": [
+    255,
+    255,
+    255
+  ],
   "emextras:cosmic_dense_purifying_factory": [
     255,
     255,
@@ -32865,11 +32895,6 @@
     0
   ],
   "betterend:diorite_pedestal": [
-    255,
-    255,
-    255
-  ],
-  "galosphere:glow_berries_silver_lattice": [
     255,
     255,
     255

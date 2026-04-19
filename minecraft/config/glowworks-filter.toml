@@ -2513,17 +2513,6 @@
 		accelerator_casing_glass = "[255,255,255]"
 		target_chamber_casing_glass = "[255,255,255]"
 
-[elixirum]
-
-	[elixirum.blocks]
-		glass_cauldron = "[255,255,255]"
-
-[apotheotic_additions]
-
-	[apotheotic_additions.blocks]
-		luminous_glass = "[255,255,255]"
-		luminous_glass_pane = "[255,255,255]"
-
 [forbidden_arcanus]
 
 	[forbidden_arcanus.blocks]
@@ -2809,4 +2798,10 @@
 
 	[evolvedmekanism.blocks]
 		molten_glass = "[255,255,255]"
+
+[apotheotic_additions]
+
+	[apotheotic_additions.blocks]
+		luminous_glass = "[255,255,255]"
+		luminous_glass_pane = "[255,255,255]"
 
