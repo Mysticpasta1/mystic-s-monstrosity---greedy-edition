@@ -20,7 +20,6 @@
 		#Allow teleporting through a Wormhole P2P
 		wormholeP2PTeleportation = true
 		#Create immersive portals on wormhole p2ps. Expect visual glitches with shaders.
-		#You need to install additional library for this feature to work
 		immersiveP2PWormhole = false
 
 	[general.Machines]
@@ -31,6 +30,8 @@
 		wormholeEUP2PGT = true
 		#Allow Wormhole P2P to transfer EU to more than 1 output simultaneously
 		wormholeGoodEUP2PGT = false
+		#Allow Energy Exporter part to export EU if a GregTech battery is inserted
+		energyExporterGT = false
 
 	[general.Autobuilder]
 		#FE cost multiplier for Autobuilder
@@ -73,8 +74,6 @@
 		#Works only when penroseEuOutputEnabled is set to true.
 		#Default: ULV, LV, MV, HV, EV, IV, LuV, ZPM, UV, UHV, UEV, UIV, UXV, OpV, MAX
 		penroseGtTiers = ["ULV", "LV", "MV", "HV", "EV", "IV", "LuV", "ZPM", "UV", "UHV", "UEV", "UIV", "UXV", "OpV", "MAX"]
-		#Enable/disable Penrose Sphere entirely.
-		penroseSphereEnabled = true
 
 		[general.PenroseSphere.Meltdown]
 			#Enable/disable meltdown world effect (explosions + black hole field).
@@ -146,15 +145,13 @@
 	[general."Portable Spatial IO"]
 		#FE cost multiplier for Portable Spatial IO
 		#Range: 0 ~ 100
-		portableSpatialStorageCost = 5
+		nokiaCost = 5
 
 	[general.EnergyParts]
 		#Enable Energy Exporter
 		energyExporterEnabled = true
 		#Enable Energy Interface
 		energyInterfaceEnabled = true
-		#Allow Energy Exporter part to export EU if a GregTech battery is inserted
-		energyExporterGT = false
 
 	[general.P2PSpeeds]
 		#Extract speed for FE P2P (FE/t)
@@ -166,10 +163,4 @@
 		#Extract speed for Item P2P (items/t)
 		#Range: > 0
 		itemp2pSpeed = 16
-		#Enable/disable Extracting FE P2P tunnel entirely
-		fep2pEnabled = true
-		#Enable/disable Extracting Fluid P2P tunnel entirely
-		fluidp2pEnabled = true
-		#Enable/disable Extracting Item P2P tunnel entirely
-		itemp2pEnabled = true
 

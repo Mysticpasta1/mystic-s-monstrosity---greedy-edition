@@ -1,13 +1,13 @@
 {
-  "ars_elemental:stripped_yellow_archwood_log": [
-    255,
-    255,
-    0
-  ],
   "musings:circle_white_ring_magenta_bg": [
     255,
     0,
     255
+  ],
+  "ars_elemental:stripped_yellow_archwood_log": [
+    255,
+    255,
+    0
   ],
   "mcwlights:shroomlight_slab": [
     255,
@@ -67,11 +67,6 @@
   "additional_lights:al_wall_torch_magenta_wool": [
     255,
     0,
-    255
-  ],
-  "apotheotic_additions:luminous_glass_pane": [
-    255,
-    255,
     255
   ],
   "ror:green_neon_onyx_block": [
@@ -294,11 +289,6 @@
     0,
     255
   ],
-  "astral_mekanism:astral_metallurgic_infuser": [
-    255,
-    255,
-    255
-  ],
   "echovoids:pearl_lamp_white_sl": [
     255,
     255,
@@ -413,11 +403,6 @@
     255,
     255,
     0
-  ],
-  "astral_mekanism:infinite_multiversal_astral_energized_smelting_factory": [
-    255,
-    255,
-    255
   ],
   "mekanism:ultimate_fluid_tank": [
     255,
@@ -634,11 +619,6 @@
     255,
     255
   ],
-  "mcwholidays:white_garland_yellow_lights": [
-    255,
-    255,
-    0
-  ],
   "mysticsbiomes:cyan_frosted_candle_cake_purple": [
     170,
     34,
@@ -665,11 +645,6 @@
     17
   ],
   "aether_redux:sentry_pillar": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:overclocked_enriching_factory": [
     255,
     255,
     255
@@ -753,16 +728,6 @@
     255,
     255,
     255
-  ],
-  "astral_mekanism:astral_compact_fusion_reactor": [
-    255,
-    255,
-    255
-  ],
-  "mcwholidays:red_cube_string_lights": [
-    255,
-    0,
-    0
   ],
   "skinnedlanterns:ornament_orange_soul_lantern_block": [
     255,
@@ -914,20 +879,10 @@
     255,
     0
   ],
-  "mcwholidays:white_garland_purple_lights": [
-    170,
-    34,
-    255
-  ],
   "echovoids:red_end_rod": [
     255,
     0,
     0
-  ],
-  "mcwholidays:blue_cube_string_lights": [
-    0,
-    0,
-    255
   ],
   "simplylight:illuminant_black_block": [
     0,
@@ -979,11 +934,6 @@
     68,
     17
   ],
-  "mekanism:elite_alloying_factory": [
-    255,
-    255,
-    255
-  ],
   "deeperdarker:gloomy_grass": [
     255,
     255,
@@ -1008,11 +958,6 @@
     255,
     0,
     0
-  ],
-  "astral_mekanism:cosmic_dense_compact_tep": [
-    255,
-    255,
-    255
   ],
   "xycraft_world:aurey_block_matte_glowing_white": [
     255,
@@ -1094,11 +1039,6 @@
     102,
     17
   ],
-  "astral_mekanism:enchanted_ultimate_compact_fir": [
-    255,
-    255,
-    255
-  ],
   "undergarden:glitterkelp": [
     255,
     255,
@@ -1123,11 +1063,6 @@
     255,
     102,
     17
-  ],
-  "astral_mekanism:astral_fluid_infuser": [
-    255,
-    255,
-    255
   ],
   "botania:potted_pink_mushroom": [
     255,
@@ -1215,11 +1150,6 @@
     0
   ],
   "productivetrees:flickering_sun_stairs": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:quantum_injecting_factory": [
     255,
     255,
     255
@@ -1335,11 +1265,6 @@
     255
   ],
   "chipped:shroomlight_lantern": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:quantum_smelting_factory": [
     255,
     255,
     255
@@ -1469,19 +1394,9 @@
     255,
     255
   ],
-  "astral_mekanism:cosmic_dense_compact_fusion_reactor": [
-    255,
-    255,
-    255
-  ],
   "atlantis:aquatic_power_lamp": [
     255,
     255,
-    255
-  ],
-  "mcwholidays:purple_string_lights": [
-    170,
-    34,
     255
   ],
   "dazzle:white_lantern_analog_lamp": [
@@ -1535,11 +1450,6 @@
     136
   ],
   "botania:floating_bellethorn_chibi": [
-    255,
-    255,
-    255
-  ],
-  "emextras:cosmic_dense_infusing_factory": [
     255,
     255,
     255
@@ -1644,11 +1554,6 @@
     255,
     255
   ],
-  "compactmekanismmachines:compressed_wind_generator_x32": [
-    255,
-    255,
-    255
-  ],
   "betterblockz:cyberlight_bar_vertical_1": [
     255,
     255,
@@ -1698,11 +1603,6 @@
     255,
     102,
     17
-  ],
-  "reddensstonelantern:broad_stone_lantern_block_light": [
-    255,
-    255,
-    255
   ],
   "spelunkery:magenta_glowstick": [
     255,
@@ -1774,11 +1674,6 @@
     255,
     255
   ],
-  "astral_mekanism:basic_standard_compact_fusion_reactor": [
-    255,
-    255,
-    255
-  ],
   "mekanismadditions:black_plastic_glow_stairs": [
     0,
     0,
@@ -1792,6 +1687,11 @@
   "deep_aether:treasure_doorway_light_nimbus_pillar": [
     255,
     255,
+    255
+  ],
+  "swdm:pylon_magenta": [
+    255,
+    0,
     255
   ],
   "chipped:shimmering_sea_lantern": [
@@ -1814,20 +1714,15 @@
     255,
     0
   ],
-  "astral_mekanism:cosmic_gas_burning_generator": [
-    255,
-    255,
-    255
-  ],
   "deeperdarker:crystallized_amber": [
     255,
     255,
     255
   ],
-  "reddensstonelantern:thin_stone_lantern_top_light": [
+  "swdm:pylon_red": [
     255,
-    255,
-    255
+    0,
+    0
   ],
   "additional_lights:al_torch_mossy_stone_bricks": [
     255,
@@ -1873,16 +1768,6 @@
     255,
     255,
     0
-  ],
-  "astral_mekanism:essential_osmium_compressor": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:thermalizer": [
-    255,
-    255,
-    255
   ],
   "spelunkery:mushgloom_block": [
     255,
@@ -1969,11 +1854,6 @@
     255,
     255
   ],
-  "evolvedmekanism:overclocked_combining_factory": [
-    255,
-    255,
-    255
-  ],
   "pyrite:cyan_torch_lever": [
     0,
     255,
@@ -2003,11 +1883,6 @@
     255,
     255,
     255
-  ],
-  "mcwholidays:red_decorated_christmas_tree_top": [
-    255,
-    0,
-    0
   ],
   "thermal_extra:shellite": [
     255,
@@ -2054,11 +1929,6 @@
     0,
     255
   ],
-  "emextras:supreme_quantum_compressing_factory": [
-    255,
-    255,
-    255
-  ],
   "rechiseled:glowstone_smooth_slab_connecting": [
     255,
     255,
@@ -2077,11 +1947,6 @@
   "dazzle:light_blue_flare": [
     0,
     0,
-    255
-  ],
-  "emextras:supreme_alloying_factory": [
-    255,
-    255,
     255
   ],
   "diamethysts:large_diamethyst_bud": [
@@ -2149,11 +2014,6 @@
     0,
     0
   ],
-  "astral_mekanism:astral_gna": [
-    255,
-    255,
-    255
-  ],
   "the_bumblezone:luminescent_wax_channel_white": [
     255,
     255,
@@ -2199,22 +2059,7 @@
     255,
     255
   ],
-  "mcwholidays:colorful_decorated_christmas_tree_middle": [
-    255,
-    255,
-    255
-  ],
-  "mcwholidays:lit_smile_pumpkin": [
-    255,
-    255,
-    255
-  ],
   "createmetalwork:molten_aeternium": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:advanced_compact_fusion_reactor": [
     255,
     255,
     255
@@ -2279,11 +2124,6 @@
     255,
     255
   ],
-  "reddensstonelantern:smallnoproof_stone_lantern_light": [
-    255,
-    255,
-    255
-  ],
   "chipped:spiraled_magma_block": [
     255,
     255,
@@ -2297,11 +2137,6 @@
   "musings:circle_green_ring_blue_bg_flipping": [
     0,
     0,
-    255
-  ],
-  "astral_mekanism:astral_purification_chamber": [
-    255,
-    255,
     255
   ],
   "productivetrees:night_fuchsia_stripped_wood": [
@@ -2401,11 +2236,6 @@
   ],
   "nightlights:mushroom_cyan": [
     0,
-    255,
-    255
-  ],
-  "astral_mekanism:supreme_quantum_astral_energized_smelting_factory": [
-    255,
     255,
     255
   ],
@@ -2523,11 +2353,6 @@
     255,
     102,
     187
-  ],
-  "evolvedmekanism:quantum_combining_factory": [
-    255,
-    255,
-    255
   ],
   "tconstruct:molten_lumium_fluid": [
     255,
@@ -2744,25 +2569,10 @@
     255,
     255
   ],
-  "mcwholidays:green_string_lights": [
-    0,
-    255,
-    0
-  ],
   "musings:circle_cyan_ring_green_bg": [
     0,
     255,
     0
-  ],
-  "mcwholidays:white_wavy_garland_orange_lights": [
-    255,
-    102,
-    17
-  ],
-  "mekanismelements:radiation_irradiator": [
-    255,
-    255,
-    255
   ],
   "nightlights:fairy_lights_purple": [
     170,
@@ -2828,11 +2638,6 @@
     0,
     255,
     0
-  ],
-  "astral_mekanism:basic_standard_compact_fir": [
-    255,
-    255,
-    255
   ],
   "musings:circle_gray_ring_blue_bg": [
     0,
@@ -2989,11 +2794,6 @@
     255,
     255
   ],
-  "astral_mekanism:cosmic_dense_compact_naquadah_reactor": [
-    255,
-    255,
-    255
-  ],
   "betterend:terminite_bulb_lantern_pink": [
     255,
     102,
@@ -3094,6 +2894,11 @@
     255,
     255
   ],
+  "projectred_illumination:white_inverted_illumar_lamp": [
+    255,
+    255,
+    255
+  ],
   "toybox:toy_lamp": [
     255,
     255,
@@ -3107,11 +2912,6 @@
   "productivetrees:soul_tree_fence_gate": [
     0,
     0,
-    255
-  ],
-  "projectred_illumination:white_inverted_illumar_lamp": [
-    255,
-    255,
     255
   ],
   "the_bumblezone:string_curtain_blue": [
@@ -3244,11 +3044,6 @@
     0,
     255
   ],
-  "evolvedmekanism:overclocked_smelting_factory": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_magenta_ring_black_bg_flipping": [
     0,
     0,
@@ -3263,11 +3058,6 @@
     255,
     255,
     0
-  ],
-  "emextras:infinite_multiversal_alloying_factory": [
-    255,
-    255,
-    255
   ],
   "enchantableblocks:enchanted_conduit": [
     255,
@@ -3349,11 +3139,6 @@
     0,
     255
   ],
-  "astral_mekanism:infinite_multiversal_compact_tep": [
-    255,
-    255,
-    255
-  ],
   "the_bumblezone:string_curtain_purple": [
     170,
     34,
@@ -3399,11 +3184,6 @@
     68,
     17
   ],
-  "emextras:absolute_alloying_factory": [
-    255,
-    255,
-    255
-  ],
   "pyrite:glow_stained_door": [
     255,
     255,
@@ -3434,11 +3214,6 @@
     255,
     255
   ],
-  "evolvedmekanism:overclocked_compressing_factory": [
-    255,
-    255,
-    255
-  ],
   "projecte:wall_interdiction_torch": [
     255,
     255,
@@ -3448,11 +3223,6 @@
     0,
     255,
     0
-  ],
-  "evolvedmekanism:quantum_sawing_factory": [
-    255,
-    255,
-    255
   ],
   "ror:robot_terminal": [
     255,
@@ -3497,11 +3267,6 @@
   "musings:circle_yellow_ring_light_blue_bg_flipping": [
     0,
     0,
-    255
-  ],
-  "mcwholidays:colorful_tiny_string_lights": [
-    255,
-    255,
     255
   ],
   "botania:elf_glass": [
@@ -3570,11 +3335,6 @@
     255
   ],
   "chipped:ornate_crying_obsidian_pillar": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:enchanted_ultimate_compact_naquadah_reactor": [
     255,
     255,
     255
@@ -3664,11 +3424,6 @@
     136,
     136
   ],
-  "evolvedmekanism:dense_smelting_factory": [
-    255,
-    255,
-    255
-  ],
   "create:lime_nixie_tube": [
     187,
     255,
@@ -3694,15 +3449,15 @@
     255,
     255
   ],
-  "emextras:supreme_quantum_crushing_factory": [
-    255,
-    255,
-    255
-  ],
   "createresourcegeodes:sky_stone_catalyst": [
     255,
     255,
     255
+  ],
+  "projectred_illumination:lime_inverted_illumar_lamp": [
+    187,
+    255,
+    0
   ],
   "xycraft_world:lamp_lantern_blue": [
     0,
@@ -3713,11 +3468,6 @@
     0,
     0,
     255
-  ],
-  "projectred_illumination:lime_inverted_illumar_lamp": [
-    187,
-    255,
-    0
   ],
   "iceandfire:dragonforge_fire_core": [
     255,
@@ -3773,11 +3523,6 @@
     0,
     0,
     0
-  ],
-  "mcwholidays:purple_cube_string_lights": [
-    170,
-    34,
-    255
   ],
   "truedarkness:crystalized_corrupt_bricks": [
     255,
@@ -3870,11 +3615,6 @@
     255
   ],
   "betterend:mossy_glowshroom_sapling": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:essential_astral_energized_smelting_factory": [
     255,
     255,
     255
@@ -3974,11 +3714,6 @@
     255,
     255
   ],
-  "astral_mekanism:astral_mekanical_charger": [
-    255,
-    255,
-    255
-  ],
   "helixalarms:purple_alarm": [
     170,
     34,
@@ -4065,11 +3800,6 @@
     0
   ],
   "opalescence:opal_crystal_cluster": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:quantum_purifying_factory": [
     255,
     255,
     255
@@ -4174,11 +3904,6 @@
     255,
     0
   ],
-  "astral_mekanism:elite_compact_fir": [
-    255,
-    255,
-    255
-  ],
   "wallpapercraft:stonelampgreen-7": [
     0,
     255,
@@ -4243,11 +3968,6 @@
     136,
     136,
     136
-  ],
-  "mcwholidays:lit_screaming_pumpkin": [
-    255,
-    255,
-    255
   ],
   "skinnedlanterns:pufferfish_soul_lantern_block": [
     0,
@@ -4349,11 +4069,6 @@
     255,
     0
   ],
-  "emextras:infinite_alloying_factory": [
-    255,
-    255,
-    255
-  ],
   "xycraft_world:lamp_cube_purple": [
     170,
     34,
@@ -4399,11 +4114,6 @@
     255,
     255
   ],
-  "evolvedmekanism:multiversal_injecting_factory": [
-    255,
-    255,
-    255
-  ],
   "thermal_extra:lubricant": [
     255,
     255,
@@ -4418,6 +4128,11 @@
     0,
     255,
     0
+  ],
+  "swdm:pylon_orange": [
+    255,
+    102,
+    17
   ],
   "mcwlights:purple_paper_lamp": [
     170,
@@ -4834,11 +4549,6 @@
     136,
     136
   ],
-  "evolvedmekanism:creative_smelting_factory": [
-    255,
-    255,
-    255
-  ],
   "mcwlights:striped_wall_lantern": [
     255,
     255,
@@ -4847,11 +4557,6 @@
   "hexcasting:amethyst_sconce": [
     170,
     34,
-    255
-  ],
-  "mcwholidays:wavy_garland_colorful_lights": [
-    255,
-    255,
     255
   ],
   "mekanism:teleporter_frame": [
@@ -4933,11 +4638,6 @@
     255,
     255,
     0
-  ],
-  "astral_mekanism:universal_storage": [
-    255,
-    255,
-    255
   ],
   "productivetrees:flickering_sun_pressure_plate": [
     255,
@@ -5209,15 +4909,15 @@
     102,
     187
   ],
-  "ars_nouveau:source_gem_block": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_white_ring_black_bg": [
     0,
     0,
     0
+  ],
+  "ars_nouveau:source_gem_block": [
+    255,
+    255,
+    255
   ],
   "aether_redux:veridium_lantern": [
     255,
@@ -5228,11 +4928,6 @@
     255,
     0,
     0
-  ],
-  "astral_mekanism:astral_isotopic_centrifuge": [
-    255,
-    255,
-    255
   ],
   "chipped:checkered_iron_lantern": [
     255,
@@ -5257,11 +4952,6 @@
   "musings:circle_gray_ring_light_blue_bg": [
     0,
     0,
-    255
-  ],
-  "astral_mekanism:astral_osmium_compressor": [
-    255,
-    255,
     255
   ],
   "productivetrees:slimy_delight_wall_sign": [
@@ -5390,11 +5080,6 @@
     136
   ],
   "mcwlights:iron_candle_holder": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:overclocked_purifying_factory": [
     255,
     255,
     255
@@ -5599,11 +5284,6 @@
     255,
     255
   ],
-  "evolvedmekanism:creative_sawing_factory": [
-    255,
-    255,
-    255
-  ],
   "pneumaticcraft:wall_lamp_inverted_green": [
     0,
     255,
@@ -5674,11 +5354,6 @@
     0,
     255
   ],
-  "mcwholidays:purple_decorated_christmas_tree_middle": [
-    170,
-    34,
-    255
-  ],
   "chipped:spruce_torch": [
     255,
     255,
@@ -5713,6 +5388,11 @@
     255,
     0,
     0
+  ],
+  "swdm:pylon_pink": [
+    255,
+    102,
+    187
   ],
   "undergarden:gloom_o_lantern": [
     255,
@@ -5809,11 +5489,6 @@
     0,
     255
   ],
-  "mcwholidays:garland_green_lights": [
-    0,
-    255,
-    0
-  ],
   "quark:myalite_crystal": [
     255,
     255,
@@ -5827,16 +5502,6 @@
   "botania:magenta_floating_flower": [
     255,
     0,
-    255
-  ],
-  "astral_mekanism:astral_energized_smelting_factory": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:supreme_quantum_compact_tep": [
-    255,
-    255,
     255
   ],
   "tconstruct:molten_platinum_fluid": [
@@ -5875,11 +5540,6 @@
     255
   ],
   "additional_lights:al_lamp_mossy_cobblestone": [
-    255,
-    255,
-    255
-  ],
-  "reddensstonelantern:medium_stone_lantern_top_light": [
     255,
     255,
     255
@@ -5938,11 +5598,6 @@
     255,
     0,
     0
-  ],
-  "astral_mekanism:cosmic_heat_generator": [
-    255,
-    255,
-    255
   ],
   "wallpapercraft:auralampred-4": [
     255,
@@ -6009,11 +5664,6 @@
     255,
     0
   ],
-  "emextras:absolute_overclocked_compressing_factory": [
-    255,
-    255,
-    255
-  ],
   "chipped:big_lantern": [
     255,
     255,
@@ -6044,11 +5694,6 @@
     0,
     0
   ],
-  "astral_mekanism:astral_formulaic_assemblicator": [
-    255,
-    255,
-    255
-  ],
   "enchantableblocks:enchanted_beacon": [
     255,
     255,
@@ -6059,13 +5704,13 @@
     255,
     0
   ],
-  "hostilenetworks:sim_chamber": [
-    255,
+  "projectred_illumination:cyan_illumar_lamp": [
+    0,
     255,
     255
   ],
-  "projectred_illumination:cyan_illumar_lamp": [
-    0,
+  "hostilenetworks:sim_chamber": [
+    255,
     255,
     255
   ],
@@ -6185,16 +5830,6 @@
     255
   ],
   "truedarkness:corrupted_roots": [
-    255,
-    255,
-    255
-  ],
-  "compactmekanismmachines:compressed_wind_generator_x532480": [
-    255,
-    255,
-    255
-  ],
-  "mcwholidays:white_wavy_garland_colorful_lights": [
     255,
     255,
     255
@@ -6734,11 +6369,6 @@
     255,
     255
   ],
-  "mcwholidays:red_tiny_string_lights": [
-    255,
-    0,
-    0
-  ],
   "botania:bifrost_perm": [
     255,
     255,
@@ -6868,11 +6498,6 @@
     255,
     255,
     255
-  ],
-  "mcwholidays:wavy_garland_green_lights": [
-    0,
-    255,
-    0
   ],
   "securitycraft:fake_lava_block": [
     255,
@@ -7014,11 +6639,6 @@
     102,
     187
   ],
-  "astral_mekanism:basic_standard_compact_naquadah_reactor": [
-    255,
-    255,
-    255
-  ],
   "minecraft:deepslate_redstone_ore": [
     255,
     0,
@@ -7078,11 +6698,6 @@
     136,
     136,
     136
-  ],
-  "evolvedmekanism:alloyer": [
-    255,
-    255,
-    255
   ],
   "pyrite:star_torch": [
     255,
@@ -7229,11 +6844,6 @@
     255,
     255
   ],
-  "evolvedmekanism:multiversal_smelting_factory": [
-    255,
-    255,
-    255
-  ],
   "chipped:framed_glowstone_lantern": [
     255,
     255,
@@ -7244,20 +6854,10 @@
     34,
     255
   ],
-  "emextras:absolute_overclocked_smelting_factory": [
-    255,
-    255,
-    255
-  ],
   "quark:waxed_black_corundum": [
     0,
     0,
     0
-  ],
-  "astral_mekanism:elite_compact_naquadah_reactor": [
-    255,
-    255,
-    255
   ],
   "betterend:smaragdant_crystal_bricks_stairs": [
     255,
@@ -7268,6 +6868,11 @@
     255,
     255,
     255
+  ],
+  "swdm:pylon_light_gray": [
+    136,
+    136,
+    136
   ],
   "twilightforest:sorting_log_core": [
     255,
@@ -7449,11 +7054,6 @@
     68,
     17
   ],
-  "astral_mekanism:astral_alloyer": [
-    255,
-    255,
-    255
-  ],
   "echovoids:pearl_lamp_yellow": [
     255,
     255,
@@ -7480,11 +7080,6 @@
     255
   ],
   "extrahnn:simulator_modeling": [
-    255,
-    255,
-    255
-  ],
-  "emextras:cosmic_dense_injecting_factory": [
     255,
     255,
     255
@@ -7559,11 +7154,6 @@
     255,
     255
   ],
-  "mcwholidays:orange_cube_string_lights": [
-    255,
-    102,
-    17
-  ],
   "laserbridges:laser_source_block": [
     255,
     255,
@@ -7582,11 +7172,6 @@
   "echovoids:pearl_lamp_magenta_stairs": [
     255,
     0,
-    255
-  ],
-  "mcwholidays:lit_friendly_pumpkin": [
-    255,
-    255,
     255
   ],
   "dazzle:purple_shroomlight": [
@@ -7919,11 +7504,6 @@
     0,
     0
   ],
-  "mcwholidays:blue_tiny_string_lights": [
-    0,
-    0,
-    255
-  ],
   "tconstruct:molten_amethyst_fluid": [
     170,
     34,
@@ -7933,11 +7513,6 @@
     255,
     255,
     255
-  ],
-  "mcwholidays:garland_orange_lights": [
-    255,
-    102,
-    17
   ],
   "lampicus:colorlight_pink": [
     255,
@@ -8010,11 +7585,6 @@
     255
   ],
   "ror:flowerbed_portal": [
-    255,
-    255,
-    255
-  ],
-  "emextras:cosmic_dense_combining_factory": [
     255,
     255,
     255
@@ -8129,11 +7699,6 @@
     255,
     255
   ],
-  "compactmekanismmachines:compressed_wind_generator_x128": [
-    255,
-    255,
-    255
-  ],
   "botania:floating_entropinnyum": [
     255,
     255,
@@ -8199,11 +7764,6 @@
     68,
     17
   ],
-  "astral_mekanism:astral_chemical_infuser": [
-    255,
-    255,
-    255
-  ],
   "embers:molten_iron_block": [
     255,
     255,
@@ -8230,11 +7790,6 @@
     187
   ],
   "chipped:smooth_crying_obsidian_column": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:advanced_astral_energized_smelting_factory": [
     255,
     255,
     255
@@ -8295,11 +7850,6 @@
     0
   ],
   "minecraft:fire": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:chemixer": [
     255,
     255,
     255
@@ -8439,11 +7989,6 @@
     102,
     17
   ],
-  "emextras:supreme_quantum_sawing_factory": [
-    255,
-    255,
-    255
-  ],
   "betterblockz:zeon_orange_blockz_1": [
     255,
     102,
@@ -8530,11 +8075,6 @@
     255
   ],
   "atlantis:aquamarine_ore": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:astral_crusher": [
     255,
     255,
     255
@@ -8929,11 +8469,6 @@
     255,
     255
   ],
-  "mcwholidays:yellow_decorated_christmas_tree_top": [
-    255,
-    255,
-    0
-  ],
   "chipped:broken_sea_lantern": [
     153,
     204,
@@ -8949,15 +8484,15 @@
     255,
     255
   ],
-  "betterblockz:cyberlight_blockz_5": [
-    255,
-    255,
-    255
-  ],
   "projectred_illumination:black_illumar_lamp": [
     0,
     0,
     0
+  ],
+  "betterblockz:cyberlight_blockz_5": [
+    255,
+    255,
+    255
   ],
   "betterblockz:cyberlight_blockz_8": [
     255,
@@ -8988,11 +8523,6 @@
     255,
     102,
     187
-  ],
-  "astral_mekanism:astral_composter": [
-    255,
-    255,
-    255
   ],
   "pneumaticcraft:wall_lamp_yellow": [
     255,
@@ -9064,11 +8594,6 @@
     255,
     255
   ],
-  "emextras:cosmic_dense_enriching_factory": [
-    255,
-    255,
-    255
-  ],
   "bloodyhell:spiky_grass": [
     255,
     255,
@@ -9123,11 +8648,6 @@
     0,
     255,
     0
-  ],
-  "emextras:cosmic_dense_sawing_factory": [
-    255,
-    255,
-    255
   ],
   "mcwlights:jungle_tiki_torch": [
     255,
@@ -9244,11 +8764,6 @@
     255,
     255
   ],
-  "evolvedmekanism:multiversal_enriching_factory": [
-    255,
-    255,
-    255
-  ],
   "occultism:spirit_fire": [
     255,
     255,
@@ -9288,11 +8803,6 @@
     255,
     255,
     255
-  ],
-  "mcwholidays:white_wavy_garland_green_lights": [
-    0,
-    255,
-    0
   ],
   "musings:circle_pink_ring_green_bg_flipping": [
     0,
@@ -9369,11 +8879,6 @@
     0,
     0
   ],
-  "astral_mekanism:elite_astral_energized_smelting_factory": [
-    255,
-    255,
-    255
-  ],
   "botania:mana_pylon": [
     255,
     255,
@@ -9415,11 +8920,6 @@
     255
   ],
   "mekanism:pressurized_reaction_chamber": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:quantum_compressing_factory": [
     255,
     255,
     255
@@ -9530,6 +9030,11 @@
     255
   ],
   "farmersrespite:gray_candle_coffee_cake": [
+    136,
+    136,
+    136
+  ],
+  "swdm:pylon_gray": [
     136,
     136,
     136
@@ -10134,11 +9639,6 @@
     0,
     255
   ],
-  "evolvedmekanism:dense_bin": [
-    255,
-    255,
-    255
-  ],
   "embers:molten_gold_block": [
     255,
     255,
@@ -10204,11 +9704,6 @@
     255,
     255
   ],
-  "evolvedmekanism:dense_sawing_factory": [
-    255,
-    255,
-    255
-  ],
   "botania:potted_purple_shiny_flower": [
     170,
     34,
@@ -10217,11 +9712,6 @@
   "simplylight:illuminant_light_blue_block": [
     0,
     0,
-    255
-  ],
-  "emextras:absolute_overclocked_injecting_factory": [
-    255,
-    255,
     255
   ],
   "minecraft:wall_torch": [
@@ -10320,11 +9810,6 @@
     17
   ],
   "productivetrees:flickering_sun_leaves": [
-    255,
-    255,
-    255
-  ],
-  "emextras:absolute_overclocked_sawing_factory": [
     255,
     255,
     255
@@ -10809,11 +10294,6 @@
     0,
     255
   ],
-  "mcwholidays:garland_blue_lights": [
-    0,
-    0,
-    255
-  ],
   "betterblockz:cyberlight_secret_blockz_8": [
     255,
     255,
@@ -10845,11 +10325,6 @@
     255
   ],
   "minecraft:ochre_froglight": [
-    255,
-    255,
-    255
-  ],
-  "compactmekanismmachines:compact_thermal_evaporation": [
     255,
     255,
     255
@@ -10984,11 +10459,6 @@
     255,
     255
   ],
-  "mcwholidays:white_garland_orange_lights": [
-    255,
-    102,
-    17
-  ],
   "thingamajigs:basketball_machine": [
     255,
     255,
@@ -11003,11 +10473,6 @@
     136,
     136,
     136
-  ],
-  "astral_mekanism:elite_compact_tep": [
-    255,
-    255,
-    255
   ],
   "pyrite:glow_framed_glass_pane": [
     255,
@@ -11124,22 +10589,17 @@
     255,
     255
   ],
-  "projectexpansion:cyan_advanced_alchemical_chest": [
-    0,
-    255,
-    255
-  ],
   "projectred_illumination:red_inverted_illumar_lamp": [
     255,
     0,
     0
   ],
-  "truedarkness:neasky_moss": [
-    255,
+  "projectexpansion:cyan_advanced_alchemical_chest": [
+    0,
     255,
     255
   ],
-  "astral_mekanism:astral_antiprotonic_nucleosynthesizer": [
+  "truedarkness:neasky_moss": [
     255,
     255,
     255
@@ -11184,6 +10644,11 @@
     255,
     0
   ],
+  "projectred_exploration:electrotine_ore": [
+    255,
+    255,
+    255
+  ],
   "botania:floating_exoflame": [
     255,
     255,
@@ -11195,11 +10660,6 @@
     255
   ],
   "pyrite:star_wool": [
-    255,
-    255,
-    255
-  ],
-  "projectred_exploration:electrotine_ore": [
     255,
     255,
     255
@@ -11233,11 +10693,6 @@
     255,
     255,
     0
-  ],
-  "astral_mekanism:essential_energized_smelter": [
-    255,
-    255,
-    255
   ],
   "ad_extendra:glowing_saturlyte_pillar": [
     255,
@@ -11273,11 +10728,6 @@
     136,
     136,
     136
-  ],
-  "evolvedmekanism:multiversal_sawing_factory": [
-    255,
-    255,
-    255
   ],
   "mcwlights:cyan_lamp": [
     0,
@@ -11319,11 +10769,6 @@
     255,
     255
   ],
-  "emextras:absolute_overclocked_purifying_factory": [
-    255,
-    255,
-    255
-  ],
   "thingamajigs:pink_jol": [
     255,
     102,
@@ -11338,11 +10783,6 @@
     255,
     255,
     0
-  ],
-  "astral_mekanism:astral_thermalizer": [
-    255,
-    255,
-    255
   ],
   "doom_and_gloom:purple_vigil_candle": [
     170,
@@ -11484,11 +10924,6 @@
     0,
     0
   ],
-  "evolvedmekanism:creative_injecting_factory": [
-    255,
-    255,
-    255
-  ],
   "chemlib:radon_lamp_block": [
     255,
     255,
@@ -11569,19 +11004,9 @@
     255,
     255
   ],
-  "evolvedmekanism:multiversal_infusing_factory": [
-    255,
-    255,
-    255
-  ],
   "echovoids:pearl_lamp_blue_slab": [
     0,
     0,
-    255
-  ],
-  "mcwholidays:colorful_decorated_christmas_tree_bottom": [
-    255,
-    255,
     255
   ],
   "wider_ender_chests:netherite_ender_chest": [
@@ -11613,11 +11038,6 @@
     255,
     0,
     0
-  ],
-  "astral_mekanism:absolute_overclocked_compact_naquadah_reactor": [
-    255,
-    255,
-    255
   ],
   "valhelsia_furniture:brown_fabric_desk_lamp": [
     136,
@@ -12099,11 +11519,6 @@
     255,
     255
   ],
-  "emextras:absolute_overclocked_infusing_factory": [
-    255,
-    255,
-    255
-  ],
   "betterblockz:zeon_brown_blockz_4": [
     136,
     68,
@@ -12118,11 +11533,6 @@
     136,
     68,
     17
-  ],
-  "astral_mekanism:essential_crafter": [
-    255,
-    255,
-    255
   ],
   "betterblockz:zeon_brown_blockz_1": [
     136,
@@ -12175,11 +11585,6 @@
     255
   ],
   "mekanism_extras:infinite_smelting_factory": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:creative_alloying_factory": [
     255,
     255,
     255
@@ -12339,11 +11744,6 @@
     255,
     0
   ],
-  "astral_mekanism:evenly_inserter": [
-    255,
-    255,
-    255
-  ],
   "integratedterminals:menril_glass": [
     255,
     255,
@@ -12409,11 +11809,6 @@
     255,
     255
   ],
-  "mcwholidays:lit_evil_pumpkin": [
-    255,
-    255,
-    255
-  ],
   "rockyminerals:anhydrite_lamp_button": [
     255,
     255,
@@ -12450,11 +11845,6 @@
     255
   ],
   "echovoids:endflower": [
-    255,
-    255,
-    255
-  ],
-  "compactmekanismmachines:compressed_wind_generator_x2048": [
     255,
     255,
     255
@@ -12534,11 +11924,6 @@
     255,
     255
   ],
-  "emextras:infinite_multiversal_infusing_factory": [
-    255,
-    255,
-    255
-  ],
   "additional_lights:al_lamp_pink_wool": [
     255,
     102,
@@ -12574,11 +11959,6 @@
     255,
     255
   ],
-  "mcwholidays:green_decorated_christmas_tree_middle": [
-    0,
-    255,
-    0
-  ],
   "darkerdepths:wall_void_soul_torch": [
     255,
     255,
@@ -12603,11 +11983,6 @@
     187,
     255,
     0
-  ],
-  "evolvedmekanism:multiversal_combining_factory": [
-    255,
-    255,
-    255
   ],
   "strangematter:energetic_shard_crystal": [
     255,
@@ -12693,16 +12068,6 @@
     187,
     255,
     0
-  ],
-  "astral_mekanism:mekanical_light": [
-    255,
-    255,
-    255
-  ],
-  "reddensstonelantern:small_stone_lantern_light": [
-    255,
-    255,
-    255
   ],
   "pyrite:blue_torch_lever": [
     0,
@@ -12798,11 +12163,6 @@
     255,
     255,
     255
-  ],
-  "evolvedmekanism:block_refined_redstone": [
-    255,
-    0,
-    0
   ],
   "reliquary:wall_interdiction_torch": [
     255,
@@ -12924,16 +12284,6 @@
     0,
     0
   ],
-  "astral_mekanism:astral_apt": [
-    255,
-    255,
-    255
-  ],
-  "mcwholidays:colorful_decorated_christmas_tree_top": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_white_ring_gray_bg": [
     136,
     136,
@@ -12999,11 +12349,6 @@
     255,
     255
   ],
-  "mcwholidays:orange_tiny_string_lights": [
-    255,
-    102,
-    17
-  ],
   "rechiseled:glowstone_crushed_connecting": [
     255,
     255,
@@ -13040,11 +12385,6 @@
     255
   ],
   "ars_additions:polished_sourcestone_lantern": [
-    255,
-    255,
-    255
-  ],
-  "compactmekanismmachines:compact_fission_reactor": [
     255,
     255,
     255
@@ -13119,11 +12459,6 @@
     255,
     255
   ],
-  "evolvedmekanism:dense_combining_factory": [
-    255,
-    255,
-    255
-  ],
   "tconstruct:molten_soulsteel_fluid": [
     0,
     0,
@@ -13194,11 +12529,6 @@
     255,
     0
   ],
-  "astral_mekanism:cosmic_dense_astral_energized_smelting_factory": [
-    255,
-    255,
-    255
-  ],
   "the_bumblezone:luminescent_wax_channel_red": [
     255,
     0,
@@ -13229,11 +12559,6 @@
     255,
     255
   ],
-  "astral_mekanism:astral_energized_smelter": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_red_ring_white_bg_flipping": [
     255,
     255,
@@ -13253,11 +12578,6 @@
     255,
     255,
     255
-  ],
-  "mcwholidays:garland_red_lights": [
-    255,
-    0,
-    0
   ],
   "thingamajigs:blue_vending_machine": [
     0,
@@ -13293,6 +12613,11 @@
     136,
     68,
     17
+  ],
+  "swdm:pylon_black": [
+    0,
+    0,
+    0
   ],
   "thingamajigs:cash_register": [
     255,
@@ -13539,11 +12864,6 @@
     255,
     255
   ],
-  "mcwholidays:white_garland_colorful_lights": [
-    255,
-    255,
-    255
-  ],
   "spelunkery:portal_cauldron": [
     255,
     255,
@@ -13637,11 +12957,6 @@
   "echovoids:blue_block_of_neon": [
     0,
     0,
-    255
-  ],
-  "evolvedmekanism:quantum_fluid_tank": [
-    255,
-    255,
     255
   ],
   "theabyss:hollow_crystal_ore": [
@@ -13969,15 +13284,15 @@
     0,
     0
   ],
-  "musings:circle_orange_ring_light_gray_bg_flipping": [
-    136,
-    136,
-    136
-  ],
   "projectred_illumination:light_blue_illumar_lamp": [
     0,
     0,
     255
+  ],
+  "musings:circle_orange_ring_light_gray_bg_flipping": [
+    136,
+    136,
+    136
   ],
   "thermal_extra:diesel": [
     255,
@@ -14003,11 +13318,6 @@
     136,
     136,
     136
-  ],
-  "mcwholidays:lit_shocked_pumpkin": [
-    255,
-    255,
-    255
   ],
   "dazzle:light_blue_end_rod": [
     0,
@@ -14059,15 +13369,15 @@
     102,
     17
   ],
-  "pyrite:nostalgia_lamp": [
-    255,
-    255,
-    255
-  ],
   "projectred_illumination:yellow_inverted_illumar_lamp": [
     255,
     255,
     0
+  ],
+  "pyrite:nostalgia_lamp": [
+    255,
+    255,
+    255
   ],
   "tombstone:abandoned_grave": [
     255,
@@ -14105,11 +13415,6 @@
     255
   ],
   "aether_redux:trapped_sentry_pillar": [
-    255,
-    255,
-    255
-  ],
-  "ostrea:aragonite_shard": [
     255,
     255,
     255
@@ -14212,11 +13517,6 @@
   "projectexpansion:purple_relay": [
     170,
     34,
-    255
-  ],
-  "astral_mekanism:astronomical_astral_energized_smelting_factory": [
-    255,
-    255,
     255
   ],
   "musings:circle_green_ring_orange_bg": [
@@ -14329,11 +13629,6 @@
     255,
     255
   ],
-  "evolvedmekanism:multiversal_crushing_factory": [
-    255,
-    255,
-    255
-  ],
   "minecraft:smoker": [
     255,
     255,
@@ -14358,11 +13653,6 @@
     187,
     255,
     0
-  ],
-  "emextras:supreme_quantum_purifying_factory": [
-    255,
-    255,
-    255
   ],
   "mekanism_extras:cosmic_sawing_factory": [
     255,
@@ -14412,11 +13702,6 @@
   "malum:ether": [
     255,
     255,
-    255
-  ],
-  "mcwholidays:wavy_garland_blue_lights": [
-    0,
-    0,
     255
   ],
   "mekanism:chargepad": [
@@ -14608,11 +13893,6 @@
     255,
     255,
     0
-  ],
-  "mcwholidays:white_garland_blue_lights": [
-    0,
-    0,
-    255
   ],
   "mysticaladaptations:insanium_furnace": [
     255,
@@ -14889,11 +14169,6 @@
     255,
     0
   ],
-  "astral_mekanism:astral_sps": [
-    255,
-    255,
-    255
-  ],
   "betternether:cincinnasite_lantern_small": [
     255,
     255,
@@ -14983,11 +14258,6 @@
     255,
     0,
     0
-  ],
-  "reddensstonelantern:big_stone_lantern_block_light": [
-    255,
-    255,
-    255
   ],
   "betterend:end_stone_smelter": [
     255,
@@ -15094,11 +14364,6 @@
     255,
     255
   ],
-  "emextras:supreme_quantum_infusing_factory": [
-    255,
-    255,
-    255
-  ],
   "botania:potted_cyan_mushroom": [
     0,
     255,
@@ -15128,11 +14393,6 @@
     136,
     68,
     17
-  ],
-  "mekanism:advanced_alloying_factory": [
-    255,
-    255,
-    255
   ],
   "musings:circle_light_blue_ring_magenta_bg_flipping": [
     255,
@@ -15299,15 +14559,15 @@
     255,
     255
   ],
-  "musings:circle_cyan_ring_light_gray_bg_flipping": [
-    136,
-    136,
-    136
-  ],
   "projectred_illumination:lime_illumar_lamp": [
     187,
     255,
     0
+  ],
+  "musings:circle_cyan_ring_light_gray_bg_flipping": [
+    136,
+    136,
+    136
   ],
   "musings:circle_orange_ring_magenta_bg_flipping": [
     255,
@@ -15389,29 +14649,14 @@
     255,
     255
   ],
-  "compactmekanismmachines:compressed_wind_generator_x512": [
-    255,
-    255,
-    255
-  ],
   "mysticsbiomes:pink_frosted_candle_cake_purple": [
     170,
     34,
     255
   ],
-  "astral_mekanism:astral_solidification_chamber": [
-    255,
-    255,
-    255
-  ],
   "torchslabmod:candle_magenta_slab": [
     255,
     0,
-    255
-  ],
-  "mcwholidays:purple_decorated_christmas_tree_top": [
-    170,
-    34,
     255
   ],
   "redeco:gray_paper_lantern": [
@@ -15479,11 +14724,6 @@
     255,
     255
   ],
-  "astral_mekanism:gas_converter": [
-    255,
-    255,
-    255
-  ],
   "ad_astra:glowing_steel_pillar": [
     255,
     255,
@@ -15529,11 +14769,6 @@
     255,
     0
   ],
-  "emextras:absolute_overclocked_crushing_factory": [
-    255,
-    255,
-    255
-  ],
   "rockyminerals:opal_redstone_lamp": [
     255,
     0,
@@ -15570,11 +14805,6 @@
     255
   ],
   "chipped:creepy_jack_o_lantern": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:absolute_overclocked_compact_fir": [
     255,
     255,
     255
@@ -15689,11 +14919,6 @@
     0,
     0
   ],
-  "astral_mekanism:supreme_quantum_compact_naquadah_reactor": [
-    255,
-    255,
-    255
-  ],
   "tinkers_delight:molten_hot_pot_iron_fluid": [
     255,
     255,
@@ -15729,11 +14954,6 @@
     255,
     255
   ],
-  "evolvedmekanism:creative_crushing_factory": [
-    255,
-    255,
-    255
-  ],
   "productivetrees:rippling_willow_log": [
     255,
     255,
@@ -15742,11 +14962,6 @@
   "botania:magenta_mushroom": [
     255,
     0,
-    255
-  ],
-  "astral_mekanism:enchanted_ultimate_compact_tep": [
-    255,
-    255,
     255
   ],
   "tconstruct:knightmetal_cluster": [
@@ -15769,12 +14984,22 @@
     255,
     255
   ],
+  "swdm:pylon_cyan": [
+    0,
+    255,
+    255
+  ],
   "allthemodium:raw_allthemodium_block": [
     255,
     255,
     255
   ],
-  "evolvedmekanism:creative_enriching_factory": [
+  "toms_peripherals:monitor": [
+    255,
+    255,
+    255
+  ],
+  "swdm:pylon_white": [
     255,
     255,
     255
@@ -15854,11 +15079,6 @@
     255,
     255
   ],
-  "emextras:infinite_multiversal_crushing_factory": [
-    255,
-    255,
-    255
-  ],
   "mcwlights:iron_small_chandelier": [
     255,
     255,
@@ -15874,15 +15094,15 @@
     255,
     0
   ],
-  "evolvedmekanism:supercharging_element": [
-    255,
-    255,
-    255
-  ],
   "ror:glowing_red_stained_glass_pane": [
     255,
     0,
     0
+  ],
+  "swem:shining_amethyst_cluster": [
+    170,
+    34,
+    255
   ],
   "mcwlights:dark_oak_ceiling_fan_light": [
     255,
@@ -15959,11 +15179,6 @@
     0,
     255
   ],
-  "compactmekanismmachines:compressed_wind_generator_x32768": [
-    255,
-    255,
-    255
-  ],
   "dazzle:brown_pulsating_analog_lamp": [
     136,
     68,
@@ -15976,6 +15191,11 @@
   ],
   "mcwlights:soul_oak_tiki_torch": [
     255,
+    255,
+    0
+  ],
+  "swdm:pylon_green": [
+    0,
     255,
     0
   ],
@@ -16054,12 +15274,12 @@
     0,
     0
   ],
-  "betterblockz:zeon_blue_blockz_0": [
+  "projectred_illumination:blue_inverted_illumar_lamp": [
     0,
     0,
     255
   ],
-  "projectred_illumination:blue_inverted_illumar_lamp": [
+  "betterblockz:zeon_blue_blockz_0": [
     0,
     0,
     255
@@ -16374,11 +15594,6 @@
     102,
     187
   ],
-  "mcwholidays:blue_string_lights": [
-    0,
-    0,
-    255
-  ],
   "mekanismadditions:black_plastic_glow_slab": [
     0,
     0,
@@ -16494,11 +15709,6 @@
     255,
     255
   ],
-  "astral_mekanism:transformer": [
-    255,
-    255,
-    255
-  ],
   "echovoids:pearl_lamp_mythril_stairs": [
     255,
     255,
@@ -16529,11 +15739,6 @@
     0,
     0
   ],
-  "mcwholidays:green_decorated_christmas_tree_top": [
-    0,
-    255,
-    0
-  ],
   "musings:circle_lime_ring_blue_bg": [
     0,
     0,
@@ -16560,11 +15765,6 @@
     255
   ],
   "silentgems:turquoise_lamp_inverted_on": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:essential_metallurgic_infuser": [
     255,
     255,
     255
@@ -16789,6 +15989,11 @@
     255,
     255
   ],
+  "swdm:pylon_yellow": [
+    255,
+    255,
+    0
+  ],
   "mysticsbiomes:yellow_frosted_candle_cake_white": [
     255,
     255,
@@ -16994,11 +16199,6 @@
     255,
     255
   ],
-  "astral_mekanism:essential_energized_smelting_factory": [
-    255,
-    255,
-    255
-  ],
   "minecraft:purple_candle_cake": [
     170,
     34,
@@ -17015,11 +16215,6 @@
     255
   ],
   "productivetrees:firecracker_wall_sign": [
-    255,
-    255,
-    255
-  ],
-  "reddensstonelantern:mini_stone_lantern_light": [
     255,
     255,
     255
@@ -17054,7 +16249,7 @@
     255,
     0
   ],
-  "evolvedmekanism:creative_infusing_factory": [
+  "swem:star_worm_cobble": [
     255,
     255,
     255
@@ -17184,19 +16379,9 @@
     0,
     0
   ],
-  "evolvedmekanism:creative_compressing_factory": [
-    255,
-    255,
-    255
-  ],
   "productivetrees:advanced_soul_tree_beehive": [
     0,
     0,
-    255
-  ],
-  "astral_mekanism:essential_reaction_chamber": [
-    255,
-    255,
     255
   ],
   "productivetrees:expansion_box_black_ember": [
@@ -17221,11 +16406,6 @@
   ],
   "torchslabmod:candle_cyan_slab": [
     0,
-    255,
-    255
-  ],
-  "reddensstonelantern:smallproof_stone_lantern_light": [
-    255,
     255,
     255
   ],
@@ -17278,11 +16458,6 @@
     187,
     255,
     0
-  ],
-  "astral_mekanism:essential_heat_generator": [
-    255,
-    255,
-    255
   ],
   "framedblocks:framed_soul_torch": [
     0,
@@ -17413,11 +16588,6 @@
     255,
     255,
     0
-  ],
-  "astral_mekanism:enchanted_ultimate_energized_smelting_factory": [
-    255,
-    255,
-    255
   ],
   "echovoids:pearl_lamp_lime_stairs": [
     187,
@@ -17724,11 +16894,6 @@
     255,
     255
   ],
-  "evolvedmekanism:dense_compressing_factory": [
-    255,
-    255,
-    255
-  ],
   "bambooeverything:bamboo_wall_torch": [
     255,
     255,
@@ -17804,11 +16969,6 @@
     255,
     255
   ],
-  "astral_mekanism:enchanted_ultimate_compact_fusion_reactor": [
-    255,
-    255,
-    255
-  ],
   "snowyspirit:glow_lights_prismatic": [
     255,
     255,
@@ -17848,11 +17008,6 @@
     255,
     102,
     17
-  ],
-  "astral_mekanism:astral_prc": [
-    255,
-    255,
-    255
   ],
   "betterblockz:zeon_purple_blockz_1": [
     170,
@@ -17939,11 +17094,6 @@
     255,
     255
   ],
-  "astral_mekanism:absolute_overclocked_compact_tep": [
-    255,
-    255,
-    255
-  ],
   "productivetrees:rippling_willow_sign": [
     255,
     255,
@@ -17983,11 +17133,6 @@
     0,
     0,
     0
-  ],
-  "astral_mekanism:advanced_compact_naquadah_reactor": [
-    255,
-    255,
-    255
   ],
   "nightlights:mushroom_blue": [
     0,
@@ -18159,11 +17304,6 @@
     255,
     255
   ],
-  "mekanismelements:air_compressor": [
-    255,
-    255,
-    255
-  ],
   "dazzle:orange_lantern_analog_lamp": [
     255,
     102,
@@ -18190,11 +17330,6 @@
     136
   ],
   "occultism:lighted_air": [
-    255,
-    255,
-    255
-  ],
-  "emextras:cosmic_dense_compressing_factory": [
     255,
     255,
     255
@@ -18239,6 +17374,11 @@
     68,
     17
   ],
+  "fintastic:pink_dwarf_froglight": [
+    255,
+    102,
+    187
+  ],
   "strangematter:energetic_shard_lantern": [
     255,
     255,
@@ -18260,11 +17400,6 @@
     0
   ],
   "ror:cyberland_portal": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:essential_compact_fir": [
     255,
     255,
     255
@@ -18313,11 +17448,6 @@
     255,
     102,
     187
-  ],
-  "mcwholidays:green_tiny_string_lights": [
-    0,
-    255,
-    0
   ],
   "enigmaticdelicacy:etherium_ore": [
     255,
@@ -18427,11 +17557,6 @@
   "musings:circle_light_gray_ring_purple_bg": [
     170,
     34,
-    255
-  ],
-  "ostrea:aragonite_cluster": [
-    255,
-    255,
     255
   ],
   "truedarkness:prismarinum_coral_darkness": [
@@ -18689,17 +17814,7 @@
     255,
     255
   ],
-  "mcwholidays:red_decorated_christmas_tree_bottom": [
-    255,
-    0,
-    0
-  ],
   "biomesoplenty:glowshroom": [
-    255,
-    255,
-    255
-  ],
-  "mcwholidays:colorful_decorated_christmas_tree_base": [
     255,
     255,
     255
@@ -19014,11 +18129,6 @@
     0,
     0
   ],
-  "emextras:infinite_multiversal_enriching_factory": [
-    255,
-    255,
-    255
-  ],
   "allthecompressed:glowstone_7x": [
     255,
     255,
@@ -19115,11 +18225,6 @@
     136
   ],
   "rechiseled:glowstone_rotated_bricks_slab_connecting": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:compact_apt": [
     255,
     255,
     255
@@ -19259,11 +18364,6 @@
     255,
     0
   ],
-  "mcwholidays:colorful_string_lights": [
-    255,
-    255,
-    255
-  ],
   "wallpapercraft:auralampyellow-0": [
     255,
     255,
@@ -19323,11 +18423,6 @@
     255,
     255,
     0
-  ],
-  "astral_mekanism:astral_combiner": [
-    255,
-    255,
-    255
   ],
   "wallpapercraft:auralampyellow-5": [
     255,
@@ -19399,21 +18494,6 @@
     136,
     136
   ],
-  "emextras:absolute_overclocked_enriching_factory": [
-    255,
-    255,
-    255
-  ],
-  "mcwholidays:blue_decorated_christmas_tree_top": [
-    0,
-    0,
-    255
-  ],
-  "astral_mekanism:astral_compact_naquadah_reactor": [
-    255,
-    255,
-    255
-  ],
   "skinnedlanterns:ornament_cyan_soul_lantern_block": [
     0,
     255,
@@ -19464,11 +18544,6 @@
     255,
     255
   ],
-  "apotheotic_additions:luminous_glass": [
-    255,
-    255,
-    255
-  ],
   "tropicraft:jigarbov_jungle_wall_torch": [
     255,
     255,
@@ -19508,11 +18583,6 @@
     136,
     136,
     136
-  ],
-  "emextras:supreme_quantum_enriching_factory": [
-    255,
-    255,
-    255
   ],
   "silentgems:citrine_lamp_on": [
     255,
@@ -19589,11 +18659,6 @@
     255,
     0
   ],
-  "astral_mekanism:advanced_compact_tep": [
-    255,
-    255,
-    255
-  ],
   "redeco:white_lamp": [
     255,
     255,
@@ -19638,11 +18703,6 @@
     136,
     136,
     136
-  ],
-  "mcwholidays:red_string_lights": [
-    255,
-    0,
-    0
   ],
   "musings:circle_cycle_magenta": [
     255,
@@ -19724,11 +18784,6 @@
     255,
     255
   ],
-  "compactmekanismmachines:compressed_wind_generator_x8": [
-    255,
-    255,
-    255
-  ],
   "thermal:machine_smelter": [
     255,
     255,
@@ -19748,11 +18803,6 @@
     255,
     102,
     17
-  ],
-  "compactmekanismmachines:compressed_wind_generator_x2": [
-    255,
-    255,
-    255
   ],
   "xycraft_world:lamp_pillar_gray": [
     136,
@@ -19844,11 +18894,6 @@
     255,
     0
   ],
-  "astral_mekanism:essential_gas_burning_generator": [
-    255,
-    255,
-    255
-  ],
   "aether_redux:corrupted_vines_plant": [
     255,
     255,
@@ -19894,11 +18939,6 @@
     255,
     255
   ],
-  "evolvedmekanism:multiversal_bin": [
-    255,
-    255,
-    255
-  ],
   "graveyard:lower_bone_staff": [
     255,
     255,
@@ -19922,11 +18962,6 @@
   "musings:circle_blue_ring_magenta_bg_flipping": [
     255,
     0,
-    255
-  ],
-  "evolvedmekanism:dense_purifying_factory": [
-    255,
-    255,
     255
   ],
   "mysticsbiomes:pink_frosted_candle_cake_gray": [
@@ -20229,12 +19264,12 @@
     255,
     0
   ],
-  "ars_nouveau:relay_warp": [
+  "regions_unexplored:potted_mycotoxic_daisy": [
     255,
     255,
     255
   ],
-  "regions_unexplored:potted_mycotoxic_daisy": [
+  "ars_nouveau:relay_warp": [
     255,
     255,
     255
@@ -20259,15 +19294,15 @@
     0,
     0
   ],
-  "ars_nouveau:light_block": [
-    255,
-    255,
-    255
-  ],
   "malum:ether_torch": [
     255,
     255,
     0
+  ],
+  "ars_nouveau:light_block": [
+    255,
+    255,
+    255
   ],
   "blazingbamboo:blazing_bamboo_sapling": [
     255,
@@ -20534,11 +19569,6 @@
     255,
     255
   ],
-  "mekanism:basic_alloying_factory": [
-    255,
-    255,
-    255
-  ],
   "minecraft:nether_portal": [
     255,
     255,
@@ -20604,11 +19634,6 @@
     255,
     255
   ],
-  "mcwholidays:wavy_garland_orange_lights": [
-    255,
-    102,
-    17
-  ],
   "productivetrees:advanced_flickering_sun_beehive": [
     255,
     255,
@@ -20649,14 +19674,14 @@
     0,
     0
   ],
-  "forestry:beehive_aquatic": [
-    255,
-    255,
-    255
-  ],
   "projectred_illumination:magenta_illumar_lamp": [
     255,
     0,
+    255
+  ],
+  "forestry:beehive_aquatic": [
+    255,
+    255,
     255
   ],
   "l2hostility:hostility_beacon": [
@@ -20759,11 +19784,6 @@
     255,
     255
   ],
-  "astral_mekanism:infinite_multiversal_compact_naquadah_reactor": [
-    255,
-    255,
-    255
-  ],
   "productivetrees:sparkle_cherry_hanging_sign": [
     255,
     255,
@@ -20780,16 +19800,6 @@
     255
   ],
   "chipped:cut_blank_magma_block": [
-    255,
-    255,
-    255
-  ],
-  "emextras:absolute_overclocked_alloying_factory": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:compact_sps": [
     255,
     255,
     255
@@ -20879,11 +19889,6 @@
     255,
     255
   ],
-  "astral_mekanism:astral_precision_sawmill": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_green_ring_white_bg": [
     255,
     255,
@@ -20899,17 +19904,7 @@
     0,
     255
   ],
-  "evolvedmekanism:creative_combining_factory": [
-    255,
-    255,
-    255
-  ],
   "skinnedlanterns:wither_skeleton_ender_lantern_block": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:multiversal_alloying_factory": [
     255,
     255,
     255
@@ -21024,11 +20019,6 @@
     255,
     0
   ],
-  "evolvedmekanism:dense_injecting_factory": [
-    255,
-    255,
-    255
-  ],
   "betterblockz:zeon_light_gray_blockz_10": [
     136,
     136,
@@ -21114,11 +20104,6 @@
     102,
     17
   ],
-  "reddensstonelantern:mid_stone_lantern_block_light": [
-    255,
-    255,
-    255
-  ],
   "natures_spirit:brown_paper_lantern": [
     136,
     68,
@@ -21140,11 +20125,6 @@
     255
   ],
   "mcwlights:iron_chandelier": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:cosmic_dense_energized_smelting_factory": [
     255,
     255,
     255
@@ -21204,11 +20184,6 @@
     255,
     255
   ],
-  "mcwholidays:white_wavy_garland_yellow_lights": [
-    255,
-    255,
-    0
-  ],
   "ba_bt:active_corrite_slab": [
     255,
     255,
@@ -21222,11 +20197,6 @@
   "spelunkery:light_blue_glowstick": [
     0,
     0,
-    255
-  ],
-  "reddensstonelantern:mininoproof_stone_lantern_light": [
-    255,
-    255,
     255
   ],
   "musings:circle_red_ring_lime_bg_flipping": [
@@ -21259,11 +20229,6 @@
     255,
     255
   ],
-  "evolvedmekanism:multiversal_compressing_factory": [
-    255,
-    255,
-    255
-  ],
   "thingamajigs:red_lantern": [
     255,
     0,
@@ -21279,30 +20244,15 @@
     102,
     17
   ],
-  "mcwholidays:white_wavy_garland_red_lights": [
-    255,
-    0,
-    0
-  ],
   "botania:pink_floating_flower": [
     255,
     102,
     187
   ],
-  "mcwholidays:yellow_decorated_christmas_tree_base": [
-    255,
-    255,
-    0
-  ],
   "musings:circle_white_ring_light_gray_bg": [
     136,
     136,
     136
-  ],
-  "astral_mekanism:astral_rotary_condensentrator": [
-    255,
-    255,
-    255
   ],
   "tconstruct:molten_netherite_fluid": [
     255,
@@ -21394,6 +20344,11 @@
     255,
     255
   ],
+  "swdm:pylon_purple": [
+    170,
+    34,
+    255
+  ],
   "mysticsbiomes:cyan_frosted_candle_cake_cyan": [
     0,
     255,
@@ -21424,6 +20379,11 @@
     102,
     187
   ],
+  "swdm:pylon_brown": [
+    136,
+    68,
+    17
+  ],
   "rats:pirat_wood": [
     255,
     255,
@@ -21450,11 +20410,6 @@
     255
   ],
   "chipped:angry_magma_block": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:astral_electrolytic_separator": [
     255,
     255,
     255
@@ -21664,11 +20619,6 @@
     255,
     255
   ],
-  "emextras:supreme_quantum_alloying_factory": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_purple_ring_light_gray_bg_flipping": [
     136,
     136,
@@ -21705,11 +20655,6 @@
     0
   ],
   "hexcasting:impetus/look": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:item_compressor": [
     255,
     255,
     255
@@ -21834,11 +20779,6 @@
     255,
     255
   ],
-  "emextras:supreme_quantum_combining_factory": [
-    255,
-    255,
-    255
-  ],
   "productivetrees:purple_spiral_button": [
     170,
     34,
@@ -21864,22 +20804,12 @@
     255,
     255
   ],
-  "evolvedmekanism:quantum_infusing_factory": [
-    255,
-    255,
-    255
-  ],
   "rechiseled:glowstone_brick_paving_connecting": [
     255,
     255,
     255
   ],
   "theabyss:rena_shroom_leave": [
-    255,
-    255,
-    255
-  ],
-  "emextras:cosmic_dense_smelting_factory": [
     255,
     255,
     255
@@ -22059,11 +20989,6 @@
     255,
     255
   ],
-  "astral_mekanism:ratio_separator": [
-    255,
-    255,
-    255
-  ],
   "silentgems:iolite_glowrose": [
     255,
     255,
@@ -22129,16 +21054,6 @@
     255,
     255
   ],
-  "compactmekanismmachines:compressed_wind_generator_x8192": [
-    255,
-    255,
-    255
-  ],
-  "emextras:infinite_multiversal_combining_factory": [
-    255,
-    255,
-    255
-  ],
   "twilightforest:mining_log_core": [
     255,
     255,
@@ -22169,11 +21084,6 @@
     255,
     255
   ],
-  "mcwholidays:garland_yellow_lights": [
-    255,
-    255,
-    0
-  ],
   "rechiseled:glowstone_brick_pattern_stairs": [
     255,
     255,
@@ -22187,11 +21097,6 @@
   "securitycraft:reinforced_verdant_froglight": [
     255,
     255,
-    255
-  ],
-  "mcwholidays:garland_purple_lights": [
-    170,
-    34,
     255
   ],
   "additional_lights:al_lamp_gold_block": [
@@ -22235,11 +21140,6 @@
     255
   ],
   "sundries:smooth_glowstone": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:astral_chemical_washer": [
     255,
     255,
     255
@@ -22329,11 +21229,6 @@
     0,
     0
   ],
-  "evolvedmekanism:dense_fluid_tank": [
-    255,
-    255,
-    255
-  ],
   "vanilladelight:polished_deepslate_stove": [
     255,
     255,
@@ -22358,11 +21253,6 @@
     187,
     255,
     0
-  ],
-  "astral_mekanism:astral_compact_tep": [
-    255,
-    255,
-    255
   ],
   "betterend:iron_bulb_lantern_blue": [
     0,
@@ -22459,11 +21349,6 @@
     255,
     0
   ],
-  "mcwholidays:yellow_decorated_christmas_tree_bottom": [
-    255,
-    255,
-    0
-  ],
   "skinnedlanterns:ornament_yellow_lantern_block": [
     255,
     255,
@@ -22478,11 +21363,6 @@
     255,
     0,
     0
-  ],
-  "evolvedmekanism:quantum_bin": [
-    255,
-    255,
-    255
   ],
   "valhelsia_furniture:light_blue_fabric_desk_lamp": [
     0,
@@ -22603,11 +21483,6 @@
     255,
     255,
     0
-  ],
-  "evolvedmekanism:overclocked_alloying_factory": [
-    255,
-    255,
-    255
   ],
   "enderio:xp_juice": [
     255,
@@ -22789,22 +21664,17 @@
     255,
     255
   ],
-  "astral_mekanism:basic_standard_astral_energized_smelting_factory": [
-    255,
-    255,
-    255
-  ],
   "pyrite:glow_stained_pressure_plate": [
     255,
     255,
     255
   ],
-  "ae2cs:deepslate_charged_certus_quartz_ore": [
+  "createresourcegeodes:crimsite_catalyst": [
     255,
     255,
     255
   ],
-  "createresourcegeodes:crimsite_catalyst": [
+  "ae2cs:deepslate_charged_certus_quartz_ore": [
     255,
     255,
     255
@@ -22899,11 +21769,6 @@
     255,
     255
   ],
-  "emextras:absolute_overclocked_combining_factory": [
-    255,
-    255,
-    255
-  ],
   "pyrite:orange_torch_lever": [
     255,
     102,
@@ -22979,20 +21844,10 @@
     34,
     255
   ],
-  "mcwholidays:white_garland_red_lights": [
-    255,
-    0,
-    0
-  ],
   "silentgems:kyanite_glowrose": [
     255,
     255,
     255
-  ],
-  "mcwholidays:yellow_tiny_string_lights": [
-    255,
-    255,
-    0
   ],
   "musings:circle_yellow_ring_green_bg_flipping": [
     0,
@@ -23025,11 +21880,6 @@
     255
   ],
   "aether:treasure_doorway_light_hellfire_stone": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:gas_synthesizer": [
     255,
     255,
     255
@@ -23239,19 +22089,9 @@
     0,
     255
   ],
-  "astral_mekanism:xp_tank": [
-    255,
-    255,
-    255
-  ],
   "xycraft_override:crying_obsidian_blue": [
     0,
     0,
-    255
-  ],
-  "astral_mekanism:item_sortable_storage": [
-    255,
-    255,
     255
   ],
   "faa:water_fatigue_machine": [
@@ -23414,11 +22254,6 @@
     102,
     187
   ],
-  "evolvedmekanism:dense_enriching_factory": [
-    255,
-    255,
-    255
-  ],
   "botania:floating_agricarnation_chibi": [
     255,
     255,
@@ -23445,11 +22280,6 @@
     255
   ],
   "pyrite:star_stained_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "reddensstonelantern:broad_stone_lantern_top_light": [
     255,
     255,
     255
@@ -23629,11 +22459,6 @@
     255,
     255
   ],
-  "emextras:infinite_multiversal_injecting_factory": [
-    255,
-    255,
-    255
-  ],
   "systeams:lapidary_boiler": [
     255,
     255,
@@ -23724,16 +22549,6 @@
     255,
     255
   ],
-  "evolvedmekanism:dense_alloying_factory": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:astral_radiation_irradiator": [
-    255,
-    255,
-    255
-  ],
   "pyrite:star_stained_hanging_sign": [
     255,
     255,
@@ -23745,11 +22560,6 @@
     255
   ],
   "nightlights:hanging_lights_default": [
-    255,
-    255,
-    255
-  ],
-  "mekanismelements:adsorption_separator": [
     255,
     255,
     255
@@ -23789,15 +22599,15 @@
     255,
     0
   ],
+  "fintastic:green_dwarf_froglight": [
+    0,
+    255,
+    0
+  ],
   "musings:circle_green_ring_gray_bg": [
     136,
     136,
     136
-  ],
-  "astral_mekanism:absolute_overclocked_compact_fusion_reactor": [
-    255,
-    255,
-    255
   ],
   "botania:glimmering_livingwood": [
     255,
@@ -23874,11 +22684,6 @@
     255,
     255
   ],
-  "mcwholidays:yellow_string_lights": [
-    255,
-    255,
-    0
-  ],
   "productivetrees:slimy_delight_leaves": [
     255,
     255,
@@ -23894,18 +22699,8 @@
     0,
     255
   ],
-  "emextras:supreme_quantum_injecting_factory": [
-    255,
-    255,
-    255
-  ],
   "dazzle:cyan_icy_analog_lamp": [
     0,
-    255,
-    255
-  ],
-  "emextras:infinite_multiversal_smelting_factory": [
-    255,
     255,
     255
   ],
@@ -23954,11 +22749,6 @@
     255,
     0
   ],
-  "astral_mekanism:infusing_condensentrator": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_light_blue_ring_pink_bg": [
     255,
     102,
@@ -23993,6 +22783,11 @@
     136,
     136,
     136
+  ],
+  "swem:invisible_glow_block": [
+    255,
+    255,
+    255
   ],
   "skinnedlanterns:ornament_red_lantern_block": [
     255,
@@ -24284,11 +23079,6 @@
     0,
     255
   ],
-  "astral_mekanism:astral_transformer": [
-    255,
-    255,
-    255
-  ],
   "botania:enchanter": [
     255,
     255,
@@ -24385,11 +23175,6 @@
     255
   ],
   "avaritia_integration:soarleander": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:astral_chemical_oxidizer": [
     255,
     255,
     255
@@ -24512,11 +23297,6 @@
   "the_bumblezone:super_candle_base_light_blue": [
     0,
     0,
-    255
-  ],
-  "reddensstonelantern:smallfoot_stone_lantern_light": [
-    255,
-    255,
     255
   ],
   "skinnedlanterns:ornament_magenta_lantern_block": [
@@ -24684,16 +23464,6 @@
     255,
     255
   ],
-  "astral_mekanism:supreme_quantum_energized_smelting_factory": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:astral_gas_burning_generator": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_cyan_ring_red_bg_flipping": [
     255,
     0,
@@ -24798,11 +23568,6 @@
     255,
     255,
     0
-  ],
-  "mcwholidays:blue_decorated_christmas_tree_middle": [
-    0,
-    0,
-    255
   ],
   "silentgems:potted_heliodor_glowrose": [
     255,
@@ -25084,11 +23849,6 @@
     0,
     0
   ],
-  "astral_mekanism:astral_dissolution_chamber": [
-    255,
-    255,
-    255
-  ],
   "projectexpansion:orange_emc_link": [
     255,
     102,
@@ -25279,11 +24039,6 @@
     255,
     255
   ],
-  "astral_mekanism:glowstone_neutron_activator": [
-    255,
-    255,
-    255
-  ],
   "torchslabmod:candle_red_slab": [
     255,
     0,
@@ -25349,11 +24104,6 @@
     0,
     255
   ],
-  "mcwholidays:white_wavy_garland_purple_lights": [
-    170,
-    34,
-    255
-  ],
   "skinnedlanterns:ornament_lime_soul_lantern_block": [
     187,
     255,
@@ -25414,6 +24164,11 @@
     255,
     255
   ],
+  "swdm:pylon_light_blue": [
+    0,
+    0,
+    255
+  ],
   "rechiseled:glowstone_tiles_connecting": [
     255,
     255,
@@ -25464,11 +24219,6 @@
     255,
     0
   ],
-  "evolvedmekanism:overclocked_sawing_factory": [
-    255,
-    255,
-    255
-  ],
   "dazzle:blue_flare": [
     0,
     0,
@@ -25505,11 +24255,6 @@
     0
   ],
   "productivetrees:slimy_delight_stripped_wood": [
-    255,
-    255,
-    255
-  ],
-  "reddensstonelantern:thin_stone_lantern_block_light": [
     255,
     255,
     255
@@ -25598,11 +24343,6 @@
     255,
     255,
     0
-  ],
-  "astral_mekanism:astral_heat_generator": [
-    255,
-    255,
-    255
   ],
   "chipped:tiny_brick_bordered_magma_block": [
     255,
@@ -25747,11 +24487,6 @@
   "fairylights:oil_lantern": [
     255,
     255,
-    255
-  ],
-  "mcwholidays:purple_decorated_christmas_tree_base": [
-    170,
-    34,
     255
   ],
   "redeco:brown_paper_lantern": [
@@ -25939,11 +24674,6 @@
     255,
     255
   ],
-  "reddensstonelantern:big_stone_lantern_top_light": [
-    255,
-    255,
-    255
-  ],
   "xycraft_world:lamp_lantern_black": [
     0,
     0,
@@ -26054,11 +24784,6 @@
     255,
     0
   ],
-  "mcwholidays:green_decorated_christmas_tree_base": [
-    0,
-    255,
-    0
-  ],
   "rockyminerals:duskmire_lamp": [
     255,
     255,
@@ -26119,17 +24844,7 @@
     68,
     17
   ],
-  "mcwholidays:wavy_garland_purple_lights": [
-    170,
-    34,
-    255
-  ],
   "additional_lights:al_lamp_iron_block": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:advanced_energized_smelting_factory": [
     255,
     255,
     255
@@ -26158,16 +24873,6 @@
     255,
     102,
     187
-  ],
-  "mcwholidays:purple_tiny_string_lights": [
-    170,
-    34,
-    255
-  ],
-  "mcwholidays:blue_decorated_christmas_tree_base": [
-    0,
-    0,
-    255
   ],
   "tconstruct:molten_ender_fluid": [
     255,
@@ -26229,11 +24934,6 @@
     255,
     255
   ],
-  "astral_mekanism:basic_standard_compact_tep": [
-    255,
-    255,
-    255
-  ],
   "chipped:reinforced_verdant_froglight": [
     255,
     255,
@@ -26274,11 +24974,6 @@
     255,
     0
   ],
-  "evolvedmekanism:overclocked_crushing_factory": [
-    255,
-    255,
-    255
-  ],
   "silentgear:phantom_light": [
     255,
     255,
@@ -26289,15 +24984,15 @@
     255,
     255
   ],
-  "wallpapercraft:stonelampbrown-0": [
-    136,
-    68,
-    17
-  ],
   "projectred_illumination:yellow_illumar_lamp": [
     255,
     255,
     0
+  ],
+  "wallpapercraft:stonelampbrown-0": [
+    136,
+    68,
+    17
   ],
   "wallpapercraft:stonelampbrown-1": [
     136,
@@ -26388,11 +25083,6 @@
     255,
     255,
     255
-  ],
-  "mcwholidays:wavy_garland_yellow_lights": [
-    255,
-    255,
-    0
   ],
   "truedarkness:glow_pressure_plate": [
     255,
@@ -26535,11 +25225,6 @@
     255
   ],
   "chipped:engraved_magma_block": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:interstellar_antineutronic_matter_reconstruction_apparatus": [
     255,
     255,
     255
@@ -26744,11 +25429,6 @@
     0,
     255
   ],
-  "mcwholidays:garland_colorful_lights": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_lime_ring_green_bg": [
     0,
     255,
@@ -26770,11 +25450,6 @@
     17
   ],
   "echovoids:bell": [
-    255,
-    255,
-    255
-  ],
-  "compactmekanismmachines:compact_industrial_turbine": [
     255,
     255,
     255
@@ -26838,11 +25513,6 @@
     255,
     255,
     255
-  ],
-  "mcwholidays:red_decorated_christmas_tree_base": [
-    255,
-    0,
-    0
   ],
   "darkerdepths:glowshroom_heart": [
     255,
@@ -27149,11 +25819,6 @@
     255,
     255
   ],
-  "ostrea:soul_table": [
-    0,
-    0,
-    255
-  ],
   "tombstone:decorative_grave_simple": [
     255,
     255,
@@ -27162,11 +25827,6 @@
   "redeco:magenta_lamp": [
     255,
     0,
-    255
-  ],
-  "astral_mekanism:astral_reaction_chamber": [
-    255,
-    255,
     255
   ],
   "additional_lights:al_torch_glass": [
@@ -27304,11 +25964,6 @@
     255,
     255
   ],
-  "astral_mekanism:mekanical_charger": [
-    255,
-    255,
-    255
-  ],
   "bc_core:tinted_water_block_166": [
     255,
     255,
@@ -27354,11 +26009,6 @@
     0,
     0
   ],
-  "astral_mekanism:green_house": [
-    0,
-    255,
-    0
-  ],
   "skinnedlanterns:paper_orange_lantern_block": [
     255,
     102,
@@ -27380,11 +26030,6 @@
     255
   ],
   "bc_core:tinted_water_block_158": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:absolute_overclocked_energized_smelting_factory": [
     255,
     255,
     255
@@ -27450,11 +26095,6 @@
     255
   ],
   "undergarden:undergarden_portal": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:astral_crystallizer": [
     255,
     255,
     255
@@ -27535,11 +26175,6 @@
     255
   ],
   "chipped:devious_jack_o_lantern": [
-    255,
-    255,
-    255
-  ],
-  "mcwholidays:colorful_cube_string_lights": [
     255,
     255,
     255
@@ -27629,16 +26264,6 @@
     255,
     0
   ],
-  "astral_mekanism:astral_green_house": [
-    0,
-    255,
-    0
-  ],
-  "emextras:cosmic_dense_alloying_factory": [
-    255,
-    255,
-    255
-  ],
   "dreamwoods:ice_wood": [
     255,
     255,
@@ -27724,15 +26349,15 @@
     136,
     136
   ],
-  "ars_elemental:yellow_archwood_log": [
-    255,
-    255,
-    0
-  ],
   "echovoids:mythril_block_of_neon": [
     255,
     255,
     255
+  ],
+  "ars_elemental:yellow_archwood_log": [
+    255,
+    255,
+    0
   ],
   "morecandles:end_candle_holder": [
     255,
@@ -27909,11 +26534,6 @@
     255,
     0
   ],
-  "emextras:cosmic_dense_crushing_factory": [
-    255,
-    255,
-    255
-  ],
   "mcwlights:cherry_ceiling_fan_light": [
     255,
     255,
@@ -27932,11 +26552,6 @@
   "musings:circle_cycle_blue": [
     0,
     0,
-    255
-  ],
-  "astral_mekanism:basic_standard_energized_smelting_factory": [
-    255,
-    255,
     255
   ],
   "musings:circle_lime_ring_orange_bg": [
@@ -28074,11 +26689,6 @@
     255,
     255
   ],
-  "astral_mekanism:astral_enrichment_chamber": [
-    255,
-    255,
-    255
-  ],
   "simplylight:rodlamp": [
     255,
     255,
@@ -28209,11 +26819,6 @@
     0,
     255
   ],
-  "emextras:cosmic_alloying_factory": [
-    255,
-    255,
-    255
-  ],
   "betterblockz:cyberlight_alt_blockz_15": [
     255,
     255,
@@ -28290,11 +26895,6 @@
     255
   ],
   "chipped:polished_crying_obsidian": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:cosmic_dense_compact_fir": [
     255,
     255,
     255
@@ -28394,11 +26994,6 @@
     255,
     0
   ],
-  "astral_mekanism:infinite_multiversal_energized_smelting_factory": [
-    255,
-    255,
-    255
-  ],
   "mysticsbiomes:orange_frosted_candle_cake_green": [
     0,
     255,
@@ -28474,11 +27069,6 @@
     255,
     0
   ],
-  "astral_mekanism:fluid_infuser": [
-    255,
-    255,
-    255
-  ],
   "strangematter:gravitic_shard_lamp": [
     255,
     255,
@@ -28533,11 +27123,6 @@
     0,
     0,
     0
-  ],
-  "astral_mekanism:astral_compact_fir": [
-    255,
-    255,
-    255
   ],
   "redeco:light_gray_paper_lantern": [
     136,
@@ -28598,11 +27183,6 @@
     255,
     255,
     255
-  ],
-  "mcwholidays:red_decorated_christmas_tree_middle": [
-    255,
-    0,
-    0
   ],
   "embers:molten_platinum_block": [
     255,
@@ -28764,11 +27344,6 @@
     255,
     0
   ],
-  "astral_mekanism:essential_compact_tep": [
-    255,
-    255,
-    255
-  ],
   "chipped:eroded_crying_obsidian": [
     255,
     255,
@@ -28829,11 +27404,6 @@
     0,
     255
   ],
-  "evolvedmekanism:multiversal_purifying_factory": [
-    255,
-    255,
-    255
-  ],
   "theabyss:rycilian_mushroom": [
     255,
     255,
@@ -28850,11 +27420,6 @@
     255
   ],
   "echovoids:giant_anemony": [
-    255,
-    255,
-    255
-  ],
-  "reddensstonelantern:bigger_stone_lantern_block_l": [
     255,
     255,
     255
@@ -29069,11 +27634,6 @@
     0,
     255
   ],
-  "evolvedmekanism:quantum_crushing_factory": [
-    255,
-    255,
-    255
-  ],
   "createmetalwork:molten_lead": [
     255,
     255,
@@ -29229,11 +27789,6 @@
     255,
     0
   ],
-  "evolvedmekanism:creative_purifying_factory": [
-    255,
-    255,
-    255
-  ],
   "enigmaticdelicacy:blossoming_astral_leaves": [
     255,
     255,
@@ -29305,11 +27860,6 @@
     255
   ],
   "ror:neon_leaves": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:supreme_quantum_compact_fusion_reactor": [
     255,
     255,
     255
@@ -29489,11 +28039,6 @@
     255,
     0
   ],
-  "mcwholidays:green_cube_string_lights": [
-    0,
-    255,
-    0
-  ],
   "avaritia_integration:soarleander_floating": [
     255,
     255,
@@ -29534,11 +28079,6 @@
     255,
     255
   ],
-  "evolvedmekanism:quantum_enriching_factory": [
-    255,
-    255,
-    255
-  ],
   "botania:floating_endoflame": [
     255,
     255,
@@ -29565,11 +28105,6 @@
     255
   ],
   "vanilladelight:stone_bricks_stove": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:essential_compact_naquadah_reactor": [
     255,
     255,
     255
@@ -29603,6 +28138,11 @@
     255,
     255,
     0
+  ],
+  "swdm:pylon_blue": [
+    0,
+    0,
+    255
   ],
   "botania:floating_orechid": [
     255,
@@ -29829,11 +28369,6 @@
     255,
     255
   ],
-  "emextras:cosmic_dense_purifying_factory": [
-    255,
-    255,
-    255
-  ],
   "botania:floating_rannuncarpus": [
     255,
     255,
@@ -29850,11 +28385,6 @@
     255
   ],
   "mcwlights:iron_wall_candle_holder": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:overclocked_injecting_factory": [
     255,
     255,
     255
@@ -29919,14 +28449,14 @@
     255,
     255
   ],
-  "productivetrees:cave_dweller_wall_sign": [
-    255,
-    255,
-    255
-  ],
   "projectred_illumination:purple_illumar_lamp": [
     170,
     34,
+    255
+  ],
+  "productivetrees:cave_dweller_wall_sign": [
+    255,
+    255,
     255
   ],
   "chipped:double_inlayed_sea_lantern": [
@@ -29950,11 +28480,6 @@
     255
   ],
   "mcwlights:festive_lantern": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:advanced_compact_fir": [
     255,
     255,
     255
@@ -30023,11 +28548,6 @@
     255,
     102,
     187
-  ],
-  "astral_mekanism:essential_compact_fusion_reactor": [
-    255,
-    255,
-    255
   ],
   "rechiseled:glowstone_brick_paving_stairs_connecting": [
     255,
@@ -30144,6 +28664,11 @@
     0,
     255
   ],
+  "swdm:pylon_lime": [
+    187,
+    255,
+    0
+  ],
   "musings:circle_brown_ring_green_bg": [
     0,
     255,
@@ -30188,11 +28713,6 @@
     255,
     255,
     255
-  ],
-  "mcwholidays:yellow_decorated_christmas_tree_middle": [
-    255,
-    255,
-    0
   ],
   "dazzle:magenta_modern_analog_lamp": [
     255,
@@ -30289,11 +28809,6 @@
     255,
     255
   ],
-  "mcwholidays:yellow_cube_string_lights": [
-    255,
-    255,
-    0
-  ],
   "deeperdarker:gloomslate_redstone_ore": [
     255,
     0,
@@ -30343,11 +28858,6 @@
     255,
     255,
     255
-  ],
-  "mcwholidays:green_decorated_christmas_tree_bottom": [
-    0,
-    255,
-    0
   ],
   "twigs:soul_lamp": [
     0,
@@ -30534,11 +29044,6 @@
     255,
     255
   ],
-  "mcwholidays:white_wavy_garland_blue_lights": [
-    0,
-    0,
-    255
-  ],
   "fairylights:icicle_lights": [
     255,
     255,
@@ -30548,6 +29053,11 @@
     255,
     255,
     255
+  ],
+  "fintastic:red_dwarf_froglight": [
+    255,
+    0,
+    0
   ],
   "dazzle:light_blue_modern_analog_lamp": [
     0,
@@ -30644,11 +29154,6 @@
     34,
     255
   ],
-  "mcwholidays:purple_decorated_christmas_tree_bottom": [
-    170,
-    34,
-    255
-  ],
   "productivetrees:cave_dweller_wall_hanging_sign": [
     255,
     255,
@@ -30670,11 +29175,6 @@
     0
   ],
   "rats:pirat_trapdoor": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:dense_infusing_factory": [
     255,
     255,
     255
@@ -30733,6 +29233,11 @@
     255,
     255,
     255
+  ],
+  "fintastic:yellow_dwarf_froglight": [
+    255,
+    255,
+    0
   ],
   "pyrite:light_gray_lamp": [
     136,
@@ -30824,11 +29329,6 @@
     0,
     0
   ],
-  "astral_mekanism:mekanical_inscriber": [
-    255,
-    255,
-    255
-  ],
   "pyrite:pink_torch": [
     255,
     102,
@@ -30913,11 +29413,6 @@
     0,
     0,
     0
-  ],
-  "astral_mekanism:infinite_multiversal_compact_fir": [
-    255,
-    255,
-    255
   ],
   "spelunkery:calcite_redstone_ore": [
     255,
@@ -31019,11 +29514,6 @@
     255,
     255
   ],
-  "astral_mekanism:infinite_multiversal_compact_fusion_reactor": [
-    255,
-    255,
-    255
-  ],
   "chromatic_construct:molten_chroma_fluid": [
     255,
     255,
@@ -31054,17 +29544,7 @@
     0,
     255
   ],
-  "emextras:infinite_multiversal_sawing_factory": [
-    255,
-    255,
-    255
-  ],
   "hauntedharvest:jack_o_lantern": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:quantum_alloying_factory": [
     255,
     255,
     255
@@ -31075,11 +29555,6 @@
     255
   ],
   "productivetrees:cave_dweller_planks": [
-    255,
-    255,
-    255
-  ],
-  "evolvedmekanism:overclocked_infusing_factory": [
     255,
     255,
     255
@@ -31102,11 +29577,6 @@
   "faa:blue_glowstone_block": [
     0,
     0,
-    255
-  ],
-  "astral_mekanism:mekanical_matter_condenser": [
-    255,
-    255,
     255
   ],
   "mysticsbiomes:purple_frosted_candle_cake_yellow": [
@@ -31309,25 +29779,10 @@
     255,
     255
   ],
-  "astral_mekanism:item_unzipper": [
-    255,
-    255,
-    255
-  ],
   "mekanismadditions:blue_plastic_glow_slab": [
     0,
     0,
     255
-  ],
-  "evolvedmekanism:overclocked_fluid_tank": [
-    255,
-    255,
-    255
-  ],
-  "mcwholidays:orange_string_lights": [
-    255,
-    102,
-    17
   ],
   "chipped:inscribed_magma_block": [
     255,
@@ -31689,11 +30144,6 @@
     0,
     0
   ],
-  "evolvedmekanism:dense_crushing_factory": [
-    255,
-    255,
-    255
-  ],
   "mysticsbiomes:strawberry_candle_cake_pink": [
     255,
     102,
@@ -31724,11 +30174,6 @@
     136,
     136
   ],
-  "emextras:supreme_quantum_smelting_factory": [
-    255,
-    255,
-    255
-  ],
   "mekanismadditions:gray_plastic_glow": [
     136,
     136,
@@ -31754,11 +30199,6 @@
     255,
     255
   ],
-  "astral_mekanism:elite_compact_fusion_reactor": [
-    255,
-    255,
-    255
-  ],
   "mcwlights:classic_street_lamp": [
     255,
     255,
@@ -31779,11 +30219,6 @@
     0,
     0
   ],
-  "mcwholidays:white_garland_green_lights": [
-    0,
-    255,
-    0
-  ],
   "productivetrees:cave_dweller_stripped_wood": [
     255,
     255,
@@ -31798,16 +30233,6 @@
     136,
     68,
     17
-  ],
-  "astral_mekanism:astral_chemical_injection_chamber": [
-    255,
-    255,
-    255
-  ],
-  "astral_mekanism:mekanical_composter": [
-    255,
-    255,
-    255
   ],
   "musings:circle_gray_ring_brown_bg_flipping": [
     136,
@@ -31974,11 +30399,6 @@
     102,
     187
   ],
-  "evolvedmekanism:solidification_chamber": [
-    255,
-    255,
-    255
-  ],
   "rats:stripped_pirat_wood": [
     255,
     255,
@@ -32063,11 +30483,6 @@
     136,
     68,
     17
-  ],
-  "evolvedmekanism:overclocked_bin": [
-    255,
-    255,
-    255
   ],
   "chipped:cracked_disordered_crying_obsidian_bricks": [
     255,
@@ -32264,11 +30679,6 @@
     255,
     255
   ],
-  "mekanism:ultimate_alloying_factory": [
-    255,
-    255,
-    255
-  ],
   "ad_astra:strophar_door": [
     255,
     255,
@@ -32359,14 +30769,14 @@
     255,
     255
   ],
-  "ars_elemental:mermaid_rock": [
-    255,
-    255,
-    255
-  ],
   "productivetrees:purple_spiral_trapdoor": [
     170,
     34,
+    255
+  ],
+  "ars_elemental:mermaid_rock": [
+    255,
+    255,
     255
   ],
   "echovoids:lime_neon_tube": [
@@ -32432,11 +30842,6 @@
   "musings:circle_red_ring_green_bg": [
     0,
     255,
-    0
-  ],
-  "mcwholidays:wavy_garland_red_lights": [
-    255,
-    0,
     0
   ],
   "musings:circle_pink_ring_purple_bg": [
@@ -32624,11 +31029,6 @@
     255,
     255
   ],
-  "evolvedmekanism:multiversal_fluid_tank": [
-    255,
-    255,
-    255
-  ],
   "mysticsbiomes:cyan_frosted_candle_cake_white": [
     255,
     255,
@@ -32653,11 +31053,6 @@
     255,
     255,
     0
-  ],
-  "mcwholidays:blue_decorated_christmas_tree_bottom": [
-    0,
-    0,
-    255
   ],
   "chipped:crying_obsidian_pillar": [
     255,
@@ -32688,11 +31083,6 @@
     255,
     102,
     187
-  ],
-  "astral_mekanism:enchanted_ultimate_astral_energized_smelting_factory": [
-    255,
-    255,
-    255
   ],
   "redeco:magenta_paper_lantern": [
     255,
@@ -32814,11 +31204,6 @@
     255,
     255
   ],
-  "astral_mekanism:elite_energized_smelting_factory": [
-    255,
-    255,
-    255
-  ],
   "dazzle:black_classic_analog_lamp": [
     0,
     0,
@@ -32843,11 +31228,6 @@
     255,
     102,
     187
-  ],
-  "emextras:infinite_multiversal_compressing_factory": [
-    255,
-    255,
-    255
   ],
   "projectred_illumination:brown_illumar_lamp": [
     136,
@@ -32909,11 +31289,6 @@
     255,
     255
   ],
-  "emextras:infinite_multiversal_purifying_factory": [
-    255,
-    255,
-    255
-  ],
   "mysticsbiomes:cyan_frosted_candle_cake_green": [
     0,
     255,
@@ -32958,11 +31333,6 @@
     187,
     255,
     0
-  ],
-  "astral_mekanism:infuse_synthesizer": [
-    255,
-    255,
-    255
   ],
   "bloodyhell:glowing_crystal_lantern": [
     255,
@@ -33124,11 +31494,6 @@
     255,
     255
   ],
-  "compactmekanismmachines:compressed_wind_generator_x131072": [
-    255,
-    255,
-    255
-  ],
   "rftoolsutility:environmental_controller": [
     255,
     255,
@@ -33214,20 +31579,10 @@
     255,
     0
   ],
-  "astral_mekanism:supreme_quantum_compact_fir": [
-    255,
-    255,
-    255
-  ],
   "suppsquared:gold_candle_holder_yellow": [
     255,
     255,
     0
-  ],
-  "astral_mekanism:absolute_overclocked_astral_energized_smelting_factory": [
-    255,
-    255,
-    255
   ],
   "tconstruct:molten_silver_fluid": [
     255,
@@ -33349,11 +31704,6 @@
     255,
     255
   ],
-  "astral_mekanism:astral_mekanical_inscriber": [
-    255,
-    255,
-    255
-  ],
   "ror:pink_neon_block": [
     255,
     102,
@@ -33386,11 +31736,6 @@
   ],
   "suppsquared:gold_candle_holder_cyan": [
     0,
-    255,
-    255
-  ],
-  "astral_mekanism:astral_chemixer": [
-    255,
     255,
     255
   ],

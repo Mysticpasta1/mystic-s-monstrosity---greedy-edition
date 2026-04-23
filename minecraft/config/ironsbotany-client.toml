@@ -1,0 +1,21 @@
+
+[Visual]
+	#Enable mana transfer particle effects and block entity renderer orbs
+	enableManaParticles = true
+	#Particle density (1-10, higher = more particles)
+	#Range: 1 ~ 10
+	particleDensity = 5
+
+[HUD]
+	#Show Botania mana indicator on HUD
+	showManaHUD = true
+	#HUD X position offset
+	#Range: -500 ~ 500
+	hudXOffset = 100
+	#HUD Y position offset
+	#Range: -500 ~ 500
+	hudYOffset = -60
+	#HUD scale
+	#Range: 0.5 ~ 2.0
+	hudScale = 1.0
+

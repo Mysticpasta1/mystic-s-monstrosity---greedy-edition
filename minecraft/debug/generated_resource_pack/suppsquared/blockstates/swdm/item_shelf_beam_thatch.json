@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/swdm/beam_thatch"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/swdm/beam_thatch",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/swdm/beam_thatch",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/swdm/beam_thatch",
+      "y": 270
+    }
+  }
+}

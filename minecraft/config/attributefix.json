@@ -836,6 +836,17 @@
         "value": 1024
       }
     },
+    "ironsbotany:mana_efficiency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "elixirum:generic.medela_mastery": {
       "enabled": false,
       "min": {

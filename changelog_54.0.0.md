@@ -1,0 +1,105 @@
+### Mods
+
+**Added**
+- Advanced Peripherals
+- Bonsai Trees 4
+- CC: Redstone Link Bridge
+- CC: Tweaked
+- CC:DirectGPU
+- CC:X
+- DirtyAliasing
+- More Red x CC:Tweaked Compat
+- Star Worm Decor
+- Star Worm Equestrian (Upgrading Horses)
+- Tom's Peripherals
+- Turtles Drop Scutes Now!
+- Windowlogging Neo
+
+**Removed**
+- AE2 Tangible Bookmarks
+- AE2AddonLib
+- Aether Gravitation
+- Ancient Reforging
+- Apotheotic Additions
+- Apothic Curios
+- Astral Mekanism  & Energistics
+- Botany Pots
+- Botany Trees
+- Compact Mekanism Machines
+- Esoteric Reforging
+- Evolved Mekanism
+- Evolved Mekanism Extras
+- Extended Terminal
+- FastWorkbench
+- Iron's Spell Books: Arcane Essence Blocks
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Holidays
+- Macaw's Paintings
+- Macaw's Paths and Pavings
+- Macaw's Roofs
+- Macaw's Stairs
+- Macaw's Trapdoors
+- Macaw's Windows
+- MCreatorMemFix
+- Medival Starter Hut
+- MEGA Cells
+- Mekanism Elements
+- Myotus Lib
+- Netherite Template Recipe
+- NotEnoughBlocks
+- Ostrea
+- Powerful Effects [Absolutely]
+- Redden's Stone Lanterns
+- Stack Upgrade Integration
+- Survival Fire Sticks (Wooden Flint and Steel)
+- WindowLogging Renewed
+
+**Updated**
+- AddonsLib
+- Advanced Loot Info
+- AdvancedAE
+- Animus
+- Applied Create
+- Async Logger
+- Atlantis
+- AzureLib
+- Blood Magic 
+- Colorful Lighting (Sodium Compat)
+- Compost
+- Corail Tombstone
+- CraterLib
+- Crazy AE2 Addons
+- Create: Tweaked Controllers
+- Darker Depths
+- Dawn Of Time
+- Deimos Lib
+- Effortless Building
+- ExtendedAE-Plus
+- Fancy World Animations
+- Farmer's Delight
+- Fast IP Ping
+- Fintastic
+- Galosphere
+- GregTech Modern Utilities
+- Hexalia
+- Industrial Foregoing
+- Integrated Dynamics
+- Inventory Essentials
+- JEAsync
+- Json Things
+- L_Ender 's Cataclysm
+- MekaJadeUpgrades Unofficial
+- MmmMmmMmmMmm (Target Dummy)
+- ModernFix
+- Moonlight Lib
+- OMNI Cells
+- Reliquary Reincarnations
+- Repurposed Structures (Neoforge/Forge)
+- Sophisticated Storage
+- Sophisticated Storage Create Integration
+- Storage Delight (Forge & Neoforge)
+- The Bumblezone (NeoForge/Forge)
+- Titanium
+

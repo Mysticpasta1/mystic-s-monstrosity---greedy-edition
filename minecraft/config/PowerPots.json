@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "tiers": [
+    {
+      "index": 1,
+      "powerStorage": 1000,
+      "powerEachTick": 10,
+      "speedModifier": 2,
+      "itemAmountMultiplier": 1
+    },
+    {
+      "index": 2,
+      "powerStorage": 2000,
+      "powerEachTick": 20,
+      "speedModifier": 4,
+      "itemAmountMultiplier": 2
+    },
+    {
+      "index": 3,
+      "powerStorage": 4000,
+      "powerEachTick": 40,
+      "speedModifier": 8,
+      "itemAmountMultiplier": 4
+    },
+    {
+      "index": 4,
+      "powerStorage": 8000,
+      "powerEachTick": 80,
+      "speedModifier": 16,
+      "itemAmountMultiplier": 8
+    },
+    {
+      "index": 5,
+      "powerStorage": 16000,
+      "powerEachTick": 160,
+      "speedModifier": 32,
+      "itemAmountMultiplier": 16
+    }
+  ]
+}

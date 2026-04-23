@@ -1,7 +1,5 @@
 {
   "gtmutils": {
-    "me_expanded_pattern_buffer_proxy_info": true,
-    "me_expanded_pattern_buffer_info": true,
     "enlarged_me_stocking_bus_info": true,
     "pterb_info": true
   },
@@ -19,9 +17,6 @@
   },
   "underlay": {
     "overlay": true
-  },
-  "melter": {
-    "melter_data": true
   },
   "ae2": {
     "part_icon": true,
@@ -89,23 +84,12 @@
   "projectexpansion": {
     "provider": true
   },
-  "appliedcooking": {
-    "kitchen_station": true
-  },
   "waystones": {
     "waystone": true
   },
   "appliedcreate": {
     "grid_node_state": true,
     "power_storage": true
-  },
-  "cookingforblockheads": {
-    "fridge": true,
-    "oven": true,
-    "sink": true,
-    "preservation_chamber": true,
-    "toaster": true,
-    "milk_jar": true
   },
   "beer": {
     "beer": true
@@ -304,11 +288,13 @@
   "immersiveengineering": {
     "multiblock_icon": true
   },
-  "collectorsreap": {
-    "crop_progress": true
-  },
   "jademoddedentities": {
+    "swem.levels": true,
+    "swem.hide_default": true,
     "villager": true,
+    "swem.coat": true,
+    "swem.gender": true,
+    "swem": true,
     "doggy_talents_next": true
   },
   "createsifter": {
@@ -340,6 +326,11 @@
     "mortar": true,
     "cauldron": true
   },
+  "toms_peripherals": {
+    "full_modem_info": true,
+    "modem_info": true,
+    "wdt_info": true
+  },
   "securitycraft": {
     "showowner": true,
     "showmodules": true,
@@ -362,19 +353,12 @@
   "fulleng": {
     "storage_monitor": true
   },
-  "refinedcooking": {
-    "kitchen_access_point": true,
-    "kitchen_station": true
-  },
   "productivebees": {
     "solitary_nest": true,
     "jar": true,
     "canvas_beehive": true,
     "bee_attributes": true,
     "productive_bee": true
-  },
-  "modularrouters": {
-    "router": true
   },
   "jadeaddons": {
     "equipment_requirement": ""
@@ -389,11 +373,6 @@
     "crop_progress": true,
     "pie_icons": true,
     "mushroom_colony": true
-  },
-  "fastpipes": {
-    "fluid_pipe_info": true,
-    "energy_pipe_info": true,
-    "item_pipe_info": true
   },
   "ultramarine": {
     "brick_kiln": true,
