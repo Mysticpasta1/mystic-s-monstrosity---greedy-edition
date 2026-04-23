@@ -2569,13 +2569,13 @@
     "curseForgeHash": 2176924912,
     "modrinthHash": "d380b7d0e8a61af4915440822654022b4d1db94f"
   },
-  "colorful_lighting-1.20.1-2.3.3.jar": {
-    "jarName": "colorful_lighting-1.20.1-2.3.3.jar",
+  "colorful_lighting-1.20.1-2.4.0.jar": {
+    "jarName": "colorful_lighting-1.20.1-2.4.0.jar",
     "modId": "colorful_lighting",
     "name": "Colorful Lighting",
-    "version": "2.3.3",
-    "curseForgeHash": 3177352112,
-    "modrinthHash": "2153389a7b815ab2a89305ffe4b63a348e6eaf2e"
+    "version": "2.4.0",
+    "curseForgeHash": 1118080433,
+    "modrinthHash": "309e685cb45088f04ad067595b6feffef27702a0"
   },
   "colorfulanvils-1.0.0.jar": {
     "jarName": "colorfulanvils-1.0.0.jar",
@@ -4343,6 +4343,22 @@
     "version": "1.3.21",
     "curseForgeHash": 1104815069,
     "modrinthHash": "bdebde180017d3736d1cc71b2a89c290e144d392"
+  },
+  "entity_model_features_1.20.1-forge-3.1.1.jar": {
+    "jarName": "entity_model_features_1.20.1-forge-3.1.1.jar",
+    "modId": "entity_model_features",
+    "name": "Entity Model Features",
+    "version": "3.1.1",
+    "curseForgeHash": 4261518779,
+    "modrinthHash": "12e1fa9d7ba622810fdb2571d0ebace239435c00"
+  },
+  "entity_texture_features_1.20.1-forge-7.1.jar": {
+    "jarName": "entity_texture_features_1.20.1-forge-7.1.jar",
+    "modId": "entity_texture_features",
+    "name": "Entity Texture Features",
+    "version": "7.1",
+    "curseForgeHash": 1697260817,
+    "modrinthHash": "e13ba95a0388d7d5b1f479e5bd7e2df78e4c4a23"
   },
   "EpheroLib-1.20.1-FORGE-1.2.0.jar": {
     "jarName": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
@@ -9558,14 +9574,6 @@
     "version": "1.0.1",
     "curseForgeHash": 3647866981,
     "modrinthHash": "affd130b8a77e60dd7d7f7f3621d0182d82d13e1"
-  },
-  "projectexpansion-1.20.1-1.1.3.jar": {
-    "jarName": "projectexpansion-1.20.1-1.1.3.jar",
-    "modId": "projectexpansion",
-    "name": "Project Expansion",
-    "version": "1.20.1-1.1.3",
-    "curseForgeHash": 708736808,
-    "modrinthHash": "408a2c2cd2c8d8a595d3c8182a61bfdf8001ba00"
   },
   "projectile_damage-forge-3.2.2+1.20.1.jar": {
     "jarName": "projectile_damage-forge-3.2.2+1.20.1.jar",

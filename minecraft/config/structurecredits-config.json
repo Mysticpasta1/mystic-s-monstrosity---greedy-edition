@@ -25,6 +25,14 @@
     "minecraft:desert_village",
     "integrated_villages:airship_village",
     "ebwizardry:earth_shrine",
-    "valhelsia_structures:spawner_room"
+    "valhelsia_structures:spawner_room",
+    "villager_forge:villager_forge",
+    "villager_observatory:observatory",
+    "medival_starter_house:first",
+    "hopo:portal",
+    "illager_siege_weapons:trebuchet",
+    "villager_circus_tent:villager_circus_tent",
+    "imst:beehouse",
+    "idas:enchantingtower"
   ]
 }
