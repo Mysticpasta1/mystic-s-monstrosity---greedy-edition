@@ -1577,14 +1577,6 @@
     "curseForgeHash": 2448644593,
     "modrinthHash": "c747ebbb7654b67c2b62b669605bcda041970ca4"
   },
-  "BetterAnimationsCollection-v8.0.1-1.20.1-Forge.jar": {
-    "jarName": "BetterAnimationsCollection-v8.0.1-1.20.1-Forge.jar",
-    "modId": "betteranimationscollection",
-    "name": "Better Animations Collection",
-    "version": "8.0.1",
-    "curseForgeHash": 2902820614,
-    "modrinthHash": "015971d9ebfda64bc11ebc9e251704469fb467c0"
-  },
   "betterarcheology-1.2.1-1.20.1.jar": {
     "jarName": "betterarcheology-1.2.1-1.20.1.jar",
     "modId": "betterarcheology",
@@ -3391,6 +3383,14 @@
     "version": "1.2.5",
     "curseForgeHash": 1139051229,
     "modrinthHash": "bc46d641551f20611c002d46d83e24908eb305a3"
+  },
+  "curseofpandora-2.4.26.jar": {
+    "jarName": "curseofpandora-2.4.26.jar",
+    "modId": "curseofpandora",
+    "name": "Curse of Pandora",
+    "version": "2.4.26",
+    "curseForgeHash": 3294590159,
+    "modrinthHash": "d902a1fcdc547afa6477c0398e803e2ddae2eaa4"
   },
   "custom_nether_portals-forge-1.20.1-1.0.0.jar": {
     "jarName": "custom_nether_portals-forge-1.20.1-1.0.0.jar",
@@ -8791,14 +8791,6 @@
     "curseForgeHash": 2558657592,
     "modrinthHash": "b65dd4a3ecec254fba9ca549a22b45dc3e43db99"
   },
-  "notenoughanimations-forge-1.12.2-mc1.20.1.jar": {
-    "jarName": "notenoughanimations-forge-1.12.2-mc1.20.1.jar",
-    "modId": "notenoughanimations",
-    "name": "NotEnoughAnimations",
-    "version": "1.12.2",
-    "curseForgeHash": 3369608460,
-    "modrinthHash": "dcb3cdb5688f2b8dfb5d2edc6327fdfe11ab3918"
-  },
   "notrample-1.20.1-1.0.1.jar": {
     "jarName": "notrample-1.20.1-1.0.1.jar",
     "modId": "notrample",
@@ -10649,6 +10641,14 @@
     "curseForgeHash": 2677835492,
     "modrinthHash": "cfd851ffd2c3b451a96a19207dc6e084c1dfec73"
   },
+  "sirens_aquariums-1.1.0-forge-1.20.1.jar": {
+    "jarName": "sirens_aquariums-1.1.0-forge-1.20.1.jar",
+    "modId": "sirens_aquariums",
+    "name": "Siren\u0027s Aquariums 1.1",
+    "version": "1.1.0",
+    "curseForgeHash": 2432461522,
+    "modrinthHash": "0024f5b23c88bc730b7564ffbe927c7d7e45e326"
+  },
   "skeleton_ghost_ship-1.0.0-forge-1.20.1.jar": {
     "jarName": "skeleton_ghost_ship-1.0.0-forge-1.20.1.jar",
     "modId": "skeleton_ghost_ship",
@@ -11880,6 +11880,14 @@
     "version": "3.0.0-beta.5",
     "curseForgeHash": 3378024818,
     "modrinthHash": "a6f421bacf80a7fc8bcba577456d9d00792b7ef7"
+  },
+  "tinkers_ingenuity-1.1.6.jar": {
+    "jarName": "tinkers_ingenuity-1.1.6.jar",
+    "modId": "tinkers_ingenuity",
+    "name": "Tinkers Ingenuity",
+    "version": "1.0",
+    "curseForgeHash": 2612561210,
+    "modrinthHash": "f9dbbb3e98e01f1333970c00ae921f4725c45295"
   },
   "TinkersBouncePad-forge-1.20-1.5.0.jar": {
     "jarName": "TinkersBouncePad-forge-1.20-1.5.0.jar",

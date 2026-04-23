@@ -7396,3 +7396,10 @@
 		meteoirite_enchantinuuxxreenatiuurutunium_powder_ore = "[255,255,255]"
 		sunrise_fairy_lantern = "[255,255,255]"
 
+[tinkers_ingenuity]
+
+	[tinkers_ingenuity.blocks]
+		dragon_breath_fluid = "[255,255,255]"
+		ender_compound_fluid = "[255,255,255]"
+		terrestrial_solution_fluid = "[255,255,255]"
+

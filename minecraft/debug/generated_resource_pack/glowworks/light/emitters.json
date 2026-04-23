@@ -414,6 +414,11 @@
     255,
     255
   ],
+  "tinkers_ingenuity:ender_compound_fluid": [
+    255,
+    255,
+    255
+  ],
   "mcwlights:black_lamp": [
     0,
     0,
@@ -7137,6 +7142,11 @@
   "mysticsbiomes:yellow_frosted_candle_cake_blue": [
     0,
     0,
+    255
+  ],
+  "tinkers_ingenuity:terrestrial_solution_fluid": [
+    255,
+    255,
     255
   ],
   "skinnedlanterns:creeper_ender_lantern_block": [
@@ -23233,6 +23243,11 @@
     255,
     255,
     0
+  ],
+  "tinkers_ingenuity:dragon_breath_fluid": [
+    255,
+    255,
+    255
   ],
   "silentgems:potted_heliodor_glowrose": [
     255,
