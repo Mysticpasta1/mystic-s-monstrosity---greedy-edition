@@ -33,6 +33,10 @@
     "illager_siege_weapons:trebuchet",
     "villager_circus_tent:villager_circus_tent",
     "imst:beehouse",
-    "idas:enchantingtower"
+    "idas:enchantingtower",
+    "luistercorp:camping_store",
+    "integrated_villages:tavern_village",
+    "bettermineshafts:mineshaft_acacia",
+    "underground_village:underground_village"
   ]
 }

@@ -5,7 +5,7 @@
 
 		["Stellar View Client Config"."General Config".client]
 			#Makes the sky static (compatible with shaders)
-			static_sky = false
+			static_sky = true
 			#Renders stars and dust clouds using instancing
 			instancing = true
 			#Changes the order in which vertices used in static_sky are built

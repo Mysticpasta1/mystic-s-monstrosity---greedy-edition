@@ -8,3 +8,7 @@
 	#Disguises some passive and neutral mobs as hostile mobs while the Cyberpsychosis effect is active.
 	cyberpsychosisDisguiseEffect = true
 
+["Wonder of U"]
+	#The black and white + outline effect of nullification.
+	nullificationVisualEffect = true
+

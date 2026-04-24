@@ -5,6 +5,58 @@
       "name": "Mysticpasta1",
       "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
     },
+    "time": 1777004308986,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/95eBUB9eiL"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
+    "time": 1777003015484,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/zqly1bJpbW"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
+    "time": 1777001940014,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/VID26xrzpO"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
+    "time": 1777000754443,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/LoctsO7nL2"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
     "time": 1776218750781,
     "type": "Profiler",
     "data": {
