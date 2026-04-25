@@ -2528,3 +2528,11 @@
 	[notenoughblocks.blocks]
 		quartz_glass = "[255,255,255]"
 
+[blue_skies]
+
+	[blue_skies.blocks]
+		crystal_glass = "[255,255,255]"
+		crystal_glass_pane = "[255,255,255]"
+		midnight_glass = "[255,255,255]"
+		midnight_glass_pane = "[255,255,255]"
+

@@ -19,6 +19,11 @@
     0,
     255
   ],
+  "projectexpansion:fading_relay": [
+    255,
+    255,
+    255
+  ],
   "wallpapercraft:auralampblue-10": [
     0,
     0,
@@ -273,6 +278,11 @@
     187,
     255,
     0
+  ],
+  "blue_skies:vitreous_moonstone": [
+    255,
+    255,
+    255
   ],
   "skinnedlanterns:paper_pink_soul_lantern_block": [
     255,
@@ -579,6 +589,11 @@
     0,
     0
   ],
+  "blue_skies:glowing_nature_stonebrick_slab": [
+    255,
+    255,
+    255
+  ],
   "echovoids:green_block_of_neon": [
     0,
     255,
@@ -729,6 +744,11 @@
     0,
     0
   ],
+  "projectexpansion:light_gray_advanced_alchemical_chest": [
+    136,
+    136,
+    136
+  ],
   "echovoids:pearl_lamp_black_stairs": [
     0,
     0,
@@ -840,6 +860,11 @@
     0
   ],
   "echovoids:activtor_block_on_b": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies:glowing_nature_stone_stairs": [
     255,
     255,
     255
@@ -1063,6 +1088,11 @@
     0,
     255,
     255
+  ],
+  "projectexpansion:orange_power_flower": [
+    255,
+    102,
+    17
   ],
   "astral_mekanism:enchanted_ultimate_compact_fir": [
     255,
@@ -1652,6 +1682,11 @@
   "xycraft_world:lamp_flush_black": [
     0,
     0,
+    0
+  ],
+  "projectexpansion:green_relay": [
+    0,
+    255,
     0
   ],
   "pyrite:orange_torch": [
@@ -2254,12 +2289,22 @@
     255,
     255
   ],
+  "projectexpansion:white_relay": [
+    255,
+    255,
+    255
+  ],
   "chemlib:krypton_lamp_block": [
     255,
     255,
     255
   ],
   "sundries:exposed_dark_iron_chandelier": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies:glowing_aquatic_stone": [
     255,
     255,
     255
@@ -2639,6 +2684,11 @@
     255,
     0
   ],
+  "blue_skies:glowing_aquatic_stairs": [
+    255,
+    255,
+    255
+  ],
   "productivetrees:flickering_sun_wall_hanging_sign": [
     255,
     255,
@@ -2929,6 +2979,11 @@
     255,
     255
   ],
+  "blue_skies:glowing_nature_stonebrick_stairs": [
+    255,
+    255,
+    255
+  ],
   "productivetrees:time_traveller_wall_sign": [
     255,
     255,
@@ -2975,6 +3030,11 @@
     255
   ],
   "twigs:lamp": [
+    255,
+    255,
+    255
+  ],
+  "projectexpansion:final_power_flower": [
     255,
     255,
     255
@@ -3284,6 +3344,11 @@
     0,
     0
   ],
+  "projectexpansion:final_collector": [
+    255,
+    255,
+    255
+  ],
   "ad_astra:small_orange_industrial_lamp": [
     255,
     102,
@@ -3504,6 +3569,11 @@
     102,
     17
   ],
+  "projectexpansion:white_emc_link": [
+    255,
+    255,
+    255
+  ],
   "mcwlights:gray_lamp": [
     136,
     136,
@@ -3558,6 +3628,11 @@
     136,
     136,
     136
+  ],
+  "blue_skies:upsidedown_black_fire": [
+    0,
+    0,
+    0
   ],
   "evolvedmekanism:dense_smelting_factory": [
     255,
@@ -3889,6 +3964,11 @@
     255,
     255
   ],
+  "projectexpansion:pink_advanced_alchemical_chest": [
+    255,
+    102,
+    187
+  ],
   "chipped:tiled_magma_block": [
     255,
     255,
@@ -4003,6 +4083,11 @@
     255,
     102,
     17
+  ],
+  "projectexpansion:gray_advanced_alchemical_chest": [
+    136,
+    136,
+    136
   ],
   "chipped:barred_ochre_froglight": [
     255,
@@ -4259,6 +4344,11 @@
     255,
     255
   ],
+  "blue_skies:upsidedown_blue_fire": [
+    0,
+    0,
+    255
+  ],
   "nightlights:fairy_lights_cyan": [
     0,
     255,
@@ -4310,6 +4400,11 @@
     255
   ],
   "additional_lights:al_lamp_glass": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies:everbright_portal": [
     255,
     255,
     255
@@ -4503,6 +4598,11 @@
     255,
     0,
     0
+  ],
+  "projectexpansion:blue_power_flower": [
+    0,
+    0,
+    255
   ],
   "securitycraft:reinforced_magma_block": [
     255,
@@ -5114,6 +5214,11 @@
     255,
     255
   ],
+  "blue_skies:polished_cinderstone": [
+    255,
+    255,
+    255
+  ],
   "theabyss:unstable_obsidian": [
     255,
     255,
@@ -5634,6 +5739,11 @@
     0,
     0
   ],
+  "blue_skies:glowing_life_slab": [
+    255,
+    255,
+    255
+  ],
   "avaritia_integration:fake_end_portal": [
     255,
     255,
@@ -5959,6 +6069,11 @@
     255,
     255
   ],
+  "blue_skies:glowing_nature_stone": [
+    255,
+    255,
+    255
+  ],
   "ror:glowing_yellow_stained_glass_pane": [
     255,
     255,
@@ -5989,6 +6104,11 @@
     255,
     255
   ],
+  "projectexpansion:final_emc_link": [
+    255,
+    255,
+    255
+  ],
   "skinnedlanterns:paper_blue_lantern_block": [
     0,
     0,
@@ -6005,6 +6125,11 @@
     255
   ],
   "silentgems:potted_iolite_glowrose": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies:glowing_aquatic_wall": [
     255,
     255,
     255
@@ -6214,6 +6339,11 @@
     255,
     255
   ],
+  "blue_skies:cinderstone_slab": [
+    255,
+    255,
+    255
+  ],
   "doom_and_gloom:black_vigil_candle": [
     0,
     0,
@@ -6238,6 +6368,11 @@
     0,
     0,
     0
+  ],
+  "projectexpansion:cyan_power_flower": [
+    0,
+    255,
+    255
   ],
   "chipped:inlayed_redstone_lamp": [
     255,
@@ -6349,6 +6484,11 @@
     255,
     0
   ],
+  "projectexpansion:yellow_collector": [
+    255,
+    255,
+    0
+  ],
   "musings:circle_black_ring_green_bg": [
     0,
     255,
@@ -6377,6 +6517,11 @@
   "pneumaticcraft:wall_lamp_blue": [
     0,
     0,
+    255
+  ],
+  "projectexpansion:violet_emc_link": [
+    255,
+    255,
     255
   ],
   "musings:circle_light_blue_ring_purple_bg_flipping": [
@@ -6492,6 +6637,11 @@
   "productivetrees:purple_spiral_stairs": [
     170,
     34,
+    255
+  ],
+  "blue_skies_industrial:molten_ventium_fluid": [
+    255,
+    255,
     255
   ],
   "avaritia:extreme_crafting_table": [
@@ -7084,6 +7234,11 @@
     255,
     255
   ],
+  "blue_skies:moonstone_block": [
+    255,
+    255,
+    255
+  ],
   "biomesoplenty:lumaloop_plant": [
     255,
     255,
@@ -7274,6 +7429,11 @@
     255,
     255
   ],
+  "blue_skies:brumble_lantern": [
+    255,
+    255,
+    255
+  ],
   "echovoids:pearl_lamp_yellow": [
     255,
     255,
@@ -7283,6 +7443,11 @@
     136,
     68,
     17
+  ],
+  "projectexpansion:green_power_flower": [
+    0,
+    255,
+    0
   ],
   "torchslabmod:candle_brown_slab": [
     136,
@@ -7334,6 +7499,11 @@
     255,
     255
   ],
+  "projectexpansion:dark_relay": [
+    255,
+    255,
+    255
+  ],
   "aether_redux:locked_sentry_pillar": [
     255,
     255,
@@ -7359,6 +7529,11 @@
     255,
     255
   ],
+  "projectexpansion:yellow_emc_link": [
+    255,
+    255,
+    0
+  ],
   "betterend:smaragdant_crystal_bricks_wall": [
     255,
     255,
@@ -7373,6 +7548,11 @@
     255,
     255,
     0
+  ],
+  "projectexpansion:magenta_advanced_alchemical_chest": [
+    255,
+    0,
+    255
   ],
   "echovoids:pearl_lamp_magenta_stairs": [
     255,
@@ -7413,6 +7593,11 @@
     0,
     0,
     255
+  ],
+  "projectexpansion:green_advanced_alchemical_chest": [
+    0,
+    255,
+    0
   ],
   "the_bumblezone:super_candle_base_cyan": [
     0,
@@ -7497,6 +7682,11 @@
   "rockyminerals:blue_calcite_lamp": [
     0,
     0,
+    255
+  ],
+  "projectexpansion:dark_power_flower": [
+    255,
+    255,
     255
   ],
   "diamethyst_arrows:da_light_block": [
@@ -7604,6 +7794,11 @@
     255,
     255
   ],
+  "projectexpansion:yellow_power_flower": [
+    255,
+    255,
+    0
+  ],
   "musings:circle_magenta_ring_yellow_bg_flipping": [
     255,
     255,
@@ -7709,12 +7904,22 @@
     255,
     255
   ],
+  "blue_skies_tcon:molten_falsite_fluid": [
+    255,
+    255,
+    255
+  ],
   "lampicus:colorlight_pink": [
     255,
     102,
     187
   ],
   "mekanism:nutritional_liquifier": [
+    255,
+    255,
+    255
+  ],
+  "projectexpansion:violet_matter_block": [
     255,
     255,
     255
@@ -7846,6 +8051,11 @@
   ],
   "dazzle:magenta_end_rod": [
     255,
+    0,
+    255
+  ],
+  "projectexpansion:light_blue_advanced_alchemical_chest": [
+    0,
     0,
     255
   ],
@@ -8019,6 +8229,11 @@
     255,
     255
   ],
+  "blue_skies:snowcap_oven": [
+    255,
+    255,
+    255
+  ],
   "tconstruct:molten_aluminum_fluid": [
     255,
     255,
@@ -8114,6 +8329,11 @@
     102,
     17
   ],
+  "projectexpansion:purple_collector": [
+    170,
+    34,
+    255
+  ],
   "minecraft:yellow_candle_cake": [
     255,
     255,
@@ -8135,6 +8355,11 @@
     17
   ],
   "chipped:ornate_shroomlight_lantern": [
+    255,
+    255,
+    255
+  ],
+  "projectexpansion:white_matter_block": [
     255,
     255,
     255
@@ -8208,6 +8433,11 @@
     255,
     102,
     17
+  ],
+  "projectexpansion:fading_collector": [
+    255,
+    255,
+    255
   ],
   "betterblockz:zeon_orange_blockz_7": [
     255,
@@ -8554,6 +8784,11 @@
     68,
     17
   ],
+  "blue_skies:brumble_vine_top": [
+    255,
+    255,
+    255
+  ],
   "thermal:lumium_glass": [
     255,
     255,
@@ -8664,6 +8899,11 @@
     255,
     255
   ],
+  "projectexpansion:magenta_matter_block": [
+    255,
+    0,
+    255
+  ],
   "betterblockz:cyberlight_blockz_9": [
     255,
     255,
@@ -8680,6 +8920,11 @@
     0
   ],
   "betterblockz:cyberlight_blockz_6": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies:moonstone_lantern": [
     255,
     255,
     255
@@ -8814,6 +9059,11 @@
     255,
     255
   ],
+  "blue_skies:glowing_nature_stonebrick": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_pink_ring_orange_bg_flipping": [
     255,
     102,
@@ -8929,6 +9179,11 @@
     255,
     255
   ],
+  "projectexpansion:red_collector": [
+    255,
+    0,
+    0
+  ],
   "productivetrees:soul_tree_sign": [
     0,
     0,
@@ -9009,6 +9264,11 @@
     255,
     255
   ],
+  "projectexpansion:blue_advanced_alchemical_chest": [
+    0,
+    0,
+    255
+  ],
   "additional_lights:al_lamp_warped_planks": [
     255,
     255,
@@ -9062,6 +9322,11 @@
   "projecte:collector_mk1": [
     255,
     255,
+    255
+  ],
+  "projectexpansion:purple_advanced_alchemical_chest": [
+    170,
+    34,
     255
   ],
   "musings:circle_cycle_cyan": [
@@ -9218,6 +9483,11 @@
     0,
     255,
     0
+  ],
+  "blue_skies_industrial:molten_charoite_fluid": [
+    255,
+    255,
+    255
   ],
   "betterblockz:zeon_green_blockz_7": [
     0,
@@ -9739,6 +10009,11 @@
     102,
     187
   ],
+  "blue_skies:glowing_poison_stone_slab": [
+    255,
+    255,
+    255
+  ],
   "skinnedlanterns:paper_black_soul_lantern_block": [
     0,
     0,
@@ -9788,6 +10063,11 @@
     0,
     255,
     255
+  ],
+  "projectexpansion:green_collector": [
+    0,
+    255,
+    0
   ],
   "regions_unexplored:hanging_earlight": [
     255,
@@ -10093,6 +10373,11 @@
     136,
     68,
     17
+  ],
+  "blue_skies:polished_cinderstone_stairs": [
+    255,
+    255,
+    255
   ],
   "thingamajigs:red_beacon": [
     255,
@@ -10499,6 +10784,11 @@
     255,
     255
   ],
+  "projectexpansion:lime_relay": [
+    187,
+    255,
+    0
+  ],
   "dazzle:pink_shroomlight": [
     255,
     102,
@@ -10616,6 +10906,11 @@
   ],
   "silentgems:potted_alexandrite_glowrose": [
     255,
+    255,
+    255
+  ],
+  "projectexpansion:cyan_collector": [
+    0,
     255,
     255
   ],
@@ -10799,7 +11094,17 @@
     204,
     204
   ],
+  "blue_skies:everdawn_moonstone_ore": [
+    255,
+    255,
+    255
+  ],
   "betterend:sandy_jadestone_lantern": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies:sunstone_block": [
     255,
     255,
     255
@@ -10818,6 +11123,11 @@
     255,
     0,
     0
+  ],
+  "projectexpansion:cyan_advanced_alchemical_chest": [
+    0,
+    255,
+    255
   ],
   "truedarkness:neasky_moss": [
     255,
@@ -10853,6 +11163,11 @@
     255,
     255,
     255
+  ],
+  "projectexpansion:red_advanced_alchemical_chest": [
+    255,
+    0,
+    0
   ],
   "bloodyhell:blood_wall_mushroom_block": [
     255,
@@ -11090,6 +11405,11 @@
     255
   ],
   "pyrite:glow_terracotta_bricks": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies:cinderstone_stairs": [
     255,
     255,
     255
@@ -11439,6 +11759,11 @@
     102,
     187
   ],
+  "blue_skies:moonstone": [
+    255,
+    255,
+    255
+  ],
   "chipped:reinforced_pearlescent_froglight": [
     255,
     255,
@@ -11687,6 +12012,11 @@
   "nightlights:hanging_lights_blue": [
     0,
     0,
+    255
+  ],
+  "projectexpansion:cyan_emc_link": [
+    0,
+    255,
     255
   ],
   "chemlib:xenon_lamp_block": [
@@ -12359,6 +12689,11 @@
     255,
     255
   ],
+  "blue_skies_tcon:molten_moonstone_fluid": [
+    255,
+    255,
+    255
+  ],
   "pyrite:blue_torch_lever": [
     0,
     0,
@@ -12644,6 +12979,11 @@
     0,
     255
   ],
+  "blue_skies:cinderstone": [
+    255,
+    255,
+    255
+  ],
   "minecraft:calibrated_sculk_sensor": [
     255,
     255,
@@ -12758,6 +13098,11 @@
     153,
     204,
     204
+  ],
+  "projectexpansion:white_collector": [
+    255,
+    255,
+    255
   ],
   "evolvedmekanism:dense_combining_factory": [
     255,
@@ -12908,6 +13253,11 @@
     187,
     255,
     0
+  ],
+  "blue_skies:glowing_nature_stone_slab": [
+    255,
+    255,
+    255
   ],
   "regions_unexplored:dropleaf": [
     255,
@@ -13324,6 +13674,11 @@
     255,
     255
   ],
+  "projectexpansion:lime_advanced_alchemical_chest": [
+    187,
+    255,
+    0
+  ],
   "chipped:smooth_ringed_magma_block": [
     255,
     255,
@@ -13729,6 +14084,11 @@
     255,
     255
   ],
+  "projectexpansion:orange_collector": [
+    255,
+    102,
+    17
+  ],
   "chipped:green_redstone_torch": [
     255,
     0,
@@ -13817,6 +14177,11 @@
   "twigs:petrified_lichen": [
     255,
     255,
+    255
+  ],
+  "projectexpansion:purple_relay": [
+    170,
+    34,
     255
   ],
   "astral_mekanism:astronomical_astral_energized_smelting_factory": [
@@ -13923,6 +14288,11 @@
     255,
     0,
     0
+  ],
+  "projectexpansion:cyan_matter_block": [
+    0,
+    255,
+    255
   ],
   "allthecompressed:blaze_block_9x": [
     255,
@@ -14075,6 +14445,11 @@
     255
   ],
   "oc2r:pci_card_cage": [
+    255,
+    255,
+    255
+  ],
+  "projectexpansion:compact_sun": [
     255,
     255,
     255
@@ -14299,6 +14674,11 @@
     255,
     255
   ],
+  "projectexpansion:violet_power_flower": [
+    255,
+    255,
+    255
+  ],
   "echovoids:end_lamp": [
     255,
     255,
@@ -14344,6 +14724,11 @@
     255,
     255
   ],
+  "blue_skies_industrial:molten_falsite_fluid": [
+    255,
+    255,
+    255
+  ],
   "truedarkness:blink_mushroom_stem": [
     255,
     255,
@@ -14382,6 +14767,11 @@
   "silentgems:black_diamond_glowrose": [
     0,
     0,
+    0
+  ],
+  "projectexpansion:yellow_matter_block": [
+    255,
+    255,
     0
   ],
   "echovoids:void_crystal_middle": [
@@ -14538,6 +14928,11 @@
     255,
     102,
     187
+  ],
+  "projectexpansion:purple_matter_block": [
+    170,
+    34,
+    255
   ],
   "short_circuit:circuit_board": [
     255,
@@ -15088,6 +15483,11 @@
     255,
     255,
     0
+  ],
+  "blue_skies:polished_cinderstone_wall": [
+    255,
+    255,
+    255
   ],
   "emextras:absolute_overclocked_crushing_factory": [
     255,
@@ -15930,6 +16330,11 @@
     0
   ],
   "tconstruct:molten_diamond_fluid": [
+    255,
+    255,
+    255
+  ],
+  "projectexpansion:fading_power_flower": [
     255,
     255,
     255
@@ -17094,6 +17499,11 @@
     0,
     0
   ],
+  "blue_skies:glowing_life_wall": [
+    255,
+    255,
+    255
+  ],
   "ghosts:haunted_leaves": [
     255,
     255,
@@ -17268,6 +17678,11 @@
     136,
     136,
     136
+  ],
+  "blue_skies:glowing_blinding_stairs": [
+    255,
+    255,
+    255
   ],
   "silentgems:moldavite_lamp_on": [
     255,
@@ -17784,10 +18199,20 @@
     255,
     255
   ],
+  "projectexpansion:brown_advanced_alchemical_chest": [
+    136,
+    68,
+    17
+  ],
   "fintastic:pink_dwarf_froglight": [
     255,
     102,
     187
+  ],
+  "blue_skies:glowing_aquatic_slab": [
+    255,
+    255,
+    255
   ],
   "strangematter:energetic_shard_lantern": [
     255,
@@ -17895,6 +18320,11 @@
     187
   ],
   "pyrite:star_concrete": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies_industrial:molten_pyrope_fluid": [
     255,
     255,
     255
@@ -18214,6 +18644,11 @@
     255,
     255
   ],
+  "projectexpansion:violet_relay": [
+    255,
+    255,
+    255
+  ],
   "minecraft:sculk_sensor": [
     255,
     255,
@@ -18234,7 +18669,17 @@
     255,
     255
   ],
+  "blue_skies_industrial:molten_aquite_fluid": [
+    255,
+    255,
+    255
+  ],
   "wormhole:portal": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies:moonstone_crystal": [
     255,
     255,
     255
@@ -18619,6 +19064,11 @@
     255,
     255
   ],
+  "projectexpansion:white_power_flower": [
+    255,
+    255,
+    255
+  ],
   "supplementaries:netherite_trapdoor": [
     255,
     255,
@@ -18714,6 +19164,11 @@
     0,
     0
   ],
+  "projectexpansion:fading_matter_block": [
+    255,
+    255,
+    255
+  ],
   "ends_delight:steamed_dragon_egg_block": [
     255,
     255,
@@ -18758,6 +19213,11 @@
     0,
     255,
     0
+  ],
+  "projectexpansion:fading_emc_link": [
+    255,
+    255,
+    255
   ],
   "musings:circle_lime_ring_red_bg_flipping": [
     255,
@@ -18929,6 +19389,11 @@
     0,
     255
   ],
+  "projectexpansion:blue_relay": [
+    0,
+    0,
+    255
+  ],
   "mcwlights:double_street_lamp": [
     255,
     255,
@@ -19024,6 +19489,11 @@
     0,
     0
   ],
+  "blue_skies:glowing_blinding_wall": [
+    255,
+    255,
+    255
+  ],
   "mekanism:ultimate_sawing_factory": [
     255,
     255,
@@ -19051,6 +19521,11 @@
   ],
   "mysticsbiomes:chocolate_candle_cake_light_blue": [
     0,
+    0,
+    255
+  ],
+  "projectexpansion:magenta_collector": [
+    255,
     0,
     255
   ],
@@ -19204,6 +19679,11 @@
     255,
     255
   ],
+  "blue_skies:glowing_life_stairs": [
+    255,
+    255,
+    255
+  ],
   "compactmekanismmachines:compressed_wind_generator_x8": [
     255,
     255,
@@ -19220,6 +19700,11 @@
     255
   ],
   "skinnedlanterns:paper_orange_soul_lantern_block": [
+    255,
+    102,
+    17
+  ],
+  "projectexpansion:orange_advanced_alchemical_chest": [
     255,
     102,
     17
@@ -19293,6 +19778,11 @@
     0,
     0,
     0
+  ],
+  "projectexpansion:dark_emc_link": [
+    255,
+    255,
+    255
   ],
   "missingwilds:firefly_jar": [
     255,
@@ -19447,6 +19937,11 @@
   "fairylights:oil_lantern_light": [
     255,
     255,
+    255
+  ],
+  "projectexpansion:purple_power_flower": [
+    170,
+    34,
     255
   ],
   "truedarkness:light_mushroom_top": [
@@ -19649,6 +20144,11 @@
     0,
     255
   ],
+  "blue_skies:horizonite_forge": [
+    255,
+    255,
+    255
+  ],
   "xycraft_world:lamp_lantern_cyan": [
     0,
     255,
@@ -19724,6 +20224,11 @@
     0,
     0
   ],
+  "blue_skies:cinderstone_wall": [
+    255,
+    255,
+    255
+  ],
   "malum:ether_torch": [
     255,
     255,
@@ -19757,6 +20262,11 @@
   "truedarkness:glow_door": [
     255,
     255,
+    255
+  ],
+  "projectexpansion:magenta_power_flower": [
+    255,
+    0,
     255
   ],
   "musings:circle_white_ring_pink_bg_flipping": [
@@ -19844,6 +20354,11 @@
     255,
     255
   ],
+  "projectexpansion:orange_relay": [
+    255,
+    102,
+    17
+  ],
   "simplylight:illuminant_purple_block_on": [
     170,
     34,
@@ -19857,6 +20372,11 @@
   "strangematter:spatial_shard_lantern": [
     255,
     255,
+    255
+  ],
+  "projectexpansion:blue_matter_block": [
+    0,
+    0,
     255
   ],
   "musings:circle_light_blue_ring_green_bg_flipping": [
@@ -20644,6 +21164,11 @@
     255,
     255
   ],
+  "blue_skies:polished_cinderstone_slab": [
+    255,
+    255,
+    255
+  ],
   "ba_bt:active_corrite_slab": [
     255,
     255,
@@ -20974,6 +21499,11 @@
     255,
     255
   ],
+  "blue_skies:glowing_nature_stonebrick_wall": [
+    255,
+    255,
+    255
+  ],
   "chipped:sad_magma_block": [
     255,
     255,
@@ -21065,6 +21595,11 @@
     255
   ],
   "the_bumblezone:potion_candle_base": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies:warding_pearl": [
     255,
     255,
     255
@@ -21344,6 +21879,11 @@
     255,
     255
   ],
+  "projectexpansion:yellow_advanced_alchemical_chest": [
+    255,
+    255,
+    0
+  ],
   "betterblockz:zeon_magenta_blockz_10": [
     255,
     0,
@@ -21353,6 +21893,11 @@
     255,
     255,
     255
+  ],
+  "projectexpansion:black_advanced_alchemical_chest": [
+    0,
+    0,
+    0
   ],
   "atlantis:aquatic_power_torch": [
     255,
@@ -22109,6 +22654,11 @@
     0,
     255
   ],
+  "projectexpansion:blue_emc_link": [
+    0,
+    0,
+    255
+  ],
   "geosmelt:starcinium_lamp": [
     255,
     255,
@@ -22639,6 +23189,11 @@
     255,
     255
   ],
+  "projectexpansion:green_emc_link": [
+    0,
+    255,
+    0
+  ],
   "chipped:tiny_layered_magma_block_bricks": [
     255,
     0,
@@ -22779,6 +23334,11 @@
     255,
     255
   ],
+  "blue_skies:sunstone_crystal": [
+    255,
+    255,
+    255
+  ],
   "rockyminerals:pumice_lamp_slab": [
     255,
     255,
@@ -22890,6 +23450,11 @@
     255
   ],
   "pneumaticcraft:kerosene_lamp": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies_tcon:molten_diopside_fluid": [
     255,
     255,
     255
@@ -23384,6 +23949,11 @@
     255,
     255
   ],
+  "blue_skies_tcon:molten_horizonite_fluid": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_cyan_ring_pink_bg_flipping": [
     255,
     102,
@@ -23458,6 +24028,11 @@
     136,
     136,
     136
+  ],
+  "projectexpansion:white_advanced_alchemical_chest": [
+    255,
+    255,
+    255
   ],
   "twilightforest:encased_fire_jet": [
     255,
@@ -23904,6 +24479,11 @@
     255,
     255
   ],
+  "projectexpansion:orange_matter_block": [
+    255,
+    102,
+    17
+  ],
   "twigs:warped_shroomlamp": [
     255,
     255,
@@ -23943,6 +24523,11 @@
     255,
     0,
     255
+  ],
+  "projectexpansion:red_power_flower": [
+    255,
+    0,
+    0
   ],
   "naturesaura:ender_crate": [
     255,
@@ -24023,6 +24608,11 @@
     255,
     255,
     255
+  ],
+  "blue_skies:black_fire": [
+    0,
+    0,
+    0
   ],
   "supplementaries:sconce_lever": [
     255,
@@ -24443,6 +25033,11 @@
     255,
     255,
     255
+  ],
+  "projectexpansion:orange_emc_link": [
+    255,
+    102,
+    17
   ],
   "pneumaticcraft:wall_lamp_cyan": [
     0,
@@ -24939,6 +25534,11 @@
     255,
     0
   ],
+  "blue_skies:blue_fire": [
+    0,
+    0,
+    255
+  ],
   "astral_mekanism:astral_heat_generator": [
     255,
     255,
@@ -25015,6 +25615,11 @@
     255
   ],
   "twilightforest:firefly_jar": [
+    255,
+    255,
+    255
+  ],
+  "projectexpansion:final_relay": [
     255,
     255,
     255
@@ -25247,6 +25852,11 @@
   "rechiseled:glowstone_small_tiles_stairs_connecting": [
     255,
     255,
+    255
+  ],
+  "projectexpansion:blue_collector": [
+    0,
+    0,
     255
   ],
   "securitycraft:alarm": [
@@ -25509,6 +26119,11 @@
     255,
     255
   ],
+  "blue_skies:glowing_poison_stone_stairs": [
+    255,
+    255,
+    255
+  ],
   "deeperdarker:ice_lily": [
     255,
     255,
@@ -25551,6 +26166,11 @@
   ],
   "ror:cyan_neon_onyx_block": [
     0,
+    255,
+    255
+  ],
+  "projectexpansion:violet_collector": [
+    255,
     255,
     255
   ],
@@ -25919,6 +26539,11 @@
     0,
     255
   ],
+  "projectexpansion:transmutation_interface": [
+    255,
+    255,
+    255
+  ],
   "xycraft_world:lamp_cube_blue": [
     0,
     0,
@@ -26269,12 +26894,22 @@
     255,
     255
   ],
+  "blue_skies:glowing_blinding_slab": [
+    255,
+    255,
+    255
+  ],
   "bc_core:tinted_water_block_119": [
     255,
     255,
     255
   ],
   "productivetrees:flickering_sun_wood": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies_tcon:molten_pyrope_fluid": [
     255,
     255,
     255
@@ -26354,6 +26989,11 @@
     255,
     255
   ],
+  "blue_skies:star_flare": [
+    255,
+    255,
+    255
+  ],
   "bc_core:tinted_water_block_142": [
     255,
     255,
@@ -26388,6 +27028,11 @@
     255,
     255,
     255
+  ],
+  "projectexpansion:yellow_relay": [
+    255,
+    255,
+    0
   ],
   "betternether:eyeball_small": [
     255,
@@ -26605,6 +27250,11 @@
     255
   ],
   "rftoolsbase:dimensionalshard_overworld": [
+    255,
+    255,
+    255
+  ],
+  "projectexpansion:dark_collector": [
     255,
     255,
     255
@@ -27524,6 +28174,11 @@
     255,
     255
   ],
+  "projectexpansion:pink_power_flower": [
+    255,
+    102,
+    187
+  ],
   "etheria:boss_block": [
     255,
     255,
@@ -27573,6 +28228,11 @@
     255,
     0,
     0
+  ],
+  "blue_skies:glowing_poison_stone": [
+    255,
+    255,
+    255
   ],
   "aspen:medium_brown_mushroom": [
     136,
@@ -27869,6 +28529,11 @@
     255,
     255
   ],
+  "projectexpansion:lime_power_flower": [
+    187,
+    255,
+    0
+  ],
   "mysticsbiomes:pink_frosted_candle_cake_light_gray": [
     136,
     136,
@@ -28059,6 +28724,11 @@
     255,
     255
   ],
+  "projectexpansion:magenta_relay": [
+    255,
+    0,
+    255
+  ],
   "echovoids:undead_chorus_flower_block": [
     255,
     255,
@@ -28229,6 +28899,11 @@
     255,
     0
   ],
+  "projectexpansion:pink_relay": [
+    255,
+    102,
+    187
+  ],
   "theabyss:caverna_crystal_ore": [
     255,
     255,
@@ -28253,6 +28928,11 @@
     255,
     255,
     255
+  ],
+  "projectexpansion:lime_collector": [
+    187,
+    255,
+    0
   ],
   "musings:circle_orange_ring_brown_bg": [
     136,
@@ -28609,6 +29289,11 @@
     255,
     255
   ],
+  "projectexpansion:cyan_relay": [
+    0,
+    255,
+    255
+  ],
   "etheria:ether_collector": [
     255,
     255,
@@ -28934,6 +29619,11 @@
     136,
     136
   ],
+  "projectexpansion:magenta_emc_link": [
+    255,
+    0,
+    255
+  ],
   "thingamajigs:internet_router_newer": [
     255,
     255,
@@ -29148,6 +29838,11 @@
     255,
     0,
     255
+  ],
+  "projectexpansion:lime_matter_block": [
+    187,
+    255,
+    0
   ],
   "bigreactors:basic_turbinerotorbearing": [
     255,
@@ -29424,6 +30119,11 @@
     0,
     0
   ],
+  "projectexpansion:pink_collector": [
+    255,
+    102,
+    187
+  ],
   "vanilladelight:sandstone_stove": [
     255,
     255,
@@ -29697,6 +30397,11 @@
   "xycraft_world:lamp_cube_magenta": [
     255,
     0,
+    255
+  ],
+  "blue_skies_industrial:molten_diopside_fluid": [
+    255,
+    255,
     255
   ],
   "musings:circle_green_ring_yellow_bg": [
@@ -30094,6 +30799,11 @@
     0,
     0
   ],
+  "blue_skies:wall_warding_pearl": [
+    255,
+    255,
+    255
+  ],
   "musings:circle_cyan_ring_black_bg_flipping": [
     0,
     0,
@@ -30279,6 +30989,11 @@
     136,
     136
   ],
+  "projectexpansion:green_matter_block": [
+    0,
+    255,
+    0
+  ],
   "faa:blue_glowstone_block": [
     0,
     0,
@@ -30314,6 +31029,11 @@
     136,
     136
   ],
+  "projectexpansion:pink_emc_link": [
+    255,
+    102,
+    187
+  ],
   "embers:molten_silver_block": [
     255,
     255,
@@ -30343,6 +31063,11 @@
     136,
     68,
     17
+  ],
+  "projectexpansion:purple_emc_link": [
+    170,
+    34,
+    255
   ],
   "twilightforest:green_force_field": [
     0,
@@ -30465,6 +31190,11 @@
     255
   ],
   "ctl:grid_ilb": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies:everbright_moonstone_ore": [
     255,
     255,
     255
@@ -30664,6 +31394,11 @@
     255,
     255
   ],
+  "blue_skies:glowing_blinding_stone": [
+    255,
+    255,
+    255
+  ],
   "mysticsbiomes:chocolate_candle_cake_green": [
     0,
     255,
@@ -30848,6 +31583,11 @@
     255,
     255,
     255
+  ],
+  "projectexpansion:red_relay": [
+    255,
+    0,
+    0
   ],
   "evolvedmekanism:dense_crushing_factory": [
     255,
@@ -31124,6 +31864,11 @@
     255,
     255
   ],
+  "projectexpansion:pink_matter_block": [
+    255,
+    102,
+    187
+  ],
   "evolvedmekanism:solidification_chamber": [
     255,
     255,
@@ -31329,6 +32074,11 @@
     102,
     187
   ],
+  "blue_skies_tcon:molten_aquite_fluid": [
+    255,
+    255,
+    255
+  ],
   "rockyminerals:saltstone_lamp_stairs": [
     255,
     255,
@@ -31360,6 +32110,16 @@
     255
   ],
   "betterblockz:cyberlight_blockz_10": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies:glowing_life_stone": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies:everdawn_portal": [
     255,
     255,
     255
@@ -31614,6 +32374,11 @@
     255,
     255
   ],
+  "blue_skies_tcon:molten_charoite_fluid": [
+    255,
+    255,
+    255
+  ],
   "additional_lights:al_lamp_dark_oak_planks": [
     255,
     255,
@@ -31789,6 +32554,11 @@
     255,
     0
   ],
+  "blue_skies_industrial:molten_horizonite_fluid": [
+    255,
+    255,
+    255
+  ],
   "dazzle:gray_icy_analog_lamp": [
     136,
     136,
@@ -31863,6 +32633,11 @@
     0,
     255,
     255
+  ],
+  "projectexpansion:lime_emc_link": [
+    187,
+    255,
+    0
   ],
   "packedup:glow_berry_basket": [
     255,
@@ -32454,6 +33229,11 @@
     255,
     255
   ],
+  "projectexpansion:red_emc_link": [
+    255,
+    0,
+    0
+  ],
   "mysticsbiomes:lime_frosted_candle_cake_cyan": [
     0,
     255,
@@ -32485,6 +33265,11 @@
     255
   ],
   "astral_mekanism:astral_mekanical_inscriber": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies_tcon:molten_ventium_fluid": [
     255,
     255,
     255

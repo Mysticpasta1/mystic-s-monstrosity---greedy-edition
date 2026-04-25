@@ -534,6 +534,11 @@
     255,
     255
   ],
+  "blue_skies:crystal_glass_pane": [
+    255,
+    255,
+    255
+  ],
   "dd_mosaic_glass:glass_redstone_base": [
     255,
     0,
@@ -3349,6 +3354,11 @@
     255,
     0
   ],
+  "blue_skies:crystal_glass": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_na_magenta": [
     255,
     0,
@@ -5539,6 +5549,11 @@
     255,
     255
   ],
+  "blue_skies:midnight_glass_pane": [
+    255,
+    255,
+    255
+  ],
   "enderio:clear_glass_m_lime": [
     187,
     255,
@@ -6690,6 +6705,11 @@
     255
   ],
   "storagedelight:glass_bamboo_cabinet": [
+    255,
+    255,
+    255
+  ],
+  "blue_skies:midnight_glass": [
     255,
     255,
     255

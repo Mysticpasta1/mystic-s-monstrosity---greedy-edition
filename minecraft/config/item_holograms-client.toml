@@ -1,0 +1,12 @@
+
+["Configs for Item Holograms"]
+	#Enable tooltips
+	enableTooltips = true
+	#Distance at which item labels are displayed (in blocks)
+	#Range: 1.0 ~ 100.0
+	labelDisplayDistance = 10.0
+	#Enable hover animation for item labels
+	enableHoverAnimation = true
+	#Show holograms only when looking at item and tooltips only when sneaking
+	minimal = false
+

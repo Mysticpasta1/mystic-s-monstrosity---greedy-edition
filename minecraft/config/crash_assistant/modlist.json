@@ -981,13 +981,13 @@
     "curseForgeHash": 931716635,
     "modrinthHash": "bd6ee7e36d0255c8b9da2840a97fafddebf1bc81"
   },
-  "ars_botania-1.1.2-all.jar": {
-    "jarName": "ars_botania-1.1.2-all.jar",
+  "ars_botania-1.2.0.jar": {
+    "jarName": "ars_botania-1.2.0.jar",
     "modId": "ars_botania",
     "name": "Ars Botania",
-    "version": "1.1.2",
-    "curseForgeHash": 1751062408,
-    "modrinthHash": "b4055b18ffbe7d174ac04f4b4689ee6ffe8583be"
+    "version": "1.2.0",
+    "curseForgeHash": 467629604,
+    "modrinthHash": "329a04b829b54ecee3ddac0b8b2bd3c28679c02c"
   },
   "ars_caelum-1.20.1-2.0.1.jar": {
     "jarName": "ars_caelum-1.20.1-2.0.1.jar",
@@ -1921,6 +1921,30 @@
     "curseForgeHash": 4084482352,
     "modrinthHash": "cdd74832515a47f2da45a414d23104dc2bd5119a"
   },
+  "Blue Skies Tcon 1.20.1-0.1.4-all.jar": {
+    "jarName": "Blue Skies Tcon 1.20.1-0.1.4-all.jar",
+    "modId": "blue_skies_tcon",
+    "name": "Blue Skies Tinkers Compat",
+    "version": "0.1.4",
+    "curseForgeHash": 3355943666,
+    "modrinthHash": "5d6b23abe8c57c343b43989f6b87dad52cd7996e"
+  },
+  "blue_skies-1.20.1-1.3.31.jar": {
+    "jarName": "blue_skies-1.20.1-1.3.31.jar",
+    "modId": "blue_skies",
+    "name": "Blue Skies",
+    "version": "1.3.31",
+    "curseForgeHash": 605837218,
+    "modrinthHash": "9d86230565f9262e845da2065f138e470eaed44c"
+  },
+  "blue_skies_industrial-0.9.1.jar": {
+    "jarName": "blue_skies_industrial-0.9.1.jar",
+    "modId": "blue_skies_industrial",
+    "name": "Blue Skies Industrial",
+    "version": "0.9.1",
+    "curseForgeHash": 2536554870,
+    "modrinthHash": "60372fa1888482621d9d16d1bc96cd0cbd2918d8"
+  },
   "Boat-Item-View-Forge-1.20.1-0.0.5.jar": {
     "jarName": "Boat-Item-View-Forge-1.20.1-0.0.5.jar",
     "modId": "boatiview",
@@ -2200,6 +2224,14 @@
     "version": "1.20.1-1.0.2",
     "curseForgeHash": 100775557,
     "modrinthHash": "d044de22552787ea6c078be0a3eb6358006b3b8d"
+  },
+  "cataclysmfortresses-1.20.1-Forge.jar": {
+    "jarName": "cataclysmfortresses-1.20.1-Forge.jar",
+    "modId": "cataclysmfortresses",
+    "name": "Cataclysm x YUNG\u0027s Better Nether Fortresses Compat",
+    "version": "1.20.1",
+    "curseForgeHash": 829782583,
+    "modrinthHash": "f2124c088990f46a1b02ec7fdb249f948bb24a6a"
   },
   "CBMultipart-1.20.1-3.3.0.159-universal.jar": {
     "jarName": "CBMultipart-1.20.1-3.3.0.159-universal.jar",
@@ -3000,6 +3032,14 @@
     "curseForgeHash": 1866206543,
     "modrinthHash": "1e5a1d5d95d2a71c95555cab58e6cac15327efff"
   },
+  "create_blue_skies_compat-forge-1.20.1-1.0.1.jar": {
+    "jarName": "create_blue_skies_compat-forge-1.20.1-1.0.1.jar",
+    "modId": "create_blue_skies_compat",
+    "name": "Create Blue Skies Compat",
+    "version": "1.0.1",
+    "curseForgeHash": 2749282231,
+    "modrinthHash": "6b91aad6906b9850e6d9cbab5bfa1cc28966aa64"
+  },
   "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar": {
     "jarName": "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar",
     "modId": "create_central_kitchen",
@@ -3296,13 +3336,13 @@
     "curseForgeHash": 1241741036,
     "modrinthHash": "60eff24cdd0f167643e75f14062845c584245e80"
   },
-  "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar": {
-    "jarName": "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+  "CreativeCore_FORGE_v2.12.36_mc1.20.1.jar": {
+    "jarName": "CreativeCore_FORGE_v2.12.36_mc1.20.1.jar",
     "modId": "creativecore",
     "name": "CreativeCore",
-    "version": "2.12.35",
-    "curseForgeHash": 2109282352,
-    "modrinthHash": "f2324c43cd0bbb856b115ce1a688c33bff999294"
+    "version": "2.12.36",
+    "curseForgeHash": 1267408563,
+    "modrinthHash": "a34fda54652ce8ca8046f4d2d2a78d019d74e24b"
   },
   "CreativeTabPlus-forge-1.1.0.jar": {
     "jarName": "CreativeTabPlus-forge-1.1.0.jar",
@@ -6792,6 +6832,14 @@
     "curseForgeHash": 3667785910,
     "modrinthHash": "55a7f032c59489eca96069a7841601de2ff97590"
   },
+  "item_holograms-4.0.0.jar": {
+    "jarName": "item_holograms-4.0.0.jar",
+    "modId": "item_holograms",
+    "name": "Item Holograms",
+    "version": "4.0.0",
+    "curseForgeHash": 2004709150,
+    "modrinthHash": "34c0386e1fb0a2cf5cd6cc9ba2925c75c21dc485"
+  },
   "item_split_bug_fix-1.20.1-1.4.jar": {
     "jarName": "item_split_bug_fix-1.20.1-1.4.jar",
     "modId": "item_split_bug_fix",
@@ -9663,6 +9711,14 @@
     "curseForgeHash": 3647866981,
     "modrinthHash": "affd130b8a77e60dd7d7f7f3621d0182d82d13e1"
   },
+  "projectexpansion-1.20.1-1.1.3.jar": {
+    "jarName": "projectexpansion-1.20.1-1.1.3.jar",
+    "modId": "projectexpansion",
+    "name": "Project Expansion",
+    "version": "1.20.1-1.1.3",
+    "curseForgeHash": 708736808,
+    "modrinthHash": "408a2c2cd2c8d8a595d3c8182a61bfdf8001ba00"
+  },
   "projectile_damage-forge-3.2.2+1.20.1.jar": {
     "jarName": "projectile_damage-forge-3.2.2+1.20.1.jar",
     "modId": "projectile_damage",
@@ -10761,6 +10817,14 @@
     "curseForgeHash": 72932662,
     "modrinthHash": "79881b6ce2d7290a19cac78d152e00a1caf4643e"
   },
+  "SkyBreaker-1.20.1-1.0.8.jar": {
+    "jarName": "SkyBreaker-1.20.1-1.0.8.jar",
+    "modId": "skybreaker",
+    "name": "Sky Breaker",
+    "version": "1.20.1-1.0.8",
+    "curseForgeHash": 4145444753,
+    "modrinthHash": "2d88740e858fa888232c368e7dc652fe81da88b8"
+  },
   "skyfalltesla-1.0.3.jar": {
     "jarName": "skyfalltesla-1.0.3.jar",
     "modId": "skyfalltesla",
@@ -11001,13 +11065,13 @@
     "curseForgeHash": 2371828629,
     "modrinthHash": "5597cce58d4c3529574c12ef6d39932c600bcdc1"
   },
-  "sophisticatedcore-1.20.1-1.3.21.1676.jar": {
-    "jarName": "sophisticatedcore-1.20.1-1.3.21.1676.jar",
+  "sophisticatedcore-1.20.1-1.3.22.1715.jar": {
+    "jarName": "sophisticatedcore-1.20.1-1.3.22.1715.jar",
     "modId": "sophisticatedcore",
     "name": "Sophisticated Core",
-    "version": "1.3.21.1676",
-    "curseForgeHash": 4170909907,
-    "modrinthHash": "5d5af8ec2db0ca4f8f1ae6c623da5c8176648746"
+    "version": "1.3.22.1715",
+    "curseForgeHash": 1000732115,
+    "modrinthHash": "1b2f3e188a99b09786c910737784d2502861ca15"
   },
   "sophisticatedinventoryinteractions-1.20.1-0.1.5.80.jar": {
     "jarName": "sophisticatedinventoryinteractions-1.20.1-0.1.5.80.jar",

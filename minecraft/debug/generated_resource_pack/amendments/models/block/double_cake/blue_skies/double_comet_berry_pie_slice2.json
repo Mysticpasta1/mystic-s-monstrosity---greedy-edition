@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice2_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "blue_skies:block/misc/comet_berry_pie_side",
+		"top_up": "blue_skies:block/misc/comet_berry_pie_top",
+		"inner": "blue_skies:block/misc/comet_berry_pie_inner",
+		"bottom": "blue_skies:block/misc/comet_berry_pie_bottom",
+		"top": "blue_skies:block/misc/comet_berry_pie_top",
+		"particle": "blue_skies:block/misc/comet_berry_pie_side",
+		"side": "blue_skies:block/misc/comet_berry_pie_side"
+	}
+
+}

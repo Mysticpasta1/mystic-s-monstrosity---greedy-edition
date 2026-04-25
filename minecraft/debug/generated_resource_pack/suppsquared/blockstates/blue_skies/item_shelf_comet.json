@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/blue_skies/comet"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/blue_skies/comet",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/blue_skies/comet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/blue_skies/comet",
+      "y": 270
+    }
+  }
+}
