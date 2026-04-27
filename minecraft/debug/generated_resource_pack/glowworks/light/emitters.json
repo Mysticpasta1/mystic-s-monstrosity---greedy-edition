@@ -244,6 +244,11 @@
     0,
     255
   ],
+  "astral_mekanism:applied_fusion_reactor": [
+    255,
+    255,
+    255
+  ],
   "minecraft:beacon": [
     255,
     255,
@@ -3832,6 +3837,11 @@
   "biomeswevegone:magenta_pitcher_plant": [
     255,
     0,
+    255
+  ],
+  "astral_mekanism:enchanted_electrolytic_separator": [
+    255,
+    255,
     255
   ],
   "betterend:mossy_glowshroom_sapling": [
@@ -7975,6 +7985,11 @@
     255
   ],
   "deeperdarker:glowing_flowers": [
+    255,
+    255,
+    255
+  ],
+  "astral_mekanism:enchanted_chemical_infuser": [
     255,
     255,
     255
@@ -12229,6 +12244,11 @@
     255,
     255
   ],
+  "astral_mekanism:enchanted_antiprotonic_nucleosynthesizer": [
+    255,
+    255,
+    255
+  ],
   "rats:pirat_fence": [
     255,
     255,
@@ -14906,6 +14926,11 @@
   ],
   "xycraft_world:glass_viewer_rgb_glowing_cyan": [
     0,
+    255,
+    255
+  ],
+  "astral_mekanism:enchanted_isotopic_centrifuge": [
+    255,
     255,
     255
   ],
@@ -23139,6 +23164,11 @@
     0,
     0
   ],
+  "astral_mekanism:applied_fission_reactor": [
+    255,
+    255,
+    255
+  ],
   "projectvibrantjourneys:potted_glowcap": [
     255,
     255,
@@ -23340,6 +23370,11 @@
     255
   ],
   "rockyminerals:pumice_lamp_slab": [
+    255,
+    255,
+    255
+  ],
+  "astral_mekanism:enchanted_chemical_oxidizer": [
     255,
     255,
     255
@@ -25294,6 +25329,11 @@
     0,
     255
   ],
+  "astral_mekanism:applied_naquadah_reactor": [
+    255,
+    255,
+    255
+  ],
   "skinnedlanterns:ornament_lime_soul_lantern_block": [
     187,
     255,
@@ -25361,6 +25401,11 @@
   ],
   "skinnedlanterns:ornament_cyan_lantern_block": [
     0,
+    255,
+    255
+  ],
+  "astral_mekanism:enchanted_chemixer": [
+    255,
     255,
     255
   ],

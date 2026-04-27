@@ -38,10 +38,10 @@
     "FolderId": null
   },
   {
-    "FileName": "MakeUp-UltraFast-9.4c.zip",
-    "IconUrl": "https://media.forgecdn.net/avatars/1044/516/638572074817465930.webp",
+    "FileName": "MakeUp-UltraFast-9.4e.zip",
+    "IconUrl": "https://media.forgecdn.net/avatars/thumbnails/1044/516/256/256/638572074817465930.webp",
     "CurseForgeId": 431203,
-    "CurseForgeFileId": 7684712,
+    "CurseForgeFileId": 7980983,
     "ModrinthId": "izsIPI7a",
     "ModrinthVersionId": "20OMmWR5",
     "Author": "XavierFST",
@@ -53,7 +53,7 @@
     "LatestFileName": null,
     "LatestDownloadUrl": null,
     "LastUpdateCheck": null,
-    "DownloadSource": null,
+    "DownloadSource": 1,
     "FolderId": null
   },
   {

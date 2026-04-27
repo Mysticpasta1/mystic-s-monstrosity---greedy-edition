@@ -220,6 +220,14 @@
     "ad_extendra:uranus": {
       "desc": "Set the horizontal size offset, this dimension only has limited size changing support. You can only step sizes in whole numbers, not percentages. 0 = Default size, 1 = bigger, -1 = smaller. Range[-1,2]",
       "horizontal_size": 0
+    },
+    "blue_skies:everbright": {
+      "desc": "Set the horizontal size offset, this dimension only has limited size changing support. You can only step sizes in whole numbers, not percentages. 0 = Default size, 1 = bigger, -1 = smaller. Range[-1,2]",
+      "horizontal_size": 0
+    },
+    "blue_skies:everdawn": {
+      "desc": "Set the horizontal size offset, this dimension only has limited size changing support. You can only step sizes in whole numbers, not percentages. 0 = Default size, 1 = bigger, -1 = smaller. Range[-1,2]",
+      "horizontal_size": 0
     }
   }
 }

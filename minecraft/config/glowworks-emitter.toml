@@ -7519,6 +7519,15 @@
 		ratio_separator = "[255,255,255]"
 		xp_tank = "[255,255,255]"
 		mekanical_light = "[255,255,255]"
+		applied_fission_reactor = "[255,255,255]"
+		applied_fusion_reactor = "[255,255,255]"
+		applied_naquadah_reactor = "[255,255,255]"
+		enchanted_antiprotonic_nucleosynthesizer = "[255,255,255]"
+		enchanted_chemical_infuser = "[255,255,255]"
+		enchanted_chemical_oxidizer = "[255,255,255]"
+		enchanted_chemixer = "[255,255,255]"
+		enchanted_electrolytic_separator = "[255,255,255]"
+		enchanted_isotopic_centrifuge = "[255,255,255]"
 
 [mekanismelements]
 

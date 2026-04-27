@@ -1,4 +1,5 @@
 #Scale Factor for the super-sampled resolution.
+#Will need to restart to apply if hot-reloading is disabled.
 #OFF:    1.0x
 #LOW:    1.25x
 #MEDIUM: 1.5x
@@ -6,4 +7,8 @@
 #ULTRA:  2.0x
 #Allowed Values: OFF, LOW, MEDIUM, HIGH, ULTRA
 scaleFactor = "MEDIUM"
+#When enabled, automatically update the rendering when you change the scale factor.
+#If disabled, you will need to restart your game for changes to apply.
+#May cause issues on OS other than Windows as it is not thoroughly tested.
+hotReloading = false
 
