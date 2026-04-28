@@ -179,11 +179,6 @@
     255,
     255
   ],
-  "echovoids:pearl_lamp": [
-    255,
-    255,
-    255
-  ],
   "wallpapercraft:stonelampcyan-9": [
     0,
     255,
@@ -300,11 +295,6 @@
     255
   ],
   "astral_mekanism:astral_metallurgic_infuser": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:pearl_lamp_white_sl": [
     255,
     255,
     255
@@ -448,11 +438,6 @@
     0,
     0,
     0
-  ],
-  "echovoids:pearl_lamp_blue_stairs": [
-    0,
-    0,
-    255
   ],
   "nethersdelight:propelplant_torch": [
     255,
@@ -598,11 +583,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:green_block_of_neon": [
-    0,
-    255,
-    0
   ],
   "minecraft:soul_torch": [
     255,
@@ -754,11 +734,6 @@
     136,
     136
   ],
-  "echovoids:pearl_lamp_black_stairs": [
-    0,
-    0,
-    0
-  ],
   "silentgems:potted_carnelian_glowrose": [
     255,
     255,
@@ -864,11 +839,6 @@
     255,
     0
   ],
-  "echovoids:activtor_block_on_b": [
-    255,
-    255,
-    255
-  ],
   "blue_skies:glowing_nature_stone_stairs": [
     255,
     255,
@@ -922,11 +892,6 @@
   "additional_lights:al_wall_torch_cobblestone": [
     255,
     255,
-    0
-  ],
-  "echovoids:red_end_rod": [
-    255,
-    0,
     0
   ],
   "simplylight:illuminant_black_block": [
@@ -1109,11 +1074,6 @@
     255,
     255
   ],
-  "echovoids:undead_chorus_flower": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_brown_ring_gray_bg": [
     136,
     136,
@@ -1198,11 +1158,6 @@
     136,
     68,
     17
-  ],
-  "echovoids:stemmed_altered_entropite": [
-    255,
-    0,
-    0
   ],
   "productivetrees:blue_yonder_pressure_plate": [
     0,
@@ -1614,11 +1569,6 @@
     255,
     255
   ],
-  "echovoids:hanging_rods_end": [
-    255,
-    255,
-    255
-  ],
   "mysticsbiomes:lime_frosted_candle_cake_light_gray": [
     136,
     136,
@@ -1627,11 +1577,6 @@
   "betterblockz:cyberlight_bar_vertical_2": [
     255,
     255,
-    255
-  ],
-  "echovoids:magenta_block_of_neon": [
-    255,
-    0,
     255
   ],
   "betterblockz:cyberlight_bar_vertical_3": [
@@ -1999,20 +1944,10 @@
     255,
     255
   ],
-  "echovoids:magenta_end_rod": [
-    255,
-    0,
-    255
-  ],
   "pyrite:pink_lamp": [
     255,
     102,
     187
-  ],
-  "echovoids:pearl_lamp_green_stairs": [
-    0,
-    255,
-    0
   ],
   "xycraft_world:lamp_pillar_lime": [
     187,
@@ -2234,11 +2169,6 @@
     255,
     255
   ],
-  "echovoids:activating_block_on_b": [
-    255,
-    255,
-    255
-  ],
   "chipped:iron_bowl_lantern": [
     255,
     255,
@@ -2417,11 +2347,6 @@
   "chipped:wide_soul_lantern": [
     0,
     0,
-    255
-  ],
-  "echovoids:pearl_lamp_purple": [
-    170,
-    34,
     255
   ],
   "simplylight:illuminant_block": [
@@ -2624,11 +2549,6 @@
     255,
     255
   ],
-  "echovoids:activtor_block_on": [
-    255,
-    255,
-    255
-  ],
   "ror:neon_city_portal": [
     255,
     255,
@@ -2672,11 +2592,6 @@
   "botania:brown_floating_flower": [
     136,
     68,
-    17
-  ],
-  "echovoids:pearl_lamp_orange_stairs": [
-    255,
-    102,
     17
   ],
   "productivetrees:time_traveller_sign": [
@@ -3279,11 +3194,6 @@
     68,
     17
   ],
-  "echovoids:pearl_lamp_light_gray": [
-    136,
-    136,
-    136
-  ],
   "dazzle:red_classic_analog_lamp": [
     255,
     0,
@@ -3608,11 +3518,6 @@
     0,
     0,
     0
-  ],
-  "echovoids:light_gray_neon_tube": [
-    136,
-    136,
-    136
   ],
   "fairylights:skull_light": [
     255,
@@ -4108,11 +4013,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:pearl_lamp_gray": [
-    136,
-    136,
-    136
   ],
   "pyrite:glow_stained_fence_gate": [
     255,
@@ -4649,11 +4549,6 @@
     0,
     0
   ],
-  "echovoids:light_blue_end_rod": [
-    0,
-    0,
-    255
-  ],
   "suppsquared:crimson_lantern": [
     255,
     255,
@@ -4837,11 +4732,6 @@
   "mekanism:teleporter_frame": [
     255,
     255,
-    255
-  ],
-  "echovoids:purple_vine_plant": [
-    170,
-    34,
     255
   ],
   "productivetrees:rippling_willow_stairs": [
@@ -5160,11 +5050,6 @@
     255
   ],
   "betterend:neon_cactus": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:white_neon_tube": [
     255,
     255,
     255
@@ -5644,11 +5529,6 @@
     255,
     255
   ],
-  "echovoids:pink_end_rod": [
-    255,
-    102,
-    187
-  ],
   "dazzle:red_icy_analog_lamp": [
     255,
     0,
@@ -5741,11 +5621,6 @@
   ],
   "musings:circle_gray_ring_red_bg_flipping": [
     255,
-    0,
-    0
-  ],
-  "echovoids:black_neon_tube": [
-    0,
     0,
     0
   ],
@@ -6284,11 +6159,6 @@
     0,
     0
   ],
-  "echovoids:void_block_of_neon": [
-    255,
-    255,
-    255
-  ],
   "productivetrees:slimy_delight_hanging_sign": [
     255,
     255,
@@ -6338,11 +6208,6 @@
     136,
     136,
     136
-  ],
-  "echovoids:gravity_strings": [
-    255,
-    255,
-    255
   ],
   "doom_and_gloom:cyan_vigil_candle": [
     0,
@@ -6433,11 +6298,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:pearl_lamp_black_slab": [
-    0,
-    0,
-    0
   ],
   "productivetrees:night_fuchsia_slab": [
     255,
@@ -6624,11 +6484,6 @@
     255,
     0
   ],
-  "echovoids:void_fluid": [
-    255,
-    255,
-    255
-  ],
   "dazzle:red_modern_analog_lamp": [
     255,
     0,
@@ -6733,11 +6588,6 @@
     0,
     255,
     0
-  ],
-  "echovoids:light_blue_block_of_neon": [
-    0,
-    0,
-    255
   ],
   "the_bumblezone:infinity_barrier": [
     255,
@@ -6919,11 +6769,6 @@
     255,
     255
   ],
-  "echovoids:white_block_of_neon": [
-    255,
-    255,
-    255
-  ],
   "betterend:purple_polypore": [
     170,
     34,
@@ -6933,11 +6778,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:pearl_lamp_orange_slab": [
-    255,
-    102,
-    17
   ],
   "mcwlights:soul_birch_tiki_torch": [
     255,
@@ -7004,11 +6844,6 @@
     0,
     0
   ],
-  "echovoids:awakemold": [
-    255,
-    255,
-    255
-  ],
   "regions_unexplored:glister_bulb": [
     255,
     255,
@@ -7039,11 +6874,6 @@
     0,
     0
   ],
-  "echovoids:yellow_block_of_neon": [
-    255,
-    255,
-    0
-  ],
   "betterblockz:zeon_light_gray_blockz_9": [
     136,
     136,
@@ -7071,11 +6901,6 @@
   ],
   "musings:circle_orange_ring_green_bg_flipping": [
     0,
-    255,
-    0
-  ],
-  "echovoids:pearl_lamp_yellow_slab": [
-    255,
     255,
     0
   ],
@@ -7329,11 +7154,6 @@
     255,
     0
   ],
-  "echovoids:pearl_lamp_cyan": [
-    0,
-    255,
-    255
-  ],
   "pyrite:blue_lamp": [
     0,
     0,
@@ -7378,11 +7198,6 @@
     0,
     0,
     0
-  ],
-  "echovoids:glowing_purple_vine": [
-    170,
-    34,
-    255
   ],
   "snowyspirit:glow_lights_purple": [
     170,
@@ -7443,11 +7258,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:pearl_lamp_yellow": [
-    255,
-    255,
-    0
   ],
   "musings:circle_blue_ring_brown_bg_flipping": [
     136,
@@ -7560,11 +7370,6 @@
     0
   ],
   "projectexpansion:magenta_advanced_alchemical_chest": [
-    255,
-    0,
-    255
-  ],
-  "echovoids:pearl_lamp_magenta_stairs": [
     255,
     0,
     255
@@ -7979,11 +7784,6 @@
     68,
     17
   ],
-  "echovoids:glowglove_plant": [
-    255,
-    255,
-    255
-  ],
   "deeperdarker:glowing_flowers": [
     255,
     255,
@@ -8298,11 +8098,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:pearl_lamp_gray_stairs": [
-    136,
-    136,
-    136
   ],
   "mcwlights:golden_wall_candle_holder": [
     255,
@@ -8704,11 +8499,6 @@
     136,
     136
   ],
-  "echovoids:purple_neon_tube": [
-    170,
-    34,
-    255
-  ],
   "forestry:beehive_swarm": [
     255,
     255,
@@ -8869,11 +8659,6 @@
     0,
     255
   ],
-  "echovoids:red_block_of_neon": [
-    255,
-    0,
-    0
-  ],
   "betterblockz:cyberlight_blockz_2": [
     255,
     255,
@@ -8883,11 +8668,6 @@
     255,
     102,
     17
-  ],
-  "echovoids:purple_end_rod": [
-    170,
-    34,
-    255
   ],
   "regions_unexplored:glistering_ivy": [
     255,
@@ -9029,11 +8809,6 @@
     0,
     255
   ],
-  "echovoids:black_end_rod": [
-    0,
-    0,
-    0
-  ],
   "cyclic:copper_lantern": [
     255,
     255,
@@ -9159,11 +8934,6 @@
     255,
     255
   ],
-  "echovoids:pearl_lamp_pink_slab": [
-    255,
-    102,
-    187
-  ],
   "musings:circle_white_ring_orange_bg_flipping": [
     255,
     102,
@@ -9218,11 +8988,6 @@
     255,
     102,
     17
-  ],
-  "echovoids:gravity_string_block": [
-    255,
-    255,
-    255
   ],
   "rechiseled:glowstone_bricks_stairs": [
     255,
@@ -9864,11 +9629,6 @@
     255,
     255
   ],
-  "echovoids:blue_neon_tube": [
-    0,
-    0,
-    255
-  ],
   "spelunkery:rock_salt": [
     255,
     255,
@@ -10154,11 +9914,6 @@
     255,
     255
   ],
-  "echovoids:gray_block_of_neon": [
-    136,
-    136,
-    136
-  ],
   "mcwlights:birch_tiki_torch": [
     255,
     255,
@@ -10338,11 +10093,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:pearl_lamp_pink_stairs": [
-    255,
-    102,
-    187
   ],
   "upgradedechests:rift_ender_chest": [
     255,
@@ -10542,11 +10292,6 @@
   "mcwlights:soul_classic_street_lamp": [
     0,
     0,
-    255
-  ],
-  "echovoids:white_grass": [
-    255,
-    255,
     255
   ],
   "betterblockz:cyberlight_secret_blockz_10": [
@@ -10834,11 +10579,6 @@
     0,
     0
   ],
-  "echovoids:pearl_lamp_green": [
-    0,
-    255,
-    0
-  ],
   "atlantis:cyan_pearl_block": [
     0,
     255,
@@ -10895,11 +10635,6 @@
     255
   ],
   "thingamajigs:paper_lantern": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:glowglove": [
     255,
     255,
     255
@@ -11404,11 +11139,6 @@
     255,
     255
   ],
-  "echovoids:sparkling_levitation_cloud": [
-    255,
-    255,
-    255
-  ],
   "mysticsbiomes:orange_frosted_candle_cake_orange": [
     255,
     102,
@@ -11524,11 +11254,6 @@
     255,
     255
   ],
-  "echovoids:pearl_rod": [
-    255,
-    255,
-    255
-  ],
   "skinnedlanterns:ornament_light_gray_lantern_block": [
     136,
     136,
@@ -11587,11 +11312,6 @@
   "evolvedmekanism:multiversal_infusing_factory": [
     255,
     255,
-    255
-  ],
-  "echovoids:pearl_lamp_blue_slab": [
-    0,
-    0,
     255
   ],
   "wider_ender_chests:netherite_ender_chest": [
@@ -11664,11 +11384,6 @@
     255,
     255
   ],
-  "echovoids:pearl_lamp_black": [
-    0,
-    0,
-    0
-  ],
   "supplementaries:block_generator": [
     255,
     255,
@@ -11739,11 +11454,6 @@
     255,
     255
   ],
-  "echovoids:quantum_tunnel": [
-    255,
-    255,
-    255
-  ],
   "theabyss:srala_shroom": [
     255,
     255,
@@ -11755,11 +11465,6 @@
     255
   ],
   "legendary_monsters:annihilation_lantern": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:hanging_sprout": [
     255,
     255,
     255
@@ -11805,11 +11510,6 @@
     204
   ],
   "swampier_swamps:black_froglight": [
-    0,
-    0,
-    0
-  ],
-  "echovoids:black_block_of_neon": [
     0,
     0,
     0
@@ -11892,11 +11592,6 @@
   "betterblockz:zeon_black_blockz_8": [
     0,
     0,
-    0
-  ],
-  "echovoids:lime_block_of_neon": [
-    187,
-    255,
     0
   ],
   "pyrite:glow_bricks": [
@@ -12083,11 +11778,6 @@
     255,
     255,
     0
-  ],
-  "echovoids:pearl_lamp_brown_slab": [
-    136,
-    68,
-    17
   ],
   "regions_unexplored:ashen_dirt": [
     255,
@@ -12349,11 +12039,6 @@
     255,
     255
   ],
-  "echovoids:void_block": [
-    255,
-    255,
-    255
-  ],
   "botania:potted_lime_shiny_flower": [
     187,
     255,
@@ -12384,11 +12069,6 @@
     255,
     255
   ],
-  "echovoids:pearl_lamp_stairs": [
-    255,
-    255,
-    255
-  ],
   "suppsquared:gold_candle_holder_brown": [
     136,
     68,
@@ -12400,11 +12080,6 @@
     17
   ],
   "musings:circle_pink_ring_red_bg": [
-    255,
-    0,
-    0
-  ],
-  "echovoids:pearl_lamp_red_stairs": [
     255,
     0,
     0
@@ -12464,11 +12139,6 @@
     0,
     255
   ],
-  "echovoids:endflower": [
-    255,
-    255,
-    255
-  ],
   "compactmekanismmachines:compressed_wind_generator_x2048": [
     255,
     255,
@@ -12483,11 +12153,6 @@
     0,
     0,
     0
-  ],
-  "echovoids:dissapearing_acid_web": [
-    255,
-    255,
-    255
   ],
   "galosphere:glinted_amethyst_cluster": [
     170,
@@ -12784,11 +12449,6 @@
     0,
     255
   ],
-  "echovoids:pearl_lamp_light_gray_stairs": [
-    136,
-    136,
-    136
-  ],
   "ad_astra:aeronos_stem": [
     255,
     255,
@@ -12846,11 +12506,6 @@
   ],
   "fairylights:fairy_light": [
     255,
-    255,
-    255
-  ],
-  "echovoids:pearl_lamp_cyan_slab": [
-    0,
     255,
     255
   ],
@@ -13034,11 +12689,6 @@
     136,
     136
   ],
-  "echovoids:pearl_lamp_light_blue": [
-    0,
-    0,
-    255
-  ],
   "twilightforest:time_log_core": [
     255,
     255,
@@ -13068,11 +12718,6 @@
     255,
     102,
     17
-  ],
-  "echovoids:hanging_strings_end": [
-    255,
-    255,
-    255
   ],
   "xycraft_world:lamp_cube_gray": [
     136,
@@ -13209,11 +12854,6 @@
     0,
     0
   ],
-  "echovoids:pearl_lamp_white": [
-    255,
-    255,
-    255
-  ],
   "twilightforest:transformation_log_core": [
     255,
     255,
@@ -13300,11 +12940,6 @@
     17
   ],
   "thingamajigs:cash_register": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:activating_block_on": [
     255,
     255,
     255
@@ -13494,11 +13129,6 @@
     255,
     255
   ],
-  "echovoids:pearl_lamp_green_slab": [
-    0,
-    255,
-    0
-  ],
   "chipped:magma_block_pillar": [
     255,
     255,
@@ -13630,11 +13260,6 @@
     0
   ],
   "supplementaries:candle_holder_blue": [
-    0,
-    0,
-    255
-  ],
-  "echovoids:blue_block_of_neon": [
     0,
     0,
     255
@@ -13798,11 +13423,6 @@
     0,
     255,
     0
-  ],
-  "echovoids:pearl_lamp_purple_slab": [
-    170,
-    34,
-    255
   ],
   "allthecompressed:blaze_block_2x": [
     255,
@@ -14008,11 +13628,6 @@
     0,
     0,
     255
-  ],
-  "echovoids:pearl_lamp_red": [
-    255,
-    0,
-    0
   ],
   "betterend:thallasium_bulb_lantern_light_blue": [
     0,
@@ -14459,11 +14074,6 @@
     255,
     255
   ],
-  "echovoids:ligh_bridge_projector_on": [
-    255,
-    255,
-    255
-  ],
   "oc2r:pci_card_cage": [
     255,
     255,
@@ -14483,11 +14093,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:light_gray_block_of_neon": [
-    136,
-    136,
-    136
   ],
   "musings:circle_black_ring_magenta_bg": [
     255,
@@ -14629,11 +14234,6 @@
     0,
     0
   ],
-  "echovoids:pearl_lamp_light_blue_slab": [
-    0,
-    0,
-    255
-  ],
   "mysticsbiomes:pink_frosted_candle_cake_blue": [
     0,
     0,
@@ -14695,11 +14295,6 @@
     255
   ],
   "projectexpansion:violet_power_flower": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:end_lamp": [
     255,
     255,
     255
@@ -14774,11 +14369,6 @@
     255,
     255
   ],
-  "echovoids:green_end_rod": [
-    0,
-    255,
-    0
-  ],
   "mysticsbiomes:vanilla_candle_cake_orange": [
     255,
     102,
@@ -14793,11 +14383,6 @@
     255,
     255,
     0
-  ],
-  "echovoids:void_crystal_middle": [
-    255,
-    255,
-    255
   ],
   "cataclysm:ignitium_block": [
     255,
@@ -14819,11 +14404,6 @@
     255,
     255
   ],
-  "echovoids:gray_end_rod": [
-    136,
-    136,
-    136
-  ],
   "tconstruct:ender_slime_crystal_cluster": [
     187,
     255,
@@ -14833,11 +14413,6 @@
     0,
     255,
     0
-  ],
-  "echovoids:pearl_lamp_orange": [
-    255,
-    102,
-    17
   ],
   "missingwilds:light_blue_stained_firefly_jar": [
     0,
@@ -15219,11 +14794,6 @@
     0,
     255
   ],
-  "echovoids:pearl_lamp_pink": [
-    255,
-    102,
-    187
-  ],
   "pneumaticcraft:wall_lamp_inverted_magenta": [
     255,
     0,
@@ -15308,11 +14878,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:yellow_end_rod": [
-    255,
-    255,
-    0
   ],
   "spelunkery:white_glowstick": [
     255,
@@ -15499,11 +15064,6 @@
     255,
     255
   ],
-  "echovoids:light_blue_neon_tube": [
-    0,
-    0,
-    255
-  ],
   "mcwlights:crimson_tiki_torch": [
     255,
     255,
@@ -15607,11 +15167,6 @@
   "musings:circle_lime_ring_magenta_bg": [
     255,
     0,
-    255
-  ],
-  "echovoids:pearl_lamp_cyan_stairs": [
-    0,
-    255,
     255
   ],
   "hexcasting:akashic_bookshelf": [
@@ -15929,11 +15484,6 @@
     0,
     255
   ],
-  "echovoids:acid_web": [
-    255,
-    255,
-    255
-  ],
   "deep_aether:locked_light_nimbus_pillar": [
     255,
     255,
@@ -16160,11 +15710,6 @@
     255
   ],
   "betterblockz:cyberlight_thin_1": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:hanging_strings": [
     255,
     255,
     255
@@ -16489,11 +16034,6 @@
     255,
     255
   ],
-  "echovoids:pearl_lamp_mythril_stairs": [
-    255,
-    255,
-    255
-  ],
   "betterend:flavolite_runed": [
     255,
     255,
@@ -16754,11 +16294,6 @@
     255,
     255
   ],
-  "echovoids:yellow_neon_tube": [
-    255,
-    255,
-    0
-  ],
   "farmersrespite:green_candle_coffee_cake": [
     0,
     255,
@@ -16780,11 +16315,6 @@
     255
   ],
   "bloodyhell:blood_scrapper_plant": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:mythril_neon_tube": [
     255,
     255,
     255
@@ -16845,11 +16375,6 @@
     255
   ],
   "tombstone:decorative_subaraki_grave": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:white_end_rod": [
     255,
     255,
     255
@@ -17060,11 +16585,6 @@
     255
   ],
   "mekanism_extras:supreme_bin": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:glowbush_holes": [
     255,
     255,
     255
@@ -17324,11 +16844,6 @@
     255,
     255
   ],
-  "echovoids:hanging_rods": [
-    255,
-    255,
-    255
-  ],
   "botania:potted_red_shiny_flower": [
     255,
     0,
@@ -17399,19 +16914,9 @@
     255,
     255
   ],
-  "echovoids:pearl_lamp_lime_stairs": [
-    187,
-    255,
-    0
-  ],
   "productivetrees:advanced_blue_yonder_beehive": [
     0,
     0,
-    255
-  ],
-  "echovoids:static_light": [
-    255,
-    255,
     255
   ],
   "botania:floating_solegnolia_chibi": [
@@ -17563,11 +17068,6 @@
     136,
     136,
     136
-  ],
-  "echovoids:pearl_lamp_magenta": [
-    255,
-    0,
-    255
   ],
   "chipped:creeper_magma_block_carving": [
     255,
@@ -18054,11 +17554,6 @@
     255,
     255
   ],
-  "echovoids:purple_vine_block": [
-    170,
-    34,
-    255
-  ],
   "chipped:thick_inlayed_sea_lantern": [
     153,
     204,
@@ -18210,11 +17705,6 @@
     255
   ],
   "pyrite:cyan_torch": [
-    0,
-    255,
-    255
-  ],
-  "echovoids:cyan_block_of_neon": [
     0,
     255,
     255
@@ -18398,11 +17888,6 @@
     0,
     0,
     255
-  ],
-  "echovoids:brown_block_of_neon": [
-    136,
-    68,
-    17
   ],
   "occultism:spirit_lantern": [
     255,
@@ -19149,11 +18634,6 @@
     255,
     255
   ],
-  "echovoids:brown_neon_tube": [
-    136,
-    68,
-    17
-  ],
   "thermal:machine_refinery": [
     255,
     255,
@@ -19774,11 +19254,6 @@
     255,
     255
   ],
-  "echovoids:pearl_lamp_slab": [
-    255,
-    255,
-    255
-  ],
   "mekanism:pigment_extractor": [
     255,
     255,
@@ -20019,11 +19494,6 @@
     255,
     0
   ],
-  "echovoids:orange_end_rod": [
-    255,
-    102,
-    17
-  ],
   "wallpapercraft:auralampgreen-7": [
     0,
     255,
@@ -20239,11 +19709,6 @@
     255,
     255
   ],
-  "echovoids:purple_vine": [
-    170,
-    34,
-    255
-  ],
   "copperworks:powered_redstone_lantern": [
     255,
     0,
@@ -20424,11 +19889,6 @@
     0,
     0
   ],
-  "echovoids:pink_neon_tube": [
-    255,
-    102,
-    187
-  ],
   "chipped:yellow_redstone_torch": [
     255,
     0,
@@ -20442,11 +19902,6 @@
   "xycraft_world:aurey_block_matte_glowing_orange": [
     255,
     102,
-    17
-  ],
-  "echovoids:pearl_lamp_brown": [
-    136,
-    68,
     17
   ],
   "rechiseled:glowstone_brick_pattern_stairs_connecting": [
@@ -21184,11 +20639,6 @@
     255,
     255
   ],
-  "echovoids:pearl_lamp_mythril_slab": [
-    255,
-    255,
-    255
-  ],
   "blue_skies:polished_cinderstone_slab": [
     255,
     255,
@@ -21449,11 +20899,6 @@
     255,
     0
   ],
-  "echovoids:small_acid_anemony": [
-    255,
-    255,
-    255
-  ],
   "tconstruct:molten_rose_gold_fluid": [
     255,
     255,
@@ -21667,11 +21112,6 @@
   "xycraft_world:aurey_block_matte_glowing_magenta": [
     255,
     0,
-    255
-  ],
-  "echovoids:levitation_cloud": [
-    255,
-    255,
     255
   ],
   "rockyminerals:terra_rossa_lamp_pressure_plate": [
@@ -21960,11 +21400,6 @@
     0
   ],
   "botania:floating_jiyuulia_chibi": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:void_crystal_bottom": [
     255,
     255,
     255
@@ -22259,11 +21694,6 @@
     34,
     255
   ],
-  "echovoids:purple_block_of_neon": [
-    170,
-    34,
-    255
-  ],
   "valhelsia_furniture:orange_fabric_desk_lamp": [
     255,
     102,
@@ -22405,11 +21835,6 @@
     0
   ],
   "the_bumblezone:glistering_honey_crystal": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:shadow_flame": [
     255,
     255,
     255
@@ -22819,11 +22244,6 @@
     255,
     255
   ],
-  "echovoids:pink_block_of_neon": [
-    255,
-    102,
-    187
-  ],
   "theabyss:old_exolius_plant": [
     255,
     255,
@@ -23014,11 +22434,6 @@
     255,
     255
   ],
-  "echovoids:orange_neon_tube": [
-    255,
-    102,
-    17
-  ],
   "minecraft:redstone_wall_torch": [
     255,
     0,
@@ -23150,11 +22565,6 @@
     255
   ],
   "productivetrees:night_fuchsia_wall_sign": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:antigrav_core": [
     255,
     255,
     255
@@ -23729,11 +23139,6 @@
     255,
     0
   ],
-  "echovoids:red_neon_tube": [
-    255,
-    0,
-    0
-  ],
   "securitycraft:reinforced_ochre_froglight": [
     255,
     255,
@@ -24009,11 +23414,6 @@
     255,
     255
   ],
-  "echovoids:pearl_lamp_lime": [
-    187,
-    255,
-    0
-  ],
   "betterend:sulphuric_rock_pedestal": [
     255,
     255,
@@ -24052,11 +23452,6 @@
   "additional_lights:al_lamp_sandstone": [
     255,
     255,
-    255
-  ],
-  "echovoids:pearl_lamp_magenta_slab": [
-    255,
-    0,
     255
   ],
   "musings:circle_white_ring_light_gray_bg_flipping": [
@@ -24272,11 +23667,6 @@
   "botania:enchanter": [
     255,
     255,
-    255
-  ],
-  "echovoids:pearl_lamp_blue": [
-    0,
-    0,
     255
   ],
   "betterend:smaragdant_crystal_pillar": [
@@ -24979,11 +24369,6 @@
     0,
     0
   ],
-  "echovoids:cyan_neon_tube": [
-    0,
-    255,
-    255
-  ],
   "strangematter:research_machine": [
     153,
     204,
@@ -25509,11 +24894,6 @@
     255,
     255
   ],
-  "echovoids:cyan_end_rod": [
-    0,
-    255,
-    255
-  ],
   "graveyard:great_scarlet_heart": [
     255,
     255,
@@ -25859,11 +25239,6 @@
     0,
     0
   ],
-  "echovoids:magenta_neon_tube": [
-    255,
-    0,
-    255
-  ],
   "celestial_enchantments:celestial_enchanting_table": [
     255,
     255,
@@ -25959,11 +25334,6 @@
     255,
     255
   ],
-  "echovoids:pearl_lamp_purple_stairs": [
-    170,
-    34,
-    255
-  ],
   "additional_lights:fire_for_standing_torch_l": [
     255,
     255,
@@ -26008,11 +25378,6 @@
     0,
     255,
     0
-  ],
-  "echovoids:acid_anemony": [
-    255,
-    255,
-    255
   ],
   "simplylight:illuminant_magenta_block_on": [
     255,
@@ -26318,11 +25683,6 @@
     136,
     68,
     17
-  ],
-  "echovoids:phycus_middle": [
-    255,
-    255,
-    255
   ],
   "wallpapercraft:stonelampbrown-8": [
     136,
@@ -26723,11 +26083,6 @@
     255,
     102,
     17
-  ],
-  "echovoids:bell": [
-    255,
-    255,
-    255
   ],
   "compactmekanismmachines:compact_industrial_turbine": [
     255,
@@ -27229,11 +26584,6 @@
     34,
     255
   ],
-  "echovoids:void_neon_tube": [
-    255,
-    255,
-    255
-  ],
   "betterend:mossy_glowshroom_fur": [
     255,
     255,
@@ -27348,11 +26698,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:orange_block_of_neon": [
-    255,
-    102,
-    17
   ],
   "theabyss:vigilant_grass": [
     255,
@@ -27483,11 +26828,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:pearl_lamp_light_gray_slab": [
-    136,
-    136,
-    136
   ],
   "quark:glow_lichen_growth": [
     255,
@@ -27664,11 +27004,6 @@
     255,
     255
   ],
-  "echovoids:glowglove_bud": [
-    255,
-    255,
-    255
-  ],
   "skinnedlanterns:ornament_green_soul_lantern_block": [
     0,
     255,
@@ -27678,11 +27013,6 @@
     136,
     136,
     136
-  ],
-  "echovoids:mythril_block_of_neon": [
-    255,
-    255,
-    255
   ],
   "ars_elemental:yellow_archwood_log": [
     255,
@@ -27844,11 +27174,6 @@
     255,
     255
   ],
-  "echovoids:budding_altered_entropite": [
-    255,
-    0,
-    0
-  ],
   "pyrite:star_torch_lever": [
     255,
     255,
@@ -27858,11 +27183,6 @@
     136,
     136,
     136
-  ],
-  "echovoids:green_neon_tube": [
-    0,
-    255,
-    0
   ],
   "emextras:cosmic_dense_crushing_factory": [
     255,
@@ -28065,11 +27385,6 @@
     255
   ],
   "yungscavebiomes:ice_sheet": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:acid": [
     255,
     255,
     255
@@ -28389,11 +27704,6 @@
     0,
     0
   ],
-  "echovoids:glowglove_bud_plant": [
-    255,
-    255,
-    255
-  ],
   "productivetrees:time_traveller_pressure_plate": [
     255,
     255,
@@ -28704,20 +28014,10 @@
     255,
     255
   ],
-  "echovoids:altered_entropite": [
-    255,
-    0,
-    0
-  ],
   "avaritia_integration:molten_blaze_fluid": [
     255,
     255,
     255
-  ],
-  "echovoids:pearl_lamp_yellow_stairs": [
-    255,
-    255,
-    0
   ],
   "astral_mekanism:essential_compact_tep": [
     255,
@@ -28774,11 +28074,6 @@
     0,
     255
   ],
-  "echovoids:undead_chorus_flower_block": [
-    255,
-    255,
-    255
-  ],
   "botania:potted_magenta_mushroom": [
     255,
     0,
@@ -28800,11 +28095,6 @@
     255
   ],
   "musings:circle_purple_ring_white_bg": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:giant_anemony": [
     255,
     255,
     255
@@ -28894,11 +28184,6 @@
     255,
     255
   ],
-  "echovoids:mythril_end_rod": [
-    255,
-    255,
-    255
-  ],
   "mcwlights:brown_lamp": [
     136,
     68,
@@ -28938,11 +28223,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:pearl_lamp_lime_slab": [
-    187,
-    255,
-    0
   ],
   "projectexpansion:pink_relay": [
     255,
@@ -29524,11 +28804,6 @@
     255,
     255
   ],
-  "echovoids:glowbush": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_white_ring_light_blue_bg_flipping": [
     0,
     0,
@@ -29552,11 +28827,6 @@
   "botania:floating_orechid": [
     255,
     255,
-    255
-  ],
-  "echovoids:blue_flower": [
-    0,
-    0,
     255
   ],
   "missingwilds:black_stained_firefly_jar": [
@@ -29809,11 +29079,6 @@
     255,
     255
   ],
-  "echovoids:pearl_lamp_light_blue_stairs": [
-    0,
-    0,
-    255
-  ],
   "musings:circle_red_ring_magenta_bg_flipping": [
     255,
     0,
@@ -29827,11 +29092,6 @@
   "productivetrees:cave_dweller_stairs": [
     255,
     255,
-    255
-  ],
-  "echovoids:tall_blue_flower": [
-    0,
-    0,
     255
   ],
   "minecraft:magma_block": [
@@ -29993,11 +29253,6 @@
     255,
     0,
     0
-  ],
-  "echovoids:glowing_purple_vine_plant": [
-    170,
-    34,
-    255
   ],
   "dazzle:blue_modern_analog_lamp": [
     0,
@@ -30214,11 +29469,6 @@
     0,
     255
   ],
-  "echovoids:block_of_neon": [
-    255,
-    255,
-    255
-  ],
   "mekanism_extras:cosmic_crushing_factory": [
     255,
     255,
@@ -30265,11 +29515,6 @@
     255
   ],
   "mysticsbiomes:yellow_frosted_candle_cake_light_gray": [
-    136,
-    136,
-    136
-  ],
-  "echovoids:light_gray_end_rod": [
     136,
     136,
     136
@@ -30619,11 +29864,6 @@
     255,
     255
   ],
-  "echovoids:pearl_lamp_mithryl": [
-    255,
-    255,
-    255
-  ],
   "productivetrees:advanced_rippling_willow_beehive": [
     255,
     255,
@@ -30640,11 +29880,6 @@
     255
   ],
   "vintagevibes:enstatite_stand": [
-    255,
-    255,
-    255
-  ],
-  "echovoids:pearl_lamp_white_stairs": [
     255,
     255,
     255
@@ -30769,11 +30004,6 @@
     102,
     187
   ],
-  "echovoids:phycus_top": [
-    255,
-    255,
-    255
-  ],
   "endertrigon:baby_dragon_egg": [
     255,
     255,
@@ -30803,11 +30033,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:brown_end_rod": [
-    136,
-    68,
-    17
   ],
   "tconstruct:molten_brass_fluid": [
     255,
@@ -31894,11 +31119,6 @@
     34,
     255
   ],
-  "echovoids:pearl_lamp_brown_stairs": [
-    136,
-    68,
-    17
-  ],
   "additional_lights:al_lamp_spruce_planks": [
     255,
     255,
@@ -32239,11 +31459,6 @@
     102,
     17
   ],
-  "echovoids:void_crystal_top": [
-    255,
-    255,
-    255
-  ],
   "musings:circle_orange_ring_gray_bg_flipping": [
     136,
     136,
@@ -32274,11 +31489,6 @@
     0,
     255
   ],
-  "echovoids:gray_neon_tube": [
-    136,
-    136,
-    136
-  ],
   "productivetrees:sparkle_cherry_planks": [
     255,
     255,
@@ -32288,11 +31498,6 @@
     255,
     255,
     0
-  ],
-  "echovoids:endstone_grass_glowing": [
-    255,
-    255,
-    255
   ],
   "skinnedlanterns:paper_purple_soul_lantern_block": [
     170,
@@ -32323,11 +31528,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:lime_neon_tube": [
-    187,
-    255,
-    0
   ],
   "thingamajigs:yellow_signal_flash": [
     255,
@@ -32443,11 +31643,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:pearl_lamp_gray_slab": [
-    136,
-    136,
-    136
   ],
   "chipped:rounded_crying_obsidian_bricks": [
     255,
@@ -32759,11 +31954,6 @@
     0,
     0
   ],
-  "echovoids:blue_end_rod": [
-    0,
-    0,
-    255
-  ],
   "silentgems:moldavite_lamp_inverted_on": [
     255,
     255,
@@ -33039,11 +32229,6 @@
     255,
     255
   ],
-  "echovoids:lime_end_rod": [
-    187,
-    255,
-    0
-  ],
   "farmersrespite:light_blue_candle_coffee_cake": [
     0,
     0,
@@ -33118,11 +32303,6 @@
     255,
     255,
     255
-  ],
-  "echovoids:pearl_lamp_red_slab": [
-    255,
-    0,
-    0
   ],
   "bc_core:tinted_water_block_230": [
     255,

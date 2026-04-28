@@ -3520,14 +3520,6 @@
     "curseForgeHash": 2686432618,
     "modrinthHash": "ce1e9855776cb38c00134981bab12c8170222cca"
   },
-  "dagger_of_bloodletting-1.11-1.20.1.jar": {
-    "jarName": "dagger_of_bloodletting-1.11-1.20.1.jar",
-    "modId": "dagger_of_bloodletting",
-    "name": "Dagger of Bloodletting",
-    "version": "1.11-1.20.1",
-    "curseForgeHash": 3376617223,
-    "modrinthHash": "1578d9425df27753ad72c939d695faf3ea03f0c4"
-  },
   "damageindicator-2.2.1-1.20.1.jar": {
     "jarName": "damageindicator-2.2.1-1.20.1.jar",
     "modId": "damageindicator",
@@ -3823,6 +3815,14 @@
     "version": "1.0.0",
     "curseForgeHash": 2653478590,
     "modrinthHash": "1849f728673b4e0ccebc8489f6bcc79f67ff7132"
+  },
+  "dirtyaliasing-1.0.0.jar": {
+    "jarName": "dirtyaliasing-1.0.0.jar",
+    "modId": "dirtyaliasing",
+    "name": "DirtyAliasing",
+    "version": "1.0.0",
+    "curseForgeHash": 771865123,
+    "modrinthHash": "c5a249fe03851d71c3fd506047043afded31a6a7"
   },
   "dismountentity-1.20.1-3.6.jar": {
     "jarName": "dismountentity-1.20.1-3.6.jar",
@@ -4135,14 +4135,6 @@
     "version": "1.1.4",
     "curseForgeHash": 2910462674,
     "modrinthHash": "5d4019703a2973d6527d66618d1eacf43d731399"
-  },
-  "echovoids-2.0.3b-forge-1.20.1.jar": {
-    "jarName": "echovoids-2.0.3b-forge-1.20.1.jar",
-    "modId": "echovoids",
-    "name": "EchoVoids",
-    "version": "1.0.0",
-    "curseForgeHash": 87863578,
-    "modrinthHash": "44694690acba4ede2b59c850fe668eb56eb2e14c"
   },
   "ecologics-forge-1.20.1-2.2.4.jar": {
     "jarName": "ecologics-forge-1.20.1-2.2.4.jar",
@@ -5023,6 +5015,14 @@
     "version": "5.1.2",
     "curseForgeHash": 2881858684,
     "modrinthHash": "32ea4495b0e646f8f060e4e97d17044dd9fdefbd"
+  },
+  "FastWorkbench-1.20.1-8.0.4.jar": {
+    "jarName": "FastWorkbench-1.20.1-8.0.4.jar",
+    "modId": "fastbench",
+    "name": "Fast Workbench",
+    "version": "8.0.4",
+    "curseForgeHash": 3125406473,
+    "modrinthHash": "1a322a85e7c7024b8a0715c12d27b5ed0930d729"
   },
   "faunify-forge-1.20.1-1.3.1.jar": {
     "jarName": "faunify-forge-1.20.1-1.3.1.jar",
@@ -8903,6 +8903,14 @@
     "curseForgeHash": 3417749338,
     "modrinthHash": "7074fda15f70440eb1e30f74a7dc70feadd49592"
   },
+  "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar": {
+    "jarName": "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+    "modId": "nerb",
+    "name": "Not Enough Recipe Book",
+    "version": "0.4.1",
+    "curseForgeHash": 1367373369,
+    "modrinthHash": "c0806369f4257149664904db44efc60bd1785c17"
+  },
   "not_enough_glyphs-1.20.1-3.2.1.1.jar": {
     "jarName": "not_enough_glyphs-1.20.1-3.2.1.1.jar",
     "modId": "not_enough_glyphs",
@@ -9118,14 +9126,6 @@
     "version": "1.0.4",
     "curseForgeHash": 3115754379,
     "modrinthHash": "c9bb3c228ff46ee5547e247c80433d0393408427"
-  },
-  "orb-neoforge-1.20.1-0.3.0.jar": {
-    "jarName": "orb-neoforge-1.20.1-0.3.0.jar",
-    "modId": "orb",
-    "name": "Optimized Recipe Book (ORB)",
-    "version": "0.3.0",
-    "curseForgeHash": 652246069,
-    "modrinthHash": "7bee7804d5b4f438e70a9f44fbc41811420d8b06"
   },
   "orc_hut-1.0.3-forge-1.20.1.jar": {
     "jarName": "orc_hut-1.0.3-forge-1.20.1.jar",
@@ -9887,14 +9887,6 @@
     "curseForgeHash": 1824215277,
     "modrinthHash": "0b561e53c6494385010ce4913602ae48822a324a"
   },
-  "qdaa-1.20.1-1.0.2.jar": {
-    "jarName": "qdaa-1.20.1-1.0.2.jar",
-    "modId": "qdaa",
-    "name": "QDAA (Reforged)",
-    "version": "1.0.2",
-    "curseForgeHash": 296326946,
-    "modrinthHash": "82d26078fea56920e63e0442d41917ce258d4066"
-  },
   "qliphoth_awakening_dimensions-forge1.20.1-1.1.1-mc1.20.1-forge.jar": {
     "jarName": "qliphoth_awakening_dimensions-forge1.20.1-1.1.1-mc1.20.1-forge.jar",
     "modId": "qliphoth_awakening_dimensions",
@@ -9942,6 +9934,14 @@
     "version": "3.1.4",
     "curseForgeHash": 1913268448,
     "modrinthHash": "43437242ca12c7270ef29897ef276abc8d589bfb"
+  },
+  "quick-pack-forge-1.3.1+1.20.1-all.jar": {
+    "jarName": "quick-pack-forge-1.3.1+1.20.1-all.jar",
+    "modId": "quick_pack",
+    "name": "quick-pack",
+    "version": "1.3.1",
+    "curseForgeHash": 3469711570,
+    "modrinthHash": "05126ce8f9f6ca00ada4743859f2c97aafe0917b"
   },
   "QuickQuark-Forge-1.20.1-1.0.0.jar": {
     "jarName": "QuickQuark-Forge-1.20.1-1.0.0.jar",

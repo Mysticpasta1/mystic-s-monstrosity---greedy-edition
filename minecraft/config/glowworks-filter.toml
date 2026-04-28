@@ -1584,11 +1584,6 @@
 		glass_8x = "[255,255,255]"
 		glass_9x = "[255,255,255]"
 
-[echovoids]
-
-	[echovoids.blocks]
-		obsidian_glass = "[255,255,255]"
-
 [regions_unexplored]
 
 	[regions_unexplored.blocks]
