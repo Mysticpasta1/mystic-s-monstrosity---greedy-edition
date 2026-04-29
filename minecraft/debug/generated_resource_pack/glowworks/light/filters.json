@@ -44,20 +44,10 @@
     255,
     255
   ],
-  "betternether:quartz_glass_framed": [
-    255,
-    255,
-    255
-  ],
   "atlantis:black_patterned_sea_glass_slab": [
     0,
     0,
     0
-  ],
-  "betternether:quartz_glass_framed_orange": [
-    255,
-    102,
-    17
   ],
   "glassential:glass_light": [
     255,
@@ -123,11 +113,6 @@
     255,
     102,
     17
-  ],
-  "betternether:quartz_glass_green": [
-    0,
-    255,
-    0
   ],
   "storagedelight:mangrove_cabinet_with_glass_doors": [
     255,
@@ -264,11 +249,6 @@
     0,
     0
   ],
-  "betternether:quartz_glass_framed_pane_light_blue": [
-    0,
-    0,
-    255
-  ],
   "opalescence:opal_glass_pane": [
     255,
     255,
@@ -369,11 +349,6 @@
     255,
     0
   ],
-  "betternether:quartz_glass_pink": [
-    255,
-    102,
-    187
-  ],
   "chipped:arched_white_stained_glass_pillar": [
     255,
     255,
@@ -433,11 +408,6 @@
     0,
     0,
     255
-  ],
-  "betternether:quartz_glass_pane_gray": [
-    136,
-    136,
-    136
   ],
   "deepblue:aqua_glass": [
     255,
@@ -659,11 +629,6 @@
     255,
     0
   ],
-  "betternether:quartz_glass_yellow": [
-    255,
-    255,
-    0
-  ],
   "enderio:clear_glass_p_cyan": [
     0,
     255,
@@ -694,19 +659,9 @@
     255,
     255
   ],
-  "betternether:quartz_glass_framed_light_gray": [
-    136,
-    136,
-    136
-  ],
   "railways:magenta_single_pane_locometal_window": [
     255,
     0,
-    255
-  ],
-  "betternether:quartz_glass_framed_pane_purple": [
-    170,
-    34,
     255
   ],
   "enderio:clear_glass_e_blue": [
@@ -904,11 +859,6 @@
     102,
     187
   ],
-  "betternether:quartz_glass_framed_pane_orange": [
-    255,
-    102,
-    17
-  ],
   "chipped:vertical_stiped_yellow_stained_glass": [
     255,
     255,
@@ -972,11 +922,6 @@
   "chipped:ornate_red_stained_glass": [
     255,
     0,
-    0
-  ],
-  "betternether:quartz_glass_lime": [
-    187,
-    255,
     0
   ],
   "glassential:black_glass_trapdoor": [
@@ -1349,11 +1294,6 @@
     0,
     255
   ],
-  "betternether:quartz_glass_blue": [
-    0,
-    0,
-    255
-  ],
   "enderio:clear_glass_np_green": [
     0,
     255,
@@ -1439,11 +1379,6 @@
     102,
     17
   ],
-  "betternether:obsidian_glass_pane": [
-    255,
-    255,
-    255
-  ],
   "valhelsia_structures:cyan_metal_framed_glass_pane": [
     0,
     255,
@@ -1473,11 +1408,6 @@
     255,
     255,
     255
-  ],
-  "betternether:quartz_glass_framed_pane_gray": [
-    136,
-    136,
-    136
   ],
   "chipped:large_diamond_pink_stained_glass_pane": [
     255,
@@ -1588,11 +1518,6 @@
     0,
     0,
     0
-  ],
-  "betternether:quartz_glass_orange": [
-    255,
-    102,
-    17
   ],
   "chipped:circular_white_stained_glass_pane": [
     255,
@@ -1884,11 +1809,6 @@
     255,
     255
   ],
-  "betternether:quartz_glass_framed_white": [
-    255,
-    255,
-    255
-  ],
   "enderio:clear_glass_dnm_yellow": [
     255,
     255,
@@ -2154,11 +2074,6 @@
     255,
     255
   ],
-  "betternether:quartz_glass_framed_red": [
-    255,
-    0,
-    0
-  ],
   "aether:quicksoil_glass_pane": [
     255,
     255,
@@ -2379,11 +2294,6 @@
     255,
     0
   ],
-  "betternether:quartz_glass_framed_purple": [
-    170,
-    34,
-    255
-  ],
   "enderio:clear_glass_em_pink": [
     255,
     102,
@@ -2488,11 +2398,6 @@
     255,
     255,
     255
-  ],
-  "betternether:quartz_glass_pane_brown": [
-    136,
-    68,
-    17
   ],
   "blastcraft:carbonplatedwallingglass": [
     255,
@@ -2733,11 +2638,6 @@
     255,
     0,
     0
-  ],
-  "betternether:quartz_glass_framed_pink": [
-    255,
-    102,
-    187
   ],
   "quark:green_framed_glass_pane": [
     0,
@@ -3784,16 +3684,6 @@
     0,
     0
   ],
-  "betternether:blue_obsidian_glass": [
-    0,
-    0,
-    255
-  ],
-  "betternether:quartz_glass_framed_magenta": [
-    255,
-    0,
-    255
-  ],
   "atlantis:light_gray_sea_glass": [
     136,
     136,
@@ -4049,20 +3939,10 @@
     255,
     255
   ],
-  "betternether:quartz_glass_framed_cyan": [
-    0,
-    255,
-    255
-  ],
   "chipped:fancy_yellow_stained_glass": [
     255,
     255,
     0
-  ],
-  "betternether:quartz_glass_pane_orange": [
-    255,
-    102,
-    17
   ],
   "sundries:light_blue_wrought_iron_glass_pane": [
     0,
@@ -4194,11 +4074,6 @@
     255,
     255
   ],
-  "betternether:quartz_glass_cyan": [
-    0,
-    255,
-    255
-  ],
   "pyrite:dragon_framed_glass_pane": [
     255,
     255,
@@ -4250,11 +4125,6 @@
     255
   ],
   "sundries:wrought_iron_glass_pane": [
-    255,
-    255,
-    255
-  ],
-  "betternether:quartz_glass_framed_pane": [
     255,
     255,
     255
@@ -4334,11 +4204,6 @@
     204,
     204
   ],
-  "betternether:quartz_glass_pane_yellow": [
-    255,
-    255,
-    0
-  ],
   "chipped:tile_windowed_oak_door": [
     255,
     255,
@@ -4379,11 +4244,6 @@
     0,
     0
   ],
-  "betternether:quartz_glass_framed_pane_light_gray": [
-    136,
-    136,
-    136
-  ],
   "luminousblocks:luminous_black_stained_glass_pane": [
     0,
     0,
@@ -4418,11 +4278,6 @@
     255,
     0,
     255
-  ],
-  "betternether:quartz_glass_framed_green": [
-    0,
-    255,
-    0
   ],
   "tconstruct:gray_clear_stained_glass_pane": [
     136,
@@ -4719,11 +4574,6 @@
     102,
     17
   ],
-  "betternether:quartz_glass_pane": [
-    255,
-    255,
-    255
-  ],
   "atlantis:red_sea_glass_pressure_plate": [
     255,
     0,
@@ -4754,11 +4604,6 @@
     255,
     255
   ],
-  "betternether:quartz_glass_framed_pane_yellow": [
-    255,
-    255,
-    0
-  ],
   "railways:diorite_single_pane_locometal_window": [
     255,
     255,
@@ -4776,11 +4621,6 @@
   ],
   "securitycraft:reinforced_lime_stained_glass_pane": [
     187,
-    255,
-    0
-  ],
-  "betternether:quartz_glass_framed_yellow": [
-    255,
     255,
     0
   ],
@@ -4802,11 +4642,6 @@
   "enderio:clear_glass_ena_white": [
     255,
     255,
-    255
-  ],
-  "betternether:quartz_glass_framed_light_blue": [
-    0,
-    0,
     255
   ],
   "moreminecarts:glass_cactus": [
@@ -4843,11 +4678,6 @@
     255,
     255,
     0
-  ],
-  "betternether:quartz_glass_framed_brown": [
-    136,
-    68,
-    17
   ],
   "valhelsia_structures:brown_metal_framed_glass_pane": [
     136,
@@ -4908,11 +4738,6 @@
     0,
     0,
     255
-  ],
-  "betternether:quartz_glass_pane_light_gray": [
-    136,
-    136,
-    136
   ],
   "luminousblocks:luminous_light_gray_stained_glass": [
     136,
@@ -5003,11 +4828,6 @@
     255,
     255,
     255
-  ],
-  "betternether:quartz_glass_framed_pane_lime": [
-    187,
-    255,
-    0
   ],
   "mo_glass:magenta_stained_glass_stairs": [
     255,
@@ -5135,11 +4955,6 @@
     0
   ],
   "chipped:fancy_red_stained_glass": [
-    255,
-    0,
-    0
-  ],
-  "betternether:quartz_glass_red": [
     255,
     0,
     0
@@ -5329,17 +5144,7 @@
     255,
     255
   ],
-  "betternether:quartz_glass_framed_pane_blue": [
-    0,
-    0,
-    255
-  ],
   "chipped:raster_blue_stained_glass": [
-    0,
-    0,
-    255
-  ],
-  "betternether:quartz_glass_light_blue": [
     0,
     0,
     255
@@ -5377,11 +5182,6 @@
   "chipped:fancy_leaded_glass_pane": [
     255,
     255,
-    255
-  ],
-  "betternether:quartz_glass_pane_magenta": [
-    255,
-    0,
     255
   ],
   "diamethysts:diamethyst_glass_pane": [
@@ -5618,11 +5418,6 @@
     255,
     102,
     17
-  ],
-  "betternether:quartz_glass_framed_black": [
-    0,
-    0,
-    0
   ],
   "railways:limestone_single_pane_locometal_window": [
     187,
@@ -6214,11 +6009,6 @@
     102,
     17
   ],
-  "betternether:quartz_glass_framed_pane_pink": [
-    255,
-    102,
-    187
-  ],
   "enderio:clear_glass_dnp_red": [
     255,
     0,
@@ -6429,11 +6219,6 @@
     102,
     187
   ],
-  "betternether:quartz_glass_pane_pink": [
-    255,
-    102,
-    187
-  ],
   "enderio:clear_glass_ea_magenta": [
     255,
     0,
@@ -6573,11 +6358,6 @@
     255,
     102,
     187
-  ],
-  "betternether:quartz_glass_framed_pane_red": [
-    255,
-    0,
-    0
   ],
   "chipped:ornate_pink_stained_glass": [
     255,
@@ -6749,11 +6529,6 @@
     0,
     255
   ],
-  "betternether:quartz_glass_framed_pane_black": [
-    0,
-    0,
-    0
-  ],
   "enderio:clear_glass_dp_light_gray": [
     136,
     136,
@@ -6909,11 +6684,6 @@
     255,
     0
   ],
-  "betternether:quartz_glass_pane_lime": [
-    187,
-    255,
-    0
-  ],
   "atlantis:light_blue_patterned_sea_glass_slab": [
     0,
     0,
@@ -6983,11 +6753,6 @@
     255,
     0,
     255
-  ],
-  "betternether:quartz_glass_pane_red": [
-    255,
-    0,
-    0
   ],
   "minecraft:lime_stained_glass": [
     187,
@@ -7209,16 +6974,6 @@
     255,
     255
   ],
-  "betternether:quartz_glass_pane_blue": [
-    0,
-    0,
-    255
-  ],
-  "betternether:quartz_glass_framed_lime": [
-    187,
-    255,
-    0
-  ],
   "pyrite:purple_framed_glass": [
     170,
     34,
@@ -7409,11 +7164,6 @@
     255,
     0
   ],
-  "betternether:quartz_glass_framed_pane_cyan": [
-    0,
-    255,
-    255
-  ],
   "enderio:clear_glass_ea_green": [
     0,
     255,
@@ -7499,11 +7249,6 @@
     255,
     255
   ],
-  "betternether:quartz_glass_framed_pane_magenta": [
-    255,
-    0,
-    255
-  ],
   "enderio:clear_glass_enm_green": [
     0,
     255,
@@ -7564,11 +7309,6 @@
     136,
     136
   ],
-  "betternether:quartz_glass_framed_blue": [
-    0,
-    0,
-    255
-  ],
   "atlantis:sea_glass_wall": [
     153,
     204,
@@ -7588,11 +7328,6 @@
     255,
     255,
     255
-  ],
-  "betternether:quartz_glass_framed_pane_brown": [
-    136,
-    68,
-    17
   ],
   "atlantis:magenta_patterned_sea_glass_slab": [
     255,
@@ -7657,11 +7392,6 @@
   "sundries:light_blue_wrought_iron_glass": [
     0,
     0,
-    255
-  ],
-  "betternether:quartz_glass": [
-    255,
-    255,
     255
   ],
   "pyrite:gray_framed_glass": [
@@ -8184,11 +7914,6 @@
     255,
     0
   ],
-  "betternether:quartz_glass_white": [
-    255,
-    255,
-    255
-  ],
   "chipped:large_diamond_cyan_stained_glass_pane": [
     0,
     255,
@@ -8407,11 +8132,6 @@
   "atlantis:light_blue_patterned_sea_glass": [
     0,
     0,
-    255
-  ],
-  "betternether:quartz_glass_pane_purple": [
-    170,
-    34,
     255
   ],
   "chipped:woven_black_stained_glass_pane": [
@@ -8779,11 +8499,6 @@
     255,
     255
   ],
-  "betternether:quartz_glass_pane_light_blue": [
-    0,
-    0,
-    255
-  ],
   "enderio:clear_glass_da_white": [
     255,
     255,
@@ -8814,11 +8529,6 @@
     102,
     17
   ],
-  "betternether:quartz_glass_light_gray": [
-    136,
-    136,
-    136
-  ],
   "chipped:small_orange_stained_glass": [
     255,
     102,
@@ -8828,11 +8538,6 @@
     255,
     102,
     187
-  ],
-  "betternether:quartz_glass_magenta": [
-    255,
-    0,
-    255
   ],
   "enderio:clear_glass_np_black": [
     0,
@@ -8848,11 +8553,6 @@
     187,
     255,
     0
-  ],
-  "betternether:quartz_glass_framed_gray": [
-    136,
-    136,
-    136
   ],
   "chipped:small_light_gray_stained_glass_pane": [
     136,
@@ -9044,11 +8744,6 @@
     255,
     0
   ],
-  "betternether:quartz_glass_pane_black": [
-    0,
-    0,
-    0
-  ],
   "atlantis:magenta_patterned_sea_glass_wall": [
     255,
     0,
@@ -9180,11 +8875,6 @@
     255
   ],
   "sundries:sea_green_stained_glass_pane": [
-    0,
-    255,
-    0
-  ],
-  "betternether:quartz_glass_pane_green": [
     0,
     255,
     0
@@ -9415,16 +9105,6 @@
     136
   ],
   "chipped:woven_purple_stained_glass": [
-    170,
-    34,
-    255
-  ],
-  "betternether:obsidian_glass": [
-    255,
-    255,
-    255
-  ],
-  "betternether:quartz_glass_purple": [
     170,
     34,
     255
@@ -9779,11 +9459,6 @@
     0,
     255
   ],
-  "betternether:quartz_glass_brown": [
-    136,
-    68,
-    17
-  ],
   "tconstruct:gray_clear_stained_glass": [
     136,
     136,
@@ -9793,11 +9468,6 @@
     255,
     102,
     187
-  ],
-  "betternether:quartz_glass_framed_pane_green": [
-    0,
-    255,
-    0
   ],
   "fintastic:infernal_aquarium_glass_pane": [
     255,
@@ -10214,11 +9884,6 @@
     0,
     255
   ],
-  "betternether:quartz_glass_framed_pane_white": [
-    255,
-    255,
-    255
-  ],
   "pyrite:nostalgia_framed_glass_pane": [
     255,
     255,
@@ -10237,11 +9902,6 @@
   "atlantis:light_blue_sea_glass_wall": [
     0,
     0,
-    255
-  ],
-  "betternether:quartz_glass_pane_cyan": [
-    0,
-    255,
     255
   ],
   "enderio:clear_glass_ena_gray": [
@@ -10303,11 +9963,6 @@
     0,
     0,
     255
-  ],
-  "betternether:quartz_glass_black": [
-    0,
-    0,
-    0
   ],
   "pyrite:cyan_framed_glass_pane": [
     0,
@@ -10374,11 +10029,6 @@
     255,
     255
   ],
-  "betternether:quartz_glass_pane_white": [
-    255,
-    255,
-    255
-  ],
   "enderio:clear_glass_dnm_purple": [
     170,
     34,
@@ -10433,11 +10083,6 @@
     255,
     255,
     0
-  ],
-  "betternether:blue_obsidian_glass_pane": [
-    0,
-    0,
-    255
   ],
   "securitycraft:reinforced_purple_stained_glass_pane": [
     170,
@@ -10658,11 +10303,6 @@
     255,
     255,
     255
-  ],
-  "betternether:quartz_glass_gray": [
-    136,
-    136,
-    136
   ],
   "chipped:vertical_stiped_white_stained_glass": [
     255,
