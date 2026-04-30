@@ -31,7 +31,7 @@
 	DUSTBIN_NAME = "Dustbin "
 	#Count of dustbins
 	#Range: 1 ~ 64
-	DUSTBIN_COUNT = 8
+	DUSTBIN_COUNT = 11
 	#Permission level of a player to clean immediately.
 	#Range: 0 ~ 4
 	PERMISSION_LEVEL_CLEAN = 2

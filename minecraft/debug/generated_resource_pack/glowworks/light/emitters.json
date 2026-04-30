@@ -2854,6 +2854,11 @@
     255,
     255
   ],
+  "astral_mekanism:applied_crystallizer": [
+    255,
+    255,
+    255
+  ],
   "embers:molten_mithril_block": [
     255,
     255,
@@ -12159,6 +12164,11 @@
     0,
     0
   ],
+  "redstonecg:colorful_lamp_indicator": [
+    255,
+    255,
+    255
+  ],
   "betterblockz:zeon_red_blockz_4": [
     255,
     0,
@@ -12335,6 +12345,11 @@
     255
   ],
   "darkerdepths:paranoia_altar": [
+    255,
+    255,
+    255
+  ],
+  "astral_mekanism:applied_neutron_activator": [
     255,
     255,
     255
@@ -17729,6 +17744,11 @@
     255,
     255
   ],
+  "astral_mekanism:applied_rotary_condensentrator": [
+    255,
+    255,
+    255
+  ],
   "wallpapercraft:stonelampyellow-9": [
     255,
     255,
@@ -17913,6 +17933,11 @@
     255,
     0,
     0
+  ],
+  "astral_mekanism:applied_electrolytic_separator": [
+    255,
+    255,
+    255
   ],
   "musings:circle_yellow_ring_light_blue_bg": [
     0,
@@ -18449,6 +18474,11 @@
     255,
     255
   ],
+  "astral_mekanism:applied_isotopic_centrifuge": [
+    255,
+    255,
+    255
+  ],
   "mekanism:ultimate_sawing_factory": [
     255,
     255,
@@ -18680,6 +18710,11 @@
     255
   ],
   "mysticsbiomes:chocolate_candle_cake": [
+    255,
+    255,
+    255
+  ],
+  "astral_mekanism:applied_smelter": [
     255,
     255,
     255
@@ -22959,6 +22994,11 @@
     255,
     255
   ],
+  "redstonecg:colorful_flat_lamp_indicator": [
+    255,
+    255,
+    255
+  ],
   "malum:blazing_quartz_ore": [
     255,
     255,
@@ -24128,6 +24168,11 @@
     255,
     0,
     0
+  ],
+  "redstonecg:flat_lamp_indicator": [
+    255,
+    255,
+    255
   ],
   "musings:circle_lime_ring_yellow_bg_flipping": [
     255,
@@ -26959,6 +27004,11 @@
     136,
     136
   ],
+  "astral_mekanism:applied_gas_burning_generator": [
+    255,
+    255,
+    255
+  ],
   "the_bumblezone:string_curtain_magenta": [
     255,
     0,
@@ -28038,6 +28088,11 @@
     136,
     68,
     17
+  ],
+  "astral_mekanism:applied_sps": [
+    255,
+    255,
+    255
   ],
   "betterblockz:cyberlight_bar_vertical_13": [
     255,
@@ -29885,6 +29940,11 @@
     255
   ],
   "vintagevibes:sapphire_stand": [
+    255,
+    255,
+    255
+  ],
+  "astral_mekanism:applied_tep": [
     255,
     255,
     255

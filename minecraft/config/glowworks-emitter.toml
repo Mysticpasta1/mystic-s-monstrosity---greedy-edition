@@ -7160,6 +7160,15 @@
 		enchanted_chemixer = "[255,255,255]"
 		enchanted_electrolytic_separator = "[255,255,255]"
 		enchanted_isotopic_centrifuge = "[255,255,255]"
+		applied_crystallizer = "[255,255,255]"
+		applied_electrolytic_separator = "[255,255,255]"
+		applied_isotopic_centrifuge = "[255,255,255]"
+		applied_neutron_activator = "[255,255,255]"
+		applied_rotary_condensentrator = "[255,255,255]"
+		applied_smelter = "[255,255,255]"
+		applied_sps = "[255,255,255]"
+		applied_tep = "[255,255,255]"
+		applied_gas_burning_generator = "[255,255,255]"
 
 [mekanismelements]
 
@@ -7509,4 +7518,11 @@
 		diamond_generator = "[255,255,255]"
 		culinary_generator = "[255,255,255]"
 		copper_generator = "[255,255,255]"
+
+[redstonecg]
+
+	[redstonecg.blocks]
+		flat_lamp_indicator = "[255,255,255]"
+		colorful_flat_lamp_indicator = "[255,255,255]"
+		colorful_lamp_indicator = "[255,255,255]"
 
