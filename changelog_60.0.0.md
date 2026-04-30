@@ -15,9 +15,11 @@
 
 **Updated**
 - Astral Mekanism  & Energistics
+- CC: Tweaked
 - Crazy AE2 Addons
 - Create: Transmission!
 - Fancy Toasts | Better Advancements
+- KubeJS
 - Legendary Spellbooks
 - Logistics Network
 - Redstone CG
